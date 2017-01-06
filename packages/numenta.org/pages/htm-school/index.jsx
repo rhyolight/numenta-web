@@ -18,6 +18,9 @@ import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Section from 'numenta-web-shared-components/lib/Section'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import Video from 'numenta-web-shared-components/lib/Video'
+import Strong from 'numenta-web-shared-components/lib/Strong'
+import Quote from 'numenta-web-shared-components/lib/Quote'
+import Code from 'numenta-web-shared-components/lib/Code'
 
 import ImageEpisode0 from './images/ep0.png'
 import ImageEpisode1 from './images/ep1.png'
@@ -38,7 +41,10 @@ const title = 'HTM School'
 /**
  * HTM School page - React view component.
  */
-const SchoolPage = () => (
+const SchoolPage = (props, {config}) => {
+  const {links, siteTitle} = config
+
+  return (
   <article>
     <Helmet title={title} />
     <Section headline={true} open={true} title={title}>
@@ -64,7 +70,20 @@ const SchoolPage = () => (
           </Paragraph>
           <Paragraph>
             This series was designed for a general audience to be viewed in
-            order, but feel free to jump into any episode.
+            order, but feel free to jump into any episode. There's no need to
+            have a background in neuroscience, mathematics, or computer science
+            to understand HTM Theory.
+          </Paragraph>
+          <Quote>
+            Please Subscribe to our&nbsp;
+            <TextLink to={links.out.youtube}>
+              YouTube channel
+            </TextLink>
+            to keep updated on new content.
+          </Quote>
+          <Paragraph>
+            Read below for a description of the videos, and click the video
+            icons on the right to watch!
           </Paragraph>
         </div>
       </div>
@@ -86,11 +105,11 @@ const SchoolPage = () => (
         </div>
         <div className={styles.content}>
           <Paragraph>
-            So you have no idea what HTM is? In this first introductory
-            episode of HTM School, Matt walks you through the high-level
-            theory of Hierarchical Temporal Memory in less than 15 minutes.
-            You’ll learn why Numenta believes that HTM leads to truly
-            intelligent machines.
+            So you have no idea what HTM is? In this introductory episode of HTM
+            School, Matt walks you through the high-level theory of Hierarchical
+            Temporal Memory in less than 15 minutes. We believe that the
+            mysteries of intelligence can be unlocked by studying biologically
+            intelligent systems like the neocortex.
           </Paragraph>
           <Paragraph>
             For a longer and more technical introduction to HTM, here are a
@@ -115,15 +134,17 @@ const SchoolPage = () => (
       <Anchor name="sdrs" />
       <SubTitle>SDRs</SubTitle>
       <div className={styles.columns}>
-        <div className={styles.aside}>
-          <div className={styles.icon}>
-            <IconSdr color="inherit" />
-          </div>
-        </div>
         <div className={styles.content}>
           <Paragraph>
-            Sparse Distributed Representations are a fundamental aspect of HTM
-            systems. Let's start at the very beginning!
+            <Strong>Sparse Distributed Representations (SDRs)</Strong> are a
+            fundamental aspect of HTM systems. Before we talk about neurons and
+            dendrites, we need to establish the communications medium of the
+            brain. Each neuron could be connected to thousands of other neurons,
+            and each of those synapses could activate at any time. In the brain,
+            only about 2% of your neurons are in an active state right at any
+            time. Watch the videos below to better understand why this is
+            important, and why this type of medium lends the brain so much
+            flexibility.
           </Paragraph>
         </div>
       </div>
@@ -144,9 +165,12 @@ const SchoolPage = () => (
         </div>
         <div className={styles.content}>
           <Paragraph>
-            HTMs rely heavily on bit arrays, so here are the basics. You’ll
-            learn about binary operations like OR and AND, and Matt will
-            introduce some basic concepts of sparse binary arrays.
+            An SDR is simply a list of bits, each bit being <code>0</code> or
+            <code>1</code>. The brain performs a lot of binary operations on
+            these long bit arrays as it is trying to predict future input. This
+            episode introduces bit arrays and some basic binary operations like
+            OR and AND. We will also introduce the idea of semantic data storage
+            within SDRs.
           </Paragraph>
         </div>
       </div>
@@ -167,11 +191,7 @@ const SchoolPage = () => (
         </div>
         <div className={styles.content}>
           <Paragraph>
-            Now we formally introduce the Sparse Distributed Representation
-            (SDR). SDRs are a fundamental concept of HTM theory. Your brain
-            wouldn’t be the same without using them. SDRs represent a neuron’s
-            view of other neurons in the brain at any point in time. Each bit
-            in an SDR might represent another neuron.
+            In this episode, we talk about the massive amount of data that can be represented in typical SDR structures. We also show how different SDRs can be compared to identify how similar they are. Of particular interest is the <em>overlap score</em> between two SDRs as a measure of their similarity.
           </Paragraph>
         </div>
       </div>
@@ -192,9 +212,7 @@ const SchoolPage = () => (
         </div>
         <div className={styles.content}>
           <Paragraph>
-            In this episode of HTM School, we talk about SDR overlap sets and
-            subsampling. This explains how properties of SDRs make them
-            extremely fault tolerant.
+            How many SDRs can be expressed in different input spaces? What are the chances of false positive collisions? What happens if we only compare a sample of the on bits in different SDRs? Believe it or not, HTM systems prove to be extremely fault-tolerant. This is expressed in this episode as Matt talks about sampling SDRs instead of storing every on bit.
           </Paragraph>
         </div>
       </div>
@@ -215,11 +233,7 @@ const SchoolPage = () => (
         </div>
         <div className={styles.content}>
           <Paragraph>
-            Using SDR sets to identify SDRs that have been seen in the past.
-            By comparing one SDR to a set of SDRs, we can tell if we’ve seen
-            it before, even with noise present. If we squash the set into a
-            union, we can still tell if we’ve seen it before while performing
-            exponentially fewer operations.
+            We can collect sets of SDRs over time. As we see new SDRs, we can compare them to our sets using the binary comparison operations described earlier. Even in the presence of large amounts of noise, Matt shows how SDRs can still be dependably classified. If we squash the sets into unions, we can still tell if we’ve seen it before while performing exponentially fewer operations.
           </Paragraph>
         </div>
       </div>
@@ -259,11 +273,6 @@ const SchoolPage = () => (
         Encoders
       </SubTitle>
       <div className={styles.columns}>
-        <div className={styles.aside}>
-          <div className={styles.icon}>
-            <IconEncoder color="inherit" />
-          </div>
-        </div>
         <div className={styles.content}>
           <Paragraph>
             Encoding real-world data into SDRs is a very important process to
@@ -482,7 +491,8 @@ const SchoolPage = () => (
 
     </Section>
   </article>
-)
+  )
+}
 
 SchoolPage.contextTypes = {
   config: React.PropTypes.object,
