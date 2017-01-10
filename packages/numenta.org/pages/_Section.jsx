@@ -11,6 +11,7 @@ import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import Strong from 'numenta-web-shared-components/lib/Strong'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
+import Video from 'numenta-web-shared-components/lib/Video'
 
 import styles from './index.css'
 
@@ -19,7 +20,7 @@ import styles from './index.css'
  * Numenta.org MainSection Homepage wrapper - React view component.
  */
 const SectionHome = (props, {config}) => {
-  const {links, siteTitle} = config
+  const {links} = config
 
   return (
     <article className={styles.columns}>
@@ -28,35 +29,15 @@ const SectionHome = (props, {config}) => {
         <Glance
           head={
             <div className={styles.glanceHead}>
-              {siteTitle}
+              HTM Resources
             </div>
           }
         >
           <DefineTitle>
-            About
-          </DefineTitle>
-          <DefineItem>
-            <TextLink to={links.in.htm}>HTM</TextLink> {' '}
-            is a biologically-constrained theory of intelligence based on years
-            of research in theoretical neuroscience.
-          </DefineItem>
-
-          <DefineTitle>
             Discussion
           </DefineTitle>
           <DefineItem>
-            <TextLink to={links.out.forum}>
-              HTM Forum
-            </TextLink>
-          </DefineItem>
-
-          <DefineTitle>
-            Research Papers
-          </DefineTitle>
-          <DefineItem>
-            <TextLink to={links.in.papers}>
-              Collection
-            </TextLink>
+            <TextLink to={links.out.forum}>HTM Forum</TextLink> {' '}
           </DefineItem>
 
           <DefineTitle>
@@ -64,7 +45,20 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             <TextLink to={links.out.github}>
-              GitHub
+              Numenta's Code
+            </TextLink>
+            <br/>
+            <TextLink to={links.out.communityGithub}>
+              Community Code
+            </TextLink>
+          </DefineItem>
+
+          <DefineTitle>
+            Education
+          </DefineTitle>
+          <DefineItem>
+            <TextLink to={links.out.youtube}>
+              YouTube
             </TextLink>
           </DefineItem>
 
@@ -77,14 +71,6 @@ const SectionHome = (props, {config}) => {
             </TextLink>
           </DefineItem>
 
-          <DefineTitle>
-            Videos
-          </DefineTitle>
-          <DefineItem>
-            <TextLink to={links.out.youtube}>
-              YouTube
-            </TextLink>
-          </DefineItem>
 
           <DefineTitle>
             Events
@@ -103,6 +89,13 @@ const SectionHome = (props, {config}) => {
               Blog
             </TextLink>
           </DefineItem>
+
+          <TextLink to={links.out.latestSchool}>
+            <Image
+              src={links.out.latestSchoolThumb}
+            />
+          </TextLink>
+
         </Glance>
 
       </div>
