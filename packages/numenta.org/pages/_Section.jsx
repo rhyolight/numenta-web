@@ -9,9 +9,10 @@ import DefineTitle from 'numenta-web-shared-components/lib/DefineTitle'
 import Glance from 'numenta-web-shared-components/lib/Glance'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import Strong from 'numenta-web-shared-components/lib/Strong'
+import Image from 'numenta-web-shared-components/lib/Image'
+import ImageLink from 'numenta-web-shared-components/lib/ImageLink'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
-import Video from 'numenta-web-shared-components/lib/Video'
 
 import styles from './index.css'
 
@@ -41,20 +42,20 @@ const SectionHome = (props, {config}) => {
           </DefineItem>
 
           <DefineTitle>
-            Open Source
+            Code
           </DefineTitle>
           <DefineItem>
             <TextLink to={links.out.github}>
-              Numenta's Code
+              Numenta Github
             </TextLink>
-            <br/>
+            <br />
             <TextLink to={links.out.communityGithub}>
-              Community Code
+              HTM Community Github
             </TextLink>
           </DefineItem>
 
           <DefineTitle>
-            Education
+            Videos
           </DefineTitle>
           <DefineItem>
             <TextLink to={links.out.youtube}>
@@ -90,11 +91,28 @@ const SectionHome = (props, {config}) => {
             </TextLink>
           </DefineItem>
 
-          <TextLink to={links.out.latestSchool}>
-            <Image
-              src={links.out.latestSchoolThumb}
-            />
-          </TextLink>
+          <DefineTitle>
+            HTM School
+          </DefineTitle>
+          <DefineItem>
+            <Paragraph>
+              See the latest episode below!
+            </Paragraph>
+
+            <div className={styles.noLinkIcon}>
+
+              <ImageLink to={links.out.latestSchool}>
+                <Image
+                  alt="Latest HTM School Episode"
+                  border={true}
+                  respond="mw"
+                  src={links.out.latestSchoolThumb}
+                />
+              </ImageLink>
+
+            </div>
+
+          </DefineItem>
 
         </Glance>
 
