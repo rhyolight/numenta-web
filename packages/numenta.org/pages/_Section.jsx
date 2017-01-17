@@ -64,6 +64,15 @@ const SectionHome = (props, {config}) => {
           </DefineItem>
 
           <DefineTitle>
+            Technical
+          </DefineTitle>
+          <DefineItem>
+            <TextLink to={links.out.papers}>
+              Papers
+            </TextLink>
+          </DefineItem>
+
+          <DefineTitle>
             License
           </DefineTitle>
           <DefineItem>
