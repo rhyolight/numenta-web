@@ -13,7 +13,7 @@ Work under a temporary license to create a proof-of-concept and decide later whe
 
 ### You may also download the Numenta Trial License in the following formats:
 
-The embedded document above requires Flash. If the embedded document does not show up below, [here is a direct link to the document page](https://secure.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhA1E2nxUTpvO8y8Zm3cR_4xsyDjIHywL_EyF1i1FcezAW7F2ATd7wbxJlBRgwivwsg*). Alternatively, you may fill out this form using one of the formats below and email to <help@numenta.org>.
+The embedded document above requires Flash. If it fails to load, [try this direct link to the document](https://secure.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhA1E2nxUTpvO8y8Zm3cR_4xsyDjIHywL_EyF1i1FcezAW7F2ATd7wbxJlBRgwivwsg*). Alternatively, you may fill out this form using one of the formats below and email to <help@numenta.org>.
 
 * [PDF][pdf]
 * [Plain Text][txt]

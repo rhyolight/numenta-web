@@ -19,7 +19,7 @@ Algorithm (CLA) referenced in our source code and documentation.
 
 ### You may also download the Numenta CL in the following formats:
 
-The embedded document above requires Flash. If it does not show up below, [here is a direct link to the document page](https://secure.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBlxAtRy60dQbf-3OV5_q8O6JzRbnSnmBDMhphe0X2-nxXxCddVIAgu2Y1Cf_0A-eU*). Alternatively, you may fill out this form using one of the formats below and email to <help@numenta.org>.
+The embedded document above requires Flash. If it fails to load, [try this direct link to the document](https://secure.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBlxAtRy60dQbf-3OV5_q8O6JzRbnSnmBDMhphe0X2-nxXxCddVIAgu2Y1Cf_0A-eU*). Alternatively, you may fill out this form using one of the formats below and email to <help@numenta.org>.
 
 * [Plain Text][txt]
 * [PDF][pdf]
