@@ -2,7 +2,7 @@
 title: Numenta Trial License
 ---
 
-This license will allow you to work under a temporary license and create a proof-of-concept and decide later whether to convert to a commercial license or go AGPL.
+Work under a temporary license and create a proof-of-concept and decide later whether to convert to a commercial license or go AGPL.
 
 ### Please read and sign the Numenta Trial License document below:
 
