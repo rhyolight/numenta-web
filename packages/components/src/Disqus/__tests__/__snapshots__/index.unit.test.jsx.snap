@@ -1,5 +1,0 @@
-exports[`Disqus React component Renders correctly 1`] = `
-<div
-  className="disqus"
-  id="disqus_thread" />
-`;

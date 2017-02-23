@@ -1,8 +1,0 @@
-exports[`LogoMark React component Renders correctly 1`] = `
-<img
-  alt="Numenta Logo Mark"
-  className="image"
-  onClick={undefined}
-  src="filename.ext"
-  title="Numenta" />
-`;
