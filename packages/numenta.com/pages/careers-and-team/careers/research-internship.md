@@ -10,7 +10,7 @@ type: post
 ---
 
 > **IMPORTANT NOTE:** *Numenta is unable to consider internship applications
-  from international applicants unless they currently enrolled in a US
+  from international applicants unless they are currently enrolled in a US
   University, are US Citizens, or hold a Green Card or are NAFTA (Mexican or
   Canadian) citizens.*
 
@@ -80,7 +80,7 @@ Qualified applicants should send the following:
   repository or other public code repository that contains code you have
   worked on.
 
-* Period of the internship (typically 3 to 4 months fulltime).
+* Period of the internship (typically 3 to 4 months full time).
 
 * Please email resume and cover letter to
   [interns@numenta.com](mailto:interns@numenta.com). Numenta is an equal
