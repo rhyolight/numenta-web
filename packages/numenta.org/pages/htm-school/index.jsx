@@ -30,6 +30,7 @@ import ImageEpisode8 from './images/ep8.png'
 import ImageEpisode9 from './images/ep9.png'
 import ImageEpisode10 from './images/ep10.png'
 import ImageEpisode11 from './images/ep11.png'
+import ImageEpisode12 from './images/ep12.png'
 import ImageMain from './images/image.png'
 import styles from './index.css'
 
@@ -598,6 +599,36 @@ const SchoolPage = (props, {config}) => {
               visualizations, we walk through how cells are put into predictive
               states in response to new stimulus, and how segments and synapses
               connect between cells in the columnar structure.
+            </Paragraph>
+          </div>
+        </div>
+
+        <Anchor name="temporal-memory-part-2" />
+        <SubTitle level={3}>
+          Temporal Memory Part 2
+        </SubTitle>
+        <div className={styles.columns}>
+          <div className={styles.aside}>
+            <Video
+              border={true}
+              image={ImageEpisode12}
+              respond="mw"
+              shadow={true}
+              title="Temporal Memory Part 2"
+              type="youtube"
+              videoId="1OhY_u3NjdM"
+            />
+          </div>
+          <div className={styles.content}>
+            <Paragraph>
+              We start off this episode by explaining the puzzler question from
+              the last episode, introducing the concepts of "single order" and
+              "high order" memory systems.
+            </Paragraph>
+            <Paragraph>
+              Next, we dive into the mechanics of bursting mini-columns, and how
+              winner cells are chosen to learn brand new transitions within
+              sequences.
             </Paragraph>
           </div>
         </div>
