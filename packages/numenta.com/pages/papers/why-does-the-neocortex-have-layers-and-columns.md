@@ -4,7 +4,7 @@ brief: "This paper proposes a network model composed of columns and layers that 
 category: neuroscience
 date: 2017/07/12
 image:
-link: http://www.biorxiv.org/content/early/2017/07/12/162263
+link: https://doi.org/10.1101/162263
 org: "Preprint of journal submission"
 sort: a
 title: "Why Does the Neocortex Have Layers and Columns, A Theory of Learning the 3D Structure of the World"

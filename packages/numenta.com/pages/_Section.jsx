@@ -100,7 +100,7 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="http://www.biorxiv.org/content/early/2017/07/12/162263">
+            <TextLink to="https://doi.org/10.1101/162263">
               HTM Sensorimotor Theory paper <br /> and video now on bioRxiv
               {' '} <Tag>New</Tag>
             </TextLink>
