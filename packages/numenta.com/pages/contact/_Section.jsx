@@ -136,14 +136,6 @@ const SectionContact = (props, {config}) => {
           <div className={styles.emails}>
             <DefineList direction="vertical">
               <DefineTitle>
-                Product Support:
-              </DefineTitle>
-              <DefineItem>
-                <TextLink to={`mailto:${contact.email.support}`}>
-                  {contact.email.support}
-                </TextLink>
-              </DefineItem>
-              <DefineTitle>
                 Press Contact:
               </DefineTitle>
               <DefineItem>
