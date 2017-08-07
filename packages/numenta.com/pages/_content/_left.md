@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to **Numenta\.com**. Here you’ll find information about the company Numenta.
+Welcome to **Numenta**.**com**. Here you’ll find information about the company Numenta.
 If you would like to learn about Numenta’s HTM community and open source
 project, visit [**Numenta.org**](https://numenta.org).
 
