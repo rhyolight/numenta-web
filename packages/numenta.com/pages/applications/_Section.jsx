@@ -12,7 +12,6 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
-import Video from 'numenta-web-shared-components/lib/Video'
 
 import ImageHtmStocks from './images/htm-for-stocks.png'
 import ImageHtmStudio from './images/htm-studio.png'
@@ -20,7 +19,7 @@ import ImageGeo from './images/geo.png'
 import ImageGrokIt from './images/grok.png'
 import ImageNlp from './images/nlp.png'
 import ImageRogue from './images/intrude.png'
-import ImageVideoApps from './images/video-apps.png'
+import ImageApps from './images/apps.jpg'
 import styles from './index.css'
 
 
@@ -34,13 +33,10 @@ const SectionApplications = (props, {config}) => {
     <article>
       <div className={styles.columns}>
         <div className={styles.aside}>
-          <Video
-            image={ImageVideoApps}
+          <Image
+            alt="HTM Applications"
             respond="mw"
-            time="02:32"
-            title="Intro to our Applications"
-            type="youtube"
-            videoId="9jWmS62MWx8"
+            src={ImageApps}
           />
         </div>
         <div className={styles.content}>
