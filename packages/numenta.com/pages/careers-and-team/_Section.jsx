@@ -22,6 +22,7 @@ import ImageHarry from './images/team/harry-saal.jpg'
 import ImageJeff from './images/team/jeff-hawkins.jpg'
 import ImageMike from './images/team/mike-farmwald.jpg'
 import ImageSubutai from './images/team/subutai-ahmad.jpg'
+import ImageChristy from './images/team/christy-maver.jpg'
 import styles from './index.css'
 
 
