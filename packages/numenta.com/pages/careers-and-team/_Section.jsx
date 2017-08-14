@@ -22,6 +22,7 @@ import ImageHarry from './images/team/harry-saal.jpg'
 import ImageJeff from './images/team/jeff-hawkins.jpg'
 import ImageMike from './images/team/mike-farmwald.jpg'
 import ImageSubutai from './images/team/subutai-ahmad.jpg'
+import ImageChristy from './images/team/christy-maver.jpg'
 import styles from './index.css'
 
 
@@ -222,6 +223,41 @@ const SectionCareers = (props, {route}) => {
           </div>
 
         </ListItem>
+
+        <ListItem>
+
+          <SubTitle level={4}>Christy Maver</SubTitle>
+          <SubTitle level={5}>VP of Marketing</SubTitle>
+          <div className={styles.columns}>
+            <div className={styles.aside}>
+              <Image
+                alt="Christy Maver"
+                border={true}
+                respond="mw"
+                src={ImageChristy}
+              />
+            </div>
+            <div className={styles.content}>
+              <Paragraph>
+                Christy brings nearly two decades of technology marketing and
+                communications experience to Numenta. Previously, she launched
+                analytics programs for the Retail and Healthcare industries as
+                the Global Product Marketing Director of Analytics at Actian.
+                Christy held a number of software marketing roles during her
+                13 years at IBM, where she managed user groups, produced live
+                demos and developed big data video tutorials. She was also one
+                of the founding members of IBM’s thought leadership group:
+                the IBM Institute for Business Value.
+
+              </Paragraph>
+              <Paragraph>
+                Christy holds a BA in Economics from Princeton University.
+              </Paragraph>
+            </div>
+          </div>
+
+        </ListItem>
+
       </List>
 
       <Anchor name="board" />
