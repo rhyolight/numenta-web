@@ -36,7 +36,7 @@ you may sign up for our [trial license][3]. This will allow you to work
 under a temporary license and create a proof-of-concept and decide later whether
 to convert to a commercial license or go AGPL.
 
-## Translations of Numenta.org Documentation
+## Translations
 
 We welcome members of the HTM community who want to translate our documentation into languages other than English.  Feel free to notify us about your translation so that we can link to it from our web site.  We cannot take responsibility for the quality of the translations, but we appreciate your efforts to help us spread the word about this technology.
 
