@@ -76,6 +76,7 @@ company = 'Numenta'
     sitemap = '/sitemap/'
     terms = '/legal/terms/'
     license = '/assets/pdf/apps/licensing-guide.pdf'
+    htmforstocks = '/assets/pdf/apps/htmforstocks.pdf'
 
 [moments]
   post = 'YYYY/MM/DD'

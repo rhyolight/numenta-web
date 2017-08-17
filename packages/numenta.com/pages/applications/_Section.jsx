@@ -239,6 +239,11 @@ const SectionApplications = (props, {config}) => {
           </Paragraph>
           <List marker="disc">
             <ListItem>
+              <TextLink to={`${links.in.htmforstocks}`}>
+                Data Sheet: HTM for Stocks
+              </TextLink>
+            </ListItem>
+            <ListItem>
               <TextLink to={`${links.out.apps}`}>
                 Download Application Code
               </TextLink>
