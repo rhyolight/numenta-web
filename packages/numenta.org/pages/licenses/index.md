@@ -9,7 +9,7 @@ experiment with our technology without being constrained. We offer both a
 [commercial license option][2] and a [trial license][3],
 which allows you to experiment temporarily without affecting your codebase with
 the AGPL, giving you time to decide whether a commercial license is worth it.
-To learn more about the kinds of commercial licenses we offer, download our 
+To learn more about the kinds of commercial licenses we offer, download our
 [License Guide][4].
 
 * NuPIC and associated applications of NuPIC at <http://github.com/numenta> are
@@ -36,13 +36,9 @@ you may sign up for our [trial license][3]. This will allow you to work
 under a temporary license and create a proof-of-concept and decide later whether
 to convert to a commercial license or go AGPL.
 
-## Translations
+## Translations of Numenta.org Documentation
 
-We welcome members of the NuPIC community who want to translate our
-documentation into languages other than English. Feel free to notify us about
-your translation so that we can link to it from our web site. We cannot take
-responsibility for the quality of the translations, but we appreciate your
-efforts to help us spread the word about this technology.
+We welcome members of the HTM community who want to translate our documentation into languages other than English.  Feel free to notify us about your translation so that we can link to it from our web site.  We cannot take responsibility for the quality of the translations, but we appreciate your efforts to help us spread the word about this technology.
 
 We give you the rights to translate these materials under the following license:
 
@@ -50,18 +46,7 @@ We give you the rights to translate these materials under the following license:
 
 > **Copyright 2010-2017 Numenta, Inc.**
 >
-> Numenta owns copyrights and patent rights on documentation related to
-> hierarchical temporal memory (HTM) and cortical learning algorithms (CLA).
-> This documentation may include white papers, blog posts, videos, audios,
-> wikipages, text embedded in code, and other explanatory materials. Numenta
-> grants you a license to translate any or all of these materials into languages
-> other than English, and to use internally and distribute your translations
-> subject to the following conditions: Numenta specifically disclaims any
-> liability for the quality of any translations licensed hereunder, and you must
-> include this text, both in this original English and in translation to the
-> target language, in the translation. The foregoing applies only to
-> documentation as described above – all Numenta software code and algorithms
-> remain subject to the applicable software license.
+> Numenta owns copyrights and patent rights on documentation related to Hierarchical Temporal Memory (HTM). This documentation may include white papers, blog posts, videos, audios, wiki pages, online books, journal papers, manuscripts, text embedded in code, and other explanatory materials.  Numenta grants you a license to translate any or all of these materials into languages other than English, and to use internally and distribute your translations subject to the following conditions: Numenta specifically disclaims any liability for the quality of any translations licensed hereunder, and you must include this text, both in this original English and in translation to the target language, in the translation.  The foregoing applies only to documentation as described above – all Numenta software code and algorithms remain subject to the applicable software license.
 
 ---
 
@@ -69,6 +54,6 @@ We give you the rights to translate these materials under the following license:
 [2]: mailto:sales@numenta.com?subject=Commercial%20License%20Inquiry
 [3]: /licenses/trial/
 [4]: http://numenta.com/assets/pdf/apps/licensing-guide.pdf
-[5]: /blog/2013/07/01/patent-position/ 
-[6]: https://discourse.numenta.org/categories 
+[5]: /blog/2013/07/01/patent-position/
+[6]: https://discourse.numenta.org/categories
 [7]: /licenses/contrib/
