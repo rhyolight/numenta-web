@@ -53,7 +53,16 @@ class PapersPage extends React.Component {
     const {sections} = this.state
     return (
       <div>
-        <Helmet title={title} />
+        <Helmet title={title}>
+          <meta name="twitter:title" content={title} />
+          <meta
+            name="twitter:description"
+            content="To help you learn about our
+              theory and technology, we have organized educational content
+              below.It is designed for anyone who wants tolearn about HTM
+              cortical theory and its applications for machine intelligence."
+          />
+        </Helmet>
         {sections}
       </div>
     )

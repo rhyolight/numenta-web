@@ -13,6 +13,7 @@ import Strong from 'numenta-web-shared-components/lib/Strong'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Video from 'numenta-web-shared-components/lib/Video'
+import Helmet from 'react-helmet'
 
 import ImageTimeline from './images/timeline.png'
 import ImageVideoStory from './images/video-ourstory.png'
@@ -23,10 +24,26 @@ import styles from './index.css'
  * Mission & History MainSection and page content - React view component.
  */
 const SectionMission = (props, {config}) => {
-  const {links} = config
+  const {links, baseUrl} = config
 
   return (
     <article>
+      <Helmet>
+        <meta
+          name="twitter:image"
+          content={baseUrl + ImageTimeline}
+        />
+        <meta
+          name="twitter:description"
+          content="Numenta’s mission is to be a leader in the new era of machine
+            intelligence.  We believe the brain is the best example of an
+            intelligent system, providing a roadmap for building intelligent
+            machines. The brain’s center of intelligence, the neocortex,
+            controls a wide range of functions using a common set of
+            principles."
+        />
+      </Helmet>
+
       <Anchor name="mission" />
       <SubTitle>Mission</SubTitle>
       <div className={styles.columns}>

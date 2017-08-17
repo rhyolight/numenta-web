@@ -29,7 +29,10 @@ const BlogPage = (props, {route}) => {
 
   return (
     <article>
-      <Helmet title={title} />
+      <Helmet title={title}>
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content="Blog Posts" />
+      </Helmet>
       <Section headline={true} open={true} title={title}>
         <ListOrder copy={false}>
           {items}

@@ -29,7 +29,16 @@ const BamiPage = (props, {config}) => {
 
   return (
     <article>
-      <Helmet title={title} />
+      <Helmet title={title}>
+        <meta name="twitter:title" content={title} />
+        <meta
+          name="twitter:description"
+          content="Biological and Machine Intelligence (BAMI) is a living book
+          authored by Numenta researchers and engineers. Its purpose is to
+          document Hierarchical Temporal Memory, a theoretical framework for
+          both biological and machine intelligence."
+        />
+      </Helmet>
       <Section headline={true} open={true} title={title}>
         <div className={styles.columns}>
           <div className={styles.aside}>

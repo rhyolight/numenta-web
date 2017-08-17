@@ -1,3 +1,6 @@
+---
+title: Spatial Pooling
+---
 Spatial Pooling
 ===============
 

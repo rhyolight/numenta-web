@@ -54,7 +54,9 @@ class NumentaNutshellPage extends React.Component {
     const {sections} = this.state
     return (
       <div>
-        <Helmet title={title} />
+        <Helmet title={title}>
+          <meta name="twitter:title" content={title} />
+        </Helmet>
         {sections}
       </div>
     )

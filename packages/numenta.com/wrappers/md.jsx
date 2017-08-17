@@ -8,6 +8,7 @@ import IconArrow from 'react-icons/lib/fa/caret-left'
 import moment from 'moment'
 import React from 'react'
 import root from 'window-or-global'
+import {prefixLink} from 'gatsby-helpers'
 
 import Avatar from 'numenta-web-shared-components/lib/Avatar'
 import Disqus from 'numenta-web-shared-components/lib/Disqus'
@@ -85,6 +86,14 @@ class MarkdownWrapper extends React.Component {
     let key = file.dir.split('/')[0]
     const url = `/${key}/`
     let author, back, date, event, media, type
+    let brief = data.brief
+    const twitterImg = data.image ?
+        (
+          <meta
+            name="twitter:image"
+            content={config.baseUrl + prefixLink(path + data.image)}
+          />
+        ) : null
 
     if (key === 'careers-and-team') {
       key = 'careers'
@@ -160,6 +169,14 @@ class MarkdownWrapper extends React.Component {
             </TableCell>
           </TableRow>
         ))
+
+        brief = `${getEventTimeDisplay(when)}`
+        if (desc) {
+          brief += `, ${desc}`
+        }
+        if (location) {
+          brief += `, ${location}`
+        }
 
         if (web) {
           details.push((
@@ -268,7 +285,11 @@ class MarkdownWrapper extends React.Component {
 
     return (
       <article className={styles.md}>
-        <Helmet title={data.title} />
+        <Helmet title={data.title}>
+          <meta name="twitter:title" content={data.title} />
+          <meta name="twitter:description" content={brief || data.title} />
+          {twitterImg}
+        </Helmet>
         {date}
         <Section
           headline={true}

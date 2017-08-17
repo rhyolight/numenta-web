@@ -38,9 +38,19 @@ const title = 'Numenta Anomaly Benchmark (NAB)'
 /**
  * Numenta Anomaly Benchmark (NAB) page - React view component.
  */
-const NabPage = () => (
-  <article>
-    <Helmet title={title} />
+const NabPage = (props, {config}) => {
+  const {baseUrl} = config
+
+  return (<article>
+    <Helmet title={title}>
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:image" content={baseUrl + ImageDetail} />
+      <meta
+        name="twitter:description"
+        content="The First Benchmark For Evaluating Anomaly Detection In
+        Streaming Data."
+      />
+    </Helmet>
     <Section headline={true} open={true} title={title}>
       <div className={styles.columns}>
         <div className={styles.aside}>
@@ -333,6 +343,11 @@ const NabPage = () => (
       </div>
     </Section>
   </article>
-)
+  )
+}
+
+NabPage.contextTypes = {
+  config: React.PropTypes.object,
+}
 
 export default NabPage
