@@ -57,7 +57,11 @@ const PressPage = (props, {route}) => {
 
   return (
     <article>
-      <Helmet title="Press" />
+      <Helmet title="Press">
+        <meta name="twitter:title" content="Press" />
+        <meta name="twitter:description" content="Press Releases" />
+      </Helmet>
+
       <Section headline={true} open={true} title="Press Releases">
         <div className={styles.columns}>
           <div className={styles.content}>

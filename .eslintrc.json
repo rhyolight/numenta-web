@@ -59,6 +59,7 @@
     "one-var": [2, {"uninitialized": "always", "initialized": "never"}],
     "one-var-declaration-per-line": [0],
     "padded-blocks": [0],
+    "react/prefer-stateless-function": ["off"],
     "react/jsx-boolean-value": [2, "always"],
     "react/jsx-filename-extension": [1],
     "react/forbid-prop-types": [2, {"forbid": ["any"]}],

@@ -106,7 +106,7 @@ class HtmStudioPage extends React.Component {
   render() {
     const {config, route} = this.context
     const {accepted, terms, warning} = this.state
-    const {links} = config
+    const {links, baseUrl} = config
     const {pages} = route
     const {os} = platform
     const modalWidth = getModalWidth(getBrowserWidth(), {copy: true})
@@ -169,7 +169,17 @@ class HtmStudioPage extends React.Component {
 
     return (
       <article>
-        <Helmet title={title} />
+        <Helmet title={title}>
+          <meta name="twitter:title" content={title} />
+          <meta name="twitter:image" content={baseUrl + ImageVideoIntro} />
+          <meta
+            name="twitter:description"
+            content="HTM Studio allows you to test whether our Hierarchical
+            Temporal Memory (HTM) algorithms will find anomalies in your data.
+            With just one click, you can uncover anomalies other techniques
+            cannot find in your numeric, time-series data, in minutes."
+          />
+        </Helmet>
         <Section
           headline={true}
           open={true}

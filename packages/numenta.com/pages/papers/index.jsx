@@ -61,7 +61,10 @@ const PapersPage = (props, {route}) => {
 
   return (
     <article className={styles.papers}>
-      <Helmet title={title} />
+      <Helmet title={title}>
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content="Research Papers" />
+      </Helmet>
       <Section headline={true} open={true} title={title}>
         <ListOrder copy={false}>
           {items}

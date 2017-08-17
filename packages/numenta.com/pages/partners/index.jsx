@@ -53,7 +53,17 @@ class PartnersPage extends React.Component {
     const {sections} = this.state
     return (
       <div>
-        <Helmet title={title} />
+        <Helmet title={title}>
+          <meta name="twitter:title" content={title} />
+          <meta
+            name="twitter:description"
+            content="Numenta works with strategic partners to bring the power of
+            HTM to the market. While we focus on the science and the core
+            technology, we select application partners who have deep domain
+            knowledge and are able to add an application layer tuned to market
+            needs"
+          />
+        </Helmet>
         {sections}
       </div>
     )

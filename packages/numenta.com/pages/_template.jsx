@@ -56,7 +56,7 @@ class Template extends React.Component {
   render() {
     const {STAMP} = root
     const {children} = this.props
-    const {analytics, company, description, siteHost} = config
+    const {baseUrl, analytics, company, description, siteHost} = config
     const lang = 'en'  // @TODO i18n l10n
     const now = moment().toString()
     const title = `${siteHost} • ${description}`
@@ -73,6 +73,14 @@ class Template extends React.Component {
       {'http-equiv': 'X-UA-Compatible', content: 'IE=edge'},
       {name: 'author', content: `${company}`},
       {name: 'description', content: title},
+      {name: 'twitter:card', content: 'summary'},
+      {name: 'twitter:title', content: `${siteHost}`},
+      {
+        name: 'twitter:image',
+        content: `${baseUrl}${prefixLink('/assets/img/logo.png')}`,
+      },
+      {name: 'twitter:description', content: `${description}`},
+      {name: 'twitter:site', content: '@numenta'},
       {name: 'keywords', content: title.split(' ').join(',')},
       {
         name: 'generator',

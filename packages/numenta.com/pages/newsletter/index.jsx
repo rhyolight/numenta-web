@@ -37,7 +37,11 @@ const NewsletterPage = (props, {route}) => {
 
   return (
     <article>
-      <Helmet title={title} />
+      <Helmet title={title}>
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={title} />
+      </Helmet>
+
       <div className={styles.signup}>
         {/* eslint-disable max-len */}
         <Form

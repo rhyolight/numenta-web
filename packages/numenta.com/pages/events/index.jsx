@@ -47,7 +47,13 @@ const EventsPage = (props, {config, route}) => {
 
   return (
     <article className={styles.events}>
-      <Helmet title={title} />
+      <Helmet title={title}>
+        <meta name="twitter:title" content={title} />
+        <meta
+          name="twitter:description"
+          content="Upcoming and Past Events"
+        />
+      </Helmet>
       <Section headline={true} open={true} title={title}>
         <Anchor name="upcoming" />
         <SubTitle>Upcoming Events</SubTitle>

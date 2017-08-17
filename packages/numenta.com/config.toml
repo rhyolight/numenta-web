@@ -1,6 +1,9 @@
 linkPrefix = ''
 #linkPrefix = '/numenta-web'  # integration/staging (gh-pages)
 
+baseUrl = 'https://numenta.com'
+#baseUrl = 'http://staging.numenta.com'
+
 siteHost = 'Numenta.com'
 siteTitle = ''
 description = 'Leading the New Era of Machine Intelligence'
