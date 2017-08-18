@@ -205,6 +205,12 @@ const SectionPapers = (props, {config, route}) => {
           </ListOrder>
         </div>
       </div>
+      <Paragraph>
+        If you are interested in translating our materials, please
+        see <TextLink to="https://numenta.org/licenses/">
+          https://numenta.org/licenses/
+        </TextLink> for information about translations.
+      </Paragraph>
     </article>
   )
 }
