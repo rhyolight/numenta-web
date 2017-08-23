@@ -15,7 +15,7 @@ event:
     web: https://www.odsc.com/training/portfolio/biological-path-towards-strong-ai
   who: Matthew Taylor
   why: Speaking
-image: ../images/odsc.png
+image: ../images/ODSC.png
 org: HTM Community Leader
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing strangeloop brain
 title: "ODSC West"
