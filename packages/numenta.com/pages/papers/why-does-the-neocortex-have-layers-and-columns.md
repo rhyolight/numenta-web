@@ -30,7 +30,7 @@ We also propose a new feature of cortical columns that helps explain how sensori
 We demonstrate through simulations that even a single-column network can learn to recognize hundreds of complex objects. Multiple columns can share information to more rapidly recognize objects. This suggests that single regions have the ability to recognize and model objects much more robustly than previously assumed.    
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhnMUc36opI" frameborder="0" allowfullscreen></iframe>
-*This video demonstrates how cortical columns can use location information to form robust predictive models of objects. Although the video uses touch, the same mechanism can be applied to all sensory modalities.*
+ *This video demonstrates how cortical columns can use location information to form robust predictive models of objects. Although the video uses touch, the same mechanism can be applied to all sensory modalities.*
 
 ## Frequently asked questions about this research
 
