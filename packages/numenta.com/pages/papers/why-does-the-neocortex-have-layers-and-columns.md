@@ -17,7 +17,7 @@ type: post
 | **Authors** | J. Hawkins, S. Ahmad & Yuwei Cui |
 | **Journal** | Submitted, and under review |
 | **Online** | [Read or Download this Paper][1] |
-| **Published** | July 7, 2017 |
+| **Published** | July 12, 2017 |
 
 
 It is widely observed that movement affects how we sense objects in the world, but how this happens in the brain has remained a mystery.  In this paper, we propose a network model that learns the structure of objects through movement. Our model is based on the known biology of cortical columns and layers, and helps explain their function.
