@@ -8,7 +8,7 @@ the company, Hans-Poul Veldhuyzen van Zanten, emailed us with the observation th
 theory was compatible with an ancient memorization system known as the “method of loci.”"
 date: 2017/08/28
 hideImage: false
-image: ../images/MethodofLoci.jpeg
+image: ../images/MethodofLoci.jpg
 org: VP of Marketing
 tags: numenta hierarchical temporal memory htm blog
 title: "The Method of Loci"
