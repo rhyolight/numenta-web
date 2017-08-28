@@ -53,7 +53,10 @@ class CareersPage extends React.Component {
     const {sections} = this.state
     return (
       <div>
-        <Helmet title={title} />
+        <Helmet title={title}>
+          <meta name="twitter:title" content={title} />
+          <meta name="twitter:description" content="Management Team" />
+        </Helmet>
         {sections}
       </div>
     )

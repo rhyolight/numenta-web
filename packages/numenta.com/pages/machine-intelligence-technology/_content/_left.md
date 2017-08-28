@@ -1,4 +1,6 @@
 ---
+title: Technology Overview
+brief: Based on a wealth of neuroscience evidence, we have created HTM (Hierarchical Temporal Memory), a theoretical framework for both biological and machine intelligence.
 ---
 
 [apps]:   /applications/

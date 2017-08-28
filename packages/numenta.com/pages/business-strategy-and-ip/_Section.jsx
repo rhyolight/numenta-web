@@ -12,6 +12,7 @@ import Anchor from 'numenta-web-shared-components/lib/Anchor'
 import DefineItem from 'numenta-web-shared-components/lib/DefineItem'
 import DefineList from 'numenta-web-shared-components/lib/DefineList'
 import DefineTitle from 'numenta-web-shared-components/lib/DefineTitle'
+import Helmet from 'react-helmet'
 import Image from 'numenta-web-shared-components/lib/Image'
 import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/ListOrder'
@@ -34,10 +35,23 @@ import styles from './index.css'
  * Business Strategy & IP - MainSection and page content - React view component.
  */
 const SectionBusiness = (props, {config}) => {
-  const {contact, links} = config
+  const {contact, links, baseUrl} = config
 
   return (
     <article>
+      <Helmet>
+        <meta
+          name="twitter:image"
+          content={baseUrl + ImageBusiness}
+        />
+        <meta
+          name="twitter:description"
+          content={'Numenta’s business strategy and approach to intellectual \
+          property (IP) is to create an active research community as well as \
+          to enable strong commercial opportunities'}
+        />
+      </Helmet>
+
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image

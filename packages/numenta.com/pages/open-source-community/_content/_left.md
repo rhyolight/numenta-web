@@ -1,4 +1,6 @@
 ---
+title: Open Source Community
+brief: "If you are interested in seeing, developing or working with our technology, we invite you to participate at http://numenta.org/"
 ---
 
 [business]: /business-strategy-and-ip/
