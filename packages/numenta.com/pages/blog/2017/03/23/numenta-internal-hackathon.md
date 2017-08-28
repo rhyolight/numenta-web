@@ -156,7 +156,7 @@ cooking challenge.
 
 ![Cooking Competition Matt](../images/cooking_comp3.jpg)
 
-> *Matt explains the dish* 
+> *Matt explains the dish*
 
 ![Cooking Competition Dig in](../images/cooking_comp1.jpg)
 
