@@ -5,7 +5,7 @@ A Theory of Learning the 3D Structure of the World, we introduced a new theory o
 brain makes predictive models of objects.  We proposed that the brain pairs sensory data
 with location data to perform object recognition. After reading our manuscript, a friend of
 the company, Hans-Poul Veldhuyzen van Zanten, emailed us with the observation that our
-theory was compatible with an ancient memorization system known as the “method of loci.”
+theory was compatible with an ancient memorization system known as the “method of loci.”"
 date: 2017/08/28
 hideImage: false
 image: ../images/MethodofLoci.jpeg
