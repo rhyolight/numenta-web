@@ -26,17 +26,19 @@ system known as the “method of loci.”
 The [method of loci](https://en.wikipedia.org/wiki/Method_of_loci) is a memory enhancement
 technique that combines visualization with spatial memory of familiar environments in order
 to quickly recall information.  It works like this:
-> Imagine you have a list of items you want to memorize. The list could
-> be anything: numbers, words, faces, etc. To use the method of loci,
-> you would think of a familiar space—something where you can easily
-> draw up the layout of the space in your mind. Maybe it’s your house,
-> or your favorite street of shops. For this example, we’ll use a house.
-> To commit your list of items to memory, you imagine walking through
-> your house and stopping at various locations. At each stop, you
-> mentally assign an item on the list to a location by forming an image
-> of the item and some feature of that location. Then when you want to
-> retrieve this list, you would imagine walking through your house, and
-> as you move from room to room, you recall the items on the list.
+
+<p style="margin-left:20pt">
+Imagine you have a list of items you want to memorize. The list could be anything: numbers, words, faces, etc. To use the method of loci,
+you would think of a familiar space—something where you can easily
+draw up the layout of the space in your mind. Maybe it’s your house,
+or your favorite street of shops. For this example, we’ll use a house.
+To commit your list of items to memory, you imagine walking through
+your house and stopping at various locations. At each stop, you
+mentally assign an item on the list to a location by forming an image
+of the item and some feature of that location. Then when you want to
+retrieve this list, you would imagine walking through your house, and
+as you move from room to room, you recall the items on the list.
+</p>
 
 This technique dates back to ancient Greek and Roman times, but many memory champions
 still use this method today in contests that require recalling long lists of unrelated items.
