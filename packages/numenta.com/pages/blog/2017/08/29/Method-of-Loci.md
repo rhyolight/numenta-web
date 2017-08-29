@@ -6,9 +6,9 @@ brain makes predictive models of objects.  We proposed that the brain pairs sens
 with location data to perform object recognition. After reading our manuscript, a friend of
 the company, Hans-Poul Veldhuyzen van Zanten, emailed us with the observation that our
 theory was compatible with an ancient memorization system known as the “method of loci.”"
-date: 2017/08/28
+date: 2017/08/29
 hideImage: false
-image: ../images/MethodofLoci.jpg
+image: ../images/MethodofLoci-resized.jpg
 org: VP of Marketing
 tags: numenta hierarchical temporal memory htm blog
 title: "The Method of Loci"
