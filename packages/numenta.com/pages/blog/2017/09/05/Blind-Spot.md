@@ -10,10 +10,10 @@ title: "The Blind Spot"
 type: post
 ---
 
-<p style="margin-left: 40pt; display: inline">
+<p style="margin-left: 20pt; display: inline">
 <b>blind spot</b> <br />
-<span style="margin-left: 40pt; display:block"><i>noun</i></span></p>
-<p style="margin-left: 60pt; margin-top: -15pt">
+<span style="margin-left: 20pt; display:block"><i>noun</i></span></p>
+<p style="margin-left: 40pt; margin-top: -15pt">
 1. &nbsp; &nbsp; the point of entry of the optic nerve on the retina, insensitive to light.<br / ><br / >
 </p>
 
