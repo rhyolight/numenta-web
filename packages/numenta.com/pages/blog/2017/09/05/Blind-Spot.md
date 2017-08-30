@@ -11,13 +11,12 @@ type: post
 ---
 
 <p style="margin-left: 20pt; display: inline">
-<b>blind spot</b> <br />
+<b><br />blind spot</b> <br />
 <span style="margin-left: 20pt; display:block"><i>noun</i></span></p>
-<p style="margin-left: 40pt; margin-top: -15pt">
-1. &nbsp; &nbsp; the point of entry of the optic nerve on the retina, insensitive to light.<br / ><br / >
-</p>
+<p style="margin-left: 40pt; margin-top: -15pt; margin-bottom: 0pt">
+1. &nbsp; &nbsp; the point of entry of the optic nerve on the retina, insensitive to light.<br / ><br / ></p>
 
-<font size="100pt" color="1aa0db"><b>W</b></font>e all have them yet rarely need to think about them: a blind spot, or scotoma, in scientific language.  A blind spot is a gap in our vision, created by our own anatomy.  At the point where the optic nerve attaches to the back of the eyeball is a section that cannot detect light.  Yet, we don’t walk around perceiving gaps in our vision.  We don’t see dark spots everywhere we look.  So what’s going on?  
+We all have them yet rarely need to think about them: a blind spot, or scotoma, in scientific language.  A blind spot is a gap in our vision, created by our own anatomy.  At the point where the optic nerve attaches to the back of the eyeball is a section that cannot detect light.  Yet, we don’t walk around perceiving gaps in our vision.  We don’t see dark spots everywhere we look.  So what’s going on?  </p>
 
 It has long been assumed that the brain is simply “filling in the gap.”  Scientists have suggested that the brain accounts for this single blind spot by filling it in with images from the parts of the eye that can detect light.  
 
