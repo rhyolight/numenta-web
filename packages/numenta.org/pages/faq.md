@@ -18,7 +18,7 @@ There are many ways to get involved, but the first step is to join the
 you can introduce yourself, ask questions, find information and connect
 with others interested in and working on HTM. You can also join our
 [Meetup Group](https://www.meetup.com/Numenta-Platform-for-Intelligent-Computing-Events/)
-and subscribe to our [YouTube channel.](https://www.youtube.com/c/NumentaOrg)
+and subscribe to our [YouTube channel.](https://www.youtube.com/user/OfficialNumenta)
 
 ## Where can I find the code?
 
