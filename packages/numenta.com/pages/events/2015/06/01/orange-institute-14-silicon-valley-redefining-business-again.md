@@ -11,7 +11,6 @@ event:
     city: Silicon Valley
     state: CA
     country: USA
-    web: http://institute.orange.com/sessions/2015-2016-program
   who: Donna Dubinsky
   why: Speaking
 image: ../images/image.png

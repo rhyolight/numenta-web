@@ -65,9 +65,7 @@ As part of their collaboration, Grok has been certified as ThingWorx Ready and
 will be pre-integrated with the ThingWorx rapid application development
 platform.  Further information on the combined predictive maintenance solution
 will be on display at the upcoming
-[Field Service USA](http://www.wbresearch.com/fieldserviceusa/home.aspx)
-event, as well as during a live webcast on April 24, 2013,
-[Smarter Services: The Future of Connected Products Today](http://theservicecouncil.com).
+Field Service USA event, as well as during a live webcast on April 24, 2013, Smarter Services: The Future of Connected Products Today.
 
 ### About ThingWorx
 

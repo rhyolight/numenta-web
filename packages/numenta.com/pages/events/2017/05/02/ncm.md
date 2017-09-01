@@ -11,7 +11,7 @@ event:
     desc: Clayton Hotel Burlington Road
     city: Dublin  
     country: Ireland
-    web:  http://www.ncm-society.org/2017-meeting/
+    web:  https://ncm-society.org/meeting-history/
   who: Subutai Ahmad
   why: Poster Presentation
 image: ../images/ncm.png

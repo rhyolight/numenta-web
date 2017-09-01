@@ -12,7 +12,6 @@ event:
     city: San Francisco
     state: CA
     country: USA
-    web: http://conf.dato.com/2016/us/speakers/subutai-ahmad/
   who: Subutai Ahmad
   why: Speaking
 image: ../images/image.png
