@@ -14,12 +14,7 @@ While Numenta may not be in the business of selling traditional products, we are
 in the business of making our technology pervasive. To that end, we build sample
 applications that demonstrate the value of HTM, and we make the code available
 in our open source project.  But while anyone can read about our technology and
-applications, experiencing them requires some serious computer science skills.
-That changed this month when we launched an
-[iPhone version of our HTM for Stocks app](https://itunes.apple.com/us/app/htm-for-stocks/id1049429350?mt=8).
-Android users can still access the app
-[here](https://play.google.com/store/apps/details?id=com.numenta.taurus).
-Now, all it takes to experience HTM is your cell phone.
+applications, experiencing them requires some serious computer science skills. That changed this month when we launched an iPhone version of our HTM for Stocks app. Android users can still access the app here. Now, all it takes to experience HTM is your cell phone.
 
 ![HTM for Stocks in App Store](../images/1.png)
 
@@ -96,4 +91,6 @@ competitive advantage.
 
 I hope you’ll download HTM for Stocks and give it a try. Let us know what
 anomalies you find by contacting
-[feedback@numenta.com](mailto:feedback@numenta.com) or leave a comment below.  
+[feedback@numenta.com](mailto:feedback@numenta.com) or leave a comment below.
+
+*Editor's update (09/01/2017): We no longer offer HTM for Stocks as a mobile app.

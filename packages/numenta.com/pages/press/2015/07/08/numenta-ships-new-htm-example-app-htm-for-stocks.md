@@ -32,7 +32,7 @@ HTM to detect anomalies in human behavior and in GPS tracking data.
 technology,” said Numenta CEO Donna Dubinsky. “Until now, it has required
 programming expertise to experience HTM-based anomaly detection. With HTM for
 Stocks, it is as simple as downloading the app to your smartphone from the
-[Google Play store](https://play.google.com/store/apps/details?id=com.numenta.taurus).”
+Google Play store.”
 
 In keeping with its mission to be a technology provider, Numenta is providing
 the source code for HTM for Stocks under an open source license at:
@@ -78,3 +78,5 @@ Betty Taylor:
 [Facebook](https://www.facebook.com/pages/Numenta/321559142118?ref=br_tf),
 [YouTube](https://www.youtube.com/user/numenta) and
 [LinkedIn](https://www.linkedin.com/company/numenta)
+
+*Editor's update (09/01/2017): HTM for Stocks is no longer offered as a mobile app.*

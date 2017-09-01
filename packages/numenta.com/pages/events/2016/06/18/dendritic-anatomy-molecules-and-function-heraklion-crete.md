@@ -12,7 +12,6 @@ event:
     city: Heraklion
     state: Crete
     country: Greece
-    web: http://www.dendrites2016.gr/
   who: Yuwei Cui
   why: Speaking
 image: ../images/image.png
