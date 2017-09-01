@@ -15,7 +15,7 @@ process. We have made our day to day experimental code public.
 As you may know, we already released our commercial HTM algorithm code to the
 NuPIC open source community in the form of the
 [NuPIC project](http://numenta.org). We use that exact codebase in our product
-Grok. The [NuPIC open source community](http://numenta.org/community.html) and
+Grok. The [NuPIC open source community](http://discourse.numenta.org/) and
 Numenta actively work together to continually maintain and improve this code
 base.
 
