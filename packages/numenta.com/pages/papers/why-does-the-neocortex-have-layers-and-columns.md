@@ -55,7 +55,7 @@ The standard view of object recognition in the neocortex involves a passive proc
 
 ### Q. How were the simulations conducted?
 
-For this paper, we wrote simulation code in Python and used the reference HTM implementation available in the open source project [NuPIC](www.numenta.org). The algorithm code for forming sensorimotor predictions (the input layer) can also be used for sequence learning and to demonstrate all the properties described in [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).  They both use the same HTM neuron model – the primary difference being the contextual input sent to the active dendrites.
+For this paper, we wrote simulation code in Python and used the reference HTM implementation available in the open source project [NuPIC](https://www.numenta.org). The algorithm code for forming sensorimotor predictions (the input layer) can also be used for sequence learning and to demonstrate all the properties described in [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).  They both use the same HTM neuron model – the primary difference being the contextual input sent to the active dendrites.
 
 ### Q. Can I replicate these simulations?
 
