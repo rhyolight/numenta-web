@@ -149,10 +149,10 @@ const SectionPapers = (props, {config, route}) => {
               </TextLink>
               <Spacer />
               Here you’ll find a collection of recent Numenta Research papers.
-              Some of them are currently under review at journals/conferences
-              but we have made all manuscripts available on {' '}
-              <TextLink to="http://arxiv.org">arXiv,</TextLink> {' '}
-              an online repository of self-archived scientific papers.
+              Some of them are currently under review at journals/conferences,
+              but we have made all manuscripts freely available on preprint sites, such as {' '}
+              <TextLink to="http://arxiv.org">arXiv</TextLink> {' '} or {' '}
+              <TextLink to="http://biorxiv.org">bioRxiv.</TextLink> {' '}
             </ListItem>
             <ListItem>
               <TextLink to={links.in.bami}>
