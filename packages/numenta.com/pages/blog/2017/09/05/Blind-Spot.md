@@ -1,7 +1,7 @@
 ---
 author: Christy Maver
 brief: "We all have them yet rarely need to think about them: a blind spot, or scotoma, in scientific language.  A blind spot is a gap in our vision, created by our own anatomy.  At the point where the optic nerve attaches to the back of the eyeball is a section that cannot detect light.  Yet, we don’t walk around perceiving gaps in our vision.  We don’t see dark spots everywhere we look.  So what’s going on?"
-date: 2017/09/05
+date: 2017/09/08
 hideImage: false
 image: ../images/TheBlindSpot.jpg
 org: VP of Marketing
@@ -22,7 +22,7 @@ It has long been assumed that the brain is simply “filling in the gap.”  Sci
 
 Our recent research proposes that perhaps something entirely different is going on here.  In our latest manuscript,  [Why Does the Neocortex Have Layers and Columns, A Theory of Learning the 3D Structure of the World](https://doi.org/10.1101/162263), we introduced a theory for how the brain creates 3D models of objects. This theory offers an explanation for how the brain learns through movement.  And it flips the entire idea of a blind spot on its head. Your brain isn’t filling in gaps.  It’s simply never looking at something as a whole.
 
-To illustrate this point, I’ll use an example involving touch, but the same concept holds true for all sensory modalities. I want you to imagine a coffee mug.  Now imagine interacting with this mug while your eyes are closed. You might pick it up by the handle and take a sip out of it. If it was stacked upside-down in a cupboard, you might grab it by the bottom.  If you were setting it down on your desk, you might hold it by the sides.  While there are an unlimited number of ways that you can touch this mug, you will never touch the entire thing at once.  Yet, no matter how you touch it, your brain only knows this object in its entirety, as a complete mug.   
+To illustrate this point, I’ll use an example involving touch, but the same concept holds true for all sensory modalities. I want you to imagine a coffee mug. For the purpose of this thought experiment, imagine that your eyes are closed, so you cannot rely on your vision.  How would you sense the mug? You might reach your hand out and run your fingers over the rim.  You could pick it up by the handle and take a sip out of it. You could hold it by the bottom in the palm of your hand. While there are an unlimited number of ways that you can touch this mug, you will never touch the entire thing at once. Yet, no matter how you touch it, your brain only knows this object in its entirety, as a complete mug.
 
 So what is the brain actually doing here?  Think of each finger as a sensor, receiving its own input based on where it is touching the mug.  Each finger is invididually deciding, either on its own as it receives additional input by touching different parts, or by conferring with the other fingers, what it is inferring.  Each finger is building a complete model of the mug.  That’s why when we grab the handle, we are not confused as to where the opening of the cup is, or whether it has a bottom.  We don’t need to touch the entire thing to know what it is.  We don’t need the brain to “fill in the gaps” for the parts we aren’t touching.  
 
