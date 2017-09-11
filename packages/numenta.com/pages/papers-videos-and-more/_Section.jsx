@@ -150,7 +150,8 @@ const SectionPapers = (props, {config, route}) => {
               <Spacer />
               Here you’ll find a collection of recent Numenta Research papers.
               Some of them are currently under review at journals/conferences,
-              but we have made all manuscripts freely available on preprint sites, such as {' '}
+              but we have made all manuscripts freely available on preprint
+              sites, such as {' '}
               <TextLink to="http://arxiv.org">arXiv</TextLink> {' '} or {' '}
               <TextLink to="http://biorxiv.org">bioRxiv.</TextLink> {' '}
             </ListItem>
