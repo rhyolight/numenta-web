@@ -100,8 +100,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="https://doi.org/10.1101/162263">
-              HTM Sensorimotor Theory paper <br /> and video now on bioRxiv
+            <TextLink to="https://numenta.com/papers/why-does-the-neocortex-have-layers-and-columns/">
+              Updated HTM Sensorimotor Theory Manuscript 
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
