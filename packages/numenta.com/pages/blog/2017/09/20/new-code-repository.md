@@ -22,12 +22,11 @@ If you go to our [new repository](https://github.com/numenta/htmpapers), you wil
 
 ![Repository New Repository](../images/repository.png)
 
-</br>
 Let’s say that you are looking for the code used in the experiments on our [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263) paper from bioRxiv.
 
-You can either... </br>
-Click <b>bioRxiv/why_does the_neocortex_have_layers_and_columns</b>, or
-Scroll down and click on “Sources” under the description of the paper.
+You can either...
+<li>Click <b>bioRxiv/why_does the_neocortex_have_layers_and_columns</b>, or</li>
+<li>Scroll down and click on “Sources” under the description of the paper.</li>
 
 ![Repository Sources](../images/sources.png)
 
@@ -42,7 +41,6 @@ There is also a <b>requirements.txt</b> file which tells you the software and so
 
 ![Repository Requirements](../images/requirements.png)
 
-</br>
 For now, we have only done this for our most recent paper– [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263). We will be updating the code repositories of our previous papers in the days to come.
 
 I hope you find this useful, and we welcome you to experiment with our code. If you do, we would be happy to see your results. We also welcome feedback about this new repository. If you have any comments or suggestions, please don’t hesitate to [let us know](https://github.com/numenta/htmpapers/issues/new).
