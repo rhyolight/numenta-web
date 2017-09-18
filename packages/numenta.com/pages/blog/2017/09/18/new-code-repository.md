@@ -1,7 +1,7 @@
 ---
 author: Luiz Scheinkman
 brief: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature, over 70% of 1,576 researchers from various disciplines have tried and failed to reproduce another scientist’s experiments. And according to a report published in Science, an effort to successfully replicate 100 experiments published in prestigious journals was met with only 39 successful attempts."
-date: 2017/09/20
+date: 2017/09/18
 hideImage: false
 image: ../images/repository.png
 org: Software Architect
