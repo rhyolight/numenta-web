@@ -6,7 +6,7 @@ hideImage: true
 image:
 org: Software Architect
 tags: numenta hierarchical temporal memory htm blog
-title: "Numenta's New GitHub Repository for Research Papers"
+title: "Reproducing Scientific Results: Numenta's New GitHub Repository for Research Papers"
 type: post
 ---
 
