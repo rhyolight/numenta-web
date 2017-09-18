@@ -1,6 +1,6 @@
 ---
 author: Luiz Scheinkman
-brief: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature, over 70% of 1,576 researchers from various disciplines have tried and failed to reproduce another scientist’s experiments. And according to a report published in Science, an effort to successfully replicate 100 experiments published in prestigious journals was met with only 39 successful attempts."
+brief: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature"
 date: 2017/09/18
 hideImage: true
 image: ../images/readmeandfigures.png
@@ -24,7 +24,7 @@ If you go to our [new repository](https://github.com/numenta/htmpapers), you wil
 
 Let’s say that you are looking for the code used in the experiments on our [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263) paper from bioRxiv.
 
-You can either...
+You can either:
 <li>Click <b>bioRxiv/why_does the_neocortex_have_layers_and_columns</b>, or</li>
 <li>Scroll down and click on “Sources” under the description of the paper.</li>
 
