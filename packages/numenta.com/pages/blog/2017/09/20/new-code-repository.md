@@ -30,14 +30,11 @@ You can either...
 
 ![Repository Sources](../images/sources.png)
 
-</br>
 Each folder has a <b>README.md</b> file. In it, there are instructions on how to install the requirements, how to generate figures, and explanations of all the figures in the paper.
 
 ![Repository Readme Instructions and Figures](../images/readmeandfigures.png)
 
-</br>
 There is also a <b>requirements.txt</b> file which tells you the software and software versions we used to run the experiments. I have frozen the repositories in time, so that you can replicate our results from the time when the papers were written.
-
 
 ![Repository Requirements](../images/requirements.png)
 
