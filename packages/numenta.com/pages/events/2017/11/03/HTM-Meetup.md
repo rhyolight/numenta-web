@@ -8,11 +8,11 @@ event:
     begin: 2017/11/03 19:00
     end: 2017/11/03 21:00
   where:
-    desc: TBD near SFO Airport
-    city: 
-    state:
-    country:
-    web: https://www.meetup.com/preview/numenta/events/243335803
+    desc: Crowne Plaza San Francisco Airport (Bayside Rooms)
+    city: Burlingame
+    state: CA
+    country: USA
+    web: https://www.meetup.com/numenta/events/243501858/
   who: Matthew Taylor
   why: Speaking
 image: ../images/htm-meetup-photo.png
@@ -25,7 +25,7 @@ type: post
 
 Matt will give a presentation that includes the latest HTM visualizations and updates on our most recent research work.
 
-This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california). Even if you are not attending ODSC West, this meetup will be open to all. Please RSVP on the [meetup page](https://www.meetup.com/preview/numenta/events/243335803). If you want to present your work on HTM at this meetup, please [contact us](mailto:marketing@numenta.com?subject=Interested%20in%20presenting%20at%20the%20HTM%20Meetup).
+This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california). Even if you are not attending ODSC West, this meetup will be open to all. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/). If you want to present your work on HTM at this meetup, please [contact us](mailto:marketing@numenta.com?subject=Interested%20in%20presenting%20at%20the%20HTM%20Meetup).
 
 
 
