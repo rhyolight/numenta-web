@@ -8,11 +8,11 @@ event:
     begin: 2017/11/03 19:00
     end: 2017/11/03 21:00
   where:
-    desc: TBD near SFO Airport
-    city: 
-    state:
-    country:
-    web: https://www.meetup.com/preview/numenta/events/243335803
+    desc: Crowne Plaza San Francisco Airport
+    city: Burlingame
+    state: CA
+    country: USA
+    web: https://www.meetup.com/numenta/events/243501858/
   who: Matthew Taylor
   why: Speaking
 image: ../images/htm-meetup-photo.png
