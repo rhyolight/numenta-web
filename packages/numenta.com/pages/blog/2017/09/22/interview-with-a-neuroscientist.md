@@ -21,7 +21,7 @@ HTM School recently debuted a new series called Interview with a Neuroscientist 
 ![Interview Berry](../images/berry.png)Michael Berry is an associate professor of Molecular Biology at Princeton. He has been studying neural computation in the retina for over 20 years and runs The Berry Lab at the Princeton Neuroscience Institute. In this [episode], Matt and Dr. Berry discuss the complexity of the retina, the mechanisms by which the retina encodes photons, as well as the optic nerve.
 
 ### Coming Soon: Ep. 3
-![Repository New Repository](../images/jonas.png)Stay tuned for episode 3 featuring postdoctoral researcher at the Berkeley Center for Computational Imaging, Eric Jonas. He studies a wide range of topics– biological signal acquisition, machine learning, neuroscience, and heliophysics among others. In this episode, Matt and Dr. Jonas discuss neurons vs transistors, brain legions, and connectomes.
+![Interview Jonas](../images/jonas.png)Stay tuned for episode 3 featuring postdoctoral researcher at the Berkeley Center for Computational Imaging, Eric Jonas. He studies a wide range of topics– biological signal acquisition, machine learning, neuroscience, and heliophysics among others. In this episode, Matt and Dr. Jonas discuss neurons vs transistors, brain legions, and connectomes.
 
 Who else would you like to see on the show? Suggestions are welcome in our [discussion on HTM School topics](https://discourse.numenta.org/c/other-topics/youtube) on the [HTM Forum](http://discourse.numenta.com/).
 
