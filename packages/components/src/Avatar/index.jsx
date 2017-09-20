@@ -36,6 +36,7 @@ import ImageVirajSinha from './images/viraj-sinha.png'
 import ImageYuweiCui from './images/yuwei-cui.png'
 import ImageZuhaAgha from './images/zuha-agha.png'
 import ImageLuizScheinkman from './images/luiz-scheinkman.png'
+import ImageJoanneCua from './images/joanne-cua.png'
 
 const avatars = {
   ImageAlexanderLavin,
