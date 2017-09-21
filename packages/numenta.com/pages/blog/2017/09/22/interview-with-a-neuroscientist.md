@@ -12,7 +12,7 @@ type: post
 
 Designed to make the theory of [Hierarchical Temporal Memory](https://en.wikipedia.org/wiki/Hierarchical_temporal_memory) (HTM) more accessible to the general public, [HTM School](http://youtube.com/OfficialNumenta) is a YouTube channel containing videos about HTM and updates on our ongoing research here at Numenta. The channel is run by Numenta’s Open Source Manager [Matt Taylor](https://discourse.numenta.org/users/rhyolight/activity) and was created a year ago to educate everyone about HTM. On the channel, you will find bite-sized, 15-20 minute [educational HTM videos](https://www.youtube.com/playlist?list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9) with visualizations and examples, [interviews with our co-founder Jeff Hawkins](https://www.youtube.com/playlist?list=PL3yXMgtrZmDrlePl0jUIZWKwQwUgOfxA-), Numenta researchers, and other neuroscientists, as well as [monthly live HTM Hackers’ Hangouts](https://www.youtube.com/playlist?list=PL3yXMgtrZmDogxgQa_dKsuWj-0Wi_UZlJ).
 
-HTM School recently debuted a new series called Interview with a Neuroscientist where Matt sits down with neuroscientists for a Q&A session to discuss pun-laden categories related to their field in neuroscience. When asked why he created the series, Matt revealed that he wanted to reach young people and show them how interesting the field of neuroscience is, and how much we still have left to understand. So far, we’ve released two episodes which features [David Eagleman](https://www.youtube.com/watch?v=IFk436BlPhE&t=1s) and [Michael Berry].
+HTM School recently debuted a new series called Interview with a Neuroscientist where Matt sits down with neuroscientists for a Q&A session to discuss pun-laden categories related to their field in neuroscience. When asked why he created the series, Matt revealed that he wanted to reach young people and show them how interesting the field of neuroscience is, and how much we still have left to understand. So far, we’ve released two episodes which features [David Eagleman](https://www.youtube.com/watch?v=IFk436BlPhE&t=1s) and [Michael Berry](https://www.youtube.com/watch?v=Hf8fqP4xwBk&feature=youtu.be).
 
 ## Ep. 1: David Eagleman
 ![Interview Eagleman](../images/eagleman.png)
@@ -22,7 +22,7 @@ HTM School recently debuted a new series called Interview with a Neuroscientist 
 ## Ep. 2: Michael Berry
 ![Interview Berry](../images/berry.png)
 
-[Michael Berry](https://www.researchgate.net/profile/Michael_Berry_Ii) is an associate professor of Molecular Biology at [Princeton](https://pni.princeton.edu/faculty/michael-berry). He has been studying neural computation in the retina for over 20 years and runs [The Berry Lab](https://scholar.princeton.edu/berrylab/home) at the Princeton Neuroscience Institute. In this [episode], Matt and Dr. Berry discuss the complexity of the retina, the mechanisms by which the retina encodes photons, as well as the optic nerve.
+[Michael Berry](https://www.researchgate.net/profile/Michael_Berry_Ii) is an associate professor of Molecular Biology at [Princeton](https://pni.princeton.edu/faculty/michael-berry). He has been studying neural computation in the retina for over 20 years and runs [The Berry Lab](https://scholar.princeton.edu/berrylab/home) at the Princeton Neuroscience Institute. In this [episode](https://www.youtube.com/watch?v=Hf8fqP4xwBk&feature=youtu.be), Matt and Dr. Berry discuss the complexity of the retina, the mechanisms by which the retina encodes photons, as well as the optic nerve.
 
 ## Coming Soon: Ep. 3
 ![Interview Jonas](../images/jonas.png)
