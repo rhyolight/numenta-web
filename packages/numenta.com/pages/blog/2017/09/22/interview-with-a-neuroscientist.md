@@ -17,18 +17,18 @@ HTM School recently debuted a new series called Interview with a Neuroscientist 
 ## Ep. 1: David Eagleman
 ![Interview Eagleman](../images/eagleman.png)
 
-David Eagleman is the bestselling author of INCOGNITO and host of the PBS series, The Brain. He is also an adjunct associate professor of Psychiatry & Behavioral Sciences at Stanford. In this <a href="https://www.youtube.com/watch?v=IFk436BlPhE&t=1s">episode</a>, Matt and Dr. Eagleman discuss synesthesia, competing unconscious drives, the two hemispheres of the cortex, and the binary nature of brain communication.
+[David Eagleman](https://en.wikipedia.org/wiki/David_Eagleman) is the bestselling author of [INCOGNITO](http://www.eagleman.com/incognito) and host of the PBS series, [The Brain](http://www.pbs.org/the-brain-with-david-eagleman/home/). He is also an adjunct associate professor of Psychiatry & Behavioral Sciences at [Stanford](https://people.stanford.edu/deagle/). In this <a href="https://www.youtube.com/watch?v=IFk436BlPhE&t=1s">episode</a>, Matt and Dr. Eagleman discuss [synesthesia](http://eaglemanlab.net/synesthesia), competing unconscious drives, the two hemispheres of the cortex, and the binary nature of brain communication.
 
 ## Ep. 2: Michael Berry
 ![Interview Berry](../images/berry.png)
 
-Michael Berry is an associate professor of Molecular Biology at Princeton. He has been studying neural computation in the retina for over 20 years and runs The Berry Lab at the Princeton Neuroscience Institute. In this [episode], Matt and Dr. Berry discuss the complexity of the retina, the mechanisms by which the retina encodes photons, as well as the optic nerve.
+[Michael Berry](https://www.researchgate.net/profile/Michael_Berry_Ii) is an associate professor of Molecular Biology at [Princeton](https://pni.princeton.edu/faculty/michael-berry). He has been studying neural computation in the retina for over 20 years and runs [The Berry Lab](https://scholar.princeton.edu/berrylab/home) at the Princeton Neuroscience Institute. In this [episode], Matt and Dr. Berry discuss the complexity of the retina, the mechanisms by which the retina encodes photons, as well as the optic nerve.
 
 ## Coming Soon: Ep. 3
 ![Interview Jonas](../images/jonas.png)
 
-Stay tuned for episode 3 featuring postdoctoral researcher at the Berkeley Center for Computational Imaging, Eric Jonas. He studies a wide range of topics– biological signal acquisition, machine learning, neuroscience, and heliophysics among others. In this episode, Matt and Dr. Jonas discuss neurons vs transistors, brain legions, and connectomes.
+Stay tuned for episode 3 featuring postdoctoral researcher at the [Berkeley Center for Computational Imaging](https://amplab.cs.berkeley.edu/author/jonas/), [Eric Jonas](http://ericjonas.com/). He studies a wide range of topics– biological signal acquisition, machine learning, neuroscience, and heliophysics among others. In this episode, Matt and Dr. Jonas discuss neurons vs transistors, brain lesions, and [connectomes](http://ericjonas.com/pages/connectomics.html).
 
 Who else would you like to see on the show? Suggestions are welcome in our [discussion on HTM School topics](https://discourse.numenta.org/c/other-topics/youtube) on the [HTM Forum](http://discourse.numenta.com/).
 
-<font size="3"><i><center>If you want to be notified about new HTM School videos, please subscribe to <a href="http://youtube.com/OfficialNumenta">our channel.</center></i></a></font>
+<font size="3"><i><center>If you want to be notified about new HTM School videos, <br>please subscribe to <a href="http://youtube.com/OfficialNumenta">our channel.</center></i></a></font>
