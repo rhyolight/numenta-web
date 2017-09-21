@@ -1,6 +1,6 @@
 ---
 author: Joanne Cua
-brief: "Designed to make the theory of Hierarchical Temporal Memory (HTM) more accessible to the general public, HTM School is a YouTube channel containing videos about HTM and updates on our ongoing research here at Numenta. The channel is run by Numenta’s Open Source Manager Matt Taylor and was created a year ago to educate everyone about HTM. On the channel, you will find bite-sized, 15-20 minute educational HTM videos with visualizations and examples, interviews with our co-founder Jeff Hawkins, Numenta researchers, and other neuroscientists, as well as monthly live HTM Hackers’ Hangouts."
+brief: "Designed to make the theory of Hierarchical Temporal Memory (HTM) more accessible to the general public, HTM School is a YouTube channel containing videos about HTM and updates on our ongoing research here at Numenta. The channel is run by Numenta’s Open Source Manager Matt Taylor and was created a year ago to educate everyone about HTM. On the channel, you will find bite-sized, 15-20 minute educational HTM videos with visualizations and examples, "
 date: 2017/09/22
 hideImage: true
 image: ../images/eagleman.png
