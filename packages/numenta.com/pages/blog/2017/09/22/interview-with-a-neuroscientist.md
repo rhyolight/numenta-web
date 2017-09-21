@@ -24,3 +24,5 @@ HTM School recently debuted a new series called Interview with a Neuroscientist 
 ![Interview Jonas](../images/jonas.png)Stay tuned for episode 3 featuring postdoctoral researcher at the Berkeley Center for Computational Imaging, Eric Jonas. He studies a wide range of topics– biological signal acquisition, machine learning, neuroscience, and heliophysics among others. In this episode, Matt and Dr. Jonas discuss neurons vs transistors, brain legions, and connectomes.
 
 Who else would you like to see on the show? Suggestions are welcome in our [discussion on HTM School topics](https://discourse.numenta.org/c/other-topics/youtube) on the [HTM Forum](http://discourse.numenta.com/).
+
+*If you want to be notified about new HTM School videos, please subscribe to [our channel](http://youtube.com/OfficialNumenta).*

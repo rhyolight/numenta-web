@@ -66,6 +66,7 @@ const avatars = {
   ImageYuweiCui,
   ImageZuhaAgha,
   ImageLuizScheinkman,
+  ImageJoanneCua,
 }
 
 
