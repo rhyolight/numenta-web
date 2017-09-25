@@ -5,8 +5,8 @@ date: 2017/09/28
 event:
   what: "The Biological Path Towards Strong AI"
   when:
-    begin: 2017/09/28
-    end: 2017/09/30
+    begin: 2017/09/29 10:10
+    end: 2017/09/29 10:50
   where:
     desc: Peabody Opera House
     city: St. Louis
