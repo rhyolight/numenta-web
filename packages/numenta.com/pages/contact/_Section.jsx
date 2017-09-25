@@ -147,8 +147,8 @@ const SectionContact = (props, {config}) => {
                 Licensing Inquiries:
               </DefineTitle>
               <DefineItem>
-                <TextLink to={`mailto:${contact.email.sales}`}>
-                  {contact.email.sales}
+                <TextLink to={`mailto:${contact.email.licenses}`}>
+                  {contact.email.licenses}
                 </TextLink>
               </DefineItem>
             </DefineList>
