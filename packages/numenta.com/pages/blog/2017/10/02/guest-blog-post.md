@@ -75,19 +75,16 @@ Then came neuron and column selection mechanisms with their own property windows
 <br/>
 <center><i>Figure 5 – Core; real-time visual debugger of the HTM network.</center></i>
 
-**What’s next for this work?**  
+**What’s next for this work?**<br/>
 Currently I am exploring the application of the proposed method onto a game prototype utilizing the engine. I am experimenting with a system where the player sets increasingly complex sequences for the agent to learn which is referred to as shaping in psychology. The agent then starts with the simplest one and advances to more complex ones as it passes an efficiency threshold. At the same time, I am looking on strategies to incorporate ideas from the [recent sensorimotor research by Numenta](https://numenta.com/papers/why-does-the-neocortex-have-layers-and-columns/). In order to expand what the agent can accomplish, I am also testing different visual sensor types (presented in the latest video on my channel) such as event based sensors and more granular movement types that work well with them.
 
 **Do you have plans to use HTM in the future?**
+<br/>
 The thesis is an output of the work in its current form but the proposed HTM network is constantly being modified and it is iteratively getting better. This is a long endeavor and hopefully the game will communicate what I envision via its HTM agents. In the very least, we will have a much better understanding of brain mechanisms through HTM theory and that alone is an exciting promise for me.
 
-**Where can people view this work?**
-Whenever I produce something worthwhile, it is usually uploaded to [my Youtube channel](https://www.youtube.com/channel/UCY67JpPuQ9SkiB2bHO7yfCw) as a video. There is a supplementary visual demo for the thesis there. I am also an active Numenta forum user where readers can reach me.
-<hr />
-Note: The thesis is not live yet on METU electronic library so below is the link to the electronic copy they are processing currently. In case, I would prefer this link to be used until then. <br/>
-<a href="https://www.dropbox.com/s/jguh4d0863y6x1r/10164132.pdf?dl=0">https://www.dropbox.com/s/jguh4d0863y6x1r/10164132.pdf?dl=0</a>
+**Where can people follow this work?**
 <br/>
-As for contact email for readers: <a href="mailto:ksungur@metu.edu.tr">ksungur@metu.edu.tr</a>
+For those who wish to read my thesis, you can download it [here](https://www.dropbox.com/s/jguh4d0863y6x1r/10164132.pdf?dl=0). Whenever I produce something worthwhile, it is usually uploaded to [my Youtube channel](https://www.youtube.com/channel/UCY67JpPuQ9SkiB2bHO7yfCw) as a video. There is a supplementary visual demo for the thesis there. I am also an active Numenta forum user where readers can reach me and join in the discussion of this topic on the [forum](https://discourse.numenta.org/t/htm-based-autonomous-agent/2701).  Readers can also contact me at [ksungur@metu.edu.tr](mailto:ksungur@metu.edu.tr).
 <br/>
 <br/>
 <b>Technical details on the real-time agent architecture with a hierarchy of HTM layers</b>
