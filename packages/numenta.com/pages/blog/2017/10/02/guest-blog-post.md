@@ -10,7 +10,7 @@ title: "Guest Post: Behind the Idea – HTM Based Autonomous Agent"
 type: post
 ---
 
-**Can you introduce yourself and your area of expertise?**
+<p style="margin-left: 0pt; display: inline"><b>Can you introduce yourself and your area of expertise?</b></p>
 <br/>
 My full name is Ali Kaan Sungur and I work as a research assistant in Middle East Technical University, Graduate School of Informatics. I'm a computer science graduate specialized in game development and real-time 3D graphics. Recently, HTM and related neuroscience became my main area of interest. I have an Ms. degree in Game Technologies and just started my PhD. in Cognitive Science. Oh, and I love cycling.
 
