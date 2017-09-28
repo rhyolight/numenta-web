@@ -4,9 +4,9 @@ brief: "My full name is Ali Kaan Sungur and I work as a research assistant in Mi
 date: 2017/10/03
 hideImage: true
 image: ../images/Picture1.png
-org: HTM Theorist
+org: HTM Community Member
 tags: numenta hierarchical temporal memory htm blog
-title: "HTM Based Autonomous Agent for Partially Observable Video Game Environments"
+title: "Guest Post: Behind the Idea – HTM Based Autonomous Agent"
 type: post
 ---
 
@@ -99,6 +99,7 @@ HTM research is driven by neurobiological evidence. Similarly, the proposed arch
 The agent can also be guided in a straightforward way so that it learns specific wanted sequences. During guidance, everything that the player sees and does are fed to the agent as if the agent is living the experience of the player. The proposed method runs real time, learns continuously and optimizes its behaviors with respect to the long-term rewards. You can start learning unsupervised, teach something to the agent, store it and continue at a later session. So, it is a practical NPC architecture. NPC (non-player character) includes all the computer controlled actors in a video game other than the player. The baddies that we shoot, the pets that follow us, citizens of our city etc. are all NPCs of a video game.
 
 **More details on the results**
+<br/>
 The agent becomes better at evaluating and predicting its state with respect to the long-term reward measured by Mean Absolute Error in the first graph below. The agent also becomes more efficient at navigating to the portal and accomplishes the task more frequently as the time passes. This is measured by the moving average reward in the second graph. The third graph below shows that the layer network can run in real time for layer sizes smaller than 800 columns and 8 neurons per column. You can store and retrieve this agent which has 10 million synapses in around 3 seconds which takes up 50MB of storage space.
 
 ![Guest Figure 7](../images/Picture7.png)
