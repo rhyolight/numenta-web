@@ -30,6 +30,7 @@ As a firm believer in the power of video games as a communication tool, my main 
 <br/>
 <center><i>Figure 1 – Visual data stream incoming to the agent through ray casting the environment. The resulting image is above the agent icon.</center></i>
 
+
 ![Guest Figure 2](../images/Picture2.png)
 <br/>
 <center><i>Figure 2 – Procedurally generated 3D terrain that the agent navigates.</center></i>
@@ -89,7 +90,7 @@ Note: The thesis is not live yet on METU electronic library so below is the link
 As for contact email for readers: <a href="mailto:ksungur@metu.edu.tr">ksungur@metu.edu.tr</a>
 <br/>
 <br/>
-**Technical details on the real-time agent architecture with a hierarchy of HTM layers**
+<b>Technical details on the real-time agent architecture with a hierarchy of HTM layers</b>
 <br/>
 HTM research is driven by neurobiological evidence. Similarly, the proposed architecture imitates the interplay of basal ganglia, layer 5 and motor areas. Figure 4 highlights the two competing reward pathways (referred as direct and indirect pathways) which result in the actions of the agent. The mechanism is abstracted from the computational models of basal ganglia and the relevant neurobiological research is provided.
 
