@@ -11,37 +11,38 @@ type: post
 ---
 
 **Can you introduce yourself and your area of expertise?**
-<br / >
+<br/>
 My full name is Ali Kaan Sungur and I work as a research assistant in Middle East Technical University, Graduate School of Informatics. I'm a computer science graduate specialized in game development and real-time 3D graphics. Recently, HTM and related neuroscience became my main area of interest. I have an Ms. degree in Game Technologies and just started my PhD. in Cognitive Science. Oh, and I love cycling.
 
 **How long have you been a member of the HTM Community?**
-<br / >
+<br/>
 I was around during the time when HTM was discussed through mailing lists. So, I think I have been a member since 2014. There is a mail in those lists where I ask about the feasibility of an HTM agent for a video game. Fast forward 3 years and I presented HTM as a promising foundation for a game agent in my thesis.
 
 **How did you first learn of HTM?**
-<br / >
+<br/>
 I was prototyping a PC game called The Wonderer in 2013 where I wanted computer controlled characters which can learn and generalize the actions demonstrated by the player. After exploring a couple of traditional approaches like behavior trees, simple Bayesian behavior models, S.T.R.I.P.S., I ended up watching a [Ted talk by Jeff Hawkins](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing). The approach of HTM instantly hooked me, so I started implementing my own version for the said prototype. It took around 6 months of tinkering on HTM and deciphering NuPIC codebase to get the first version working embedded inside the engine.
 
 **Can you describe your thesis, at a high level?**
-<br / >
+<br/>
 As a firm believer in the power of video games as a communication tool, my main goal was to explore the feasibility of an HTM based game agent which can explore its environment and learn behaviors that are rewarding. The literature is almost non-existent on an unsupervised HTM based autonomous agent. I proposed a real-time agent architecture involving a hierarchy of HTM layers that can learn action sequences with respect to the stimulated reward. This agent navigates a procedurally generated 3D environment and models the patterns streaming onto its visual sensor shown in Figures 1 and 2.
 
 ![Guest Figure 1](../images/Picture1.png)
-<br / >
+<br/>
 <center><i>Figure 1 – Visual data stream incoming to the agent through ray casting the environment. The resulting image is above the agent icon.</center></i>
 
 ![Guest Figure 2](../images/Picture2.png)
-<br / >
+<br/>
 <center><i>Figure 2 – Procedurally generated 3D terrain that the agent navigates.</center></i>
 
 The problem I focused on in the thesis involves a simple video game task where the agent is expected to navigate to a portal from its starting position as in Figure 3 using only the visual information.
 
 ![Guest Figure 3](../images/Picture3.png)
-<br / >
+<br/>
 <center><i>Figure 3 – An example scenario where the agent is expected to navigate to the portal.</center></i>
 
 For more details on the HTM-inspired architecture, I’ve included technical details at the end of this post.
-
+<br/>
+<br/>
 **Why did you decide to use HTM in your thesis? Did you consider other models, either from traditional machine learning or computational neuroscience?**
 <br />
 It was more like HTM became the center of my work in time because I was intrigued with what I was learning about biological intelligence mechanisms. No other learning approach promised a biologically plausible computational model for an agent. NEF (Neural Engineering Framework) is the closest contender preferred by the cognitive science crowd. Relations between large scale neuron groups are defined via math functions and the underlying learning rule is pure math. So it is bioplausible at a larger scale. It is also not focused on relevant neurobiological research in cortical learning level as much as HTM.
@@ -59,7 +60,7 @@ Here is the real reason; I did not want to work years on a model which does not 
 The results suggest that the agent becomes better at evaluating and predicting its state with respect to long-term reward. Moreover, the agent becomes more efficient at navigating to the portal and accomplishes the task more frequently as the time passes. I’ve included some graphs at the end of the blog post that show more details, but all in all, the results suggested that this is a promising architecture that could be utilized in a video game designed around it.
 
 **It’s not an easy task to create HTM visualizations, and yours were particularly impressive.  How did you go about creating them?**
-
+<br/>
 Interestingly the visualizations were born out of necessity. Trying to debug thousands of neurons through development environment was very time consuming. I had an engine at hand, so first I just rendered active minicolumns and the synapses activating them in a rectangular grid to see that the layers run as expected. Figure 7 shows the first visualization two years ago.
 
 ![Guest Figure 4](../images/Picture4.png)
@@ -67,7 +68,8 @@ Interestingly the visualizations were born out of necessity. Trying to debug tho
 <center><i>Figure 4 – First attempt at the visualization of HTM layers.</center></i>
 
 Then came neuron and column selection mechanisms with their own property windows as I needed to see them. These were followed by playback options, coloring schemes, connectome statistics, and serialization capabilities along with a variety of synaptic visualizations as I wanted to visually access increasingly complex information while the architecture is running. Under the hood, the user interface runs on DirectX 11 API and it consists of some basic abilities: rendering a 2D texture, drawing lines, printing words, and some transparency. The result is a real-time visual debugger for HTM as you can see in Figure 8 which I refer to as Core and it keeps getting more powerful as my demands evolve.
-
+<br/>
+<br/>
 ![Guest Figure 5](../images/Picture5.png)
 <br/>
 <center><i>Figure 5 – Core; real-time visual debugger of the HTM network.</center></i>
@@ -82,10 +84,9 @@ The thesis is an output of the work in its current form but the proposed HTM net
 Whenever I produce something worthwhile, it is usually uploaded to [my Youtube channel](https://www.youtube.com/channel/UCY67JpPuQ9SkiB2bHO7yfCw) as a video. There is a supplementary visual demo for the thesis there. I am also an active Numenta forum user where readers can reach me.
 <hr />
 Note: The thesis is not live yet on METU electronic library so below is the link to the electronic copy they are processing currently. In case, I would prefer this link to be used until then. <br/>
-https://www.dropbox.com/s/jguh4d0863y6x1r/10164132.pdf?dl=0
+<a href="https://www.dropbox.com/s/jguh4d0863y6x1r/10164132.pdf?dl=0">https://www.dropbox.com/s/jguh4d0863y6x1r/10164132.pdf?dl=0</a>
 <br/>
-As for contact email for readers: [ksungur@metu.edu.tr](mailto:ksungur@metu.edu.tr)
-<br/>
+As for contact email for readers: <a href="mailto:ksungur@metu.edu.tr">ksungur@metu.edu.tr</a>
 <br/>
 <br/>
 **Technical details on the real-time agent architecture with a hierarchy of HTM layers**
@@ -94,11 +95,11 @@ HTM research is driven by neurobiological evidence. Similarly, the proposed arch
 
 ![Guest Figure 6](../images/Picture6.png)
 <br/>
-<center><i>Figure 6 – The competing pathways of the architecture acting on layer 5 and producing motor actions.<center></i>
+<center><i>Figure 6 – The competing pathways of the architecture acting on layer 5 and producing motor actions.</center></i>
 
 The agent can also be guided in a straightforward way so that it learns specific wanted sequences. During guidance, everything that the player sees and does are fed to the agent as if the agent is living the experience of the player. The proposed method runs real time, learns continuously and optimizes its behaviors with respect to the long-term rewards. You can start learning unsupervised, teach something to the agent, store it and continue at a later session. So, it is a practical NPC architecture. NPC (non-player character) includes all the computer controlled actors in a video game other than the player. The baddies that we shoot, the pets that follow us, citizens of our city etc. are all NPCs of a video game.
 
-**More details on the results**
+<b>More details on the results</b>
 <br/>
 The agent becomes better at evaluating and predicting its state with respect to the long-term reward measured by Mean Absolute Error in the first graph below. The agent also becomes more efficient at navigating to the portal and accomplishes the task more frequently as the time passes. This is measured by the moving average reward in the second graph. The third graph below shows that the layer network can run in real time for layer sizes smaller than 800 columns and 8 neurons per column. You can store and retrieve this agent which has 10 million synapses in around 3 seconds which takes up 50MB of storage space.
 
