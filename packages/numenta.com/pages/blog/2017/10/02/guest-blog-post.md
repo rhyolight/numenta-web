@@ -106,3 +106,5 @@ Then came neuron and column selection mechanisms with their own property windows
 ![Guest Figure 6](../images/Picture5.png)
 <br/>
 <center><i>Figure 6 – Core; real-time visual debugger of the HTM network.</center></i>
+<br/>
+<br/>
