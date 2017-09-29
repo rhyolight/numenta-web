@@ -8,7 +8,7 @@ image: ../images/sensorimotor.png
 link: https://doi.org/10.1101/162263
 org: "Preprint of journal submission"
 sort: a
-title: "Why Does the Neocortex Have Layers and Columns, A Theory of Learning the 3D Structure of the World"
+title: "Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World"
 type: post
 ---
 
