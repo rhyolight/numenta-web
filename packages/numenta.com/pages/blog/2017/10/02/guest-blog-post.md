@@ -101,7 +101,6 @@ Interestingly the visualizations were born out of necessity. Trying to debug tho
 Then came neuron and column selection mechanisms with their own property windows as I needed to see them. These were followed by playback options, coloring schemes, connectome statistics, and serialization capabilities along with a variety of synaptic visualizations as I wanted to visually access increasingly complex information while the architecture is running. Under the hood, the user interface runs on DirectX 11 API and it consists of some basic abilities: rendering a 2D texture, drawing lines, printing words, and some transparency.
 <br/>
 <br/>
-
 <b>More details on the results</b>
 <br/>
 The agent becomes better at evaluating and predicting its state with respect to the long-term reward measured by Mean Absolute Error in the first graph below. The agent also becomes more efficient at navigating to the portal and accomplishes the task more frequently as the time passes. This is measured by the moving average reward in the second graph. The third graph below shows that the layer network can run in real time for layer sizes smaller than 800 columns and 8 neurons per column. You can store and retrieve this agent which has 10 million synapses in around 3 seconds which takes up 50MB of storage space.
@@ -111,5 +110,4 @@ The agent becomes better at evaluating and predicting its state with respect to 
 ![Guest Results 2](../images/Picture8.png)
 
 ![Guest Results 3](../images/Picture9.png)
-<br/>
 <br/>
