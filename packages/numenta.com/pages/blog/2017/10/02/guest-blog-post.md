@@ -41,7 +41,6 @@ The problem I focused on in the thesis involves a simple video game task where t
 <br/>
 <center><i>Figure 3 – An example scenario where the agent is expected to navigate to the portal.</center></i>
 <br/>
-<br/>
 <b>Why did you decide to use HTM in your thesis? Did you consider other models, either from traditional machine learning or computational neuroscience?</b>
 <br/>
 It was more like HTM became the center of my work in time because I was intrigued with what I was learning about biological intelligence mechanisms. No other learning approach promised a biologically plausible computational model for an agent. NEF (Neural Engineering Framework) is the closest contender preferred by the cognitive science crowd. Relations between large scale neuron groups are defined via math functions and the underlying learning rule is pure math. So it is bioplausible at a larger scale. It is also not focused on relevant neurobiological research in cortical learning level as much as HTM.
