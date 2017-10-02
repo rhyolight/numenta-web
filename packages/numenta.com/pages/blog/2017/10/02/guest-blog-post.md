@@ -36,11 +36,11 @@ As a firm believer in the power of video games as a communication tool, my main 
 <center><i>Figure 2 – Procedurally generated 3D terrain that the agent navigates.</center></i>
 
 The problem I focused on in the thesis involves a simple video game task where the agent is expected to navigate to a portal from its starting position as in Figure 3 using only the visual information.
-
+<br/><br/>
 ![Guest Figure 3](../images/Picture3.png)
 <br/>
 <center><i>Figure 3 – An example scenario where the agent is expected to navigate to the portal.</center></i>
-
+<br/>
 For more details on the HTM-inspired architecture, I’ve included technical details at the end of this post.
 <br/>
 <br/>
@@ -51,12 +51,16 @@ It was more like HTM became the center of my work in time because I was intrigue
 Computational neuroscience models are mostly focused on isolated components rather than a universal learning algorithm or a scheme for an autonomous agent. Computational models of basal ganglia come closer in this regard and the architecture of the thesis is guided by these models as a result.
 
 HTM is very intuitive when it comes to function and visualization. It is a model that can predict its own state, not a value that you want to optimize. You can look at the model and can decipher what is going on or if something is wrong. This is a very important attribute if you wanted to present it. I am not sure you can decipher and communicate traditional machine learning models such as LSTM or Deep Learning through visualization, this easily. They have a stronger focus on math, which serves them well in real machine learning scenarios, but I wanted something else.
-
+<br/>
+<br/>
 ![Guest Figure 4](../images/Picture5.png)
 <br/>
-<center><i>Figure 4 – Core; real-time visual debugger of the HTM network. I wanted biological relevancy, functional intuition and model transparency.</i></center>
+<center><i>Figure 4 – Core; real-time visual debugger of the HTM network.</i></center>
 <br/>
-At the same time, the learning it provides needed to be continuous, real-time and unsupervised for the agent I envisioned. HTM was a stronger fit for what I wanted in general.
+<i>Figure 4 shows what I refer to as Core, my main visualization, which keeps getting more powerful as my demands evolve.  For those interested in how I built the visualizations, I’ve included more details at the end of the post. </i>
+<br/>
+<br/>
+I wanted biological relevancy, functional intuition and model transparency. At the same time, the learning it provides needed to be continuous, real-time and unsupervised for the agent I envisioned. HTM was a stronger fit for what I wanted in general.
 
 Here is the real reason; I did not want to work years on a model which does not naturally map to my understanding of biological intelligence when there is an approach that offers me just that.
 
