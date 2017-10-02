@@ -29,7 +29,7 @@ Even if you are not attending ODSC West, this meetup will be open to all. Please
 We have two talks planned for this event:
 
 **Talk 1: Location relative to the "environment" object: A Brief Review**
-Marcus Lewis, Numenta Research Engineer
+**Speaker:** Marcus Lewis, Numenta Research Engineer
 
 In our latest paper, we propose that every part of the neocortex computes and uses a "location relative to the object".
 Separately, in the last 45 years, it has become clear that higher cortex and hippocampus compute and use a "location relative to the environment".
@@ -39,7 +39,7 @@ I'll try to share some of those clues.
 
 
 **Talk 2: Numenta Brain Theory Discoveries of 2016/2017**
-Jeff Hawkins, Numenta Co-Founder
+**Speaker:** Jeff Hawkins, Numenta Co-Founder
 
 In this talk, Numenta Co-Founder Jeff Hawkins will discuss recent advances in cortical theory made by Numenta.
 These discoveries are described in the manuscript, “Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World.”  
