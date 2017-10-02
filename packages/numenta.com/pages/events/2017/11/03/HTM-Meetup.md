@@ -65,10 +65,10 @@ and modeling capabilities than previously assumed.
 
 **Agenda**
 ------
-7:00 – 7:20 Sign-in, Networking, Food
-7:20 – 8:00 Talk 1: Marcus
-8:00 – 8:40 Talk 2: Jeff
-8:40 – 9:00 More Networking
+7:00 – 7:20 Sign-in, Networking, Food<br/>
+7:20 – 8:00 Talk 1: Marcus<br/>
+8:00 – 8:40 Talk 2: Jeff<br/>
+8:40 – 9:00 More Networking<br/>
 
 
 See our forum for [discussion](https://discourse.numenta.org/t/htm-meetup-planning-november-3-in-sf/2830) about this event.
