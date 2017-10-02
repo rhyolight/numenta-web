@@ -3,7 +3,7 @@ author: Ali Kaan Sungur
 brief: "My full name is Ali Kaan Sungur and I work as a research assistant in Middle East Technical University, Graduate School of Informatics. I'm a computer science graduate specialized in game development and real-time 3D graphics. Recently, HTM and related neuroscience became my main area of interest. I have an Ms. degree in Game Technologies and just started my PhD. in Cognitive Science. Oh, and I love cycling."
 date: 2017/10/02
 hideImage: true
-image: ../images/Picture1.png
+image: ../images/Picture5.png
 org: HTM Community Member
 tags: numenta hierarchical temporal memory htm blog
 title: "Guest Post: Behind the Idea – HTM Based Autonomous Agent"
@@ -52,7 +52,11 @@ Computational neuroscience models are mostly focused on isolated components rath
 
 HTM is very intuitive when it comes to function and visualization. It is a model that can predict its own state, not a value that you want to optimize. You can look at the model and can decipher what is going on or if something is wrong. This is a very important attribute if you wanted to present it. I am not sure you can decipher and communicate traditional machine learning models such as LSTM or Deep Learning through visualization, this easily. They have a stronger focus on math, which serves them well in real machine learning scenarios, but I wanted something else.
 
-I wanted biological relevancy, functional intuition and model transparency. At the same time, the learning it provides needed to be continuous, real-time and unsupervised for the agent I envisioned. HTM was a stronger fit for what I wanted in general.
+![Guest Figure 4](../images/Picture5.png)
+<br/>
+<center><i>Figure 4 – Core; real-time visual debugger of the HTM network. I wanted biological relevancy, functional intuition and model transparency.</i></center>
+<br/>
+At the same time, the learning it provides needed to be continuous, real-time and unsupervised for the agent I envisioned. HTM was a stronger fit for what I wanted in general.
 
 Here is the real reason; I did not want to work years on a model which does not naturally map to my understanding of biological intelligence when there is an approach that offers me just that.
 
@@ -74,13 +78,25 @@ For those who wish to read my thesis, you can download it [here](https://www.dro
 <hr/>
 <b>Technical details on the real-time agent architecture with a hierarchy of HTM layers</b>
 <br/>
-HTM research is driven by neurobiological evidence. Similarly, the proposed architecture imitates the interplay of basal ganglia, layer 5 and motor areas. Figure 4 highlights the two competing reward pathways (referred as direct and indirect pathways) which result in the actions of the agent. The mechanism is abstracted from the computational models of basal ganglia and the relevant neurobiological research is provided.
+HTM research is driven by neurobiological evidence. Similarly, the proposed architecture imitates the interplay of basal ganglia, layer 5 and motor areas. Figure 5 highlights the two competing reward pathways (referred as direct and indirect pathways) which result in the actions of the agent. The mechanism is abstracted from the computational models of basal ganglia and the relevant neurobiological research is provided.
 
-![Guest Figure 4](../images/Picture6.png)
+![Guest Figure 5](../images/Picture6.png)
 <br/>
-<center><i>Figure 4 – The competing pathways of the architecture acting on layer 5 and producing motor actions.</center></i>
+<center><i>Figure 5 – The competing pathways of the architecture acting on layer 5 and producing motor actions.</center></i>
 
 The agent can also be guided in a straightforward way so that it learns specific wanted sequences. During guidance, everything that the player sees and does are fed to the agent as if the agent is living the experience of the player. The proposed method runs real time, learns continuously and optimizes its behaviors with respect to the long-term rewards. You can start learning unsupervised, teach something to the agent, store it and continue at a later session. So, it is a practical NPC architecture. NPC (non-player character) includes all the computer controlled actors in a video game other than the player. The baddies that we shoot, the pets that follow us, citizens of our city etc. are all NPCs of a video game.
+
+**It’s not an easy task to create HTM visualizations, and yours were particularly impressive.  How did you go about creating them?**
+<br/>
+Interestingly the visualizations were born out of necessity. Trying to debug thousands of neurons through development environment was very time consuming. I had an engine at hand, so first I just rendered active minicolumns and the synapses activating them in a rectangular grid to see that the layers run as expected. Figure 6 shows the first visualization two years ago.
+
+![Guest Figure 6](../images/Picture4.png)
+<br/>
+<center><i>Figure 6 – First attempt at the visualization of HTM layers.</center></i>
+
+Then came neuron and column selection mechanisms with their own property windows as I needed to see them. These were followed by playback options, coloring schemes, connectome statistics, and serialization capabilities along with a variety of synaptic visualizations as I wanted to visually access increasingly complex information while the architecture is running. Under the hood, the user interface runs on DirectX 11 API and it consists of some basic abilities: rendering a 2D texture, drawing lines, printing words, and some transparency.
+<br/>
+<br/>
 
 <b>More details on the results</b>
 <br/>
@@ -91,20 +107,5 @@ The agent becomes better at evaluating and predicting its state with respect to 
 ![Guest Results 2](../images/Picture8.png)
 
 ![Guest Results 3](../images/Picture9.png)
-
-**It’s not an easy task to create HTM visualizations, and yours were particularly impressive.  How did you go about creating them?**
-<br/>
-Interestingly the visualizations were born out of necessity. Trying to debug thousands of neurons through development environment was very time consuming. I had an engine at hand, so first I just rendered active minicolumns and the synapses activating them in a rectangular grid to see that the layers run as expected. Figure 5 shows the first visualization two years ago.
-
-![Guest Figure 5](../images/Picture4.png)
-<br/>
-<center><i>Figure 5 – First attempt at the visualization of HTM layers.</center></i>
-
-Then came neuron and column selection mechanisms with their own property windows as I needed to see them. These were followed by playback options, coloring schemes, connectome statistics, and serialization capabilities along with a variety of synaptic visualizations as I wanted to visually access increasingly complex information while the architecture is running. Under the hood, the user interface runs on DirectX 11 API and it consists of some basic abilities: rendering a 2D texture, drawing lines, printing words, and some transparency. The result is a real-time visual debugger for HTM as you can see in Figure 6 which I refer to as Core and it keeps getting more powerful as my demands evolve.
-<br/>
-<br/>
-![Guest Figure 6](../images/Picture5.png)
-<br/>
-<center><i>Figure 6 – Core; real-time visual debugger of the HTM network.</center></i>
 <br/>
 <br/>
