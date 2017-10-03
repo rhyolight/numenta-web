@@ -15,13 +15,12 @@ event:
     web: https://www.meetup.com/numenta/events/243501858/
   who: Jeff Hawkins, Marcus Lewis and Jason Toy
   why: Speaking
-image: ../images/htm-meetup-photo.png
+image: ../images/jeff-speaking.jpg
 org: Numenta Co-Founder
 tags: artificial intelligence biological htm hierarchical temporal memory computing brain
 title: "HTM Meetup"
 type: post
 ---
-## Agenda:
 
 This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california).
 Even if you are not attending ODSC West, this meetup will be open to all. We will have food and drinks. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/).
@@ -29,18 +28,18 @@ Even if you are not attending ODSC West, this meetup will be open to all. We wil
 We have three talks planned for this event:
 
 **Talk 1: TouchNet - Training AIs to touch, move, and interact with their environment** <br/>
-**Speaker:** Jason Toy, Somatic
+**Speaker:** Jason Toy, Somatic Founder / CEO
 
 In this talk, Jason Toy will walk you through a preview of TouchNet, a project he has been working on to enable training of AIs to interact with their environment via touch and movement . TouchNet is a dataset of 3D objects and a simulator to interact with those objects. Jason will show how you could implement your own AI using HTM or other algorithms to learn through the simulator.
 
 **Talk 2: Location relative to the "environment" object: A brief review** <br/>
 **Speaker:** Marcus Lewis, Numenta Research Engineer
 
-In our latest paper, we propose that every part of the neocortex computes and uses a "location relative to the object".
+In Numenta's latest paper, they propose that every part of the neocortex computes and uses a "location relative to the object".
 Separately, in the last 45 years, it has become clear that higher cortex and hippocampus compute and use a "location relative to the environment".
-In this talk, I'll introduce you to what we know about this higher location-processing. I'll focus on entorhinal cortex and the hippocampus,
+In this talk, Marcus will introduce you to what we know about this higher location-processing. He'll focus on entorhinal cortex and the hippocampus,
 with a special focus on grid cells, place cells, and head-direction cells. These cells give us many clues about the brain's representation of space.
-I'll try to share some of those clues.
+Marcus will try to share some of those clues.
 
 
 **Talk 3: Numenta brain theory discoveries of 2016/2017**<br/>
