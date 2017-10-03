@@ -16,7 +16,7 @@ event:
   who: Jeff Hawkins
   why: Speaking
 image: ../images/htm-meetup-photo.png
-org: HTM Community Leader
+org: Numenta Co-Founder
 tags: artificial intelligence biological htm hierarchical temporal memory computing brain
 title: "HTM Meetup"
 type: post
