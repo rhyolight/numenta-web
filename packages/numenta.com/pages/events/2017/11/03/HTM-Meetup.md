@@ -15,7 +15,7 @@ event:
     web: https://www.meetup.com/numenta/events/243501858/
   who: Jeff Hawkins, Marcus Lewis and Jason Toy
   why: Speaking
-image: ../images/htm-meetup-photo.png
+image: ../images/jeff-speaking.jpg
 org: Numenta Co-Founder
 tags: artificial intelligence biological htm hierarchical temporal memory computing brain
 title: "HTM Meetup"
