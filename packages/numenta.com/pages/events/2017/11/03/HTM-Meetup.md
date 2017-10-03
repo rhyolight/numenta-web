@@ -24,11 +24,16 @@ type: post
 ## Agenda:
 
 This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california).
-Even if you are not attending ODSC West, this meetup will be open to all. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/).
+Even if you are not attending ODSC West, this meetup will be open to all. We will have food and drinks. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/).
 
-We have two talks planned for this event:
+We have three talks planned for this event:
 
-**Talk 1: Location relative to the "environment" object: A Brief Review**
+**Talk 1: TouchNet - Training AIs to touch, move, and interact with their environment** <br/>
+**Speaker:** Jason Toy, Somatic
+
+In this talk, Jason Toy will walk you through a preview of TouchNet, a project he has been working on to enable training of AIs to interact with their environment via touch and movement . TouchNet is a dataset of 3D objects and a simulator to interact with those objects. Jason will show how you could implement your own AI using HTM or other algorithms to learn through the simulator.
+
+**Talk 2: Location relative to the "environment" object: A brief review** <br/>
 **Speaker:** Marcus Lewis, Numenta Research Engineer
 
 In our latest paper, we propose that every part of the neocortex computes and uses a "location relative to the object".
@@ -38,16 +43,15 @@ with a special focus on grid cells, place cells, and head-direction cells. These
 I'll try to share some of those clues.
 
 
-**Talk 2: Numenta Brain Theory Discoveries of 2016/2017**
+**Talk 3: Numenta brain theory discoveries of 2016/2017**<br/>
 **Speaker:** Jeff Hawkins, Numenta Co-Founder
 
 In this talk, Numenta Co-Founder Jeff Hawkins will discuss recent advances in cortical theory made by Numenta.
-These discoveries are described in the manuscript, “Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World.”  
-Jeff will walk through the text and discuss the figures.  He will discuss the significance of these advances and the importance they will play in AI and cortical theory.  
+These discoveries are described in the manuscript, “Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World.”  Jeff will walk through the text and discuss the figures.  He will discuss the significance of these advances and the importance they will play in AI and cortical theory.  
 
 While the manuscript is currently under review, the pre-print is available via bioRxiv.  The link and abstract are provided below for attendees who would like to read it before the meetup.  
 
-[Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World](https://doi.org/10.1101/162263)
+[Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World](https://doi.org/10.1101/162263)<br/>
 Neocortical regions are organized into columns and layers. Connections between layers run mostly perpendicular to the surface suggesting a columnar functional organization.
 Some layers have long-range excitatory lateral connections suggesting interactions between columns.
 Similar patterns of connectivity exist in all regions but their exact role remain a mystery. In this paper,
@@ -65,10 +69,10 @@ and modeling capabilities than previously assumed.
 
 **Agenda**
 ------
-7:00 – 7:20 Sign-in, Networking, Food<br/>
-7:20 – 8:00 Talk 1: Marcus<br/>
-8:00 – 8:40 Talk 2: Jeff<br/>
-8:40 – 9:00 More Networking<br/>
+7:00–7:30 Talk 1: Jason <br/>
+7:30–8:00 Talk 2: Marcus<br/>
+8:00–8:30 Talk 3: Jeff<br/>
+8:30–9:00 Networking<br/>
 
 
 See our forum for [discussion](https://discourse.numenta.org/t/htm-meetup-planning-november-3-in-sf/2830) about this event.
