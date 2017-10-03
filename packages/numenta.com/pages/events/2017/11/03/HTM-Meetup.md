@@ -13,7 +13,7 @@ event:
     state: CA
     country: USA
     web: https://www.meetup.com/numenta/events/243501858/
-  who: Jeff Hawkins
+  who: Jeff Hawkins, Marcus Lewis and Jason Toy
   why: Speaking
 image: ../images/htm-meetup-photo.png
 org: Numenta Co-Founder
