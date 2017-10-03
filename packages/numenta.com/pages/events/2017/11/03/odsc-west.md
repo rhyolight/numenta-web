@@ -41,3 +41,6 @@ sensory input, no matter which sense. We believe we have discovered some of the
 foundational algorithms of the neocortex, and we've implemented them in
 software. I'll show you how they work with detailed dynamic visualizations of
 Sparse Distributed Representations, Spatial Pooling, and Temporal Memory.
+
+Following Matt's talk, we will be hosting a meetup where Numenta Co-Founder Jeff Hawkins will speak.  
+All are welcome to attend, but space is limited, so please [RSVP](https://www.meetup.com/numenta/events/243501858/). 
