@@ -1,5 +1,5 @@
 ---
-author: Matthew Taylor
+author: Jeff Hawkins
 brief:
 date: 2017/11/03
 event:
@@ -13,20 +13,66 @@ event:
     state: CA
     country: USA
     web: https://www.meetup.com/numenta/events/243501858/
-  who: Matthew Taylor
+  who: Jeff Hawkins, Marcus Lewis and Jason Toy
   why: Speaking
 image: ../images/htm-meetup-photo.png
-org: HTM Community Leader
-tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing strangeloop brain
+org: Numenta Co-Founder
+tags: artificial intelligence biological htm hierarchical temporal memory computing brain
 title: "HTM Meetup"
 type: post
 ---
 ## Agenda:
 
-Matt will give a presentation that includes the latest HTM visualizations and updates on our most recent research work.
+This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california).
+Even if you are not attending ODSC West, this meetup will be open to all. We will have food and drinks. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/).
 
-This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california). Even if you are not attending ODSC West, this meetup will be open to all. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/). If you want to present your work on HTM at this meetup, please [contact us](mailto:marketing@numenta.com?subject=Interested%20in%20presenting%20at%20the%20HTM%20Meetup).
+We have three talks planned for this event:
 
+**Talk 1: TouchNet - Training AIs to touch, move, and interact with their environment** <br/>
+**Speaker:** Jason Toy, Somatic
+
+In this talk, Jason Toy will walk you through a preview of TouchNet, a project he has been working on to enable training of AIs to interact with their environment via touch and movement . TouchNet is a dataset of 3D objects and a simulator to interact with those objects. Jason will show how you could implement your own AI using HTM or other algorithms to learn through the simulator.
+
+**Talk 2: Location relative to the "environment" object: A brief review** <br/>
+**Speaker:** Marcus Lewis, Numenta Research Engineer
+
+In our latest paper, we propose that every part of the neocortex computes and uses a "location relative to the object".
+Separately, in the last 45 years, it has become clear that higher cortex and hippocampus compute and use a "location relative to the environment".
+In this talk, I'll introduce you to what we know about this higher location-processing. I'll focus on entorhinal cortex and the hippocampus,
+with a special focus on grid cells, place cells, and head-direction cells. These cells give us many clues about the brain's representation of space.
+I'll try to share some of those clues.
+
+
+**Talk 3: Numenta brain theory discoveries of 2016/2017**<br/>
+**Speaker:** Jeff Hawkins, Numenta Co-Founder
+
+In this talk, Numenta Co-Founder Jeff Hawkins will discuss recent advances in cortical theory made by Numenta.
+These discoveries are described in the manuscript, “Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World.”  Jeff will walk through the text and discuss the figures.  He will discuss the significance of these advances and the importance they will play in AI and cortical theory.  
+
+While the manuscript is currently under review, the pre-print is available via bioRxiv.  The link and abstract are provided below for attendees who would like to read it before the meetup.  
+
+[Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World](https://doi.org/10.1101/162263)<br/>
+Neocortical regions are organized into columns and layers. Connections between layers run mostly perpendicular to the surface suggesting a columnar functional organization.
+Some layers have long-range excitatory lateral connections suggesting interactions between columns.
+Similar patterns of connectivity exist in all regions but their exact role remain a mystery. In this paper,
+we propose a network model composed of columns and layers that performs robust object learning and recognition.
+Each column integrates its changing input over time to learn complete predictive models of observed objects.
+Excitatory lateral connections across columns allow the network to more rapidly infer objects based on the partial knowledge of adjacent columns.
+Because columns integrate input over time and space, the network learns models of complex objects that extend well beyond the receptive field of individual cells.
+Our network model introduces a new feature to cortical columns. We propose that a representation of location relative to the object being sensed
+is calculated within the sub-granular layers of each column. The location signal is provided as an input to the network, where it is combined with sensory data.
+Our model contains two layers and one or more columns. Simulations show that using Hebbian-like learning rules small single-column networks can learn to
+recognize hundreds of objects, with each object containing tens of features. Multi-column networks recognize objects with significantly fewer movements of the sensory receptors.
+Given the ubiquity of columnar and laminar connectivity patterns throughout the neocortex, we propose that columns and regions have more powerful recognition
+and modeling capabilities than previously assumed.
+
+
+**Agenda**
+------
+7:00–7:30 Talk 1: Jason <br/>
+7:30–8:00 Talk 2: Marcus<br/>
+8:00–8:30 Talk 3: Jeff<br/>
+8:30–9:00 Networking<br/>
 
 
 See our forum for [discussion](https://discourse.numenta.org/t/htm-meetup-planning-november-3-in-sf/2830) about this event.
