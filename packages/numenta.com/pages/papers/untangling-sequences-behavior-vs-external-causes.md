@@ -6,7 +6,7 @@ date: 2017/09/19
 image:
 link: https://doi.org/10.1101/190678
 org: "Preprint of journal submission"
-sort: b
+sort: c
 title: "Untangling Sequences: Behavior vs. External Causes"
 type: link
 ---

@@ -5,7 +5,7 @@ category: machine-learning
 date: 2016/02/18
 link: http://arxiv.org/abs/1602.05925
 org: Research Paper
-sort: h
+sort: n
 title: "Encoding Data for HTM Systems"
 type: link
 ---

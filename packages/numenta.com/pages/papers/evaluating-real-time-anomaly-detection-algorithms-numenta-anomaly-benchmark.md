@@ -6,7 +6,7 @@ date: 2015/10/12
 image:
 link: http://arxiv.org/abs/1510.03336
 org: Published conference paper
-sort: g
+sort: k
 title: "Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark"
 type: link
 ---
