@@ -1,7 +1,7 @@
 ---
 author: Ali Kaan Sungur
 brief: "My full name is Ali Kaan Sungur and I work as a research assistant in Middle East Technical University, Graduate School of Informatics. I'm a computer science graduate specialized in game development and real-time 3D graphics. Recently, HTM and related neuroscience became my main area of interest. I have an Ms. degree in Game Technologies and just started my PhD. in Cognitive Science. Oh, and I love cycling."
-date: 2017/10/02
+date: 2017/10/04
 hideImage: true
 image: ../images/Picture5.png
 org: HTM Community Member
