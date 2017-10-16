@@ -32,14 +32,10 @@ We have three talks planned for this event:
 
 In this talk, Jason Toy will walk you through a preview of TouchNet, a project he has been working on to enable training of AIs to interact with their environment via touch and movement . TouchNet is a dataset of 3D objects and a simulator to interact with those objects. Jason will show how you could implement your own AI using HTM or other algorithms to learn through the simulator.
 
-**Talk 2: Location relative to the "environment" object: A brief review** <br/>
+**Talk 2: How Neurons Could Make Maps of Objects** <br/>
 **Speaker:** Marcus Lewis, Numenta Research Engineer
 
-In Numenta's latest paper, they propose that every part of the neocortex computes and uses a "location relative to the object".
-Separately, in the last 45 years, it has become clear that higher cortex and hippocampus compute and use a "location relative to the environment".
-In this talk, Marcus will introduce you to what we know about this higher location-processing. He'll focus on entorhinal cortex and the hippocampus,
-with a special focus on grid cells, place cells, and head-direction cells. These cells give us many clues about the brain's representation of space.
-Marcus will try to share some of those clues.
+The brain learns and recognizes objects with independent moving sensors. It's not obvious how a network of neurons would do this. Numenta has suggested that the brain solves this by computing each sensor's location relative to the object, and learning the object as a set of features-at-locations. This is analogous to making a map of the object. In this presentation, Marcus will show how the brain might determine this "location relative to the object." He will show a network of neurons that can use independent moving sensors to recognize an object. The network receives two inputs: the sensory input to each sensor, and the egocentric location of each sensor. The network uses the movement of sensors and the relative locations of these sensors to create a map of the object that is invariant to egocentric location.
 
 
 **Talk 3: Numenta brain theory discoveries of 2016/2017**<br/>
