@@ -2,7 +2,6 @@
 // MIT License (see LICENSE.txt)
 // Copyright © 2005—2017 Numenta <http://numenta.com>
 
-import capitalize from 'lodash/capitalize'
 import Helmet from 'react-helmet'
 import React from 'react'
 
@@ -47,7 +46,6 @@ export default class PapersPage extends React.Component {
   }
 
   _formatItem(data, file, path) {
-    const categoryNice = capitalize(data.category.replace(/-/, ' '))
     const url = (data.type === 'link') ? data.link : path
     let media = null
     if (data.image) {
@@ -80,8 +78,10 @@ export default class PapersPage extends React.Component {
               <div className={styles.meta}>
                 <Subtle>
                   {data.author}
-                  <Spacer />
-                  {categoryNice}
+                  <br />
+                  <span className={styles.category}>
+                    {data.category.replace(/-/g, ' ')}
+                  </span>
                   <br />
                   {data.org}
                   <Spacer />
@@ -113,15 +113,19 @@ export default class PapersPage extends React.Component {
     const categories = new Set()
     const years = new Set()
     allPosts.forEach((post) => {
-      categories.add(post.data.category)
+      // Comma separated categories
+      for (const cat of post.data.category.split(',')) {
+        categories.add(cat.trim())
+      }
+
       years.add(new Date(post.data.date).getFullYear())
     })
 
     // Build category filter menu
     const categoryOptions = Array.from(categories).sort()
       .map((cat) =>
-        <option value={cat}>
-          {capitalize(cat.replace(/-/, ' '))}
+        <option value={`\\b${cat}\\b`}>
+          {cat.replace(/-/g, ' ')}
         </option>
       )
 
@@ -149,7 +153,7 @@ export default class PapersPage extends React.Component {
         </Helmet>
         <Title headline={true}>
           {title}
-          <div className={styles.filter}>
+          <span className={styles.filter}>
             <select
               className={styles.select}
               onChange={(e) => this._categoryChangeed(e)}
@@ -167,7 +171,7 @@ export default class PapersPage extends React.Component {
               <option value=".*">All Years</option>
               {yearsOptions}
             </select>
-          </div>
+          </span>
         </Title>
         <ListOrder copy={false}>
           {items}

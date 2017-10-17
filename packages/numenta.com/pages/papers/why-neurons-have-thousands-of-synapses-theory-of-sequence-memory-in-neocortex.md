@@ -1,7 +1,7 @@
 ---
 author: "Jeff Hawkins & Subutai Ahmad"
 brief: "Foundational paper describing core HTM theory for sequence memory and its relationship to the neocortex. Written with a neuroscience perspective, the paper explains why neurons need so many synapses and how networks of neurons can form a powerful sequence learning mechanism."
-category: neuroscience
+category: neuroscience, sequence-learning
 date: 2016/03/30
 hideImage: true
 image: ../images/why-neurons-have-thousands.png

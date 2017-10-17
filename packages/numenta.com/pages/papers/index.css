@@ -41,6 +41,10 @@
   composes: layout-content from '../../static/assets/css/theme.css';
 }
 
+.category {
+  composes: ttc from 'tachyons';
+}
+
 .aside {
   composes: mt1 from 'tachyons';
   composes: tc from 'tachyons';
@@ -48,9 +52,9 @@
 }
 
 .filter {
-  composes: layout-aside from '../../static/assets/css/theme.css';
   composes: f5 from 'tachyons';
   composes: tr from 'tachyons';
+  composes: fr from 'tachyons';
 }
 
 .select {
