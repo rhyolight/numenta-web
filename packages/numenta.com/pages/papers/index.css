@@ -59,7 +59,6 @@
 
 .select {
   composes: mr2 from 'tachyons';
-  composes: ttc from 'tachyons';
   composes: ba from 'tachyons';
   composes: b--black-20 from 'tachyons';
   composes: br2 from 'tachyons';

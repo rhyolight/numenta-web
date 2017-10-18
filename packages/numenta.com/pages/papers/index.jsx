@@ -125,7 +125,11 @@ export default class PapersPage extends React.Component {
     const categoryOptions = Array.from(categories).sort()
       .map((cat) =>
         <option value={`\\b${cat}\\b`}>
-          {cat.replace(/-/g, ' ')}
+          {
+            cat.toLowerCase()
+               .replace(/-/g, ' ')
+               .replace(/\b\w/g, (s) => s.toUpperCase())
+          }
         </option>
       )
 
