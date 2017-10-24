@@ -36,13 +36,11 @@ export default class PapersPage extends React.Component {
   }
 
   _categoryChangeed(event) {
-    const {year} = this.state
-    this.setState({category: event.target.value, year})
+    this.setState({category: event.target.value})
   }
 
   _yearChangeed(event) {
-    const {category} = this.state
-    this.setState({year: event.target.value, category})
+    this.setState({year: event.target.value})
   }
 
   _formatItem(data, file, path) {
