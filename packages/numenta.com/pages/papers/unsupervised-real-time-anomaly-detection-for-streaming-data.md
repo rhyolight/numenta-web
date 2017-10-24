@@ -4,7 +4,7 @@ brief: "This paper, which appears in a special issue of Neurocomputing, demonstr
 necessary for real-time anomaly detection in streaming data. It also presents results using the
 Numenta Anomaly Benchmark (NAB), the first open-source
 benchmark designed for testing anomaly detection algorithms on streaming data."
-category: machine-learning
+category: machine-learning, anomaly-detection
 date: 2017/06/02
 hideImage: true
 image: ../images/anomaly-detection-image.png
