@@ -11,3 +11,16 @@
   border-bottom: 0;
   padding-bottom: 0;
 }
+.filter {
+  composes: f5 from 'tachyons';
+}
+
+.select {
+  composes: mr2 from 'tachyons';
+  composes: ba from 'tachyons';
+  composes: b--black-20 from 'tachyons';
+  composes: br2 from 'tachyons';
+  background-color: inherit;
+  float: right;
+  text-align: right;
+}
