@@ -53,8 +53,6 @@
 
 .filter {
   composes: f5 from 'tachyons';
-  composes: tr from 'tachyons';
-  composes: fr from 'tachyons';
 }
 
 .select {
@@ -63,4 +61,10 @@
   composes: b--black-20 from 'tachyons';
   composes: br2 from 'tachyons';
   background-color: inherit;
+}
+@media screen and (min-width: 768px) {
+  .filter {
+    float: right;
+    text-align: right;
+  }
 }
