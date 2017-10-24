@@ -146,8 +146,24 @@ export default class PapersPage extends React.Component {
     })
 
     // Format list items
-    const items = posts.sort(sortOrderAscend)
-      .map(({data, file, path}) => this._formatItem(data, file, path))
+    let results = ''
+    if (posts.length > 0) {
+      const items = posts.sort(sortOrderAscend)
+        .map(({data, file, path}) => this._formatItem(data, file, path))
+
+      results = (
+        <ListOrder copy={false}>
+          {items}
+        </ListOrder>)
+    }
+    else {
+      results = (
+        <div className={styles.paper}>
+          No Results Found
+        </div>
+      )
+    }
+
 
     return (
       <article className={styles.papers}>
@@ -177,9 +193,7 @@ export default class PapersPage extends React.Component {
             </select>
           </span>
         </Title>
-        <ListOrder copy={false}>
-          {items}
-        </ListOrder>
+        {results}
       </article>
     )
   }
