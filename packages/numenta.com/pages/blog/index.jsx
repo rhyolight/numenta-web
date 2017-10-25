@@ -77,12 +77,16 @@ export default class BlogPage extends React.Component {
     if (totalPages > 1) {
       if (from > 0) {
         prevBtn = (
-          <TextLink onClick={() => this._goto(from - 5)}>&lt; Prev</TextLink>
+          <TextLink to="#" onClick={() => this._goto(from - 5)}>
+            {'<'} Prev
+          </TextLink>
         )
       }
       if (posts.length > to) {
         nextBtn = (
-          <TextLink onClick={() => this._goto(to)}>Next &gt;</TextLink>
+          <TextLink to="#" onClick={() => this._goto(to)}>
+            Next {'>'}
+          </TextLink>
         )
       }
       const page = Math.ceil(from / 5) + 1
