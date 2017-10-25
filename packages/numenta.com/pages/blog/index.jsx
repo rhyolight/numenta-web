@@ -28,7 +28,7 @@ export default class BlogPage extends React.Component {
     super(props)
     this.state = {year: 0, from: 0, to: 5}
   }
-  _yearChangeed(event) {
+  _yearChanged(event) {
     this.setState({year: parseInt(event.target.value, 0), from: 0, to: 5})
   }
   _goto(page) {
@@ -104,7 +104,7 @@ export default class BlogPage extends React.Component {
           <span className={styles.filter}>
             <select
               className={styles.select}
-              onChange={(e) => this._yearChangeed(e)}
+              onChange={(e) => this._yearChanged(e)}
               value={year}
             >
               <option value="0">All Years</option>

@@ -39,7 +39,7 @@ export default class PapersPage extends React.Component {
     this.setState({category: event.target.value})
   }
 
-  _yearChangeed(event) {
+  _yearChanged(event) {
     this.setState({year: event.target.value})
   }
 
@@ -183,7 +183,7 @@ export default class PapersPage extends React.Component {
 
             <select
               className={styles.select}
-              onChange={(e) => this._yearChangeed(e)}
+              onChange={(e) => this._yearChanged(e)}
               value={year}
             >
               <option value=".*">All Years</option>
