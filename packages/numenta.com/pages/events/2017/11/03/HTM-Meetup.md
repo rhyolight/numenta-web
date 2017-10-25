@@ -42,11 +42,12 @@ The brain learns and recognizes objects with independent moving sensors. It's no
 **Speaker:** Jeff Hawkins, Numenta Co-Founder
 
 In this talk, Numenta Co-Founder Jeff Hawkins will discuss recent advances in cortical theory made by Numenta.
-These discoveries are described in the manuscript, “Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World.”  Jeff will walk through the text and discuss the figures.  He will discuss the significance of these advances and the importance they will play in AI and cortical theory.  
+These discoveries are described in the recently published peer-reviewed paper, “A Theory of How Columns in the Neocortex Enable Learning the Structure of the World”
+Jeff will walk through the text and discuss the figures.  He will discuss the significance of these advances and the importance they will play in AI and cortical theory.  
 
-While the manuscript is currently under review, the pre-print is available via bioRxiv.  The link and abstract are provided below for attendees who would like to read it before the meetup.  
+The full paper will be available in the journal *Frontiers in Neural Circuits,* but the link to the pre-print version and abstract are provided below for attendees who would like to read it before the meetup.  
 
-[Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World](https://doi.org/10.1101/162263)<br/>
+[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://doi.org/10.1101/162263)<br/>
 Neocortical regions are organized into columns and layers. Connections between layers run mostly perpendicular to the surface suggesting a columnar functional organization.
 Some layers have long-range excitatory lateral connections suggesting interactions between columns.
 Similar patterns of connectivity exist in all regions but their exact role remain a mystery. In this paper,
