@@ -5,7 +5,7 @@ category: neuroscience
 date: 2017/10/25
 hideImage: true
 image: ../images/sensorimotor.png
-link: https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full
+link: https://doi.org/10.3389/fncir.2017.00081
 org: "Published in Frontiers in Neural Circuits Journal"
 sort: a
 title: "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
@@ -78,4 +78,4 @@ HTM theory. The authors of this paper are active participants in the forum.
 
 Our sensorimotor inference theory is an important piece of our overall goal of reverse-engineering the neocortex.  Our current research is focused on understanding all the functions of cortical columns and on hierarchy.
 
-[1]: https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full
+[1]: https://doi.org/10.3389/fncir.2017.00081
