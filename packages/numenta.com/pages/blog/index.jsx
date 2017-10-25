@@ -9,6 +9,7 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
+import TextLink from 'numenta-web-shared-components/lib/TextLink'
 
 import PostListRow from '../../components/PostListRow'
 import styles from './index.css'
@@ -25,15 +26,20 @@ export default class BlogPage extends React.Component {
   }
   constructor(props) {
     super(props)
-    this.state = {year: 0}
+    this.state = {year: 0, from: 0, to: 5}
   }
   _yearChangeed(event) {
-    this.setState({year: parseInt(event.target.value, 0)})
+    this.setState({year: parseInt(event.target.value, 0), from: 0, to: 5})
+  }
+  _goto(page) {
+    const pos = Math.max(0, page)
+    this.setState({from: pos, to: pos + 5})
   }
   render() {
     const {route} = this.context
     const {pages} = route
-    const {year} = this.state
+    const {year, from, to} = this.state
+    let posts, prevBtn, nextBtn, pagination
 
     const allPosts = pages.filter(({file}) => (
       file.path.match(/^blog\/.*\.md/)))
@@ -48,7 +54,6 @@ export default class BlogPage extends React.Component {
       .map((yyyy) => <option value={yyyy}>{yyyy}</option>)
 
     // Filter posts
-    let posts
     if (year === 0) {
       posts = allPosts
     }
@@ -58,12 +63,35 @@ export default class BlogPage extends React.Component {
         return yyyy === year
       })
     }
+    // Build list for the visible items
+    const items = posts.sort(sortDateDescend)
+                       .slice(from, to)
+                       .map((post) => (
+                         <ListItem key={post.file.stem}>
+                           <PostListRow post={post} />
+                         </ListItem>
+                       ))
 
-    const items = posts.sort(sortDateDescend).map((post) => (
-      <ListItem key={post.file.stem}>
-        <PostListRow post={post} />
-      </ListItem>
-    ))
+    // Add pagination buttons if necessary
+    const totalPages = Math.ceil(posts.length / 5)
+    if (totalPages > 1) {
+      if (from > 0) {
+        prevBtn = (
+          <TextLink onClick={() => this._goto(from - 5)}>&lt; Prev</TextLink>
+        )
+      }
+      if (posts.length > to) {
+        nextBtn = (
+          <TextLink onClick={() => this._goto(to)}>Next &gt;</TextLink>
+        )
+      }
+      const page = Math.ceil(from / 5) + 1
+      pagination = (
+        <div className={styles.pagination}>
+          {prevBtn} Page {page} of {totalPages} {nextBtn}
+        </div>
+      )
+    }
 
     return (
       <article>
@@ -87,6 +115,7 @@ export default class BlogPage extends React.Component {
         <ListOrder copy={false}>
           {items}
         </ListOrder>
+        {pagination}
       </article>
     )
   }
