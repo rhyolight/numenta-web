@@ -78,4 +78,4 @@ HTM theory. The authors of this paper are active participants in the forum.
 
 Our sensorimotor inference theory is an important piece of our overall goal of reverse-engineering the neocortex.  Our current research is focused on understanding all the functions of cortical columns and on hierarchy.
 
-[1]: https://doi.org/10.1101/162263
+[1]: https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full
