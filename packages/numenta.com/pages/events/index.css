@@ -24,3 +24,7 @@
   float: right;
   text-align: right;
 }
+
+.pagination {
+    composes: tc b from 'tachyons';
+}

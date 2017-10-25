@@ -11,6 +11,7 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
+import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import {
   sortDateAscend, sortDateDescend,
 } from 'numenta-web-shared-utils/lib/universal'
@@ -31,16 +32,21 @@ export default class EventsPage extends React.Component {
   }
   constructor(props) {
     super(props)
-    this.state = {year: 0}
+    this.state = {year: 0, from: 0, to: 5}
   }
   _yearChangeed(event) {
-    this.setState({year: parseInt(event.target.value, 0)})
+    this.setState({year: parseInt(event.target.value, 0), from: 0, to: 5})
+  }
+  _goto(page) {
+    const pos = Math.max(0, page)
+    this.setState({from: pos, to: pos + 5})
   }
 
   render() {
     const {route, config} = this.context
     const {pages} = route
-    const {year} = this.state
+    const {year, from, to} = this.state
+    let posts, prevBtn, nextBtn, pagination, pastEvents, upEvents
     const now = moment()
     const allPosts = pages.filter(({file}) => (
       file.path.match(/^events\/.*\.md/)))
@@ -55,7 +61,6 @@ export default class EventsPage extends React.Component {
       .map((yyyy) => <option value={yyyy}>{yyyy}</option>)
 
     // Filter posts
-    let posts, pastEvents, upEvents
     if (year === 0) {
       posts = allPosts
     }
@@ -65,19 +70,22 @@ export default class EventsPage extends React.Component {
         return yyyy === year
       })
     }
+    // Build list for the visible items
+    const items = posts.sort(sortDateDescend)
+                       .slice(from, to)
 
-    const past = posts.filter(({data}) => (
+    const past = items.filter(({data}) => (
       (moment(data.date, config.moments.post) < now)
     ))
-    const upcoming = posts.filter(({data}) => (
+    const upcoming = items.filter(({data}) => (
       (moment(data.date, config.moments.post) >= now)
     ))
-    const itemsPast = past.sort(sortDateDescend).map((post) => (
+    const itemsPast = past.map((post) => (
       <ListItem key={post.file.stem}>
         <PostListRow post={post} />
       </ListItem>
     ))
-    const itemsUp = upcoming.sort(sortDateAscend).map((post) => (
+    const itemsUp = upcoming.map((post) => (
       <ListItem key={post.file.stem}>
         <PostListRow post={post} />
       </ListItem>
@@ -106,6 +114,27 @@ export default class EventsPage extends React.Component {
       )
     }
 
+    // Add pagination buttons if necessary
+    const totalPages = Math.ceil(posts.length / 5)
+    if (totalPages > 1) {
+      if (from > 0) {
+        prevBtn = (
+          <TextLink onClick={() => this._goto(from - 5)}>&lt; Prev</TextLink>
+        )
+      }
+      if (posts.length > to) {
+        nextBtn = (
+          <TextLink onClick={() => this._goto(to)}>Next &gt;</TextLink>
+        )
+      }
+      const page = Math.ceil(from / 5) + 1
+      pagination = (
+        <div className={styles.pagination}>
+          {prevBtn} Page {page} of {totalPages} {nextBtn}
+        </div>
+      )
+    }
+
     return (
       <article className={styles.events}>
         <Helmet title={title}>
@@ -130,6 +159,7 @@ export default class EventsPage extends React.Component {
         </Title>
         {upEvents}
         {pastEvents}
+        {pagination}
       </article>
     )
   }
