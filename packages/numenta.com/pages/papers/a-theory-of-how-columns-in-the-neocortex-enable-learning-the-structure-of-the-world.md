@@ -2,22 +2,22 @@
 author: "Jeff Hawkins, Subutai Ahmad & Yuwei Cui"
 brief: "This paper proposes a network model composed of columns and layers that performs robust object learning and recognition. The model introduces a new feature to cortical columns, location information, which is represented relative to the object being sensed. Pairing sensory features with locations is a requirement for modeling objects and therefore must occur somewhere in the neocortex. We propose it occurs in every column in every region."
 category: neuroscience
-date: 2017/07/12
+date: 2017/10/25
 hideImage: true
 image: ../images/sensorimotor.png
-link: https://doi.org/10.1101/162263
-org: "Preprint of journal submission"
+link: https://doi.org/10.3389/fncir.2017.00081
+org: "Published in Frontiers in Neural Circuits Journal"
 sort: a
-title: "Why Does the Neocortex Have Columns, A Theory of Learning the Structure of the World"
+title: "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
 type: post
 ---
 
 | | |
 |-|-|
 | **Authors** | J. Hawkins, S. Ahmad & Yuwei Cui |
-| **Journal** | Submitted, and under review |
+| **Journal** | Frontiers in Neural Circuits 11, 81. `doi:10.3389/FNCIR.2017.00081` |
 | **Online** | [Read or Download this Paper][1] |
-| **Published** | July 12, 2017 |
+| **Published** | October 25, 2017 |
 
 
 It is widely observed that movement affects how we sense objects in the world, but how this happens in the brain has remained a mystery.  In this paper, we propose a network model that learns the structure of objects through movement. Our model is based on the known biology of cortical columns and layers, and helps explain their function.
@@ -29,7 +29,7 @@ We also propose a new feature of cortical columns that helps explain how sensori
 
 We demonstrate through simulations that even a single-column network can learn to recognize hundreds of complex objects. Multiple columns can share information to more rapidly recognize objects. This suggests that single regions have the ability to recognize and model objects much more robustly than previously assumed.    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fhnMUc36opI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BvJJn9VS4rk" frameborder="0" allowfullscreen></iframe>
 <br/> <p align="center">This video demonstrates how cortical columns can use location information to form robust predictive models of objects.
 Although the video uses touch, the same mechanism can be applied to all sensory modalities.</p>
 
@@ -78,4 +78,4 @@ HTM theory. The authors of this paper are active participants in the forum.
 
 Our sensorimotor inference theory is an important piece of our overall goal of reverse-engineering the neocortex.  Our current research is focused on understanding all the functions of cortical columns and on hierarchy.
 
-[1]: https://doi.org/10.1101/162263
+[1]: https://doi.org/10.3389/fncir.2017.00081
