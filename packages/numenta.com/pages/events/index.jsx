@@ -12,9 +12,7 @@ import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
-import {
-  sortDateAscend, sortDateDescend,
-} from 'numenta-web-shared-utils/lib/universal'
+import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
 
 import PostListRow from '../../components/PostListRow'
 import styles from './index.css'

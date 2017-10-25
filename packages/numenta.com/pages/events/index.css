@@ -26,5 +26,5 @@
 }
 
 .pagination {
-    composes: tc b from 'tachyons';
+  composes: tc b from 'tachyons';
 }
