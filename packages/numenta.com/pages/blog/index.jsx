@@ -15,6 +15,7 @@ import Pagination from '../../components/Pagination'
 import styles from './index.css'
 
 const title = 'Blog'
+const ITEMS_PER_PAGE = 5
 
 
 /**
@@ -34,19 +35,22 @@ export default class BlogPage extends React.Component {
     if (location.hash.length > 0) {
       from = parseInt(location.hash.slice(1), 10)
     }
-    this.state = {year: 0, from, to: from + 5}
+    this.state = {year: 0, from, to: from + ITEMS_PER_PAGE}
   }
   componentWillReceiveProps(nextProps) {
     const {location} = nextProps
     let from = 0
     if (location.hash.length > 0) {
       from = parseInt(location.hash.slice(1), 10)
-      this.setState({from, to: from + 5})
+      this.setState({from, to: from + ITEMS_PER_PAGE})
     }
   }
 
   _yearChanged(event) {
-    this.setState({year: parseInt(event.target.value, 0), from: 0, to: 5})
+    this.setState({
+      year: parseInt(event.target.value, 0),
+      from: 0,
+      to: ITEMS_PER_PAGE})
   }
   render() {
     const {route} = this.context
@@ -107,7 +111,11 @@ export default class BlogPage extends React.Component {
         <ListOrder copy={false}>
           {items}
         </ListOrder>
-        <Pagination current={from} itemsPerPage={5} total={posts.length} />
+        <Pagination
+          current={from}
+          itemsPerPage={ITEMS_PER_PAGE}
+          total={posts.length}
+        />
       </article>
     )
   }
