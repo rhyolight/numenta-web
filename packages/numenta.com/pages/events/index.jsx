@@ -11,10 +11,10 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
-import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
 
 import PostListRow from '../../components/PostListRow'
+import Pagination from '../../components/Pagination'
 import styles from './index.css'
 
 const title = 'Events'
@@ -28,23 +28,34 @@ export default class EventsPage extends React.Component {
     config: React.PropTypes.object,
     route: React.PropTypes.object,
   }
+  static propTypes = {
+    location: React.PropTypes.object,
+  }
   constructor(props) {
     super(props)
-    this.state = {year: 0, from: 0, to: 5}
+    const {location} = props
+    let from = 0
+    if (location.hash.length > 0) {
+      from = parseInt(location.hash.slice(1), 10)
+    }
+    this.state = {year: 0, from, to: from + 5}
+  }
+  componentWillReceiveProps(nextProps) {
+    const {location} = nextProps
+    let from = 0
+    if (location.hash.length > 0) {
+      from = parseInt(location.hash.slice(1), 10)
+      this.setState({from, to: from + 5})
+    }
   }
   _yearChanged(event) {
     this.setState({year: parseInt(event.target.value, 0), from: 0, to: 5})
   }
-  _goto(page) {
-    const pos = Math.max(0, page)
-    this.setState({from: pos, to: pos + 5})
-  }
-
   render() {
     const {route, config} = this.context
     const {pages} = route
     const {year, from, to} = this.state
-    let posts, prevBtn, nextBtn, pagination, pastEvents, upEvents
+    let posts, pastEvents, upEvents
     const now = moment()
     const allPosts = pages.filter(({file}) => (
       file.path.match(/^events\/.*\.md/)))
@@ -112,31 +123,6 @@ export default class EventsPage extends React.Component {
       )
     }
 
-    // Add pagination buttons if necessary
-    const totalPages = Math.ceil(posts.length / 5)
-    if (totalPages > 1) {
-      if (from > 0) {
-        prevBtn = (
-          <TextLink to="#" onClick={() => this._goto(from - 5)}>
-            {'<'} Prev
-          </TextLink>
-        )
-      }
-      if (posts.length > to) {
-        nextBtn = (
-          <TextLink to="#" onClick={() => this._goto(to)}>
-            Next {'>'}
-          </TextLink>
-        )
-      }
-      const page = Math.ceil(from / 5) + 1
-      pagination = (
-        <div className={styles.pagination}>
-          {prevBtn} Page {page} of {totalPages} {nextBtn}
-        </div>
-      )
-    }
-
     return (
       <article className={styles.events}>
         <Helmet title={title}>
@@ -161,7 +147,7 @@ export default class EventsPage extends React.Component {
         </Title>
         {upEvents}
         {pastEvents}
-        {pagination}
+        <Pagination current={from} itemsPerPage={5} total={posts.length} />
       </article>
     )
   }
