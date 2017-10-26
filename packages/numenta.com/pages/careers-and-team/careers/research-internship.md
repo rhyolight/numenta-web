@@ -16,7 +16,7 @@ type: post
 
 The Research Group at Numenta is looking for outstanding PhD students or other
 research scientists for internship opportunities during the Winter 2017/2018 and
-Spring 2018 time frames. We are looking for candidates with
+Spring/Summer 2018 time frames. We are looking for candidates with
 expertise in Computational Neuroscience or Machine Learning. Preference given to
 candidates with experience in one or more of the following areas: sequence
 learning, sensorimotor inference, neuron/dendrite modeling, goal oriented
