@@ -100,8 +100,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="https://numenta.com/papers/why-does-the-neocortex-have-layers-and-columns/">
-              Updated HTM Sensorimotor Theory Manuscript
+            <TextLink to="https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">
+            Sensorimotor Paper in Frontiers in Neural Circuits
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
