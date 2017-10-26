@@ -1,7 +1,7 @@
 ---
 author: Matthew Taylor
 brief: "While Deep Learning and other ANN-based methods of machine learning have produced some amazing capabilities over the past decade, they still leave me wanting more intelligence than they can deliver. The “point neuron” used in ANN is based on an understanding of neuroscience we had back in the 1970s. Just in the past couple of decades, we have learned more about the pyramidal neuron in the neocortex than we have ever known before. This knowledge has never been applied to the old ANN point neuron."
-date: 2017/10/19
+date: 2017/10/25
 hideImage: false
 image: ../images/broken-robot.jpg
 org: Open Source Community Manager
@@ -10,12 +10,13 @@ title: "Today’s Weak AI Lacks Intelligence"
 type: post
 ---
 
-*Our Open Source Community Manger Matt Taylor recently published a blog in advance of a presentation he is delivering on November 3
+<p style="margin-left: 0pt; display: inline">
+<i>Our Open Source Community Manger Matt Taylor recently published a blog in advance of a presentation he is delivering on November 3
 for Open Data Science Conference (ODSC) West.  ODSC is a data science conference that fosters the exchange of the latest advances in
 AI and data science and encourages the growth of open source applications. Matt’s presentation is titled, “The Biological Path to Strong AI.” <br/>
 <br/>
-His blog is reposted below, with permission from ODSC.*
-
+His blog is reposted below, with permission from ODSC.</i></p>
+<br/><br/>
 While Deep Learning and other ANN-based methods of machine learning have produced some amazing capabilities over the past decade, they still leave me wanting more intelligence than they can deliver.
 
 The “point neuron” used in ANN is based on an understanding of neuroscience we had back in the 1970s. Just in the past couple of decades,
@@ -74,4 +75,4 @@ technology by reading our [papers](https://numenta.com/papers) or watching educa
 
 ©ODSC2017
 
-*This blog was originally published at [opendatascience.com](https://opendatascience.com/blog/todays-weak-ai-lacks-intelligence/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=57314562&_hsenc=p2ANqtz--_EYGl_WhrDS15KUzNlwBS3RC2IrZ9yYlUbqYSi6b9XJWHfj1ML6R7zXI8JuI9rXKliuToatAn5WR1vvYfhryEcoFhRg&_hsmi=57314562).*
+*This blog was originally published at [opendatascience.com](https://opendatascience.com/blog/todays-weak-ai-lacks-intelligence/).*
