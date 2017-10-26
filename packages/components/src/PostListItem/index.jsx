@@ -79,11 +79,11 @@ const PostListItem = ({post}, {config}) => {
       <div className={styles.date}>
         <Time moment={datetime}>{occur}</Time>
       </div>
-      <TextLink to={target}>
-        <span className={styles.title}>
+      <span className={styles.title}>
+        <TextLink to={target}>
           {data.title}
-        </span>
-      </TextLink>
+        </TextLink>
+      </span>
       {brief}
       <div className={styles.author}>
         <Subtle>
