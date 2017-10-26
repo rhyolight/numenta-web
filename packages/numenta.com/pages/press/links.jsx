@@ -33,7 +33,7 @@ export default class PressLinksPage extends React.Component {
     super(props)
     const {location} = props
     let from = 0
-    if (location.hash.length > 0) {
+    if (location && location.hash.length > 0) {
       from = parseInt(location.hash.slice(1), 10)
     }
     this.state = {year: 0, from, to: from + ITEMS_PER_PAGE}
