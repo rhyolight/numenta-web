@@ -2,7 +2,7 @@
 author: Numenta
 brief: Numenta, a leading provider of solutions that help companies intelligently act on machine-generated data, today announced its Grok solution has achieved certified integration
 date: 2013/05/17
-image: ../images/numenta.png
+image: ../images/image.png
 link:
 org: Press Release
 tags: grok sap sybase esp cep complex event processing

@@ -1,0 +1,28 @@
+/**
+ * Numenta Web Platform and Sites source code
+ * MIT License (see LICENSE.txt)
+ * Copyright © 2005—2017 Numenta <http://numenta.com>
+ */
+
+
+.filter {
+  composes: f5 from 'tachyons';
+}
+
+.select {
+  composes: mr2 from 'tachyons';
+  composes: ba from 'tachyons';
+  composes: b--black-20 from 'tachyons';
+  composes: br2 from 'tachyons';
+  background-color: inherit;
+  float: right;
+  text-align: right;
+}
+
+.link {
+  composes: lh-copy from 'tachyons';
+  composes: b--light-gray from 'tachyons';
+  composes: bt from 'tachyons';
+  composes: pb2 from 'tachyons';
+  composes: pt2 from 'tachyons';
+}

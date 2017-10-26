@@ -4,8 +4,10 @@ brief: "REDWOOD CITY, CA – June 19, 2017— The exponential increase in the us
 date: 2017/06/20
 org: Press Release
 tags: numenta brain theory machine learning techniques htm hierarchical realtime anomaly detection paper
+image: ../images/image.png
 title: "New Research Paper from Numenta Demonstrates Results of Machine Intelligence Algorithm on Real-time Anomaly Detection for Streaming Data"
 type: post
+
 ---
 
 ## Media Alert

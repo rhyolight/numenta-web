@@ -80,11 +80,7 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             <TextLink to={links.in.press}>
-              Releases
-            </TextLink>
-            <Spacer />
-            <TextLink to={`${links.in.press}#links`}>
-              Links
+              Press
             </TextLink>
           </DefineItem>
 

@@ -22,12 +22,15 @@ import styles from './index.css'
 /**
  * Press Page - React view component.
  */
-const PressPage = (props, {route}) => {
+const PressPage = (props, {route, config}) => {
   const {pages} = route
+  const {links} = config
   const posts = pages.filter(({file}) => (file.path.match(/^press\/.*\.md/)))
   const pressLinks = posts
     .filter(({data}) => (data.type === 'link'))
-    .sort(sortDateDescend).map(({data, file}) => (
+    .sort(sortDateDescend)
+    .slice(0, 15)
+    .map(({data, file}) => (
       <ListItem key={file.stem}>
         <div className={styles.link}>
           <div>
@@ -47,7 +50,9 @@ const PressPage = (props, {route}) => {
     ))
   const pressReleases = posts
     .filter(({data}) => (data.type === 'post'))
-    .sort(sortDateDescend).map((post) => (
+    .sort(sortDateDescend)
+    .slice(0, 5)
+    .map((post) => (
       <ListItem key={post.file.stem}>
         <div className={styles.release}>
           <PostListItem post={post} />
@@ -68,6 +73,7 @@ const PressPage = (props, {route}) => {
             <ListOrder copy={false}>
               {pressReleases}
             </ListOrder>
+            <TextLink to={links.in.pressreleases}>View All {'>'}</TextLink>
           </div>
           <div className={styles.aside}>
             <Anchor name="links" />
@@ -75,6 +81,7 @@ const PressPage = (props, {route}) => {
             <ListOrder copy={false} marker="disc">
               {pressLinks}
             </ListOrder>
+            <TextLink to={links.in.presslinks}>View All {'>'}</TextLink>
           </div>
         </div>
       </Section>
@@ -84,6 +91,7 @@ const PressPage = (props, {route}) => {
 
 PressPage.contextTypes = {
   route: React.PropTypes.object,
+  config: React.PropTypes.object,
 }
 
 export default PressPage
