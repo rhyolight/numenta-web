@@ -16,7 +16,11 @@
 
 .aside {
   composes: layout-aside from '../../static/assets/css/theme.css';
-  margin-top: -2rem;
+}
+@media screen and (min-width: 768px) {
+  .aside {
+    margin-top: -2rem;
+  }
 }
 
 
