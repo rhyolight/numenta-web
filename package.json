@@ -60,8 +60,8 @@
     "react-stub-context": "0.7.0",
     "react-test-renderer": "15.4.2",
     "shx": "0.2.2",
-    "stylelint": "7.7.1",
-    "stylelint-config-standard": "15.0.1"
+    "stylelint": "8.0.0",
+    "stylelint-config-standard": "17.0.0"
   },
   "engines": {
     "node": "7.4.0",

@@ -4,6 +4,8 @@
   ],
   "rules": {
     "at-rule-empty-line-before": null,
+    "rule-empty-line-before": null,
+    "declaration-empty-line-before": null,
     "comment-empty-line-before": null,
     "comment-no-empty": null,
     "comment-whitespace-inside": null,
@@ -16,7 +18,6 @@
     "property-no-unknown": [true, {
       "ignoreProperties": ["composes"]
     }],
-    "rule-non-nested-empty-line-before": null,
     "selector-pseudo-class-no-unknown": [true, {
       "ignorePseudoClasses": ["global"]
     }]
