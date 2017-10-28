@@ -110,13 +110,12 @@ export default class NewsletterPage extends React.Component {
                 name="mc-embedded-subscribe-form"
               >
                 <FormInput
-                  className={styles.formrow}
                   name="b_b838879da2baa539870afd320_23e65d3407"
                   type="hidden"
                   value=""
                 />
                 <FormRow>
-                  <Button theme="short" type="submit">Subscribe</Button>
+                  <Button theme="short" type="submit" className={styles.button}>Subscribe</Button>
                   <span className={styles.filter}>
                     <select
                       className={styles.select}
