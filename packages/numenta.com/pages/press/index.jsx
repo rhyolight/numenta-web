@@ -12,7 +12,6 @@ import PostListItem from 'numenta-web-shared-components/lib/PostListItem'
 import Section from 'numenta-web-shared-components/lib/Section'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
-import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 
@@ -77,7 +76,7 @@ const PressPage = (props, {route, config}) => {
           </div>
           <div className={styles.aside}>
             <Anchor name="links" />
-            <SubTitle>Press Links</SubTitle>
+            <div className={styles.presslinks}>Press Links</div>
             <ListOrder copy={false} marker="disc">
               {pressLinks}
             </ListOrder>
