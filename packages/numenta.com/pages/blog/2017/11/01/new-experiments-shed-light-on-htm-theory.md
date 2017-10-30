@@ -15,6 +15,7 @@ Numenta's HTM theory includes a detailed explanation for the role of neurons and
 <ul>
 <li><i>Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex [1]</i>
 <li><i>A Theory of How Columns in the Neocortex Enable Learning the Structure of the World [2]</i>
+</ul>
 
 In the sequence memory paper, we’ve shown how the properties and organization of neurons in a cortical layer result in a powerful sequence memory that can learn to recognize high order sequences. Additionally, we’ve shown in the columns paper how an output layer in the cortex can learn patterns and recognize them in the future. This process results in stable activity in the output layer once a sequence or object is recognized.
 
@@ -28,7 +29,7 @@ By recording the neural activity in the visual processing region V1, the experim
 -	The maintained response – These were similar to the sustained periodic neurons but maintained activity throughout the entirety of the sequence rather than responding only during a specific portion of the sequence.
 
 ![New Experiments](../images/Figure1.png) </br>
-<font size="2"><i>Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</i><br><br></font>
+<font size="2"><i>Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</i><br></font>
 
 These results very closely match predictions from our theory. Our theory states that the cells within a minicolumn share a receptive field and all become active during unpredicted events. This explains the increased transient response both at the beginning of a sequence as well as for novel substituted images.
 
