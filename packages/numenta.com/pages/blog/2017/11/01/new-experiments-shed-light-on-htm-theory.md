@@ -11,9 +11,10 @@ type: post
 ---
 
 <p style="margin-left: 0pt; display: inline"><b>HTM Sequence Memory and Cortical Layers</b></p></br>
-Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, [NuPIC](http://www.numenta.org/). The best description of this theory is in the following papers:
--	*Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex [1]*
--	*A Theory of How Columns in the Neocortex Enable Learning the Structure of the World [2]*
+Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, <a href="http://www.numenta.org/">NuPIC</a>. The best description of this theory is in the following papers:
+<ul>
+<li><i>Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex [1]</i>
+<li><i>A Theory of How Columns in the Neocortex Enable Learning the Structure of the World [2]</i>
 
 In the sequence memory paper, we’ve shown how the properties and organization of neurons in a cortical layer result in a powerful sequence memory that can learn to recognize high order sequences. Additionally, we’ve shown in the columns paper how an output layer in the cortex can learn patterns and recognize them in the future. This process results in stable activity in the output layer once a sequence or object is recognized.
 
@@ -27,7 +28,7 @@ By recording the neural activity in the visual processing region V1, the experim
 -	The maintained response – These were similar to the sustained periodic neurons but maintained activity throughout the entirety of the sequence rather than responding only during a specific portion of the sequence.
 
 ![New Experiments](../images/Figure1.png) </br>
-*Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].*
+<font size="2"><i>Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</i><br><br></font>
 
 These results very closely match predictions from our theory. Our theory states that the cells within a minicolumn share a receptive field and all become active during unpredicted events. This explains the increased transient response both at the beginning of a sequence as well as for novel substituted images.
 
@@ -65,7 +66,6 @@ As such, HTM theory still has many unverified predictions about the structure an
 [1] Hawkins, J., & Ahmad, S. (2016). Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex. Frontiers in Neural Circuits, 10(23), 1–13. https://doi.org/10.3389/fncir.2016.00023
 
 [2] Hawkins, J., Ahmad, S., & Cui, Y. (2017). A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. Frontiers in Neural Circuits, doi: 10.3389/fncir.2017.00081
-<br/><br/>
 
 [3] Homann, J., Koay, S. A., Glidden, A. M., Tank, D. W., & Berry, M. J. (2017). Predictive Coding of Novel versus Familiar Stimuli in the Primary Visual Cortex. bioRxiv, 197608. https://doi.org/10.1101/197608
 
@@ -82,7 +82,6 @@ Ecker et al. (2010). Decorrelated neuronal firing in cortical microcircuits. Sci
 Smith, S., Häusser, M. (2010) Parallel processing of visual space by neighboring neurons in mouse visual cortex. Nat Neurosci. 2010 Sep;13(9):1144-9. doi: 10.1038/nn.2620. Epub 2010 Aug 15.
 
 Schneidman E., Berry, M., Segev, R., & Bialek W. (2006). Weak pairwise correlations imply strongly correlated network states in a neural population. Nature. 2006 Apr 20;440(7087):1007-12. Epub 2006 Apr 9.
-<br/><br/>
 
 Miller, J., Ayzenshtat, I., Carrillo-Reid, L., & Yuste, R. (2014) Visual stimuli recruit intrinsically generated cortical ensembles. Proceedings of the National Academy of Sciences of the United States of America. E4053–E4061, doi: 10.1073/pnas.1406077111.
 
