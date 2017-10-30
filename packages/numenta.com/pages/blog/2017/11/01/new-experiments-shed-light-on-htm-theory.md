@@ -2,7 +2,7 @@
 author: Scott Purdy
 brief: "Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, NuPIC. The best description of this theory is in the following papers: Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex and A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 date: 2017/11/01
-hideImage: false
+hideImage: true
 image: ../images/Figure1.png
 org: Research Staff Member
 tags: numenta hierarchical temporal memory htm blog
@@ -10,7 +10,7 @@ title: "New Experiments Shed Light on HTM Theory"
 type: post
 ---
 
-**HTM Sequence Memory and Cortical Layers** <br/>
+<p style="margin-left: 0pt; display: inline"><b>HTM Sequence Memory and Cortical Layers</b></p></br>
 Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, [NuPIC](http://www.numenta.org/). The best description of this theory is in the following papers:
 -	*Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex [1]*
 -	*A Theory of How Columns in the Neocortex Enable Learning the Structure of the World [2]*
@@ -26,10 +26,9 @@ By recording the neural activity in the visual processing region V1, the experim
 -	The sustained periodic response - A small number of neurons showed a sustained response during a sequence. These cells were active during a specific portion of the sequence and, in some cases, also active during the transient periods.
 -	The maintained response – These were similar to the sustained periodic neurons but maintained activity throughout the entirety of the sequence rather than responding only during a specific portion of the sequence.
 
-![Repository New Repository](../images/Figure1.png) </br>
-<font size="1">Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</font>
+![New Experiments](../images/Figure1.png) </br>
+<font size="2"><i>Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</i></font>
 
-</br>
 These results very closely match predictions from our theory. Our theory states that the cells within a minicolumn share a receptive field and all become active during unpredicted events. This explains the increased transient response both at the beginning of a sequence as well as for novel substituted images.
 
 Additionally, our theory says that cells within the minicolumn encode the temporal context and that during a learned sequence, only the cells that represent that context are active and predict the next set of cells in the sequence. This is consistent the sustained periodic response neurons that additionally fire during the transient periods.
@@ -62,50 +61,38 @@ As such, HTM theory still has many unverified predictions about the structure an
   </ol>
 5.	Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
 
-<font size="1">
-<b>References</b> <br><br>
+**References** <br/><br/>
 [1] Hawkins, J., & Ahmad, S. (2016). Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex. Frontiers in Neural Circuits, 10(23), 1–13. https://doi.org/10.3389/fncir.2016.00023
-<br/><br/>
 
 [2] Hawkins, J., Ahmad, S., & Cui, Y. (2017). A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. Frontiers in Neural Circuits, doi: 10.3389/fncir.2017.00081
 <br/><br/>
 
 [3] Homann, J., Koay, S. A., Glidden, A. M., Tank, D. W., & Berry, M. J. (2017). Predictive Coding of Novel versus Familiar Stimuli in the Primary Visual Cortex. bioRxiv, 197608. https://doi.org/10.1101/197608
-<br/><br/>
 
 [4] Ahmad, S. (2017). “Why Do Neurons Have Thousands of Synapses? A Theory of Sequence Learning in Neocortex." Computational and Systems Neuroscience (Cosyne) 2017.
-<br/><br/>
 
 [5] Vinje, W., Gallant, J. (2002). Natural stimulation of the nonclassical receptive field increases information transmission efficiency in V1. J Neurosci. 2002 Apr 1;22(7):2904-15.
-<br/><br/>
 
 [6] Smith, S., Smith, I., Branco, T., Häusser, M. (2013). Dendritic spikes enhance stimulus selectivity in cortical neurons in vivo. Nature, doi:10.1038/nature12600
-<br/><br/>
 
-[7] <br/>
+[7]
 
 Ecker et al. (2010). Decorrelated neuronal firing in cortical microcircuits. Science  29 Jan 2010: Vol. 327, Issue 5965, pp. 584-587. doi: 10.1126/science.1179867
-<br/><br/>
 
 Smith, S., Häusser, M. (2010) Parallel processing of visual space by neighboring neurons in mouse visual cortex. Nat Neurosci. 2010 Sep;13(9):1144-9. doi: 10.1038/nn.2620. Epub 2010 Aug 15.
-<br/><br/>
 
 Schneidman E., Berry, M., Segev, R., & Bialek W. (2006). Weak pairwise correlations imply strongly correlated network states in a neural population. Nature. 2006 Apr 20;440(7087):1007-12. Epub 2006 Apr 9.
 <br/><br/>
 
 Miller, J., Ayzenshtat, I., Carrillo-Reid, L., & Yuste, R. (2014) Visual stimuli recruit intrinsically generated cortical ensembles. Proceedings of the National Academy of Sciences of the United States of America. E4053–E4061, doi: 10.1073/pnas.1406077111.
-<br/><br/>
 
-[8] <br/>
+[8]
 
 Losonczy, A., Makara, J. & Magee, J. (2008). Compartmentalized dendritic plasticity and input feature storage in neurons. Nature 452, 436-441. doi:10.1038/nature06725
-<br/><br/>
 
 Yang et al. (2014). Lactate promotes plasticity gene expression by potentiating NMDA signaling in neurons. Proceedings of the National Academy of Sciences of the United States of America. Vol. 111 no. 33. 12228–12233, doi: 10.1073/pnas.1322912111.
-<br/><br/>
 
 Cichon, J. & Gan, W.  (2015). Branch-specific dendritic Ca2+ spikes cause persistent synaptic plasticity. Nature 520, 180–185. doi:10.1038/nature14251.
-</font>
 
-**</br>Acknowledgements** </br>
+**Acknowledgements** </br>
 Thank you to Subutai Ahmad, Matt Taylor, and Christy Maver for their reviews and input on this post.
