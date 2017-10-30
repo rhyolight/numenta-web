@@ -13,7 +13,7 @@ title: A Theory of How Columns in the Neocortex Enable Learning the Structure of
 type: post
 ---
 
-This video accompanies the paper titled “A Theory of How Columns in the Neocortex Enable Learning the Structure of the World” by Jeff Hawkins, Subutai Ahmad, and Yuwei Cui. It was [published](https://doi.org/10.3389/fncir.2017.00081) in the Frontiers in Neural Circuits journal.
+This video accompanies the paper titled “A Theory of How Columns in the Neocortex Enable Learning the Structure of the World” by Jeff Hawkins, Subutai Ahmad, and Yuwei Cui. It is [published](https://doi.org/10.3389/fncir.2017.00081) in the Frontiers in Neural Circuits journal.
 
 It illustrates the inference mechanism described in the paper and introduces the theory of location information, showing how cortical columns can use location information to form robust predictive models of objects.
 
