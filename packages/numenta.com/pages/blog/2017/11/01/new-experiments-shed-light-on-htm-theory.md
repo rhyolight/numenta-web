@@ -27,7 +27,7 @@ By recording the neural activity in the visual processing region V1, the experim
 -	The maintained response – These were similar to the sustained periodic neurons but maintained activity throughout the entirety of the sequence rather than responding only during a specific portion of the sequence.
 
 ![New Experiments](../images/Figure1.png) </br>
-<font size="2"><i>Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</i></font>
+*Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].*
 
 These results very closely match predictions from our theory. Our theory states that the cells within a minicolumn share a receptive field and all become active during unpredicted events. This explains the increased transient response both at the beginning of a sequence as well as for novel substituted images.
 
@@ -42,23 +42,23 @@ We will continue to [publish our theory and predictions](http://www.numenta.com/
 
 As such, HTM theory still has many unverified predictions about the structure and function of the neocortex. We would love to talk with more experimentalists that are interested in testing these predictions. Subutai shared the following list of predictions, verbatim, during his Cosyne workshop presentation [4] earlier this year, and we are eagerly awaiting additional experimental results to help us reconcile our understanding of the structure and function of the neocortex:
 
-1.	Sparser activations during a predictable sensory stream. [5]
-2.	For predictable natural stimuli, dendritic NMDA spikes (i.e. predictions) will be much more frequent than somatic action potentials. [6]
-3.	Correlation structure [7]: <br/>
+1. Sparser activations during a predictable sensory stream. [5] <br/>
+2. For predictable natural stimuli, dendritic NMDA spikes (i.e. predictions) will be much more frequent than somatic action potentials. [6] <br/>
+3. Correlation structure [7]: <br/>
 <ol type="a">
-   <li> Low pair-wise correlations between cells but significant high-order correlations.
-   <li> High order assembly correlated with specific point in a predictable sequence.
-   <li> Unanticipated inputs lead to a burst of activity correlated vertically within mini-columns.
-   <li> Activity during predicted inputs will be a subset of activity during unpredicted inputs.
-   <li> Predictable inputs lead to negative correlations within mini-columns.
-   <li>Neighboring mini-columns will be uncorrelated.
-   </ol>
-4.	Branch specific plasticity [8]: <br/>
+    <li>  Low pair-wise correlations between cells but significant high-order correlations.
+    <li>  High order assembly correlated with specific point in a predictable sequence.
+    <li>  Unanticipated inputs lead to a burst of activity correlated vertically within mini-columns.
+    <li>  Activity during predicted inputs will be a subset of activity during unpredicted inputs.
+    <li>  Predictable inputs lead to negative correlations within mini-columns.
+    <li>Neighboring mini-columns will be uncorrelated.
+</ol>
+4. Branch specific plasticity [8]: <br/>
 <ol type="a">
-  <li>Strong LTP in dendritic segments: NMDA spike followed by back action potential (bAP).
-  <li>Weak LTP (without NMDA spike) if synapse cluster becomes active followed by a bAP.
-  <li>Weak LTD when an NMDA spike is not followed by an action potential/bAP.
-  </ol>
+    <li>  Strong LTP in dendritic segments: NMDA spike followed by back action potential (bAP).
+    <li>  Weak LTP (without NMDA spike) if synapse cluster becomes active followed by a bAP.
+    <li>  Weak LTD when an NMDA spike is not followed by an action potential/bAP.
+</ol>
 5.	Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
 
 **References** <br/><br/>
