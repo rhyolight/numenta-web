@@ -32,13 +32,7 @@ We have three talks planned for this event:
 
 In this talk, Jason Toy will walk you through a preview of TouchNet, a project he has been working on to enable training of AIs to interact with their environment via touch and movement . TouchNet is a dataset of 3D objects and a simulator to interact with those objects. Jason will show how you could implement your own AI using HTM or other algorithms to learn through the simulator.
 
-**Talk 2: How Neurons Could Make Maps of Objects** <br/>
-**Speaker:** Marcus Lewis, Numenta Research Engineer
-
-The brain learns and recognizes objects with independent moving sensors. It's not obvious how a network of neurons would do this. Numenta has suggested that the brain solves this by computing each sensor's location relative to the object, and learning the object as a set of features-at-locations. This is analogous to making a map of the object. In this presentation, Marcus will show how the brain might determine this "location relative to the object." He will show a network of neurons that can use independent moving sensors to recognize an object. The network receives two inputs: the sensory input to each sensor, and the egocentric location of each sensor. The network uses the movement of sensors and the relative locations of these sensors to create a map of the object that is invariant to egocentric location.
-
-
-**Talk 3: Numenta brain theory discoveries of 2016/2017**<br/>
+**Talk 2: Numenta brain theory discoveries of 2016/2017**<br/>
 **Speaker:** Jeff Hawkins, Numenta Co-Founder
 
 In this talk, Numenta Co-Founder Jeff Hawkins will discuss recent advances in cortical theory made by Numenta.
@@ -62,13 +56,18 @@ recognize hundreds of objects, with each object containing tens of features. Mul
 Given the ubiquity of columnar and laminar connectivity patterns throughout the neocortex, we propose that columns and regions have more powerful recognition
 and modeling capabilities than previously assumed.
 
+**Talk 3: How Neurons Could Make Maps of Objects** <br/>
+**Speaker:** Marcus Lewis, Numenta Research Engineer
+
+The brain learns and recognizes objects with independent moving sensors. It's not obvious how a network of neurons would do this. Numenta has suggested that the brain solves this by computing each sensor's location relative to the object, and learning the object as a set of features-at-locations. This is analogous to making a map of the object. In this presentation, Marcus will show how the brain might determine this "location relative to the object." He will show a network of neurons that can use independent moving sensors to recognize an object. The network receives two inputs: the sensory input to each sensor, and the egocentric location of each sensor. The network uses the movement of sensors and the relative locations of these sensors to create a map of the object that is invariant to egocentric location.
+
 
 **Agenda**
 ------
 7:00–7:30 Talk 1: Jason <br/>
 7:30–8:00 Talk 2: Marcus<br/>
 8:00–8:30 Talk 3: Jeff<br/>
-8:30–9:00 Networking<br/>
+8:30–9:00 Q&A with Jeff & Networking<br/>
 
 
 See our forum for [discussion](https://discourse.numenta.org/t/htm-meetup-planning-november-3-in-sf/2830) about this event.
