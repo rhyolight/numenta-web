@@ -44,31 +44,31 @@ We will continue to [publish our theory and predictions](http://www.numenta.com/
 
 As such, HTM theory still has many unverified predictions about the structure and function of the neocortex. We would love to talk with more experimentalists that are interested in testing these predictions. Subutai shared the following list of predictions, verbatim, during his Cosyne workshop presentation [4] earlier this year, and we are eagerly awaiting additional experimental results to help us reconcile our understanding of the structure and function of the neocortex:
 
-<ol>
-<li>Sparser activations during a predictable sensory stream. [5]</li>
-<li>For predictable natural stimuli, dendritic NMDA spikes (i.e. predictions) will be much more frequent than somatic action potentials. [6]</li>
-<li>Correlation structure [7]:</li>
-    <ol type="a">
-      <li>Low pair-wise correlations between cells but significant high-order correlations.</li>
+1. Sparser activations during a predictable sensory stream. [5]
 
-      <li>High order assembly correlated with specific point in a predictable sequence.</li>
+2. For predictable natural stimuli, dendritic NMDA spikes (i.e. predictions) will be much more frequent than somatic action potentials. [6]
 
-      <li>Unanticipated inputs lead to a burst of activity correlated vertically within mini-columns.</li>
+3. Correlation structure [7]:
+    * Low pair-wise correlations between cells but significant high-order correlations.
 
-      <li>Activity during predicted inputs will be a subset of activity during unpredicted inputs.</li>
+    * High order assembly correlated with specific point in a predictable sequence.
 
-      <li>Predictable inputs lead to negative correlations within mini-columns.</li>
+    * Unanticipated inputs lead to a burst of activity correlated vertically within mini-columns.
 
-      <li>Neighboring mini-columns will be uncorrelated.</li>
-    </ol>
-<li>Branch specific plasticity [8]:
-	<ol type="a">
-      <li>Strong LTP in dendritic segments: NMDA spike followed by back action potential (bAP).</li>
-      <li>Weak LTP (without NMDA spike) if synapse cluster becomes active followed by a bAP.</li>
-      <li>Weak LTD when an NMDA spike is not followed by an action potential/bAP.</li>
-	</ol>
-<li>Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
-</ol>
+    * Activity during predicted inputs will be a subset of activity during unpredicted inputs.
+
+    * Predictable inputs lead to negative correlations within mini-columns.
+
+    * Neighboring mini-columns will be uncorrelated.
+
+4. Branch specific plasticity [8]:
+    * Strong LTP in dendritic segments: NMDA spike followed by back action potential (bAP).
+
+    * Weak LTP (without NMDA spike) if synapse cluster becomes active followed by a bAP.
+
+    * Weak LTD when an NMDA spike is not followed by an action potential/bAP.
+
+5. Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
 
 **References** <br/><br/>
 [1] Hawkins, J., & Ahmad, S. (2016). Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex. Frontiers in Neural Circuits, 10(23), 1–13. https://doi.org/10.3389/fncir.2016.00023
