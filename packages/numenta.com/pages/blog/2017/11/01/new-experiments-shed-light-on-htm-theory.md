@@ -50,22 +50,15 @@ As such, HTM theory still has many unverified predictions about the structure an
 
 3. Correlation structure [7]:
     * Low pair-wise correlations between cells but significant high-order correlations.
-
     * High order assembly correlated with specific point in a predictable sequence.
-
     * Unanticipated inputs lead to a burst of activity correlated vertically within mini-columns.
-
     * Activity during predicted inputs will be a subset of activity during unpredicted inputs.
-
     * Predictable inputs lead to negative correlations within mini-columns.
-
     * Neighboring mini-columns will be uncorrelated.
 
 4. Branch specific plasticity [8]:
     * Strong LTP in dendritic segments: NMDA spike followed by back action potential (bAP).
-
     * Weak LTP (without NMDA spike) if synapse cluster becomes active followed by a bAP.
-
     * Weak LTD when an NMDA spike is not followed by an action potential/bAP.
 
 5. Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
