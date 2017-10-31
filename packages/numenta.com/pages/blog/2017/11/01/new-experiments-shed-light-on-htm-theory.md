@@ -33,7 +33,7 @@ By recording the neural activity in the visual processing region V1, the experim
 
 These results very closely match predictions from our theory. Our theory states that the cells within a minicolumn share a receptive field and all become active during unpredicted events. This explains the increased transient response both at the beginning of a sequence as well as for novel substituted images.
 
-Additionally, our theory says that cells within the minicolumn encode the temporal context and that during a learned sequence, only the cells that represent that context are active and predict the next set of cells in the sequence. This is consistent the sustained periodic response neurons that additionally fire during the transient periods.
+Additionally, our theory says that cells within the minicolumn encode the temporal context and that during a learned sequence, only the cells that represent that context are active and predict the next set of cells in the sequence. This is consistent with the sustained periodic response neurons that additionally fire during the transient periods.
 
 The final population identified in the paper – the maintained response neurons – can be explained by the output layer described in the columns paper [2]. The output layer learns to recognize sequences or objects. During recognized sequences, the output layer will exhibit stable activity, exactly like the maintained response found in the paper.
 
