@@ -65,8 +65,8 @@ The brain learns and recognizes objects with independent moving sensors. It's no
 **Agenda**
 ------
 7:00–7:30 Talk 1: Jason <br/>
-7:30–8:00 Talk 2: Marcus<br/>
-8:00–8:30 Talk 3: Jeff<br/>
+7:30–8:00 Talk 2: Jeff<br/>
+8:00–8:30 Talk 3: Marcus<br/>
 8:30–9:00 Q&A with Jeff & Networking<br/>
 
 
