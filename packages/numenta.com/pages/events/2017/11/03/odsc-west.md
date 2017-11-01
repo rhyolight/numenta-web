@@ -5,7 +5,7 @@ date: 2017/11/03
 event:
   what: "The Biological Path Towards Strong AI"
   when:
-    begin: 2017/11/03 16:15
+    begin: 2017/11/03 17:00
     end: 2017/11/03 17:45
   where:
     desc: Hyatt Regency SFO
@@ -43,4 +43,4 @@ software. I'll show you how they work with detailed dynamic visualizations of
 Sparse Distributed Representations, Spatial Pooling, and Temporal Memory.
 
 Following Matt's talk, we will be hosting a meetup where Numenta Co-Founder Jeff Hawkins will speak.  
-All are welcome to attend, but space is limited, so please [RSVP](https://www.meetup.com/numenta/events/243501858/). 
+All are welcome to attend, but space is limited, so please [RSVP](https://www.meetup.com/numenta/events/243501858/).
