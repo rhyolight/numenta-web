@@ -6,7 +6,7 @@ hideImage: true
 image: ../images/Figure1.png
 org: Research Staff Member
 tags: numenta hierarchical temporal memory htm blog
-title: "New Experiments Shed Light on HTM Theory"
+title: "New Experiment Sheds Light on HTM Theory"
 type: post
 ---
 
@@ -24,9 +24,9 @@ Our model for the function of cortical minicolumns gained some experimental supp
 
 By recording the neural activity in the visual processing region V1, the experimenters were able to identify several classes of neural activity:
 
--	The transient response – A majority of neurons showed an increase in firing rate in response to the novel images substituted into the repeated patterns. Additionally, the first few images in the initial presentation of a sequence showed a similar increase in neuron activity.
--	The sustained periodic response - A small number of neurons showed a sustained response during a sequence. These cells were active during a specific portion of the sequence and, in some cases, also active during the transient periods.
--	The maintained response – These were similar to the sustained periodic neurons but maintained activity throughout the entirety of the sequence rather than responding only during a specific portion of the sequence.
+- The transient response – A majority of neurons showed an increase in firing rate in response to the novel images substituted into the repeated patterns. Additionally, the first few images in the initial presentation of a sequence showed a similar increase in neuron activity.
+- The sustained periodic response - A small number of neurons showed a sustained response during a sequence. These cells were active during a specific portion of the sequence and, in some cases, also active during the transient periods.
+- The maintained response – These were similar to the sustained periodic neurons but maintained activity throughout the entirety of the sequence rather than responding only during a specific portion of the sequence.
 
 ![New Experiments](../images/Figure1.png) </br>
 <font size="2"><i>Figure 1. The neural activity over time for two sequences, A and B. For sequence A, the transient and sustained codes (far left) are shown separately for illustration. The combined code that matches the recorded data follows. While the structure of the code for sequence B is similar, the individual cells that represent the transient and sustained codes differs [3].</i><br></font>
@@ -48,7 +48,7 @@ As such, HTM theory still has many unverified predictions about the structure an
 
 2. For predictable natural stimuli, dendritic NMDA spikes (i.e. predictions) will be much more frequent than somatic action potentials. [6]
 
-3. Correlation structure [7]:
+3. Correlation structure [7][8][9][10]:
     * Low pair-wise correlations between cells but significant high-order correlations.
     * High order assembly correlated with specific point in a predictable sequence.
     * Unanticipated inputs lead to a burst of activity correlated vertically within mini-columns.
@@ -56,7 +56,7 @@ As such, HTM theory still has many unverified predictions about the structure an
     * Predictable inputs lead to negative correlations within mini-columns.
     * Neighboring mini-columns will be uncorrelated.
 
-4. Branch specific plasticity [8]:
+4. Branch specific plasticity [11][12][13]:
     * Strong LTP in dendritic segments: NMDA spike followed by back action potential (bAP).
     * Weak LTP (without NMDA spike) if synapse cluster becomes active followed by a bAP.
     * Weak LTD when an NMDA spike is not followed by an action potential/bAP.
@@ -64,6 +64,7 @@ As such, HTM theory still has many unverified predictions about the structure an
 5. Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
 
 **References** <br/><br/>
+
 [1] Hawkins, J., & Ahmad, S. (2016). Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex. Frontiers in Neural Circuits, 10(23), 1–13. https://doi.org/10.3389/fncir.2016.00023
 
 [2] Hawkins, J., Ahmad, S., & Cui, Y. (2017). A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. Frontiers in Neural Circuits, doi: 10.3389/fncir.2017.00081
@@ -76,23 +77,19 @@ As such, HTM theory still has many unverified predictions about the structure an
 
 [6] Smith, S., Smith, I., Branco, T., Häusser, M. (2013). Dendritic spikes enhance stimulus selectivity in cortical neurons in vivo. Nature, doi:10.1038/nature12600
 
-[7]
+[7] Ecker et al. (2010). Decorrelated neuronal firing in cortical microcircuits. Science  29 Jan 2010: Vol. 327, Issue 5965, pp. 584-587. doi: 10.1126/science.1179867
 
-Ecker et al. (2010). Decorrelated neuronal firing in cortical microcircuits. Science  29 Jan 2010: Vol. 327, Issue 5965, pp. 584-587. doi: 10.1126/science.1179867
+[8] Smith, S., Häusser, M. (2010) Parallel processing of visual space by neighboring neurons in mouse visual cortex. Nat Neurosci. 2010 Sep;13(9):1144-9. doi: 10.1038/nn.2620. Epub 2010 Aug 15.
 
-Smith, S., Häusser, M. (2010) Parallel processing of visual space by neighboring neurons in mouse visual cortex. Nat Neurosci. 2010 Sep;13(9):1144-9. doi: 10.1038/nn.2620. Epub 2010 Aug 15.
+[9] Schneidman E., Berry, M., Segev, R., & Bialek W. (2006). Weak pairwise correlations imply strongly correlated network states in a neural population. Nature. 2006 Apr 20;440(7087):1007-12. Epub 2006 Apr 9.
 
-Schneidman E., Berry, M., Segev, R., & Bialek W. (2006). Weak pairwise correlations imply strongly correlated network states in a neural population. Nature. 2006 Apr 20;440(7087):1007-12. Epub 2006 Apr 9.
+[10] Miller, J., Ayzenshtat, I., Carrillo-Reid, L., & Yuste, R. (2014) Visual stimuli recruit intrinsically generated cortical ensembles. Proceedings of the National Academy of Sciences of the United States of America. E4053–E4061, doi: 10.1073/pnas.1406077111.
 
-Miller, J., Ayzenshtat, I., Carrillo-Reid, L., & Yuste, R. (2014) Visual stimuli recruit intrinsically generated cortical ensembles. Proceedings of the National Academy of Sciences of the United States of America. E4053–E4061, doi: 10.1073/pnas.1406077111.
+[11] Losonczy, A., Makara, J. & Magee, J. (2008). Compartmentalized dendritic plasticity and input feature storage in neurons. Nature 452, 436-441. doi:10.1038/nature06725
 
-[8]
+[12] Yang et al. (2014). Lactate promotes plasticity gene expression by potentiating NMDA signaling in neurons. Proceedings of the National Academy of Sciences of the United States of America. Vol. 111 no. 33. 12228–12233, doi: 10.1073/pnas.1322912111.
 
-Losonczy, A., Makara, J. & Magee, J. (2008). Compartmentalized dendritic plasticity and input feature storage in neurons. Nature 452, 436-441. doi:10.1038/nature06725
-
-Yang et al. (2014). Lactate promotes plasticity gene expression by potentiating NMDA signaling in neurons. Proceedings of the National Academy of Sciences of the United States of America. Vol. 111 no. 33. 12228–12233, doi: 10.1073/pnas.1322912111.
-
-Cichon, J. & Gan, W.  (2015). Branch-specific dendritic Ca2+ spikes cause persistent synaptic plasticity. Nature 520, 180–185. doi:10.1038/nature14251.
+[13] Cichon, J. & Gan, W.  (2015). Branch-specific dendritic Ca2+ spikes cause persistent synaptic plasticity. Nature 520, 180–185. doi:10.1038/nature14251.
 
 **Acknowledgements** </br>
 Thank you to Subutai Ahmad, Matt Taylor, and Christy Maver for their reviews and input on this post.
