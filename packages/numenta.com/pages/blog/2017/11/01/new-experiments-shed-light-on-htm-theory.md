@@ -63,7 +63,7 @@ As such, HTM theory still has many unverified predictions about the structure an
 
 5. Depolarized cells need fast inhibition to inhibit nearby cells within mini-column.
 
-**References** <br/><br/>
+**References** <br/>
 
 [1] Hawkins, J., & Ahmad, S. (2016). Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex. Frontiers in Neural Circuits, 10(23), 1–13. https://doi.org/10.3389/fncir.2016.00023
 
