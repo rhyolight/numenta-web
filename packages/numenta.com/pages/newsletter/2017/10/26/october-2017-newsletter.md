@@ -8,7 +8,7 @@ org: VP of Marketing
 tags: numenta newsletter october 2017
 title: Numenta Newsletter October 2017
 type: post
-sound: https://soundcloud.com/numenta/sep-2017-numenta-news
+sound: https://soundcloud.com/numenta/october-2017-numenta-news
 ---
 
 I’m excited to share that our first paper on sensorimotor inference has been accepted and published in the journal Frontiers in Neural Circuits. We posted an earlier version on bioRxiv in July while it was undergoing review, and the final, peer-reviewed version is now available under its new title, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://doi.org/10.3389/fncir.2017.00081).”
