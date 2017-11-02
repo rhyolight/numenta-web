@@ -56,10 +56,11 @@ recognize hundreds of objects, with each object containing tens of features. Mul
 Given the ubiquity of columnar and laminar connectivity patterns throughout the neocortex, we propose that columns and regions have more powerful recognition
 and modeling capabilities than previously assumed.
 
-**Talk 3: How Neurons Could Make Maps of Objects** <br/>
+**Talk 3: Recognizing Locations on Objects** <br/>
 **Speaker:** Marcus Lewis, Numenta Research Engineer
 
-The brain learns and recognizes objects with independent moving sensors. It's not obvious how a network of neurons would do this. Numenta has suggested that the brain solves this by computing each sensor's location relative to the object, and learning the object as a set of features-at-locations. This is analogous to making a map of the object. In this presentation, Marcus will show how the brain might determine this "location relative to the object." He will show a network of neurons that can use independent moving sensors to recognize an object. The network receives two inputs: the sensory input to each sensor, and the egocentric location of each sensor. The network uses the movement of sensors and the relative locations of these sensors to create a map of the object that is invariant to egocentric location.
+The brain learns and recognizes objects with independent moving sensors. It’s not obvious how a network of neurons would do this. Numenta has suggested that the brain solves this by computing each sensor’s location relative to the object, and learning the object as a set of features-at-locations. In this talk, Marcus will show how the brain might determine this “location relative to the object.” He’ll extend the model from Numenta’s recent paper so that it computes this location. This extended model takes two inputs: each sensor’s input, and each sensor’s “location relative to the body.” The model connects the columns in such a way that a column can compute its “location relative to the object” from another column’s “location relative to object.” When a column senses a feature, it recalls a union of all locations where it has sensed this feature, then the columns work together to narrow their unions. This extended model essentially takes its sensory input and asks, “Do I know any objects that contain this spatial arrangement of features?”
+
 
 
 **Agenda**
