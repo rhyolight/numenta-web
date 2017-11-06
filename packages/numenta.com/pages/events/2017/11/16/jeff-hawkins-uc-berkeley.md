@@ -18,7 +18,7 @@ event:
 image: ../images/redwood-center-logo.png
 org: Co-Founder
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain
-title: "Jeff Hawkins at the Redwood Center for Theoretical Neuroscience"
+title: "Redwood Center for Theoretical Neuroscience – Invited Talk"
 type: post
 ---
 
