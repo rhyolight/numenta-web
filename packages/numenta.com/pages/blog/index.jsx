@@ -4,6 +4,7 @@
 
 import Helmet from 'react-helmet'
 import React from 'react'
+import {browserHistory} from 'react-router'
 
 import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
@@ -22,40 +23,44 @@ const ITEMS_PER_PAGE = 5
  * Blog page - React view component.
  */
 export default class BlogPage extends React.Component {
+
   static contextTypes = {
     route: React.PropTypes.object,
   }
   static propTypes = {
     location: React.PropTypes.object,
   }
-  constructor(props) {
-    super(props)
-    const {location} = props
-    let from = 0
-    if (location && location.hash.length > 0) {
-      from = parseInt(location.hash.slice(1), 10)
-    }
-    this.state = {year: 0, from, to: from + ITEMS_PER_PAGE}
+
+  componentWillMount() {
+    // Merge location state
+    const {location} = this.props
+    this.setState(Object.assign({year: 0, position: 0}, location.state))
   }
   componentWillReceiveProps(nextProps) {
+    // Merge location state
     const {location} = nextProps
-    let from = 0
-    if (location.hash.length > 0) {
-      from = parseInt(location.hash.slice(1), 10)
-      this.setState({from, to: from + ITEMS_PER_PAGE})
-    }
+    this.setState(Object.assign({year: 0, position: 0}, location.state))
   }
 
   _yearChanged(event) {
-    this.setState({
-      year: parseInt(event.target.value, 0),
-      from: 0,
-      to: ITEMS_PER_PAGE})
+    // Reset postion to first page when changing the year
+    const year = parseInt(event.target.value, 0)
+    const state = Object.assign({}, this.state, {position: 0, year})
+    this.setState(state)
+
+    // Update history to include the new state
+    const {location} = this.props
+    const {key, pathname, query, hash} = location
+    browserHistory.push({
+      key, pathname, query, hash, state,
+    })
   }
   render() {
     const {route} = this.context
     const {pages} = route
-    const {year, from, to} = this.state
+    const {year, position} = this.state
+    const from = position || 0
+    const to = from + ITEMS_PER_PAGE
 
     const allPosts = pages.filter(({file}) => (
       file.path.match(/^blog\/.*\.md/)))
@@ -112,7 +117,7 @@ export default class BlogPage extends React.Component {
           {items}
         </ListOrder>
         <Pagination
-          current={from}
+          position={from}
           itemsPerPage={ITEMS_PER_PAGE}
           total={posts.length}
         />

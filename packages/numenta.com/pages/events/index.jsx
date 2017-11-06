@@ -5,6 +5,7 @@
 import Helmet from 'react-helmet'
 import moment from 'moment'
 import React from 'react'
+import {browserHistory} from 'react-router'
 
 import Anchor from 'numenta-web-shared-components/lib/Anchor'
 import ListItem from 'numenta-web-shared-components/lib/ListItem'
@@ -24,6 +25,7 @@ const ITEMS_PER_PAGE = 5
  * Events page - React view component.
  */
 export default class EventsPage extends React.Component {
+
   static contextTypes = {
     config: React.PropTypes.object,
     route: React.PropTypes.object,
@@ -31,33 +33,37 @@ export default class EventsPage extends React.Component {
   static propTypes = {
     location: React.PropTypes.object,
   }
-  constructor(props) {
-    super(props)
-    const {location} = props
-    let from = 0
-    if (location && location.hash.length > 0) {
-      from = parseInt(location.hash.slice(1), 10)
-    }
-    this.state = {year: 0, from, to: from + ITEMS_PER_PAGE}
+
+  componentWillMount() {
+    // Merge location state
+    const {location} = this.props
+    this.setState(Object.assign({year: 0, position: 0}, location.state))
   }
   componentWillReceiveProps(nextProps) {
+    // Merge location state
     const {location} = nextProps
-    let from = 0
-    if (location.hash.length > 0) {
-      from = parseInt(location.hash.slice(1), 10)
-      this.setState({from, to: from + ITEMS_PER_PAGE})
-    }
+    this.setState(Object.assign({year: 0, position: 0}, location.state))
   }
+
   _yearChanged(event) {
-    this.setState({
-      year: parseInt(event.target.value, 0),
-      from: 0,
-      to: ITEMS_PER_PAGE})
+    // Reset postion to first page when changing the year
+    const year = parseInt(event.target.value, 0)
+    const state = Object.assign({}, this.state, {position: 0, year})
+    this.setState(state)
+
+    // Update history to include the new state
+    const {location} = this.props
+    const {key, pathname, query, hash} = location
+    browserHistory.push({
+      key, pathname, query, hash, state,
+    })
   }
   render() {
     const {route, config} = this.context
     const {pages} = route
-    const {year, from, to} = this.state
+    const {year, position} = this.state
+    const from = position || 0
+    const to = from + ITEMS_PER_PAGE
     let posts, pastEvents, upEvents
     const now = moment()
     const allPosts = pages.filter(({file}) => (
@@ -151,7 +157,7 @@ export default class EventsPage extends React.Component {
         {upEvents}
         {pastEvents}
         <Pagination
-          current={from}
+          position={from}
           itemsPerPage={ITEMS_PER_PAGE}
           total={posts.length}
         />
