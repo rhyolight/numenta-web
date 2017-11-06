@@ -34,12 +34,20 @@ export default class PressReleasesPage extends React.Component {
   componentWillMount() {
     // Merge location state
     const {location} = this.props
-    this.setState(Object.assign({year: 0, position: 0}, location.state))
+    const state = {year: 0, position: 0}
+    if (location) {
+      Object.assign(state, location.state)
+    }
+    this.setState(state)
   }
   componentWillReceiveProps(nextProps) {
     // Merge location state
     const {location} = nextProps
-    this.setState(Object.assign({year: 0, position: 0}, location.state))
+    const state = {year: 0, position: 0}
+    if (location) {
+      Object.assign(state, location.state)
+    }
+    this.setState(state)
   }
 
   _yearChanged(event) {
