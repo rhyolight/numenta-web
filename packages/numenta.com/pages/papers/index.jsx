@@ -11,14 +11,17 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/ListOrder'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import Title from 'numenta-web-shared-components/lib/Title'
+import {browserHistory} from 'react-router'
 import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
+import Pagination from '../../components/Pagination'
 
 import styles from './index.css'
 
 const title = 'Research Papers'
+const ITEMS_PER_PAGE = 5
 
 
 /**
@@ -30,17 +33,52 @@ export default class PapersPage extends React.Component {
     route: React.PropTypes.object,
   }
 
-  constructor(props) {
-    super(props)
-    this.state = {category: '.*', year: '.*'}
+  static propTypes = {
+    location: React.PropTypes.object,
+  }
+
+  componentWillMount() {
+    // Merge location state
+    const {location} = this.props
+    const state = {category: '.*', year: '.*', position: 0}
+    if (location) {
+      Object.assign(state, location.state)
+    }
+    this.setState(state)
+  }
+  componentWillReceiveProps(nextProps) {
+    // Merge location state
+    const {location} = nextProps
+    const state = {category: '.*', year: '.*', position: 0}
+    if (location) {
+      Object.assign(state, location.state)
+    }
+    this.setState(state)
+  }
+
+  _addStateToHistory(state) {
+    // Update history to include the new state
+    const {location} = this.props
+    const {key, pathname, query, hash} = location
+    browserHistory.push({
+      key, pathname, query, hash, state,
+    })
   }
 
   _categoryChangeed(event) {
-    this.setState({category: event.target.value})
+    const state = Object.assign({}, this.state, {
+      position: 0,
+      category: event.target.value})
+    this.setState(state)
+    this._addStateToHistory(state)
   }
 
   _yearChanged(event) {
-    this.setState({year: event.target.value})
+    const state = Object.assign({}, this.state, {
+      position: 0,
+      year: event.target.value})
+    this.setState(state)
+    this._addStateToHistory(state)
   }
 
   _formatItem(data, file, path) {
@@ -102,7 +140,9 @@ export default class PapersPage extends React.Component {
   render() {
     const {route} = this.context
     const {pages} = route
-    const {category, year} = this.state
+    const {category, year, position} = this.state
+    const from = position || 0
+    const to = from + ITEMS_PER_PAGE
 
     const allPosts = pages.filter(({file}) => (
       file.path.match(/^papers\/.*\.md/)))
@@ -115,7 +155,6 @@ export default class PapersPage extends React.Component {
       for (const cat of post.data.category.split(',')) {
         categories.add(cat.trim())
       }
-
       years.add(new Date(post.data.date).getFullYear())
     })
 
@@ -147,12 +186,19 @@ export default class PapersPage extends React.Component {
     let results = ''
     if (posts.length > 0) {
       const items = posts.sort(sortOrderAscend)
+        .slice(from, to)
         .map(({data, file, path}) => this._formatItem(data, file, path))
 
       results = (
         <ListOrder copy={false}>
           {items}
-        </ListOrder>)
+          <Pagination
+            position={from}
+            itemsPerPage={ITEMS_PER_PAGE}
+            total={posts.length}
+          />
+        </ListOrder>
+      )
     }
     else {
       results = (
