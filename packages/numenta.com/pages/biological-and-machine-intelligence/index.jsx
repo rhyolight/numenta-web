@@ -98,6 +98,12 @@ const BamiPage = (props, {config}) => {
                 Download all BAMI book sections in pdf
               </ButtonLink>
             </div>
+            <div className={styles.download}>
+              <ButtonLink to="zh-cn/" target="_new">
+               《生物与机器智能》（BAMI）书中章节的中文译本 <br />
+                Chinese translation of BAMI book sections
+              </ButtonLink>
+            </div>
             {/* eslint-enable max-len */}
           </div>
           <div className={styles.content}>
