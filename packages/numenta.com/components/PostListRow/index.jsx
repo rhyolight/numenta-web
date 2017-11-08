@@ -20,17 +20,20 @@ import styles from './index.css'
 const PostListRow = ({post}) => {
   const {data, path} = post
   const target = (data.type === 'link') ? data.link : path
-  let media = (  // media image (default)
-    <ImageLink to={target}>
-      <Image
-        alt={data.title}
-        border={true}
-        respond="mw"
-        shadow={true}
-        src={`${path}${data.image}`}
-      />
-    </ImageLink>
-  )
+  let media
+  if (data.image) {
+    media = (  // media image (default)
+      <ImageLink to={target}>
+        <Image
+          alt={data.title}
+          border={true}
+          respond="mw"
+          shadow={true}
+          src={`${path}${data.image}`}
+        />
+      </ImageLink>
+    )
+  }
 
   if (data.video) {
     // media video

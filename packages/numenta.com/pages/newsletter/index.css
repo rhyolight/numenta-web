@@ -4,25 +4,33 @@
  * Copyright © 2005—2017 Numenta <http://numenta.com>
  */
 
-.signup {
-  composes: bg-near-white from 'tachyons';
-  composes: br2 from 'tachyons';
-  composes: cf from 'tachyons';
-  composes: fr from 'tachyons';
-  composes: mb3 from 'tachyons';
-  composes: mb0-ns from 'tachyons';
-  composes: pb0 from 'tachyons';
-  composes: pl3 from 'tachyons';
-  composes: pt3 from 'tachyons';
-  composes: pr0 from 'tachyons';
-  composes: relative from 'tachyons';
-  composes: top--1 from 'tachyons';
+.button {
+  composes: flex-none from 'tachyons';
 }
 
 .newsletter {
   composes: mt3 from 'tachyons';
 }
 
-.field {
+.filter {
+  composes: f5 lh-solid from 'tachyons';
+}
+
+@media screen and (min-width: 768px) {
+  .signup {
+    float: right;
+  }
+}
+
+.select {
+  composes: mr2 from 'tachyons';
+  composes: ba from 'tachyons';
+  composes: b--black-20 from 'tachyons';
+  composes: br2 from 'tachyons';
   composes: h2 from 'tachyons';
+  composes: f5 from 'tachyons';
+  background-color: inherit;
+  float: right;
+  text-align: right;
+  margin-left: 1rem;
 }

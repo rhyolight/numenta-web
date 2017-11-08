@@ -36,6 +36,9 @@ import styles from './md.css'
 const postTypes = [
   'blog', 'careers', 'events', 'newsletter', 'press', 'resources',
 ]
+const postsWithBackButton = [
+  'careers', 'resources',
+]
 
 
 /**
@@ -123,15 +126,17 @@ class MarkdownWrapper extends React.Component {
             </TextLink>
           </span>
         )
-        back = (
-          <div className={styles.back}>
-            <IconMarker icon={<IconArrow />}>
-              <TextLink to={url}>
-                All {capitalize(key)} Posts
-              </TextLink>
-            </IconMarker>
-          </div>
-        )
+        if (postsWithBackButton.indexOf(key) > -1) {
+          back = (
+            <div className={styles.back}>
+              <IconMarker icon={<IconArrow />}>
+                <TextLink to={url}>
+                  All {capitalize(key)} Posts
+                </TextLink>
+              </IconMarker>
+            </div>
+          )
+        }
       }
 
       if (key === 'events') {

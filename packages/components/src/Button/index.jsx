@@ -8,8 +8,8 @@ import React from 'react'
 import styles from './index.css'
 
 
-const Button = ({children, disabled, onClick, theme, type}) => {
-  const classes = [styles.button, styles[theme]]
+const Button = ({children, disabled, onClick, theme, type, className}) => {
+  const classes = [styles.button, styles[theme], className]
 
   if (disabled) classes.push(styles.disabled)
 
@@ -31,6 +31,7 @@ Button.propTypes = {
   onClick: React.PropTypes.func,
   theme: React.PropTypes.oneOf(['default', 'light', 'primary', 'short']),
   type: React.PropTypes.oneOf(['button', 'menu', 'reset', 'submit']),
+  className: React.PropTypes.string,
 }
 
 Button.defaultProps = {

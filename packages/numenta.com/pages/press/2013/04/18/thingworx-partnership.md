@@ -2,7 +2,7 @@
 author: Numenta
 brief: The proliferation of devices and sensors creating machine-generated data yield enormous opportunity for automated predictive maintenance solutions. According
 date: 2013/04/18
-image: ../images/numenta.png
+image: ../images/image.png
 link:
 org: Press Release
 tags: thingworx numenta partner predictive maintenance connected world

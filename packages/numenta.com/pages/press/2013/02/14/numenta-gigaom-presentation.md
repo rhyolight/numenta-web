@@ -2,7 +2,7 @@
 author: Numenta
 brief: Numenta, a breakthrough machine intelligence company, today announced it has been selected as one of the four Big Ideas companies to be featured at the
 date: 2013/02/14
-image: ../images/numenta.png
+image: ../images/image.png
 link:
 org: Press Release
 tags: numenta grok gigaom structure data

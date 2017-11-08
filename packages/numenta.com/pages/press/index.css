@@ -16,7 +16,37 @@
 
 .aside {
   composes: layout-aside from '../../static/assets/css/theme.css';
-  margin-top: -2rem;
+}
+
+.presslinks {
+  color: black;
+  font-weight: bold;
+  composes: lh-title from 'tachyons';
+  composes: mv1 from 'tachyons';
+  composes: pa0 from 'tachyons';
+  padding-bottom: 1rem;
+  font-size: 2.25rem;
+}
+
+@media screen and (min-width: 48em) {
+  .aside {
+    margin-top: -2rem;
+  }
+  .presslinks {
+    font-weight: normal;
+    padding-bottom: 0;
+    composes: b--black-20 from 'tachyons';
+    composes: bb from 'tachyons';
+    composes: dark-gray from 'tachyons';
+    font-size: 1.5rem;
+    composes: mb2 from 'tachyons';
+    composes: pb1 from 'tachyons';
+    composes: lh-title from 'tachyons';
+    composes: mt1 from 'tachyons';
+    composes: w-60-ns from 'tachyons';
+    composes: w-100 from 'tachyons';
+    border-bottom-style: dotted;
+  }
 }
 
 
