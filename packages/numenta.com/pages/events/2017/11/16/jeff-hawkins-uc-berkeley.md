@@ -3,12 +3,12 @@ author: Jeff Hawkins
 brief:
 date: 2017/11/16
 event:
-  what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
+  what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception – Invited Talk"
   when:
     begin: 2017/11/16 12:00
-    end: 2017/11/16
+    end:
   where:
-    desc: 560 Evans Hall at University of California, Berkeley
+    desc: 560 Evans Hall </br> University of California, Berkeley
     city: Berkeley
     state: CA
     country: USA
@@ -18,7 +18,7 @@ event:
 image: ../images/redwood-center-logo.png
 org: Co-Founder
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain
-title: "Redwood Center for Theoretical Neuroscience – Invited Talk"
+title: "Allocentric Location as the Basis of Perception"
 type: post
 ---
 
