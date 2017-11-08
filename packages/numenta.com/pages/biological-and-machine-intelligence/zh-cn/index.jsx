@@ -57,7 +57,7 @@ export default class BamiPageZH extends React.Component {
                   </ListItem>
                   <ListItem>
                     <TextLink to="/assets/pdf/biological-and-machine-intelligence/zh-cn/BaMI-SDR.pdf" target="_new">
-                      分布稀疏表征
+                      稀疏分布表征
                     </TextLink>
                   </ListItem>
                   <ListItem>
