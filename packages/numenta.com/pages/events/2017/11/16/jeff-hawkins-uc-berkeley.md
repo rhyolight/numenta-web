@@ -3,7 +3,7 @@ author: Jeff Hawkins
 brief:
 date: 2017/11/16
 event:
-  what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception – Invited Talk"
+  what: "Allocentric Location as the Basis of Perception"
   when:
     begin: 2017/11/16 12:00
     end: 2017/11/16 13:00
@@ -18,7 +18,7 @@ event:
 image: ../images/redwood-center-logo.png
 org: Co-Founder
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain
-title: "Allocentric Location as the Basis of Perception"
+title: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception – Invited Talk"
 type: post
 ---
 
