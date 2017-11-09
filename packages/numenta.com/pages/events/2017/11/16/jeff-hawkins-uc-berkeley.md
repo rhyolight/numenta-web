@@ -8,7 +8,7 @@ event:
     begin: 2017/11/16 12:00
     end: 2017/11/16 13:00
   where:
-    desc: 560 Evans Hall </br> University of California, Berkeley
+    desc: 560 Evans Hall at University of California, Berkeley
     city: Berkeley
     state: CA
     country: USA
