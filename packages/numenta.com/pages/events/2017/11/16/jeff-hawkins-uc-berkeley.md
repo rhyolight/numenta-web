@@ -6,7 +6,7 @@ event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception – Invited Talk"
   when:
     begin: 2017/11/16 12:00
-    end:
+    end: 2017/11/16 13:00
   where:
     desc: 560 Evans Hall at University of California, Berkeley
     city: Berkeley
