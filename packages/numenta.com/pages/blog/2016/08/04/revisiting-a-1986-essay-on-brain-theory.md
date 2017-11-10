@@ -49,7 +49,7 @@ this there were no faculty members at Berkeley, nor anywhere else, that I could
 work with. Being a theoretical neuroscientist was not an option at that time.
 
 The title of my paper was
-[An Investigation of Adaptive Behavior towards a Theory of Neocortical Function](http://www.onintelligence.org/resources/Hawkins1986.pdf)\*.
+[An Investigation of Adaptive Behavior towards a Theory of Neocortical Function](https://numenta.com/assets/pdf/whitepapers/Hawkins1986.pdf)\*.
 It was from this paper that the gentleman from Japan wanted an excerpt.
 
 I had not read this paper in many years so I sat down to read it again this
