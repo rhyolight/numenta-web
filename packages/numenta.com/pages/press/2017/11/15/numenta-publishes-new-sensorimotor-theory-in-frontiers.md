@@ -54,12 +54,8 @@ them to machine learning applications for continuously streaming data.
 Numenta publishes its progress in scientific journals and makes all of
 its code public in an [open source project](http://www.numenta.org).
 
-**Citations:**<br/>
+**Sources:**<br/>
 \* *Hawkins, J., Ahmad, S., and Cui, Y. (2017). A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. Front. Neural Circuits 11, 81. doi:10.3389/FNCIR.2017.00081.*
-
-\* *Yuwei Cui, Subutai Ahmad, Jeff Hawkins (2016) Continuous Online Sequence Learning with an Unsupervised Neural Network Model. Neural Computation 28(11), 2474–2504. doi:10.1162/NECO_a_00893*
-
-\* *Hawkins, J., and Ahmad, S. (2016). Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex. Front. Neural Circuits 10. doi:10.3389/fncir.2016.00023*
 
 **Numenta Media Contact:**<br/>
 Betty Taylor <br/>
