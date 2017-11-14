@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: "Artificial Intelligence techniques such as “deep learning” and “convolutional neural networks” have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Numerous AI companies have appeared to catch the wave of excitement as funding and acquisitions have accelerated."
+brief: "Artificial Intelligence techniques such as “deep learning” and “convolutional neural networks” have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Numerous AI companies have appeared to catch the wave of excitement as funding and acquisitions have accelerated. Yet, leading AI researchers realize something is not right."
 date: 2017/11/14
 hideImage: false
 image: ../images/brain-lightbulb.png
