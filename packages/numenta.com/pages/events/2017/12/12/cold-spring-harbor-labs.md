@@ -1,24 +1,24 @@
 ---
-author: Jeff Hawkins
+author: Jeff Hawkins & Subutai Ahmad
 brief:
-date: 2017/11/16
+date: 2017/12/12
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
   when:
-    begin: 2017/11/16 12:00
-    end: 2017/11/16 13:00
+    begin: 2017/12/12 11:00
+    end: 2017/12/12 12:00
   where:
-    desc: 560 Evans Hall at University of California, Berkeley
-    city: Berkeley
-    state: CA
+    desc: Cold Spring Harbor Labs
+    city: Cold Spring Harbor
+    state: NY
     country: USA
-    web: http://redwood.berkeley.edu/
-  who: Jeff Hawkins
+    web: http://www.cshl.edu/
+  who: Jeff Hawkins & Subutai Ahmad
   why: Speaking
-image: ../images/redwood-center-logo.png
-org: Co-Founder
-tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain
-title: "Redwood Center for Theoretical Neuroscience – Invited Talk"
+image: ../images/csh.png
+org: Co-Founder & VP of Research
+tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
+title: "Cold Spring Harbor Labs – Invited Talk"
 type: post
 ---
 
