@@ -13,10 +13,10 @@ event:
     state: MA
     country: USA
     web: https://cbmm.mit.edu/news-events/events/brains-minds-machines-seminar-series-jeff-hawkins
-  who: Jeff Hawkins
+  who: Jeff Hawkins & Subutai Ahmad
   why: Speaking
 image: ../images/mit-center-for-brains.png
-org: Co-Founder
+org: Co-Founder & VP of Research
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
 title: "MIT – Invited Talk"
 type: post
