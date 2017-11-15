@@ -1,5 +1,5 @@
 ---
-author: Jeff Hawkins and Subutai Ahmad
+author: Numenta
 brief:
 date: 2017/12/15
 event:
@@ -16,7 +16,7 @@ event:
   who: Jeff Hawkins and Subutai Ahmad
   why: Speaking
 image: ../images/mit-center-for-brains.png
-org: Co-Founder & VP of Research
+org: Jeff Hawkins and Subutai Ahmad
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
 title: "MIT, Center for Brains, Minds + Machines Seminar Series"
 type: post

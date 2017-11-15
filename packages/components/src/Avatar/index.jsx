@@ -37,7 +37,6 @@ import ImageYuweiCui from './images/yuwei-cui.png'
 import ImageZuhaAgha from './images/zuha-agha.png'
 import ImageLuizScheinkman from './images/luiz-scheinkman.png'
 import ImageJoanneCua from './images/joanne-cua.png'
-import ImageJeffHawkinsAndSubutaiAhmad from './images/jeff-and-subutai.png'
 
 const avatars = {
   ImageAlexanderLavin,
@@ -68,7 +67,6 @@ const avatars = {
   ImageZuhaAgha,
   ImageLuizScheinkman,
   ImageJoanneCua,
-  ImageJeffHawkinsAndSubutaiAhmad,
 }
 
 
