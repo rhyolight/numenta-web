@@ -1,5 +1,5 @@
 ---
-author: Jeff Hawkins & Subutai Ahmad
+author: Jeff Hawkins and Subutai Ahmad
 brief:
 date: 2017/12/12
 event:
@@ -13,7 +13,7 @@ event:
     state: NY
     country: USA
     web: http://www.cshl.edu/
-  who: Jeff Hawkins & Subutai Ahmad
+  who: Jeff Hawkins and Subutai Ahmad
   why: Speaking
 image: ../images/csh.png
 org: Co-Founder & VP of Research

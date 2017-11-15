@@ -1,5 +1,5 @@
 ---
-author: Jeff Hawkins & Subutai Ahmad
+author: Jeff Hawkins and Subutai Ahmad
 brief:
 date: 2017/12/14
 event:
@@ -13,7 +13,7 @@ event:
     state: MA
     country: USA
     web: http://www.bu.edu/csn/events/calendar/?eid=206466
-  who: Jeff Hawkins & Subutai Ahmad
+  who: Jeff Hawkins and Subutai Ahmad
   why: Speaking
 image: ../images/boston-university.png
 org: Co-Founder & VP of Research
