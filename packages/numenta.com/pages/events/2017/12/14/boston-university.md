@@ -18,7 +18,7 @@ event:
 image: ../images/boston-university.png
 org: Co-Founder & VP of Research
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
-title: "Boston University – Invited Talk"
+title: "BU Center for Systems Neuroscience"
 type: post
 ---
 

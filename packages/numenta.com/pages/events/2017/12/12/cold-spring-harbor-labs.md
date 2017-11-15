@@ -18,7 +18,7 @@ event:
 image: ../images/csh.png
 org: Co-Founder & VP of Research
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
-title: "Cold Spring Harbor Labs – Invited Talk"
+title: "Cold Spring Harbor Laboratory"
 type: post
 ---
 

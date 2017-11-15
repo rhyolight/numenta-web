@@ -8,7 +8,7 @@ event:
     begin: 2017/12/15 16:00
     end: 2017/12/15 18:00
   where:
-    desc: MIT, Center for Brains, Minds + Machines Seminar Series
+    desc: MIT Building 46-3002 (Singleton Auditorium), 43 Vassar St.
     city: Cambridge
     state: MA
     country: USA
@@ -18,7 +18,7 @@ event:
 image: ../images/mit-center-for-brains.png
 org: Co-Founder & VP of Research
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
-title: "MIT – Invited Talk"
+title: "MIT, Center for Brains, Minds + Machines Seminar Series"
 type: post
 ---
 
