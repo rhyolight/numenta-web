@@ -1,5 +1,5 @@
 ---
-author: Jeff Hawkins
+author: Jeff Hawkins & Subutai Ahmad
 brief:
 date: 2017/12/14
 event:
