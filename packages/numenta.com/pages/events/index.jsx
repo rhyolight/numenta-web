@@ -75,7 +75,7 @@ export default class EventsPage extends React.Component {
     const from = position || 0
     const to = from + ITEMS_PER_PAGE
     let posts, pastEvents, upEvents
-    const now = moment()
+    const now = moment().startOf('day')
     const allPosts = pages.filter(({file}) => (
       file.path.match(/^events\/.*\.md/)))
 
