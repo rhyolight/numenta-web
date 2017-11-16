@@ -12,7 +12,9 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
-import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
+import {
+    sortDateDescend, sortDateAscend,
+} from 'numenta-web-shared-utils/lib/universal'
 
 import PostListRow from '../../components/PostListRow'
 import Pagination from '../../components/Pagination'
@@ -105,7 +107,7 @@ export default class EventsPage extends React.Component {
     ))
     const upcoming = items.filter(({data}) => (
       (moment(data.date, config.moments.post) >= now)
-    ))
+    )).sort(sortDateAscend)
     const itemsPast = past.map((post) => (
       <ListItem key={post.file.stem}>
         <PostListRow post={post} />
