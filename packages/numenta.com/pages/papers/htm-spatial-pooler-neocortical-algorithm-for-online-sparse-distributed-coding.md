@@ -25,7 +25,7 @@ Hierarchical temporal memory (HTM) provides a theoretical framework that models 
  ![HTM Spatial Pooler](../images/spatial-pooler.png)
 
 <center><i>
-Neural mechanism of HTM Spatial pooler. A. Spatial pooler requires local across mini-column inhibition to ensure that a small fraction of the mini-columns are active at any time. B. Potential mechanisms to ensure neurons within the same mini-column share the same feedforward receptive field.*
+Neural mechanism of HTM Spatial pooler. A. Spatial pooler requires local across mini-column inhibition to ensure that a small fraction of the mini-columns are active at any time. B. Potential mechanisms to ensure neurons within the same mini-column share the same feedforward receptive field.
 </center></i>
 
 ## Frequently asked questions about this research
