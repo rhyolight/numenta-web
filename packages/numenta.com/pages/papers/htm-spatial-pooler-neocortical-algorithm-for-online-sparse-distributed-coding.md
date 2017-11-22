@@ -20,11 +20,11 @@ type: post
 | **Published** | xxxx, 2017 |
 
 
- ierarchical temporal memory (HTM) provides a theoretical framework that models several key computational principles of the neocortex. This paper analyzes an important component of HTM, the HTM spatial pooler (SP). The HTM spatial pooler represents a neurally inspired algorithm for learning sparse representations from noisy data streams in an online fashion. It models how neurons learn feedforward connections and form efficient representations of the input. It converts arbitrary binary input patterns into sparse distributed representations (SDRs) using a combination of competitive Hebbian learning rules and homeostatic excitability control.
+Hierarchical temporal memory (HTM) provides a theoretical framework that models several key computational principles of the neocortex. This paper analyzes an important component of HTM, the HTM spatial pooler (SP). The HTM spatial pooler represents a neurally inspired algorithm for learning sparse representations from noisy data streams in an online fashion. It models how neurons learn feedforward connections and form efficient representations of the input. It converts arbitrary binary input patterns into sparse distributed representations (SDRs) using a combination of competitive Hebbian learning rules and homeostatic excitability control.
 
- image
+ ![HTM Spatial Pooler](../images/spatial-pooler.png)
 
- Neural mechanism of HTM Spatial pooler. A. Spatial pooler requires local across mini-column inhibition to ensure that a small fraction of the mini-columns are active at any time. B. Potential mechanisms to ensure neurons within the same mini-column share the same feedforward receptive field.
+ *Neural mechanism of HTM Spatial pooler. A. Spatial pooler requires local across mini-column inhibition to ensure that a small fraction of the mini-columns are active at any time. B. Potential mechanisms to ensure neurons within the same mini-column share the same feedforward receptive field.*
 
 ## Frequently asked questions about this research
 
@@ -64,7 +64,7 @@ Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/b
 
 A central problem in neuroscience is to understand how individual cortical neurons learn to respond to specific input spike patterns, and how a population of neurons collectively represents features of the inputs in a flexible, dynamic, yet robust way. HTM networks can learn time-based sequences in a continuous online fashion by using Sparse Distributed Representations (SDRs). HTM spatial pooler (SP) is a key component of HTM networks that continuously encodes streams of sensory inputs into SDRs.
 
-### Q. How does this paper make contributions in machine intelligence?
+### Q. How does this paper make contributions in machine learning?
 
 The HTM spatial pooler leads to a flexible sparse coding scheme that can be used in practical machine learning applications.  By exploring functional properties of the HTM spatial pooler that have not yet been systematically analyzed, this paper enables new SP-based machine learning applications.
 
