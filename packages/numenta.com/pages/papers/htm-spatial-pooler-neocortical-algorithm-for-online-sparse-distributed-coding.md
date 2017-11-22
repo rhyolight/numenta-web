@@ -54,11 +54,11 @@ Most previous studies of spare coding propose goals such as avoid information lo
 
 ### Q. How were the simulations conducted?
 
-For this paper, we wrote simulation code in Python to demonstrate various properties of sequence memory. We used the reference HTM implementation available in the open source project [NuPIC](https://github.com/numenta/nupic).
+For this paper, we wrote simulation code in Python to demonstrate various properties of sequence memory. We used the reference HTM implementation available in the open source project [NuPIC](http://github.com/numenta/nupic).
 
 ### Q. Can I replicate these simulations?
 
-Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](https://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](https://discourse.numenta.org/).
+Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](http://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](http://discourse.numenta.org/).
 
 ### Q. How will this paper make contributions in neuroscience?
 
@@ -70,11 +70,11 @@ The HTM spatial pooler leads to a flexible sparse coding scheme that can be used
 
 ### Q. Where can I find out more?
 
-The [HTM Forum](https://discourse.numenta.org/) is a great resource for further questions and discussion on
+The [HTM Forum](http://discourse.numenta.org/) is a great resource for further questions and discussion on
 HTM theory. The authors of this paper are active participants in the forum.
 
 ### Q. What is next for this research?
 
 This research is part of our foundation of papers detailing our overall goal of reverse-engineering the neocortex. Our current research focuses on sensorimotor inference theory, (how the neocortex learns and builds a model of the world through movement), and hierarchy.
 
-[1]: https://doi.org/10.3389/fncir.2017.00081
+[1]: http://doi.org/10.3389/fncir.2017.00081
