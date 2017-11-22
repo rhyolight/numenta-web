@@ -30,7 +30,7 @@ Hierarchical temporal memory (HTM) provides a theoretical framework that models 
 
 ### Q. What was the purpose of this study?
 
-The purpose of this paper was to provide analysis of the computational properties of the HTM spatial pooler and demonstrate its value in end-to-end HTM systems.  Inspired by computational principles of the neocortex, the goal of the HTM spatial pooler is to create SDRs and support essential neural computations such as sequence learning and memory. This is a supporting paper to [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full), which appeared in Frontiers in Neural Circuits, March 2016.
+The purpose of this paper was to provide analysis of the computational properties of the HTM spatial pooler and demonstrate its value in end-to-end HTM systems.  Inspired by computational principles of the neocortex, the goal of the HTM spatial pooler is to create SDRs and support essential neural computations such as sequence learning and memory. This is a supporting paper to [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://doi.org/10.3389/fncir.2016.00023), which appeared in Frontiers in Neural Circuits, March 2016.
 
 ### Q. What are the key takeaways?
 
@@ -54,11 +54,11 @@ Most previous studies of spare coding propose goals such as avoid information lo
 
 ### Q. How were the simulations conducted?
 
-For this paper, we wrote simulation code in Python to demonstrate various properties of sequence memory. We used the reference HTM implementation available in the open source project [NuPIC](http://github.com/numenta/nupic).
+For this paper, we wrote simulation code in Python to demonstrate various properties of sequence memory. We used the reference HTM implementation available in the open source project [NuPIC](https://github.com/numenta/nupic).
 
 ### Q. Can I replicate these simulations?
 
-Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](http://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](http://discourse.numenta.org/).
+Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](https://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](https://discourse.numenta.org/).
 
 ### Q. How will this paper make contributions in neuroscience?
 
@@ -70,11 +70,11 @@ The HTM spatial pooler leads to a flexible sparse coding scheme that can be used
 
 ### Q. Where can I find out more?
 
-The [HTM Forum](http://discourse.numenta.org/) is a great resource for further questions and discussion on
+The [HTM Forum](https://discourse.numenta.org/) is a great resource for further questions and discussion on
 HTM theory. The authors of this paper are active participants in the forum.
 
 ### Q. What is next for this research?
 
 This research is part of our foundation of papers detailing our overall goal of reverse-engineering the neocortex. Our current research focuses on sensorimotor inference theory, (how the neocortex learns and builds a model of the world through movement), and hierarchy.
 
-[1]: http://doi.org/10.3389/fncir.2017.00081
+[1]: https://doi.org/10.3389/fncir.2017.00081
