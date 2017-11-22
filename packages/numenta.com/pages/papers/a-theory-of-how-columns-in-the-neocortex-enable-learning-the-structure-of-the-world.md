@@ -59,7 +59,7 @@ For this paper, we wrote simulation code in Python and used the reference HTM im
 
 ### Q. Can I replicate these simulations?
 
-Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](https://github.com/numenta/htmpapers). The code is currently in “beta stage” until the final version of the paper is published. We welcome questions and discussion about the paper on the [HTM Forum](https://discourse.numenta.org/).
+Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](https://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](https://discourse.numenta.org/).
 
 ### Q. How will this paper make contributions in neuroscience?
 
