@@ -13,6 +13,8 @@ title: On Intelligence (Book)
 type: post
 ---
 
+ ![On Intelligence](../images/on-intelligence.png)
+
 The core concepts in Hierarchical Temporal Memory (HTM) theory were first
 described in this book titled **On Intelligence**, which was written by Jeff
 Hawkins with the help of Sandra Blakeslee. This book still provides background
