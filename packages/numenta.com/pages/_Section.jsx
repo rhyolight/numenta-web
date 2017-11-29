@@ -96,8 +96,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="https://numenta.com/press/2017/11/15/numenta-publishes-new-sensorimotor-theory-in-frontiers/">
-            Press Release on Sensorimotor Theory Paper
+            <TextLink to="http://numenta.com/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/">
+            "HTM Spatial Pooler Paper Published in Frontiers"
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
