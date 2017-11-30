@@ -29,5 +29,3 @@ Jeff explains how our latest research uncovers a key feature of cortical functio
 > powerful than people thought.  It allows even a small section of the
 > cortex to model complete objects and know the entire structure of
 > objects."
-
-Download or stream the episode “[Jeff Hawkins Explores a New Theory of Cortical Function](http://brainsciencepodcast.com/bsp/2017/139-hawkins)” to tune in to their conversation.
