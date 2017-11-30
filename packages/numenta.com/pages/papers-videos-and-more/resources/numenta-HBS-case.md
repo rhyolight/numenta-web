@@ -1,5 +1,5 @@
 ---
-author: David B. Yoffie, Liz Kind & David Ben Shimol
+author: David B. Yoffie, Liz Kind and David Ben Shimol
 brief: "In spring of 2016, Harvard Business School Professor David B. Yoffie visited Numenta to begin the process of developing a case study for his International Business Administration classes.  The question at the heart of the case: could Numenta be successful in both creating fundamental technology and building a commercial business? This case offers a unique look back at the history of Numenta and how we’ve tackled a dual mission over the years."
 date: 2017/05/31
 image:
