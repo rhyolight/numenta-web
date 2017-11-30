@@ -9,7 +9,7 @@ org: Brain Science Podcast
 section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
-title: "Brain Science Podcast: Jeff Hawkins Explores a New Theory of Cortical Function"
+title: Jeff Hawkins Explores a New Theory of Cortical Function
 type: post
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5974535/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
