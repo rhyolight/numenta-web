@@ -2,13 +2,14 @@
 author: Christy Maver
 brief: "The Brain Science Podcast, hosted by Dr. Ginger Campbell, features recent discoveries about neuroscience and interviews with scientists around the world. “Dr. Campbell believes that understanding how the brain works gives us insight into what makes us human. She is also committed to showing how the scientific method has unraveled many long-standing mysteries"
 date: 2017/11/27
-hideImage: false
+hideImage: true
 image: ../images/brainsciencepodcast.jpg
 org: VP of Marketing
 tags: numenta hierarchical temporal memory htm blog
 title: "Brain Science Podcast: Jeff Hawkins Explores a New Theory of Cortical Function"
 type: post
 ---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5974535/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 The ***Brain Science Podcast***, hosted by [Dr. Ginger Campbell](http://www.virginiacampbellmd.com/ginger-campbell-md/), features recent discoveries about neuroscience and interviews with scientists around the world.  “Dr. Campbell believes that understanding how the brain works gives us insight into what makes us human. She is also committed to showing how the scientific method has unraveled many long-standing mysteries.”
 
