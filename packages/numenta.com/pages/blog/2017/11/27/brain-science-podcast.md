@@ -12,7 +12,7 @@ type: post
 
 The ***Brain Science Podcast***, hosted by [Dr. Ginger Campbell](http://www.virginiacampbellmd.com/ginger-campbell-md/), features recent discoveries about neuroscience and interviews with scientists around the world.  “Dr. Campbell believes that understanding how the brain works gives us insight into what makes us human. She is also committed to showing how the scientific method has unraveled many long-standing mysteries.”
 
-As Dr. Campbell explains, the ***Brain Science Podcast*** was partially inspired by Jeff and his book [On Intelligence](https://numenta.com/papers-videos-and-more/resources/on-intelligence/), and Jeff was one of the show's first guests in 2006.  Now, more than a decade later, Dr. Campbell invited Jeff back to interview him about our latest work.  
+As Dr. Campbell explains, the ***Brain Science Podcast*** was partially inspired by Jeff and his book [On Intelligence](https://numenta.com/papers-videos-and-more/resources/on-intelligence/), and Jeff was one of the show's first guests.  Now, nearly a decade later, Dr. Campbell invited Jeff back to interview him about our latest work.  
 
 In a [new episode](http://brainsciencepodcast.com/bsp/2017/139-hawkins), Jeff discusses two key peer-reviewed papers that Numenta has published over the last two years:
 
