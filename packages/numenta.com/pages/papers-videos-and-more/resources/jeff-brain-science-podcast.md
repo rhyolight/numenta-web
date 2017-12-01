@@ -18,4 +18,8 @@ In the ***Brain Science Podcast***, [Dr. Ginger Campbell](http://www.virginiacam
 * [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in the Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/) (2016)
 * [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/) (2017)
 
-Download the full transcript of the podcast [here](/assets/pdf/podcasts/jeff-brain-science-podcast-transcript.pdf).
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/podcasts/jeff-brain-science-podcast-transcript.pdf)**
+
+</center>
