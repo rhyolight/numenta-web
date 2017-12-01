@@ -6,6 +6,7 @@ import classNames from 'classnames'
 import IconBook from 'react-icons/lib/fa/book'
 import IconPaper from 'react-icons/lib/fa/file-pdf-o'
 import IconVideo from 'react-icons/lib/fa/youtube-play'
+import IconPodcast from 'react-icons/lib/fa/play-circle-o'
 import React from 'react'
 
 import Anchor from 'numenta-web-shared-components/lib/Anchor'
@@ -28,6 +29,7 @@ const learnIcons = {
   paper: (<IconPaper />),
   video: (<IconVideo />),
   poster: (<IconPaper />),
+  podcast: (<IconPodcast />),
 }
 
 
