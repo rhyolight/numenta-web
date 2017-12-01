@@ -7,7 +7,7 @@ hideImage: true
 image: ../images/spatialpooler.png
 link: https://doi.org/10.3389/fncom.2017.00111
 org: "Published in Frontiers in Neuroscience"
-sort: f
+sort: bb
 title: "The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Distributed Coding"
 type: post
 ---
