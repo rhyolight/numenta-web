@@ -37,7 +37,7 @@ Although the video uses touch, the same mechanism can be applied to all sensory 
 
 ### Q. What was the purpose of this study?
 
-The purpose of this paper was to explore how the brain learns through movement and builds a 3D model of the world. This study is part of our larger effort to reverse engineer the neocortex, and improve our overall understanding of how the brain learns.  It builds on our existing research, and incorporates the same neural network which we introduced in our [theory of sequence memory in the neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).
+The purpose of this paper was to explore how the brain learns through movement and builds a 3D model of the world. This study is part of our larger effort to reverse engineer the neocortex, and improve our overall understanding of how the brain learns.  It builds on our existing research, and incorporates the same neural network which we introduced in our [theory of sequence memory in the neocortex](/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).
 
 ### Q. What are the key takeaways?
 
@@ -55,11 +55,11 @@ The standard view of object recognition in the neocortex involves a passive proc
 
 ### Q. How were the simulations conducted?
 
-For this paper, we wrote simulation code in Python and used the reference HTM implementation available in the open source project [NuPIC](https://www.numenta.org). The algorithm code for forming sensorimotor predictions (the input layer) can also be used for sequence learning and to demonstrate all the properties described in [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).  They both use the same HTM neuron model – the primary difference being the contextual input sent to the active dendrites.
+For this paper, we wrote simulation code in Python and used the reference HTM implementation available in the open source project [NuPIC](https://www.numenta.org). The algorithm code for forming sensorimotor predictions (the input layer) can also be used for sequence learning and to demonstrate all the properties described in [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).  They both use the same HTM neuron model – the primary difference being the contextual input sent to the active dendrites.
 
 ### Q. Can I replicate these simulations?
 
-Yes! In keeping with Numenta’s [open research philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](https://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](https://discourse.numenta.org/).
+Yes! In keeping with Numenta’s [open research philosophy](/blog/2014/09/17/increasing-research-transparency/), you can access the source code and data for all scripts in this [HTM papers repository](https://github.com/numenta/htmpapers). We also welcome questions and discussion about the paper on the [HTM Forum](https://discourse.numenta.org/).
 
 ### Q. How will this paper make contributions in neuroscience?
 

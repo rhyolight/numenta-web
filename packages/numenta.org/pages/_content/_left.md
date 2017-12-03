@@ -1,7 +1,7 @@
 ---
 ---
 
-[com]:    http://numenta.com
+[com]:    https://numenta.com
 [forum]:  https://discourse.numenta.org/categories
 [github]: https://github.com/numenta
 [htm]:    /hierarchical-temporal-memory/

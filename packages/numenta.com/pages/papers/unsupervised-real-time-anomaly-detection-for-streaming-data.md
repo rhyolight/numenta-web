@@ -119,7 +119,7 @@ for each algorithm tested.
 ### **Q. Can I replicate these results?**
 
 Yes! In keeping with Numenta’s [open research
-philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/),
+philosophy](/blog/2014/09/17/increasing-research-transparency/),
 we have incorporated the source code and parameter settings for all of
 the above algorithms into the [NAB
 repository](https://github.com/numenta/NAB). We also welcome questions
@@ -141,7 +141,7 @@ learning methods.
 
 For more details on the key properties of HTM and how it compares to
 other machine learning models, you can read this [peer-reviewed
-paper](http://numenta.com/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
+paper](/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
 which appears in Neural Computation, November 2016, Volume 28.
 
 ### **Q. Where can I find out more?**

@@ -65,12 +65,12 @@ more intelligent systems,” added Ahmad.
 The release of the latest technical paper in ***Neurocomputing***, which
 Ahmad co-authored with Numenta researchers Alexander Lavin, Scott Purdy
 and Zuha Agha, is in keeping with Numenta’s [open research
-philosophy](http://numenta.com/blog/2014/09/17/increasing-research-transparency/).
+philosophy](/blog/2014/09/17/increasing-research-transparency/).
 Numenta researchers’ previously published peer-reviewed works published
 in the journals
 [***Frontiers***](http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full)
 and [***Neural
-Computation***](https://numenta.com/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
+Computation***](/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
 among others.
 
 **Numenta Article** ***What Intelligent Machines Need to Learn from the

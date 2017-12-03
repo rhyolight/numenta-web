@@ -273,7 +273,7 @@ const SchoolPage = (props, {config}) => {
             </TextLink>
           </ListItem>
           <ListItem>
-            <TextLink to="http://numenta.com/papers-videos-and-more/resources/sparse-distributed-representations/">
+            <TextLink to="https://numenta.com/papers-videos-and-more/resources/sparse-distributed-representations/">
               Sparse Distributed Representations: Our Brain's Data Structure
             </TextLink>
           </ListItem>

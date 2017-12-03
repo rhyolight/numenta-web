@@ -63,7 +63,7 @@ interest:
 
 -   Representations of action and movement in motor cortex
 
-Our recent publications can be seen at http://numenta.com/papers/
+Our recent publications can be seen at https://numenta.com/papers/
 
 ### How To Apply
 

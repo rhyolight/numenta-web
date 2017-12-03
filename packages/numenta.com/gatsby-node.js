@@ -237,7 +237,7 @@ export function postBuild(pages, callback) {
       priority: 0.5,  // @TODO dynamic per url length (shorter=higher)
     }))
   const sitemap = createSitemap({
-    hostname: 'http://numenta.com',  // @TODO stringify hostname in config
+    hostname: config.baseUrl,
     urls,
   })
 

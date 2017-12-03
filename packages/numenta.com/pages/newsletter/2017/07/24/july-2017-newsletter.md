@@ -17,4 +17,4 @@ Our second piece of news is that we have released [NuPIC 1.0](https://pypi.pytho
 
 So now that we’ve released 1.0, what comes next? We are thrilled to be doubling down on research.  By focusing on the sensorimotor integration work, we believe we can rapidly accelerate the progress of HTM theory.  We will continue to make our work transparent and provide access to experimental code and educational materials.  You can read more about our research plans from Jeff in this recent [blog post](/blog/2017/07/18/Numenta-Research-FY-2018/).
 
-Thank you for following Numenta. We’d love to hear from you.  [Send us a message](https://numenta.com/contact/), tag us on social media, or head over to the [HTM Forum](https://discourse.numenta.org/) and join a discussion.
+Thank you for following Numenta. We’d love to hear from you.  [Send us a message](/contact/), tag us on social media, or head over to the [HTM Forum](https://discourse.numenta.org/) and join a discussion.

@@ -39,7 +39,7 @@ In an editorial published in [Medium](https://medium.com/@Numenta/the-secret-to-
 **Reproducing Scientific Results**</br>
 To allow other researchers to reproduce these results, Numenta has created a [repository](https://github.com/numenta/htmpapers) with the source code, data, and scripts used in the paper. Numenta researchers hope this information will encourage more scientists to experiment with Numenta’s theories and to provide feedback.   
 
-Further information and a [video](https://www.youtube.com/watch?v=BvJJn9VS4rk&feature=youtu.be) on the new research are available [here](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).
+Further information and a [video](https://www.youtube.com/watch?v=BvJJn9VS4rk&feature=youtu.be) on the new research are available [here](/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).
 
 
 ### About Numenta

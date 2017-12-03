@@ -41,7 +41,7 @@ for anomaly detection in streaming data.
 
 In other news, we recently shared a summary of our published and submitted
 research papers.  You can now access all of these papers at
-[http://numenta.com/papers/](/papers/). I encourage you to bookmark the page as
+[https://numenta.com/papers/](/papers/). I encourage you to bookmark the page as
 we will be updating it with new material throughout the year.
 
 Lastly, I want to share that we will be participating in

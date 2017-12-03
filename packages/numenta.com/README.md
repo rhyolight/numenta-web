@@ -1,6 +1,6 @@
 # Numenta Company Website
 
-> http://numenta.com
+> https://numenta.com
 
 This Company Website is focused on Numenta's Business and Strategy, and is
 sibling to Numenta's educational HTM [Community](http://numenta.org) website.

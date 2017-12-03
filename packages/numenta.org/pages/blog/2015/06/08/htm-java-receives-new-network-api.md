@@ -20,7 +20,7 @@ of possibilities for application integration and for streaming data
 applications.
 
 **Stream of consciousness you say? Maybe someday... :-)** For now let us be
-content with easy integration of [Numenta's](http://numenta.com) learning,
+content with easy integration of [Numenta's](https://numenta.com) learning,
 prediction, and anomaly detection algorithms into new forward-thinking Java
 applications; distributed data applications; and enterprise ecosystems.
 

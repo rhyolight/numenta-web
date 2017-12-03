@@ -132,7 +132,7 @@ sensorimotor learning, how the neocortex learns and builds a model of the world
 through movement.
 
 [1]: http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full
-[2]: http://numenta.com/blog/2014/09/17/increasing-research-transparency/
+[2]: /blog/2014/09/17/increasing-research-transparency/
 [3]: https://github.com/numenta/nupic.research/tree/master/projects/sequence_learning
 [4]: https://discourse.numenta.org/
-[5]: http://numenta.com/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/
+[5]: /papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/

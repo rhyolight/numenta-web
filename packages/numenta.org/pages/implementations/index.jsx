@@ -54,11 +54,11 @@ const ImplementPage = (props, {config}) => {
               </TextLink> {' '}
               It contains pseudocode for both the {' '}
               {/* eslint-disable max-len */}
-              <TextLink to="http://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Spatial-Pooler.pdf">
+              <TextLink to="https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Spatial-Pooler.pdf">
                 spatial pooling
               </TextLink> and {' '}
               {/* eslint-disable max-len */}
-              <TextLink to="http://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Temporal-Memory.pdf">
+              <TextLink to="https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Temporal-Memory.pdf">
                 temporal memory
               </TextLink> algorithms (PDFs).
               {/* eslint-enable max-len */}

@@ -28,7 +28,7 @@ directory.
 ├── package.json      # Skeleton monorepo project config
 └── packages/         # Child sub-repos of our Lerna monorepo, details below
     ├── components/   # Shared React View Components to be used amongst sites
-    ├── numenta.com/  # http://numenta.com Numenta Company website source code
+    ├── numenta.com/  # https://numenta.com Numenta Company website source code
     ├── numenta.org/  # http://numenta.org HTM Community website source code
     └── utils/        # Shared helper utils to be used amongst sites.
 ```
@@ -131,7 +131,7 @@ sub-directories.**
 ## Goals
 
 These sites are an attempt at getting back to the roots of the web: *reading*.
-[Inspired by](http://numenta.com/blog/2016/09/02/why-did-we-completely-change-our-website-design-the-story-behind-our-new-look/)
+[Inspired by](https://numenta.com/blog/2016/09/02/why-did-we-completely-change-our-website-design-the-story-behind-our-new-look/)
 the classic design of [Wikipedia](https://en.wikipedia.org/wiki/Numenta), we
 hope our sites will be easy to read, helpful for finding information quickly,
 simple to navigate, and a delight to interact with.
@@ -237,7 +237,7 @@ examples of page build paths follow.
 
 **Homepage Advanced Section/Pages build path:**
 
-* http://numenta.com/contact/
+* https://numenta.com/contact/
   * ⇒ (`pages/contact/_Section.jsx`)
     * ⇒ `pages/contact/index.jsx`
       * ⇒ (`pages/contact/_template.jsx` - if exists)
@@ -248,14 +248,14 @@ examples of page build paths follow.
 
 **Regular Page build paths:**
 
-* http://numenta.com/sitemap/
+* https://numenta.com/sitemap/
   * ⇒ `pages/sitemap/index.jsx`
     * ⇒ (`pages/sitemap/_template.jsx` - if exists)
       * ⇒ `pages/_template.jsx`
         * ⇒ `./html.jsx`
           * ⇒ **`public/sitemap/index.html`**
 
-* http://numenta.com/legal/privacy/
+* https://numenta.com/legal/privacy/
   * ⇒ `pages/legal/privacy.md`
     * ⇒ `wrappers/md.jsx`
       * ⇒ (`pages/legal/_template.jsx` - if exists)
@@ -442,9 +442,9 @@ example, see the local file `.eslintrc.json`).
 * Markdown YAML headmatter: be careful with quotes and escaping titles, etc.
 * Beware extra Markdown
   [typographer shortcuts](https://github.com/jonschlinkert/remarkable#typographer)
-* Internal flat markdown auto-links (`http://numenta.com/htm-studio/`) may break
+* Internal flat markdown auto-links (`https://numenta.com/htm-studio/`) may break
   on staging servers, use markdown style instead:
-  `[http://numenta.com/htm-studio/](/htm-studio/)`
+  `[https://numenta.com/htm-studio/](/htm-studio/)`
 * Search Engine Optimization (SEO) notes:
   * Make sure to follow the **Link** and **URL Format** notes further below.
 * Optimize all images before committing to the repository.
@@ -463,9 +463,9 @@ example, see the local file `.eslintrc.json`).
 
 * URLs should end with `/` (slash)
 * Examples of ideal URLs detailed below:
-  * `http://numenta.com/`
-  * `http://numenta.com/machine-intelligence-technology/`
-  * `http://numenta.com/business-strategy-and-ip/#licenses`
+  * `https://numenta.com/`
+  * `https://numenta.com/machine-intelligence-technology/`
+  * `https://numenta.com/business-strategy-and-ip/#licenses`
   * `http://numenta.org/`
   * `http://numenta.org/htm-school/`
 

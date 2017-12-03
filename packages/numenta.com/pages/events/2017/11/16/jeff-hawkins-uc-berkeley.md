@@ -26,7 +26,7 @@ type: post
 
 In this talk, I will describe a theory that sensory regions of the neocortex process two inputs. One input is the well-known sensory data arriving via thalamic relay cells. The second input is an allocentric representation, which we propose is derived in the sub-granular layers of each cortical column. The allocentric location represents where the sensed feature is relative to the object being sensed. These two inputs are combined in layer 4. As the sensors move, cortical columns learn complete models of objects by integrating feature and location representations over time. During inference, inter-column projections allow columns to rapidly reach a consensus of what object is being sensed, often in a single visual fixation or a single grasp of a hand. We propose that the representation of allocentric location in each column is derived using the same principles as grid cells in the entorhinal cortex. In this proposal, individual cortical columns are able to model complete complex objects and are therefore more powerful than currently believed.
 
-I will be discussing material from these two papers. Others can be found at [Numenta.com/papers](https://www.numenta.com/papers).
+I will be discussing material from these two papers. Others can be found at [Numenta.com/papers](/papers/).
 
 * [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://doi.org/10.3389/fncir.2017.00081)
 

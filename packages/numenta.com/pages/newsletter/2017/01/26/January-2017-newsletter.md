@@ -29,7 +29,7 @@ paper in its journal, *Neural Computation*, over the past twelve
 months.  We’re happy to see these articles reaching a wide audience, and
 we are already working on adding to our portfolio. You can find these,
 along with our entire collection, on our website at
-[numenta.com/papers](http://www.numenta.com/papers).
+[numenta.com/papers](/papers/).
 
 For those of you that look for us at different events, we have several
 scheduled over the next couple months.  We’ll be at [Smart
@@ -46,10 +46,10 @@ presenting at the [5th Neuro Inspired Computational Elements Workshop
 before joining Subutai to deliver an opening keynote for [Cornell
 Silicon Valley](http://www.alumni.cornell.edu/csv/csv17/schedule.cfm) on
 March 7.  To view all of our upcoming events, and presentations from
-past events, visit [numenta.com/events](http://www.numenta.com/events).
+past events, visit [numenta.com/events](/events/).
 
 In other news, we recently started a [Visiting Scholar
-Program](http://numenta.com/careers-and-team/careers/visiting-scholar-program/),
+Program](/careers-and-team/careers/visiting-scholar-program/),
 where scientists can apply to spend some time with us for anywhere from
 a few days to a few months.  During their visit, they can join all of
 our research meetings while continuing to work on their normal
@@ -57,10 +57,10 @@ research.  This gives them a chance to learn HTM more deeply and us a
 chance to explore possible research partnerships. We strive to maintain
 an open, collaborative environment, and this program supports that.  For
 an inside look at how the program works, read this [blog
-post](http://numenta.com/blog/2017/01/17/visiting-scholar-program/) from
+post](/blog/2017/01/17/visiting-scholar-program/) from
 our first visiting scholar, Mirko Klukas, Ph.D.
 
 Lastly, we have an opening in marketing that is a great opportunity for
 someone who is ready to learn and eager to help us share our story. If
 you or someone you know are interested in this position, you can [apply
-here](http://numenta.com/careers-and-team/careers/marketing-associate/).
+here](/careers-and-team/careers/marketing-associate/).

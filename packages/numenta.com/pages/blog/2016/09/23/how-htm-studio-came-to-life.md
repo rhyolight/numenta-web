@@ -68,7 +68,7 @@ but the new param finder skips this step and quickly finds the optimal
 parameters. Then, we spent about a month on the accuracy of the algorithm
 results. It was important that the app (and especially the new param finder)
 provided accurate results on various datasets. We added compatibility tests with
-[NAB](http://numenta.com/numenta-anomaly-benchmark/) to test the results.
+[NAB](/numenta-anomaly-benchmark/) to test the results.
 
 #### Testing the UX
 

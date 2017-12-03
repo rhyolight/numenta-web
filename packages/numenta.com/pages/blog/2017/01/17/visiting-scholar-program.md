@@ -11,7 +11,7 @@ type: post
 ---
 
 We recently began a [*Visiting Scholar
-Program*](http://numenta.com/careers-and-team/careers/visiting-scholar-program/),
+Program*](/careers-and-team/careers/visiting-scholar-program/),
 where researchers and professors can spend some time at our offices and
 learn about HTM in depth. Designed to promote collaboration,
 participants play an active part in our research meetings while
@@ -99,7 +99,7 @@ towards machine intelligence research even more.
 
 I will spare you a detailed explanation of my mathematical research. :)
 If someone is interested in that, all my pure math papers can be found
-online on 
+online on
 [*arXiv*](https://arxiv.org/find/all/1/all:+klukas/0/1/0/all/0/1) - some
 keywords are: *low-dimensional topology*, *contact* and *symplectic
 topology*, *symplectic cobordisms*, *open book decompositions*, *Engel
@@ -136,6 +136,4 @@ entropy*. The interplay of these two quantities is something I want to understan
 
 =================================================================================================
 
-*If you're interested in applying for the Visiting Scholar Program, [*click here*](http://numenta.com/careers-and-team/careers/visiting-scholar-program/) to apply*.
-
-
+*If you're interested in applying for the Visiting Scholar Program, [*click here*](/careers-and-team/careers/visiting-scholar-program/) to apply*.

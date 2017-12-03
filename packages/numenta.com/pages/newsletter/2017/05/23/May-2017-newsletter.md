@@ -73,7 +73,7 @@ application downtime. Grok is holding a webinar on June 6th for people interest
 in hearing more. Reserve your spot [here](http://event.grokstream.com/webinar-aiops).
 
 
-Lastly, we recently made another major update to our living book, [Biological and Machine Intelligence](https://numenta.com/biological-and-machine-intelligence/).
+Lastly, we recently made another major update to our living book, [Biological and Machine Intelligence](/biological-and-machine-intelligence/).
 The Problem Sets chapter now contains questions spanning the SDRs, Encoders,
 Spatial Pooling and Temporal Memory chapters. Keep sending us your [comments and questions](https://numenta.wufoo.com/forms/biological-and-machine-intelligence-bami/)
 about BAMI, and don’t forget to follow [@NumentaBAMI](https://twitter.com/NumentaBAMI)

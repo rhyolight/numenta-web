@@ -12,7 +12,7 @@ event:
     city: "Vancouver"
     state: "British Columbia"
     country: "Canada"
-    web: http://numenta.com/numenta-anomaly-benchmark/
+    web: https://numenta.com/numenta-anomaly-benchmark/
   who:
   why:
 image: ../images/image.png
@@ -40,7 +40,7 @@ of real-world, time-series data with labeled anomalies? If so, you’re encourag
 to enter the Numenta Anomaly Benchmark (NAB) Competition.
 
 Read more on the Numenta company blog: <br />
-http://numenta.com/blog/2016/02/11/numenta-anomaly-benchmark-contest-ieee-wcci-2016/
+https://numenta.com/blog/2016/02/11/numenta-anomaly-benchmark-contest-ieee-wcci-2016/
 
 ### What is NAB?
 
@@ -48,7 +48,7 @@ The Numenta Anomaly Detection Benchmark (NAB) attempts to provide a controlled
 and repeatable environment of open-source tools to test and measure anomaly
 detection algorithms on streaming data.
 
-* NAB is available at: http://numenta.com/numenta-anomaly-benchmark/
+* NAB is available at: https://numenta.com/numenta-anomaly-benchmark/
 * Learn More about NAB in this paper: http://arxiv.org/abs/1510.03336
 * NAB Video Presentation: https://www.youtube.com/watch?v=SxtsCrTHz-4
 

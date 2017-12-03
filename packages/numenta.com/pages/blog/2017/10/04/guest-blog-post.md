@@ -67,7 +67,7 @@ The results suggest that the agent becomes better at evaluating and predicting i
 
 **What’s next for this work?**
 <br/>
-Currently I am exploring the application of the proposed method onto a game prototype utilizing the engine. I am experimenting with a system where the player sets increasingly complex sequences for the agent to learn which is referred to as shaping in psychology. The agent then starts with the simplest one and advances to more complex ones as it passes an efficiency threshold. At the same time, I am looking on strategies to incorporate ideas from the [recent sensorimotor research by Numenta](https://numenta.com/papers/why-does-the-neocortex-have-layers-and-columns/). In order to expand what the agent can accomplish, I am also testing different visual sensor types (presented in the latest video on my channel) such as event based sensors and more granular movement types that work well with them.
+Currently I am exploring the application of the proposed method onto a game prototype utilizing the engine. I am experimenting with a system where the player sets increasingly complex sequences for the agent to learn which is referred to as shaping in psychology. The agent then starts with the simplest one and advances to more complex ones as it passes an efficiency threshold. At the same time, I am looking on strategies to incorporate ideas from the [recent sensorimotor research by Numenta](/papers/why-does-the-neocortex-have-layers-and-columns/). In order to expand what the agent can accomplish, I am also testing different visual sensor types (presented in the latest video on my channel) such as event based sensors and more granular movement types that work well with them.
 
 **Do you have plans to use HTM in the future?**
 <br/>
