@@ -31,17 +31,17 @@ exports[`PostListRow React component Renders correctly 1`] = `
             Wed, Dec 21, 2016
           </time>
         </div>
-        <a
-          className="textlink"
-          href={undefined}
-          onClick={[Function]}
-          style={Object {}}
-          target={undefined}>
-          <span
-            className="title">
+        <span
+          className="title">
+          <a
+            className="textlink"
+            href={undefined}
+            onClick={[Function]}
+            style={Object {}}
+            target={undefined}>
             Calculus of the Nervous System
-          </span>
-        </a>
+          </a>
+        </span>
         <p
           className="paragraph">
           Quick quip or intro to the full text.

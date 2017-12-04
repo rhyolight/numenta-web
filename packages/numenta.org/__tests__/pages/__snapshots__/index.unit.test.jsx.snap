@@ -71,7 +71,7 @@ exports[`Index Page React component Renders correctly 1`] = `
                   className="defineItem horizontal">
                   <a
                     className="textlink"
-                    href="https://www.youtube.com/c/NumentaOrg"
+                    href="https://www.youtube.com/user/OfficialNumenta"
                     onClick={[Function]}
                     target={undefined}>
                     YouTube
@@ -85,7 +85,7 @@ exports[`Index Page React component Renders correctly 1`] = `
                   className="defineItem horizontal">
                   <a
                     className="textlink"
-                    href="http://numenta.com/papers/"
+                    href="https://numenta.com/papers/"
                     onClick={[Function]}
                     target={undefined}>
                     Papers
@@ -149,14 +149,14 @@ exports[`Index Page React component Renders correctly 1`] = `
                     className="noLinkIcon">
                     <a
                       className="imagelink"
-                      href="https://www.youtube.com/watch?v=UBzemKcUoOk"
+                      href="https://www.youtube.com/watch?v=1OhY_u3NjdM"
                       onClick={[Function]}
                       title={undefined}>
                       <img
                         alt="Latest HTM School Episode"
                         className="image border mw shadow"
                         onClick={undefined}
-                        src="https://i3.ytimg.com/vi/UBzemKcUoOk/mqdefault.jpg"
+                        src="https://i3.ytimg.com/vi/1OhY_u3NjdM/mqdefault.jpg"
                         title={undefined} />
                     </a>
                   </div>
@@ -320,7 +320,7 @@ exports[`Index Page React component Renders correctly 1`] = `
                 Sponsored by
                 <a
                   className="textlink"
-                  href="http://numenta.com/"
+                  href="https://numenta.com/"
                   onClick={[Function]}
                   target={undefined}>
                    
@@ -401,7 +401,7 @@ exports[`Index Page React component Renders correctly 1`] = `
                  
                 <a
                   className="textlink"
-                  href="https://www.youtube.com/c/NumentaOrg"
+                  href="https://www.youtube.com/user/OfficialNumenta"
                   onClick={[Function]}
                   target={undefined}>
                   YouTube channel.
@@ -412,7 +412,7 @@ exports[`Index Page React component Renders correctly 1`] = `
                  
                 <a
                   className="textlink"
-                  href="http://numenta.com/events/"
+                  href="https://numenta.com/events/"
                   onClick={[Function]}
                   target={undefined}>
                   company events and archive.

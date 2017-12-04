@@ -6,7 +6,7 @@ title: Numenta Privacy Policy
 Numenta, Inc. provides this Privacy Policy to inform you of our policies
 and procedures regarding the collection, use, and disclosure of personal
 information we might receive from visitors and registered users of the
-websites located at [www.numenta.com](http://www.numenta.com) and
+websites located at [www.numenta.com](https://numenta.com) and
 [www.numenta.org](/) through their use of the website and its features.
 The websites and their features are collectively referred to herein as
 the “Sites.” This Privacy Policy applies only to information that you

@@ -4,7 +4,7 @@ title: Terms of Service
 ---
 
 These terms of service (these “**Terms**”) apply to the use of Numenta’s
-websites, [www.numenta.com](http://www.numenta.com) and [www.numenta.org](/)
+websites, [www.numenta.com](https://numenta.com) and [www.numenta.org](/)
 (collectively, “**Numenta Websites**”) which are owned and operated by
 Numenta, Inc. (“**Numenta**,” “**we**,” or “**us**”).
 

@@ -34,7 +34,7 @@ represent knowledge, plan, learn, communicate… as well as integrate all those 
 You will find it hard to get 10 people to agree about what intelligence is and what living things in the world are intelligent. But, everyone seems to agree that the human neocortex is intelligent, so
 that’s where we’ve been focusing our research for well over 10 years.
 
-We at [Numenta](https://numenta.com/) believe that the keys to intelligence are in the mammalian neocortex, which is the newest and smartest part of your brain. Our mission is to understand how intelligence works in the cortex and create new intelligent systems using those principles.
+We at [Numenta](/) believe that the keys to intelligence are in the mammalian neocortex, which is the newest and smartest part of your brain. Our mission is to understand how intelligence works in the cortex and create new intelligent systems using those principles.
 
 # Weak AI Won’t Evolve into AGI <br/>
 The neuronal behavior within the brain is complex. An individual pyramidal neuron is an exquisite computation machine. Understanding the principles of how these neurons communicate in the brain clearly
@@ -70,7 +70,7 @@ techniques to process troves of data coming from advanced brain imaging machines
 # Our Approach to Biological AI <br/>
 All that being said, we gave up ANN and started from scratch studying neurons in the cortex a long time ago. Our work is completely biologically-constrained, as true to the neuroscience as we can make
 it, and we keep discovering cool things. In my talk at ODSC, I go through the complete biological theory of intelligence we call Hierarchical Temporal Memory (HTM). You can also learn about this
-technology by reading our [papers](https://numenta.com/papers) or watching educational videos in [HTM School](https://www.youtube.com/HTMSchool).
+technology by reading our [papers](/papers/) or watching educational videos in [HTM School](https://www.youtube.com/HTMSchool).
 
 
 ©ODSC2017

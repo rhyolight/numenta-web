@@ -129,17 +129,17 @@ As always, our theory and research are [open to the community][13], so we hope
 that you’ll join us in our progress. Thanks for reading about research at
 [Numenta][14].
 
-[1]: http://numenta.com/machine-intelligence-technology/
-[2]: http://numenta.com/numenta-anomaly-benchmark/
+[1]: /machine-intelligence-technology/
+[2]: /numenta-anomaly-benchmark/
 [3]: https://github.com/numenta/nupic
-[4]: http://numenta.com/applications/
-[5]: http://numenta.com/htm-studio/
-[6]: http://numenta.com/papers/
+[4]: /applications/
+[5]: /htm-studio/
+[6]: /papers/
 [7]: https://en.wikipedia.org/wiki/Preprint
 [8]: https://arxiv.org/help/general
 [9]: http://biorxiv.org/about-biorxiv
 [10]: http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/abstract
-[11]: http://numenta.com/blog/2014/09/17/increasing-research-transparency/
+[11]: /blog/2014/09/17/increasing-research-transparency/
 [12]: https://en.wikipedia.org/wiki/Open_access_journal
 [13]: http://numenta.org/
-[14]: http://numenta.com/
+[14]: /

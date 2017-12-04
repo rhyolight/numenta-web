@@ -115,6 +115,6 @@ sequence learning problems and online sequence classification problems with HTM.
 
 [1]: http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00893#.WCEj8uErI18
 [2]: http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full
-[3]: http://numenta.com/blog/2014/09/17/increasing-research-transparency/
+[3]: /blog/2014/09/17/increasing-research-transparency/
 [4]: https://github.com/numenta/nupic.research/tree/master/projects/sequence_prediction
 [5]: https://discourse.numenta.org/

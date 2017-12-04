@@ -16,21 +16,21 @@ company = 'Numenta'
 
 [links]
   [links.out]  # external links
-    papers = 'http://numenta.com/papers/'
-    bami = 'http://numenta.com/biological-and-machine-intelligence/'
-    com = 'http://numenta.com/'
+    papers = 'https://numenta.com/papers/'
+    bami = 'https://numenta.com/biological-and-machine-intelligence/'
+    com = 'https://numenta.com/'
     cortical = 'https://cortical.io/'
     github = 'https://github.com/numenta'
     communityGithub = 'https://github.com/htm-community'
     grok = 'https://grokstream.com/'
     forum = 'https://discourse.numenta.org/categories'
     meetup = 'https://www.meetup.com/Numenta-Platform-for-Intelligent-Computing-Events/'
-    onintelligence = 'http://numenta.com/papers-videos-and-more/resources/on-intelligence/'
+    onintelligence = 'https://numenta.com/papers-videos-and-more/resources/on-intelligence/'
     youtube = 'https://www.youtube.com/user/OfficialNumenta'
     latestSchool = 'https://www.youtube.com/watch?v=1OhY_u3NjdM'
     latestSchoolThumb = 'https://i3.ytimg.com/vi/1OhY_u3NjdM/mqdefault.jpg'
-    spLinks = 'http://numenta.com/spatial-pooling-algorithm/'
-    tmLinks = 'http://numenta.com/temporal-memory-algorithm/'
+    spLinks = 'https://numenta.com/spatial-pooling-algorithm/'
+    tmLinks = 'https://numenta.com/temporal-memory-algorithm/'
 
   [links.in]  # internal paths
     # main/home pseudo-single page

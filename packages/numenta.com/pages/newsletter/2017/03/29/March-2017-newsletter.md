@@ -20,7 +20,7 @@ and Systems Neuroscience), to present important new work on our current
 area of focus within HTM Theory: sensorimotor integration. This research
 looks at how the neocortex learns through movement. The team delivered a
 poster titled “[3D Object Learning with Cortical
-Columns](http://numenta.com/assets/pdf/posters/CosynePoster_2017.pdf),”
+Columns](/assets/pdf/posters/CosynePoster_2017.pdf),”
 which outlined how cortical columns learn 3D sensorimotor models of the
 world. We believe this work is a significant advance in our evolving
 theory of how the brain works and expect to share more details as it
@@ -44,17 +44,17 @@ this [video](https://www.youtube.com/watch?v=RfxG5aSTrHA&t=28s) of the
 keynote.
 
 For those of you familiar with
-[BAMI](http://numenta.com/biological-and-machine-intelligence/), our
+[BAMI](/biological-and-machine-intelligence/), our
 living book on biological and machine intelligence, we recently added
 two new chapters: [Spatial
-Pooling](http://numenta.com/spatial-pooling-algorithm/) and [Temporal
-Memory](http://numenta.com/temporal-memory-algorithm/). These chapters
+Pooling](/spatial-pooling-algorithm/) and [Temporal
+Memory](/temporal-memory-algorithm/). These chapters
 offer a collection of resources–from videos to algorithm details and
 pseudocode–that help explain each concept. Make sure to follow our
 [NumentaBAMI Twitter](https://twitter.com/numentabami) account if you’d
 like to be notified about future updates.
 
-In [partner](http://numenta.com/partners/) news, Francisco Webber,
+In [partner](/partners/) news, Francisco Webber,
 Co-founder of [Cortical.io](http://www.cortical.io), was featured on the
 O'Reilly Data Show podcast this month. In this episode,
 “[Natural language analysis using Hierarchical Temporal

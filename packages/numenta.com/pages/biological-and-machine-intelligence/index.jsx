@@ -25,7 +25,7 @@ const title = 'Biological and Machine Intelligence (BAMI)'
  * Biological and Machine Intelligence (BAMI) page - React view component.
  */
 const BamiPage = (props, {config}) => {
-  const {links} = config
+  const {links, baseUrl} = config
 
   return (
     <article>
@@ -170,7 +170,7 @@ const BamiPage = (props, {config}) => {
               Hawkins, J. et al. 2016. Biological and Machine Intelligence.
               <br />
               &nbsp;&nbsp; Release 0.4. Accessed at
-                http://numenta.com{links.in.bami}.
+               {baseUrl}{links.in.bami}.
             </Code>
             <SubTitle level={3}>Bibtex</SubTitle>
             <Code>
@@ -186,7 +186,7 @@ const BamiPage = (props, {config}) => {
                 note=&#123;Initial online release 0.4&#125;,
                 <br />
                 &nbsp;&nbsp;
-                url=&#123;http://numenta.com{links.in.bami}&#125;,
+                url=&#123;{baseUrl}{links.in.bami}&#125;,
                 <br />
                 &nbsp;&nbsp;
                 year=&#123;2016&#125;
