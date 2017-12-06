@@ -55,9 +55,6 @@ Blakeslee is coauthor of several books with Dr. Judith Wallerstein on the effect
 
 #### Reviews & Press
 
-Jeff Hawkins and On Intelligence are featured on CNet - News.com - written by Richard Shim
-[Getting intelligent about the brain](http://news.com.com/Getting+intelligent+about+the+brain/2008-1082_3-5428017.html)
-
 Jeff Hawkins and On Intelligence are featured in Fortune Magazine - written by David Stipp
 [How Do You Think the Brain Works?](http://archive.fortune.com/magazines/fortune/fortune_archive/2004/10/18/8188051/index.htm)
 
