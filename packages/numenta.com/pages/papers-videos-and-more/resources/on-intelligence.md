@@ -55,21 +55,14 @@ Blakeslee is coauthor of several books with Dr. Judith Wallerstein on the effect
 
 #### Reviews & Press
 
-Philadelphia Inquirer columnist John Rooney published the following book review about On Intelligence:
-[Book Review / How scientists might soon be able to build a better brain](http://onintelligence.org/reviews/2004-11-29.php)
-
 Jeff Hawkins and On Intelligence are featured on CNet - News.com - written by Richard Shim
 [Getting intelligent about the brain](http://news.com.com/Getting+intelligent+about+the+brain/2008-1082_3-5428017.html)
 
 Jeff Hawkins and On Intelligence are featured in Fortune Magazine - written by David Stipp
-[How Do You Think the Brain Works?](http://onintelligence.org/reviews/2004-10-18.php)
+[How Do You Think the Brain Works?](http://archive.fortune.com/magazines/fortune/fortune_archive/2004/10/18/8188051/index.htm)
 
-Article by Lynn Yarris, special to the Mercury News
-[Book explains limits of AI, wonders of human brain](http://onintelligence.org/reviews/2004-10-17.php)
-
-Michael Miller, the editor of PC Magazine, gave On Intelligence a positive mention in his October 5, 2004 editor's column.
-Mike Landberg, writer for The San Jose Mercury News, offers the following critique of On Intelligence:
-[Giving some thought to thinking](http://onintelligence.org/reviews/2004-10-01.php)
+“I’ve read dozens of books about the human brain and how it works. On Intelligence … is far away and the best.”
+- Lynn Yarris, Senior Science Writer, The San Jose Mercury News
 
 "On Intelligence will have a big impact; everyone should read it. In the same way that Erwin Schrodinger's 1943 classic What is Life? made how molecules store genetic information then the big problem for biology, On Intelligence lays out the framework for understanding the brain."
 - James D. Watson, president, Cold Spring Harbor Laboratory, and Nobel laureate in physiology
