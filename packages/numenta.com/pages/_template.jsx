@@ -34,6 +34,7 @@ class Template extends React.Component {
   static propTypes = {
     children: React.PropTypes.node.isRequired,
     route: React.PropTypes.object.isRequired,
+    location: React.PropTypes.object.isRequired,
   }
 
   static childContextTypes = {
@@ -55,7 +56,7 @@ class Template extends React.Component {
 
   render() {
     const {STAMP} = root
-    const {children} = this.props
+    const {children, location} = this.props
     const {baseUrl, analytics, company, description, siteHost} = config
     const lang = 'en'  // @TODO i18n l10n
     const now = moment().toString()
@@ -63,9 +64,19 @@ class Template extends React.Component {
     const titleForm = `${siteHost} • %s`
     const icons = flatten(values(mapValues(favicons, (value) => keys(value))))
 
+    let canonicalUrl = baseUrl
+    if (location.pathname !== '/') {
+      canonicalUrl += location.pathname
+    }
+
     // react-helmet / head
     const attrs = {lang}
-    const links = []
+    const links = [
+      {
+        rel: 'canonical',
+        href: canonicalUrl,
+      },
+    ]
     const style = []
     const meta = [
       {charset: 'utf-8'},
