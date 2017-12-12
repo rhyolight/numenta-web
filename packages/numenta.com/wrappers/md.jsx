@@ -34,7 +34,7 @@ import {
 import styles from './md.css'
 
 const postTypes = [
-  'blog', 'careers', 'events', 'newsletter', 'press', 'resources',
+  'blog', 'careers', 'events', 'newsletter', 'press', 'resources', 'papers',
 ]
 const postsWithBackButton = [
   'careers', 'resources',
