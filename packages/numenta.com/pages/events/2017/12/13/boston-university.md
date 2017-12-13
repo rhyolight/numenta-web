@@ -1,12 +1,12 @@
 ---
 author: Numenta
 brief:
-date: 2017/12/14
+date: 2017/12/13
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
   when:
-    begin: 2017/12/14 12:15
-    end: 2017/12/14 13:15
+    begin: 2017/12/13 12:15
+    end: 2017/12/13 13:15
   where:
     desc: Boston University
     city: Boston
