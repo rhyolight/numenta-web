@@ -1,9 +1,6 @@
 ---
 title: Temporal Memory
 ---
-Temporal Memory
-===============
-
 In HTM, sequence memory is implemented by the Temporal Memory algorithm.
 This algorithm learns sequences of Sparse Distributed Representations
 (SDRs) formed by the Spatial Pooling algorithm, and makes predictions of
