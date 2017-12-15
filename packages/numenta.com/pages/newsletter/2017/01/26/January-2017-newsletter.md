@@ -63,4 +63,4 @@ our first visiting scholar, Mirko Klukas, Ph.D.
 Lastly, we have an opening in marketing that is a great opportunity for
 someone who is ready to learn and eager to help us share our story. If
 you or someone you know are interested in this position, you can [apply
-here](/careers-and-team/careers/marketing-associate/).
+here](https://numenta.com/careers-and-team/).
