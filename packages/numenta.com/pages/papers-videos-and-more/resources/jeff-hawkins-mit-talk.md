@@ -19,8 +19,8 @@ In this talk, Jeff describes a theory that sensory regions of the neocortex proc
 
 Jeff discusses material from these two papers. Others can be found at https://numenta.com/papers
 
-**A Theory of How Columns in the Neocortex Enable Learning the Structure of the World**
-URL: https://doi.org/10.3389/fncir.2017.00081
+<b>A Theory of How Columns in the Neocortex Enable Learning the Structure of the World</b>
+<br>URL: https://doi.org/10.3389/fncir.2017.00081
 
-**Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in the Neocortex**
-URL: https://doi.org/10.3389/fncir.2016.00023
+<b>Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in the Neocortex</b>
+<br>URL: https://doi.org/10.3389/fncir.2016.00023
