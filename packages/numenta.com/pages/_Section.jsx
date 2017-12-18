@@ -97,7 +97,7 @@ const SectionHome = (props, {config}) => {
           <DefineItem>
             {/* eslint-disable max-len */}
             <TextLink to="https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception">
-            Jeff Hawkins speaking at MIT Center for Brains, Minds + Machines
+            Video: Jeff at MIT Center for Brains, Minds + Machines
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
