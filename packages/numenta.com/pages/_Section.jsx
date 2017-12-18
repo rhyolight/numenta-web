@@ -96,8 +96,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/">
-            HTM Spatial Pooler Paper Published in Frontiers
+            <TextLink to="https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception">
+            Video: Jeff at MIT Center for Brains, Minds + Machines
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
