@@ -18,7 +18,7 @@ The fundamental idea behind capsules is that objects are defined by the relative
 
 The idea of voting based on relative locations of features has been around since [Hough transforms](https://en.wikipedia.org/wiki/Hough_transform), a popular technique used in Computer Vision since the 1970's. Hinton's novel proposal is that every level of a deep learning network is composed of capsules. Furthermore, the latest papers by Hinton and co-authors show how to integrate capsules into Convolutional Neural Networks (CNNs) and suggest how you might implement the voting process.
 
-Training data is a huge practical problem with deep learning systems today. The biggest promise of capsules is that it should allow deep networks to learn with many fewer examples. Capsule networks might also be [less susceptible to the kinds of weird mistakes deep networks make today](file:///C:/Users/cmaver/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/FZA3ZEXC/8.https:/www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence), though this remains to be seen.
+Training data is a huge practical problem with deep learning systems today. The biggest promise of capsules is that it should allow deep networks to learn with many fewer examples. Capsule networks might also be [less susceptible to the kinds of weird mistakes deep networks make today](https:/www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence), though this remains to be seen.
 
 From my standpoint, it is also exciting to see a big new idea in a field that has been lacking big ideas. (DL has been using essentially the same neural network model since the late 80's.)
 
