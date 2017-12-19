@@ -3,7 +3,6 @@
 // Copyright © 2005—2017 Numenta <http://numenta.com>
 
 import React from 'react'
-import Helmet from 'react-helmet'
 
 import Anchor from 'numenta-web-shared-components/lib/Anchor'
 import Image from 'numenta-web-shared-components/lib/Image'
@@ -29,26 +28,8 @@ import styles from './index.css'
  */
 const SectionApplications = (props, {config}) => {
   const {links} = config
-
   return (
     <article>
-      <Helmet>
-        <meta
-          name="twitter:description"
-          content={'While Numenta does not build commercial applications, we \
-                    have created example HTM applications in several fields \
-                    such as monitoring stock performance, detecting unusual \
-                    human behavior, and finding patterns in geospatial data. \
-                    Additionally, our partners have created commercial \
-                    applications in the field of monitoring IT infrastructure \
-                    and understanding natural language. We are confident that \
-                    many additional applications will be created in the future'}
-        />
-        <meta
-          name="twitter:image"
-          content={config.baseUrl + ImageApps}
-        />
-      </Helmet>
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image

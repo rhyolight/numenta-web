@@ -4,7 +4,7 @@
 
 import React from 'react'
 import Helmet from 'react-helmet'
-import {prefixLink} from 'gatsby-helpers'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 
 /**
@@ -15,13 +15,8 @@ const HtmlWrapper = ({route}, {config}) => {
 
   return (
     <div className="html">
-      <Helmet>
-        <meta name="twitter:title" content={post.title} />
-        <meta name="twitter:description" content={post.brief} />
-        <meta
-          name="twitter:image"
-          content={config.baseUrl + prefixLink(route.page.path + post.image)}
-        />
+      <Helmet title={post.title}>
+        {getMetadataTags(post, config.baseUrl)}
       </Helmet>
       <h1 dangerouslySetInnerHTML={{__html: post.title}} />
       <div dangerouslySetInnerHTML={{__html: post.body}} />

@@ -1,4 +1,6 @@
 ---
+brief: Welcome to numenta.com. Here you’ll find information about the company Numenta.
+title: numenta.com
 ---
 
 Welcome to **Numenta**.**com**. Here you’ll find information about the company Numenta.

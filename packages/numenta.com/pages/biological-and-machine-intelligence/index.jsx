@@ -15,8 +15,10 @@ import Section from 'numenta-web-shared-components/lib/Section'
 import Strong from 'numenta-web-shared-components/lib/Strong'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import styles from './index.css'
+import Metatags from './_metatags.md'
 
 const title = 'Biological and Machine Intelligence (BAMI)'
 
@@ -29,15 +31,8 @@ const BamiPage = (props, {config}) => {
 
   return (
     <article>
-      <Helmet title={title}>
-        <meta name="twitter:title" content={title} />
-        <meta
-          name="twitter:description"
-          content="Biological and Machine Intelligence (BAMI) is a living book
-          authored by Numenta researchers and engineers. Its purpose is to
-          document Hierarchical Temporal Memory, a theoretical framework for
-          both biological and machine intelligence."
-        />
+      <Helmet title={Metatags.title}>
+        {getMetadataTags(Metatags, baseUrl)}
       </Helmet>
       <Section headline={true} open={true} title={title}>
         <div className={styles.columns}>

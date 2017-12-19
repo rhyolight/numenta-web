@@ -6,11 +6,13 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionPartners from './_Section'
+import Metatags from './_metatags.md'
 
 const Default = (<SectionPartners key="sectionPartners" />)
 const title = 'Partners'
@@ -20,6 +22,9 @@ const title = 'Partners'
  * Partners Page - React view component.
  */
 class PartnersPage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -51,18 +56,11 @@ class PartnersPage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta
-            name="twitter:description"
-            content="Numenta works with strategic partners to bring the power of
-            HTM to the market. While we focus on the science and the core
-            technology, we select application partners who have deep domain
-            knowledge and are able to add an application layer tuned to market
-            needs"
-          />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         {sections}
       </div>

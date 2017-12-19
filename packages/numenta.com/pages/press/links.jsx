@@ -10,12 +10,14 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Pagination from '../../components/Pagination'
 import styles from './links.css'
+import Metatags from './_links.md'
 
 const title = 'Press Links'
 const ITEMS_PER_PAGE = 10
@@ -26,6 +28,7 @@ export default class PressLinksPage extends React.Component {
 
   static contextTypes = {
     route: React.PropTypes.object,
+    config: React.PropTypes.object,
   }
   static propTypes = {
     location: React.PropTypes.object,
@@ -64,7 +67,7 @@ export default class PressLinksPage extends React.Component {
     })
   }
   render() {
-    const {route} = this.context
+    const {route, config} = this.context
     const {pages} = route
     const {year, position} = this.state
     const from = position || 0
@@ -118,9 +121,8 @@ export default class PressLinksPage extends React.Component {
 
     return (
       <article>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta name="twitter:description" content="Press Links" />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         <Title headline={true}>
           {title}

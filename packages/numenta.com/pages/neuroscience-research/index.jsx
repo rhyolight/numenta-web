@@ -6,8 +6,13 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
+import {prefixLink} from 'gatsby-helpers'
+
+import ContentLeft from './_content/_left.md'
+import ContentRight from './_content/_right.md'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionNeuroscience from './_Section'
@@ -21,6 +26,9 @@ const title = 'Neuroscience Research'
  *  MainSection component.
  */
 class NeurosciencePage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -52,10 +60,12 @@ class NeurosciencePage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
         <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
+          {getMetadataTags(ContentLeft, config.baseUrl, {
+            'twitter:image': config.baseUrl + prefixLink(ContentRight.image)})}
         </Helmet>
         {sections}
       </div>

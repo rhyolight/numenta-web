@@ -4,24 +4,19 @@
 
 import React from 'react'
 import Helmet from 'react-helmet'
-import {prefixLink} from 'gatsby-helpers'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 
 /**
  * Gatsby JSON Wrapper - React view component.
  */
 const JsonWrapper = ({route}, {config}) => {
-  const data = route.page.data
+  const {data} = route.page
 
   return (
     <div className="json">
-      <Helmet>
-        <meta name="twitter:title" content={data.title} />
-        <meta name="twitter:description" content={data.brief} />
-        <meta
-          name="twitter:image"
-          content={config.baseUrl + prefixLink(route.page.path + data.image)}
-        />
+      <Helmet tilte={data.title}>
+        {getMetadataTags(data, config.baseUrl)}
       </Helmet>
       <h1>
         {data.title}

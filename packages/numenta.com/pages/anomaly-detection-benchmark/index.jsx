@@ -6,8 +6,12 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {prefixLink} from 'gatsby-helpers'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
+import ContentLeft from './_content/_left.md'
+import ContentRight from './_content/_right.md'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionAnomaly from './_Section'
@@ -21,6 +25,9 @@ const title = 'Anomaly Detection Benchmark'
  *  view component.
  */
 class AnomalyBenchmarkPage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -52,16 +59,17 @@ class AnomalyBenchmarkPage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
+        <Helmet title={ContentLeft.title}>
+          {getMetadataTags(ContentLeft, config.baseUrl, {
+            'twitter:image': config.baseUrl + prefixLink(ContentRight.image)})}
         </Helmet>
         {sections}
       </div>
     )
   }
-
 }
 
 export default AnomalyBenchmarkPage

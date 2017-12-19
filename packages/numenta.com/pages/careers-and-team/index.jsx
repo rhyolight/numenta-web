@@ -6,11 +6,13 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionCareers from './_Section'
+import Metatags from './_metatags.md'
 
 const Default = (<SectionCareers key="sectionCareers" />)
 const title = 'Careers & Team'
@@ -20,6 +22,9 @@ const title = 'Careers & Team'
  * Careers & Team page and MainSection wrapper - React view component.
  */
 class CareersPage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -51,11 +56,11 @@ class CareersPage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta name="twitter:description" content="Management Team" />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         {sections}
       </div>

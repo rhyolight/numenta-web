@@ -10,10 +10,12 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import PostListRow from '../../components/PostListRow'
 import Pagination from '../../components/Pagination'
 import styles from './releases.css'
+import Metatags from './_releases.md'
 
 const title = 'Press Releases'
 
@@ -26,6 +28,7 @@ export default class PressReleasesPage extends React.Component {
 
   static contextTypes = {
     route: React.PropTypes.object,
+    config: React.PropTypes.object,
   }
   static propTypes = {
     location: React.PropTypes.object,
@@ -65,7 +68,7 @@ export default class PressReleasesPage extends React.Component {
   }
 
   render() {
-    const {route} = this.context
+    const {route, config} = this.context
     const {pages} = route
     const {year, position} = this.state
     const from = position || 0
@@ -105,9 +108,8 @@ export default class PressReleasesPage extends React.Component {
 
     return (
       <article>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta name="twitter:description" content="Press Releases" />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         <Title headline={true}>
           {title}

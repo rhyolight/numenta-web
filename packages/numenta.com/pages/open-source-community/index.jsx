@@ -6,8 +6,12 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
+import {prefixLink} from 'gatsby-helpers'
 import Section from 'numenta-web-shared-components/lib/Section'
+import ContentLeft from './_content/_left.md'
+import ContentRight from './_content/_right.md'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionOpensource from './_Section'
@@ -20,6 +24,9 @@ const title = 'Open Source Community'
  * Open Source Community page and MainSection wrapper - React view component.
  */
 class OpenSourcePage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -51,10 +58,12 @@ class OpenSourcePage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
         <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
+          {getMetadataTags(ContentLeft, config.baseUrl, {
+            'twitter:image': config.baseUrl + prefixLink(ContentRight.image)})}
         </Helmet>
         {sections}
       </div>

@@ -24,7 +24,8 @@ import FormInput from 'numenta-web-shared-components/lib/FormInput'
 import FormLabel from 'numenta-web-shared-components/lib/FormLabel'
 import FormRow from 'numenta-web-shared-components/lib/FormRow'
 import FormTextArea from 'numenta-web-shared-components/lib/FormTextArea'
-import {getBrowserWidth} from 'numenta-web-shared-utils/lib/client'
+import {
+  getBrowserWidth, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import {getModalWidth} from 'numenta-web-shared-utils/lib/universal'
 import Image from 'numenta-web-shared-components/lib/Image'
 import List from 'numenta-web-shared-components/lib/List'
@@ -48,6 +49,7 @@ import ImageVideoWalkthru from './images/video-walkthru.png'
 import modalStyles from './_style-modal'
 import styles from './index.css'
 import Terms from './terms.md'
+import Metatags from './_metatags.md'
 
 const title = 'HTM Studio'
 const URL_OSX = 'http://public.numenta.com/releases/htm-studio/darwin/HTM%20Studio-1.0.0.dmg'  // eslint-disable-line max-len
@@ -169,16 +171,8 @@ class HtmStudioPage extends React.Component {
 
     return (
       <article>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta name="twitter:image" content={baseUrl + ImageVideoIntro} />
-          <meta
-            name="twitter:description"
-            content="HTM Studio allows you to test whether our Hierarchical
-            Temporal Memory (HTM) algorithms will find anomalies in your data.
-            With just one click, you can uncover anomalies other techniques
-            cannot find in your numeric, time-series data, in minutes."
-          />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, baseUrl)}
         </Helmet>
         <Section
           headline={true}

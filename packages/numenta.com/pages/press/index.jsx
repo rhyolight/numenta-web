@@ -11,9 +11,11 @@ import ListOrder from 'numenta-web-shared-components/lib/ListOrder'
 import PostListItem from 'numenta-web-shared-components/lib/PostListItem'
 import Section from 'numenta-web-shared-components/lib/Section'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
+import Metatags from './_metatags.md'
 
 import styles from './index.css'
 
@@ -61,9 +63,8 @@ const PressPage = (props, {route, config}) => {
 
   return (
     <article>
-      <Helmet title="Press">
-        <meta name="twitter:title" content="Press" />
-        <meta name="twitter:description" content="Press Releases" />
+      <Helmet title={Metatags.title}>
+        {getMetadataTags(Metatags, config.baseUrl)}
       </Helmet>
 
       <Section headline={true} open={true} title="Press Releases">
