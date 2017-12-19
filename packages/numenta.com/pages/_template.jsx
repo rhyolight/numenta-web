@@ -60,8 +60,8 @@ class Template extends React.Component {
     const {baseUrl, analytics, company, description, siteHost} = config
     const lang = 'en'  // @TODO i18n l10n
     const now = moment().toString()
-    const title = `${siteHost} • ${description}`
-    const titleForm = `${siteHost} • %s`
+    const title = `${description}`
+    const titleForm = '%s'
     const icons = flatten(values(mapValues(favicons, (value) => keys(value))))
 
     let canonicalUrl = baseUrl
@@ -83,7 +83,8 @@ class Template extends React.Component {
       {name: 'viewport', content: 'width=device-width, initial-scale=1.0'},
       {'http-equiv': 'X-UA-Compatible', content: 'IE=edge'},
       {name: 'author', content: `${company}`},
-      {name: 'description', content: title},
+      {name: 'title', content: `${siteHost}`},
+      {name: 'description', content: `${description}`},
       {name: 'twitter:card', content: 'summary'},
       {name: 'twitter:title', content: `${siteHost}`},
       {

@@ -19,6 +19,7 @@ import Section from 'numenta-web-shared-components/lib/Section'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Video from 'numenta-web-shared-components/lib/Video'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import ImageCompare from './images/compare.png'
 import ImageDatasheet from './images/datasheet.png'
@@ -31,6 +32,7 @@ import ImageScoreboard from './images/scoreboard.png'
 import ImageVideoEval from './images/video-mlconf.png'
 import ImageVideoNab from './images/video-nab.png'
 import styles from './index.css'
+import Metatags from './_metatags.md'
 
 const title = 'Numenta Anomaly Benchmark (NAB)'
 
@@ -43,13 +45,7 @@ const NabPage = (props, {config}) => {
 
   return (<article>
     <Helmet title={title}>
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:image" content={baseUrl + ImageDetail} />
-      <meta
-        name="twitter:description"
-        content="The First Benchmark For Evaluating Anomaly Detection In
-        Streaming Data."
-      />
+      {getMetadataTags(Metatags, baseUrl)}
     </Helmet>
     <Section headline={true} open={true} title={title}>
       <div className={styles.columns}>

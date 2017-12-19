@@ -5,9 +5,6 @@
 import MarkdownBody from 'numenta-web-shared-components/lib/MarkdownBody'
 import MarkdownMedia from 'numenta-web-shared-components/lib/MarkdownMedia'
 import React from 'react'
-import Helmet from 'react-helmet'
-import {prefixLink} from 'gatsby-helpers'
-
 import ContentLeft from './_content/_left.md'
 import ContentRight from './_content/_right.md'
 
@@ -18,19 +15,8 @@ import styles from './index.css'
  * Numenta in a Nutshell MainSection and page content - React
  *  view component.
  */
-const SectionNutshell = (props, {config}) => {
-  const {baseUrl} = config
-  return (<article className={styles.columns}>
-    <Helmet>
-      <meta
-        name="twitter:image"
-        content={baseUrl + prefixLink(ContentRight.image)}
-      />
-      <meta
-        name="twitter:description"
-        content={ContentLeft.brief}
-      />
-    </Helmet>
+const SectionNutshell = () => (
+  <article className={styles.columns}>
     <div className={styles.aside}>
       <MarkdownMedia markdown={ContentRight} />
     </div>
@@ -39,9 +25,5 @@ const SectionNutshell = (props, {config}) => {
     </div>
   </article>
   )
-}
-SectionNutshell.contextTypes = {
-  config: React.PropTypes.object,
-}
 
 export default SectionNutshell

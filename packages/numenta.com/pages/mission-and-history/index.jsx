@@ -6,11 +6,13 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionMission from './_Section'
+import Metatags from './_metatags.md'
 
 const Default = (<SectionMission key="sectionMission" />)
 const title = 'Mission & History'
@@ -20,6 +22,9 @@ const title = 'Mission & History'
  * Mission & History page and MainSection wrapper - React view component.
  */
 class MissionPage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -51,16 +56,16 @@ class MissionPage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
         <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         {sections}
       </div>
     )
   }
-
 }
 
 export default MissionPage

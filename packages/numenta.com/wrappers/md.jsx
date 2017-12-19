@@ -8,7 +8,7 @@ import IconArrow from 'react-icons/lib/fa/caret-left'
 import moment from 'moment'
 import React from 'react'
 import root from 'window-or-global'
-import {prefixLink} from 'gatsby-helpers'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import Avatar from 'numenta-web-shared-components/lib/Avatar'
 import Disqus from 'numenta-web-shared-components/lib/Disqus'
@@ -90,13 +90,6 @@ class MarkdownWrapper extends React.Component {
     const url = `/${key}/`
     let author, back, date, event, media, type
     let brief = data.brief
-    const twitterImg = data.image ?
-        (
-          <meta
-            name="twitter:image"
-            content={config.baseUrl + prefixLink(path + data.image)}
-          />
-        ) : null
 
     if (key === 'careers-and-team') {
       key = 'careers'
@@ -175,7 +168,7 @@ class MarkdownWrapper extends React.Component {
           </TableRow>
         ))
 
-        brief = `${getEventTimeDisplay(when)}`
+        brief = `${what}, ${getEventTimeDisplay(when)}`
         if (desc) {
           brief += `, ${desc}`
         }
@@ -291,9 +284,7 @@ class MarkdownWrapper extends React.Component {
     return (
       <article className={styles.md}>
         <Helmet title={data.title}>
-          <meta name="twitter:title" content={data.title} />
-          <meta name="twitter:description" content={brief || data.title} />
-          {twitterImg}
+          {getMetadataTags(data, config.baseUrl, {description: brief})}
         </Helmet>
         {date}
         <Section
@@ -316,7 +307,6 @@ class MarkdownWrapper extends React.Component {
       </article>
     )
   }
-
 }
 
 export default MarkdownWrapper

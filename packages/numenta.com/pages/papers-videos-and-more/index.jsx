@@ -6,11 +6,13 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionResources from './_Section'
+import Metatags from './_metatags.md'
 
 const Default = (<SectionResources key="sectionResources" />)
 const title = 'Papers, Videos & More'
@@ -20,6 +22,9 @@ const title = 'Papers, Videos & More'
  * Papers Videos and More page, MainSection wrapper - React view component.
  */
 class PapersPage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   constructor(props) {
     super(props)
@@ -51,17 +56,11 @@ class PapersPage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
         <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta
-            name="twitter:description"
-            content="To help you learn about our
-              theory and technology, we have organized educational content
-              below.It is designed for anyone who wants tolearn about HTM
-              cortical theory and its applications for machine intelligence."
-          />
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         {sections}
       </div>

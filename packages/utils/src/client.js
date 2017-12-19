@@ -5,6 +5,8 @@
 import browserSize from 'browser-size'
 import root from 'window-or-global'
 import url from 'url'
+import React from 'react'
+import {prefixLink} from 'gatsby-helpers'
 
 /**
  * Utils for the Clientside
@@ -86,4 +88,30 @@ export function triggerGAnalyticsEvent(href) {
     // external link
     ga('send', 'event', 'Outbound', uri.host, uri.path)
   }
+}
+
+
+/**
+ * Collect metadata tags
+ * @param  {Object} data The object to collect meta data from.
+ *                       The fields 'title', 'brief' and 'meta' are used.
+ * @param  {String} baseUrl Optional Base URL to use
+ * @param  {String} overrides Optional values to override objects meta data
+ * @return {Array} Array of <meta> tags
+ */
+export function getMetadataTags(data, baseUrl, overrides) {
+  const path = baseUrl ? baseUrl + data.path : data.path
+  const twitterImg = prefixLink(data.image ? path + data.image
+                                           : '/assets/img/logo.png')
+  const metaDict = Object.assign({
+    title: data.title,
+    description: data.brief || data.title,
+    'twitter:image': twitterImg,
+    'twitter:title': data.title,
+    'twitter:description': data.brief || data.title,
+  }, data.meta, overrides)
+  /* eslint-disable */
+  return Object.entries(metaDict)
+    .map((meta, idx) => React.createElement('meta', {
+      key: idx, name: meta[0], content: meta[1]}))
 }

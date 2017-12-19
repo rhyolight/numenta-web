@@ -11,6 +11,8 @@ import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import Section from 'numenta-web-shared-components/lib/Section'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
+import Metatags from './_metatags.md'
 
 import styles from './index.css'
 
@@ -23,20 +25,17 @@ const title = (<center>{titleZH}<br />{titleEN}</center>)
  * Biological and Machine Intelligence (BAMI) page - React view component.
  */
 export default class BamiPageZH extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+    router: React.PropTypes.object,
+  }
 
   render() {
+    const {config} = this.context
     return (
       <article>
         <Helmet title={titleZH}>
-          <meta name="twitter:title" content={titleZH} />
-          <meta
-            name="twitter:description"
-            content="BAMI书籍章节的中文译本由HTM社区成员Gu Jian提供。Numenta非常感谢Gu
-            Jian的工作，但对翻译质量不承担任何责任。(This Chinese translation of BAMI
-            book sections is provided by an HTM community member, Gu Jian.
-            Numenta greatly appreciates Gu Jian’s work, but disclaims any
-            liability for the quality of the translation.)"
-          />
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         <Section headline={true} open={true} title={title}>
           <div className={styles.columns}>

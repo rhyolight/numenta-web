@@ -13,10 +13,12 @@ import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import Title from 'numenta-web-shared-components/lib/Title'
 import {browserHistory} from 'react-router'
 import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Pagination from '../../components/Pagination'
+import Metatags from './_metatags.md'
 
 import styles from './index.css'
 
@@ -31,6 +33,7 @@ export default class PapersPage extends React.Component {
 
   static contextTypes = {
     route: React.PropTypes.object,
+    config: React.PropTypes.object,
   }
 
   static propTypes = {
@@ -138,7 +141,7 @@ export default class PapersPage extends React.Component {
     )
   }
   render() {
-    const {route} = this.context
+    const {route, config} = this.context
     const {pages} = route
     const {category, year, position} = this.state
     const from = position || 0
@@ -211,9 +214,8 @@ export default class PapersPage extends React.Component {
 
     return (
       <article className={styles.papers}>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta name="twitter:description" content="Research Papers" />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         <Title headline={true}>
           {title}

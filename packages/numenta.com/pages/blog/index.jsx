@@ -10,10 +10,12 @@ import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import ListOrder from 'numenta-web-shared-components/lib/List'
 import Title from 'numenta-web-shared-components/lib/Title'
 import {sortDateDescend} from 'numenta-web-shared-utils/lib/universal'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import PostListRow from '../../components/PostListRow'
 import Pagination from '../../components/Pagination'
 import styles from './index.css'
+import Metatags from './_metatags.md'
 
 const title = 'Blog'
 const ITEMS_PER_PAGE = 5
@@ -26,6 +28,7 @@ export default class BlogPage extends React.Component {
 
   static contextTypes = {
     route: React.PropTypes.object,
+    config: React.PropTypes.object,
   }
   static propTypes = {
     location: React.PropTypes.object,
@@ -64,7 +67,7 @@ export default class BlogPage extends React.Component {
     })
   }
   render() {
-    const {route} = this.context
+    const {route, config} = this.context
     const {pages} = route
     const {year, position} = this.state
     const from = position || 0
@@ -104,9 +107,8 @@ export default class BlogPage extends React.Component {
 
     return (
       <article>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta name="twitter:description" content="Blog Posts" />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         <Title headline={true}>
           {title}

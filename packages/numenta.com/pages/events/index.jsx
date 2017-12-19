@@ -6,6 +6,7 @@ import Helmet from 'react-helmet'
 import moment from 'moment'
 import React from 'react'
 import {browserHistory} from 'react-router'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import Anchor from 'numenta-web-shared-components/lib/Anchor'
 import ListItem from 'numenta-web-shared-components/lib/ListItem'
@@ -19,6 +20,7 @@ import {
 import PostListRow from '../../components/PostListRow'
 import Pagination from '../../components/Pagination'
 import styles from './index.css'
+import Metatags from './_metatags.md'
 
 const title = 'Events'
 
@@ -144,12 +146,8 @@ export default class EventsPage extends React.Component {
 
     return (
       <article className={styles.events}>
-        <Helmet title={title}>
-          <meta name="twitter:title" content={title} />
-          <meta
-            name="twitter:description"
-            content="Upcoming and Past Events"
-          />
+        <Helmet title={Metatags.title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
         <Title headline={true}>
           {title}
