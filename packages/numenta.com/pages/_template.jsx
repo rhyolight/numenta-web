@@ -127,6 +127,7 @@ class Template extends React.Component {
         "@type": "Organization",
         "name": "Numenta",
         "url": "https://numenta.com",
+        "logo": "https://numenta.com/assets/img/logo.png",
         "sameAs": [
           "https://www.facebook.com/OfficialNumenta",
           "https://www.linkedin.com/company/numenta",
