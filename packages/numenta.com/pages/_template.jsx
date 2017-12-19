@@ -131,7 +131,7 @@ class Template extends React.Component {
           "https://www.facebook.com/OfficialNumenta",
           "https://www.linkedin.com/company/numenta",
           "https://twitter.com/numenta",
-          "https://www.youtube.com/user/numenta"
+          "https://www.youtube.com/user/OfficialNumenta"
         ]
       }`,
     }]
