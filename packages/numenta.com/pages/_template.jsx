@@ -120,6 +120,23 @@ class Template extends React.Component {
       target.push(details)
     })
 
+    const socialProfile = [{
+      type: 'application/ld+json',
+      innerHTML: `{
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Numenta",
+        "url": "https://numenta.com",
+        "logo": "https://numenta.com/assets/img/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/OfficialNumenta",
+          "https://www.linkedin.com/company/numenta",
+          "https://twitter.com/numenta",
+          "https://www.youtube.com/user/OfficialNumenta"
+        ]
+      }`,
+    }]
+
     return (
       <Layout>
         <GoogleAnalytics id={analytics.google} />
@@ -130,6 +147,7 @@ class Template extends React.Component {
           meta={meta}
           style={style}
           titleTemplate={titleForm}
+          script={socialProfile}
         />
         {children}
       </Layout>
