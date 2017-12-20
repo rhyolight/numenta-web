@@ -37,7 +37,7 @@ Extrinsic sequences are those where sensory inputs change due to external factor
 
 As you can see in the diagram below, most of our existing papers relate to the first discovery.  In addition to the keystone “*[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)*,” we’ve produced papers that focus on one particular aspect of the theory or related applications.  Going forward, we plan to do the same for the sensorimotor work.  “*[A Theory of How Columns in the Neocortex Learn the Structure of the World](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)*” is the first of many we hope to publish on the new research.
 
-<table class="minimalistBlack">
+<table border="1" cellspacing="0" cellpadding="4">
 <thead>
 <tr>
 <th> </th>
