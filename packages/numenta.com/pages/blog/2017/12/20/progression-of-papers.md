@@ -53,7 +53,7 @@ As you can see in the diagram below, most of our existing papers relate to the f
 </tr>
 <tr>
   <td rowspan=2><b>Supporting Papers</b></td>
-  <td><b>Sequence memory model:</b><br><br><i><a href="">Continuous Online Sequence Learning with an Unsupervised Neural Network Model</a></i><br><br><b>SDRs:</b><br><br><i><a href="http://bit.ly/theHTMSP">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a><br><br><a href="http://arxiv.org/abs/1601.00720">How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites</a><br><br><a href="http://arxiv.org/abs/1503.07469">Properties of Sparse Distributed Representations and their Application To Hierarchical Temporal Memory</a></i></td>
+  <td><b>Sequence memory model:</b><br><br><i><a href="https://numenta.com/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/">Continuous Online Sequence Learning with an Unsupervised Neural Network Model</a></i><br><br><b>SDRs:</b><br><br><i><a href="http://bit.ly/theHTMSP">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a><br><br><a href="http://arxiv.org/abs/1601.00720">How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites</a><br><br><a href="http://arxiv.org/abs/1503.07469">Properties of Sparse Distributed Representations and their Application To Hierarchical Temporal Memory</a></i></td>
 <td> </td>
 </tr>
   <tr>
@@ -61,7 +61,7 @@ As you can see in the diagram below, most of our existing papers relate to the f
   </tr>
 <tr>
   <td><b>Machine Learning Applications</b></td>
-  <td><i><a href="https://numenta.com/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">Unsupervised Real-Time Anomaly Detection for Streaming Data</a><br><br><a href="http://arxiv.org/abs/1510.03336">Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark</a><br><br><a href="">Encoding Data for HTM Systems</a><br><br></i></td>
+  <td><i><a href="https://numenta.com/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">Unsupervised Real-Time Anomaly Detection for Streaming Data</a><br><br><a href="http://arxiv.org/abs/1510.03336">Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark</a><br><br><a href="http://arxiv.org/abs/1602.05925">Encoding Data for HTM Systems</a><br><br></i></td>
 <td></td>
 </tr>
 <tr>
