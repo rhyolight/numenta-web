@@ -8,7 +8,7 @@ org: VP of Marketing
 tags: numenta newsletter december 2017
 title: Numenta Newsletter December 2017
 type: post
-sound: https://youtu.be/4ZbahSgMKaM
+sound:
 ---
 
 As we wrap up 2017, I’m pleased to share several new items with you.  Our co-founder Jeff Hawkins recently completed an east coast speaking tour where he presented our latest research at three institutions: Cold Spring Harbor Labs, Boston University, and the MIT Center for Brains, Minds + Machines.  Together with our VP of Research Subutai Ahmad, they spent the week discussing our theory, engaging with scientists, and encouraging experimentalists. The reception was quite positive, and we’re thrilled to see how the neuroscience community embraced the material.
