@@ -1,5 +1,5 @@
 ---
-author: Matt Taylor
+author: Matthew Taylor
 brief: This video was recorded on September 29, 2017 at Strange Loop in St. Louis, MO.
 date: 2017/09/29
 image:
