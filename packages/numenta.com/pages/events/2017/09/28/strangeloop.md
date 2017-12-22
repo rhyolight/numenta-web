@@ -21,8 +21,8 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "Strange Loop"
 type: post
 ---
-
 ##Video:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6U4yBfELpU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract:
