@@ -3,7 +3,7 @@ author: Matthew Taylor
 brief: This video was recorded on November 3, 2017 at ODSC West.
 date: 2017/11/03
 image:
-link: https://www.youtube.com/watch?v=odj7z0-Sa9o
+link: https://youtu.be/odj7z0-Sa9o
 media: video
 org: Open Source Community Manager
 section: overview

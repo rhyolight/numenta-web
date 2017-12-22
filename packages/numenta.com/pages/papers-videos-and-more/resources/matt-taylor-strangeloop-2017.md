@@ -3,7 +3,7 @@ author: Matthew Taylor
 brief: This video was recorded on September 29, 2017 at Strange Loop in St. Louis, MO.
 date: 2017/09/29
 image:
-link: https://www.youtube.com/watch?v=-h-cz7yY-G8&
+link: https://youtu.be/-h-cz7yY-G8
 media: video
 org: Open Source Community Manager
 section: overview
@@ -17,7 +17,7 @@ This video was recorded on September 29, 2017 at Strange Loop in St. Louis, MO. 
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odj7z0-Sa9o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-h-cz7yY-G8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract
 
