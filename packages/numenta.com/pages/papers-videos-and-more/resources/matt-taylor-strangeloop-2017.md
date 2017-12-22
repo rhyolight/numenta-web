@@ -9,7 +9,7 @@ org: Open Source Community Manager
 section: overview
 sort: a
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory brain
-title: The Biological Path Toward Strong AI
+title: Strange Loop - The Biological Path Toward Strong AI
 type: post
 ---
 
