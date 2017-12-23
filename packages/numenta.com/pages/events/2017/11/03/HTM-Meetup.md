@@ -21,11 +21,14 @@ tags: artificial intelligence biological htm hierarchical temporal memory comput
 title: "HTM Meetup"
 type: post
 ---
-##Video:
+**Video**
+------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6U4yBfELpU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-##About:
+
+**About**
+------
 
 This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california).
 Even if you are not attending ODSC West, this meetup will be open to all. We will have food and drinks. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/).

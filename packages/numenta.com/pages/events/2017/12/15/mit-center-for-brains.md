@@ -22,6 +22,9 @@ title: "MIT, Center for Brains, Minds + Machines Seminar Series"
 type: post
 ---
 
+## Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yVT7dO_Tf4E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Abstract:
 
 This talk is part of a tour in which Jeff and Subutai are visiting neuroscience labs and universities to present our latest research and engage with scientists to experiment with our theories. </br></br>
