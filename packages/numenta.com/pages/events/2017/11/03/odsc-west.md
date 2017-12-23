@@ -23,7 +23,7 @@ type: post
 ---
 ## Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odj7z0-Sa9o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="283.5" src="https://www.youtube.com/embed/odj7z0-Sa9o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract:
 
