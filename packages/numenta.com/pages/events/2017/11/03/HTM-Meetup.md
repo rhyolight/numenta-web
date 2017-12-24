@@ -24,7 +24,7 @@ type: post
 **Video:**
 ------
 
-<iframe width="453.6" height="255.15" src="https://www.youtube.com/embed/c6U4yBfELpU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="283.5" src="https://www.youtube.com/embed/c6U4yBfELpU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 **About:**
