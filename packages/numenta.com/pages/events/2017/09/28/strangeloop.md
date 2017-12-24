@@ -21,11 +21,13 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "Strange Loop"
 type: post
 ---
-##Video:
+**Video:**
+------
 
-<iframe width="504" height="283.5" src="https://www.youtube.com/embed/-h-cz7yY-G8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="453.6" height="255.15" src="https://www.youtube.com/embed/-h-cz7yY-G8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Abstract:
+**Abstract:**
+------
 
 Today's wave of AI technology is still being driven by the ANN neuron pioneered
 decades ago. Hierarchical Temporal Memory (HTM) is a realistic
