@@ -21,6 +21,10 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "ODSC West"
 type: post
 ---
+## Video:
+
+<iframe width="504" height="283.5" src="https://www.youtube.com/embed/odj7z0-Sa9o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Abstract:
 
 Today's wave of AI technology is still being driven by the ANN neuron pioneered

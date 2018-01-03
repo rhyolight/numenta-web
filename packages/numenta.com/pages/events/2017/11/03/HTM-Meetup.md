@@ -21,6 +21,14 @@ tags: artificial intelligence biological htm hierarchical temporal memory comput
 title: "HTM Meetup"
 type: post
 ---
+**Video:**
+------
+
+<iframe width="504" height="283.5" src="https://www.youtube.com/embed/c6U4yBfELpU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+**About:**
+------
 
 This meetup will take place on the same day that Matt is speaking at [ODSC West](https://www.odsc.com/california).
 Even if you are not attending ODSC West, this meetup will be open to all. We will have food and drinks. Please RSVP on the [meetup page](https://www.meetup.com/numenta/events/243501858/).
@@ -63,7 +71,7 @@ The brain learns and recognizes objects with independent moving sensors. It’s 
 
 
 
-**Agenda**
+**Agenda:**
 ------
 7:00–7:30 Talk 1: Jason <br/>
 7:30–8:00 Talk 2: Jeff<br/>
