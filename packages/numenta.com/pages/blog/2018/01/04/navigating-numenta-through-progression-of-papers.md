@@ -9,7 +9,7 @@ tags: numenta hierarchical temporal memory htm blog
 title: "Navigating Numenta’s Brain Theory through a Progression of Papers"
 type: post
 ---
-<br><br>
+<br>
 <p style="margin-left: 0pt; display: inline">For the near thirteen years that Numenta has existed, we have had two missions: </p>
 
 1.	Reverse-engineer the neocortex to understand how we learn and behave
