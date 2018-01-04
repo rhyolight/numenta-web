@@ -39,14 +39,14 @@ As you can see in the diagram below, most of our existing papers relate to the f
 
 <head>
 <style>
-table, th, td {
+table, th,  td {
     border: 1px solid black;
 }
 </style>
 </head>
 <body>
 
-<table>
+<table style="border-collapse: collapse;">
 <thead>
 <tr>
 <th> </th>
@@ -81,5 +81,3 @@ table, th, td {
 </tr>
 </tbody>
 </table>
-
-Though the publishing process can take more than a year for a single paper, we’ll share our work as we go, along with any pre-print manuscripts, until eventually our cortical theory and its associated papers are complete.  Until then, we invite you to catch up on what’s available so far, [including this video presentation at MIT on December 15](https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception) where Jeff discussed the content from our two fundamental papers, as well as new material that we have yet to document.
