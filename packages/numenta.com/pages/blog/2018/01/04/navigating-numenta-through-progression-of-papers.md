@@ -40,7 +40,7 @@ As you can see in the diagram below, most of our existing papers relate to the f
 <head>
 <style>
 table, th, td {
-    border: 2px solid black;
+    border: 1px solid black;
 }
 </style>
 </head>
