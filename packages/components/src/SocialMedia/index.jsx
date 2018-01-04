@@ -14,7 +14,7 @@ import styles from './index.css'
 
 
 const SocialMedia = (props, {config}) => {
-  const {links} = config
+  const {links, baseUrl, logo} = config
   const sites = {
     [links.out.facebook]: IconFacebook,
     [links.out.twitter]: IconTwitter,
@@ -34,7 +34,7 @@ const SocialMedia = (props, {config}) => {
 
         socials.push(
           <span className={styles.spread} key={title}>
-            <ImageLink title={title} to={site}>
+            <ImageLink itemProp="sameAs" title={title} to={site}>
               <Component color="inherit" />
             </ImageLink>
           </span>
@@ -44,7 +44,13 @@ const SocialMedia = (props, {config}) => {
   }
 
   return (
-    <div className={styles.social}>
+    <div
+      className={styles.social}
+      itemScope
+      itemType="http://schema.org/Organization"
+    >
+      <link itemProp="url" href={baseUrl} />
+      <link itemProp="logo" href={baseUrl + logo} />
       {socials}
     </div>
   )

@@ -163,7 +163,7 @@ export default class PapersPage extends React.Component {
 
     // Build category filter menu
     const categoryOptions = Array.from(categories).sort()
-      .map((cat) =>
+      .map((cat) => (
         <option value={`\\b${cat}\\b`}>
           {
             cat.toLowerCase()
@@ -171,7 +171,7 @@ export default class PapersPage extends React.Component {
                .replace(/\b\w/g, (s) => s.toUpperCase())
           }
         </option>
-      )
+      ))
 
     // Build Year filter
     const yearsOptions = Array.from(years).sort()

@@ -14,7 +14,7 @@ import styles from './index.css'
 /**
  *
  */
-const ImageLink = ({children, title, to}) => {
+const ImageLink = ({children, title, itemProp, to}) => {
   const onClick = (event) => {
     // get focus off clicked image
     event.target.parentNode.blur()
@@ -26,6 +26,7 @@ const ImageLink = ({children, title, to}) => {
     className: styles.imagelink,
     onClick,
     title,
+    itemProp,
     to: prefixLink(to),
   }
   let Node = Link
@@ -51,6 +52,7 @@ const ImageLink = ({children, title, to}) => {
 ImageLink.propTypes = {
   children: React.PropTypes.node.isRequired,
   title: React.PropTypes.string,
+  itemProp: React.PropTypes.string,
   to: React.PropTypes.string.isRequired,
 }
 
