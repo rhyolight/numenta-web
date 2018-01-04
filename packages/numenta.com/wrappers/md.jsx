@@ -2,7 +2,7 @@
 // MIT License (see LICENSE.txt)
 // Copyright © 2005—2017 Numenta <http://numenta.com>
 
-import capitalize from 'lodash/capitalize'
+import startCase from 'lodash/startCase'
 import Helmet from 'react-helmet'
 import IconArrow from 'react-icons/lib/fa/caret-left'
 import moment from 'moment'
@@ -88,7 +88,7 @@ class MarkdownWrapper extends React.Component {
     const occur = datetime.format(config.moments.human)
     let key = file.dir.split('/')[0]
     const url = `/${key}/`
-    let author, back, date, event, media, type
+    let author, back, date, event, media, breadcrumb, header, parent
     let brief = data.brief
 
     if (key === 'careers-and-team') {
@@ -97,7 +97,31 @@ class MarkdownWrapper extends React.Component {
     if (key === 'papers-videos-and-more') {
       key = 'resources'
     }
-
+    if (key === 'htm-studio') {
+      parent = 'HTM Studio'
+    } else if (key === 'biological-and-machine-intelligence') {
+      parent = 'BAMI'
+    } else {
+      parent = startCase(key)
+    }
+    breadcrumb = (
+      <span>
+        <TextLink to={url}>
+          {parent}
+        </TextLink>
+      </span>
+    )
+    if (postsWithBackButton.indexOf(key) > -1) {
+      back = (
+        <div className={styles.back}>
+          <IconMarker icon={<IconArrow />}>
+            <TextLink to={url}>
+              All {parent} Posts
+            </TextLink>
+          </IconMarker>
+        </div>
+      )
+    }
     if (data.type === 'post') {
       author = (
         <div className={styles.author}>
@@ -109,28 +133,6 @@ class MarkdownWrapper extends React.Component {
           </Subtle>
         </div>
       )
-
-      if (postTypes.indexOf(key) > -1) {
-        type = (
-          <span>
-            <Spacer />
-            <TextLink to={url}>
-              {capitalize(key)}
-            </TextLink>
-          </span>
-        )
-        if (postsWithBackButton.indexOf(key) > -1) {
-          back = (
-            <div className={styles.back}>
-              <IconMarker icon={<IconArrow />}>
-                <TextLink to={url}>
-                  All {capitalize(key)} Posts
-                </TextLink>
-              </IconMarker>
-            </div>
-          )
-        }
-      }
 
       if (key === 'events') {
         const {what, when, where, who, why} = data.event
@@ -226,12 +228,15 @@ class MarkdownWrapper extends React.Component {
     }
 
     if (data.date) {
-      date = (
+      header = (
         <div className={styles.date}>
           <Time moment={datetime}>{occur}</Time>
-          {type}
+          <Spacer />
+          {breadcrumb}
         </div>
       )
+    } else {
+      header = breadcrumb
     }
 
     if (data.image && !data.hideImage) {
@@ -286,7 +291,7 @@ class MarkdownWrapper extends React.Component {
         <Helmet title={data.title}>
           {getMetadataTags(data, config.baseUrl, {description: brief})}
         </Helmet>
-        {date}
+        {header}
         <Section
           headline={true}
           open={true}

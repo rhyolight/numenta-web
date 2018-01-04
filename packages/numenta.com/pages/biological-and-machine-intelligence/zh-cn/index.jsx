@@ -27,16 +27,27 @@ const title = (<center>{titleZH}<br />{titleEN}</center>)
 export default class BamiPageZH extends React.Component {
   static contextTypes = {
     config: React.PropTypes.object,
-    router: React.PropTypes.object,
+  }
+  static propTypes = {
+    route: React.PropTypes.object.isRequired,
   }
 
   render() {
     const {config} = this.context
+    const {route} = this.props
+    const {file} = route.page
+    const key = file.dir.split('/')[0]
+    const url = `/${key}/`
     return (
       <article>
         <Helmet title={titleZH}>
           {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
+        <span>
+          <TextLink to={url}>
+            BAMI
+          </TextLink>
+        </span>
         <Section headline={true} open={true} title={title}>
           <div className={styles.columns}>
             <div className={styles.aside}>
