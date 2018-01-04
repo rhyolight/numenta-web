@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "For the near thirteen years that Numenta has existed, we have had two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. While we sometimes refer to them as dual missions, the order matters."
+brief: "For the near thirteen years that Numenta has existed, we have had two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. While we sometimes refer to them as dual missions, the order matters. We’ve gone through different business models over the years-from focusing on a single product to building example applications to now focusing solely on neuroscience research and theory. Yet our primary mission has always been a scientific one."
 date: 2018/01/04
 hideImage: false
 image: ../images/research-papers.png
@@ -9,7 +9,7 @@ tags: numenta hierarchical temporal memory htm blog
 title: "Navigating Numenta’s Brain Theory through a Progression of Papers"
 type: post
 ---
-
+<br><br>
 <p style="margin-left: 0pt; display: inline">For the near thirteen years that Numenta has existed, we have had two missions: </p>
 
 1.	Reverse-engineer the neocortex to understand how we learn and behave
@@ -37,12 +37,49 @@ Extrinsic sequences are those where sensory inputs change due to external factor
 
 As you can see in the diagram below, most of our existing papers relate to the first discovery.  In addition to the keystone “*[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)*,” we’ve produced papers that focus on one particular aspect of the theory or related applications.  Going forward, we plan to do the same for the sensorimotor work.  “*[A Theory of How Columns in the Neocortex Learn the Structure of the World](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)*” is the first of many we hope to publish on the new research.
 
-|   | *How the brain learns predictive models of extrinsic sequences* | *How the brain learns predictive models of sensorimotor sequences* |
-| - |------------------- | --------------------- |
-| **Key Paper** | *[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)* <br/><br/> •	**New pyramidal neuron model** – how most of a neuron’s activity is dedicated to predicting <br/> •	**Sequence memory model** – how a layer of neurons learns sequences of patterns <br/> •	**Sparse distributed representations (SDRS)** – how the brain represents uncertainty |	*[A Theory of How Columns in the Neocortex Learn the Structure of the World](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)* <br/><br/> •	**Extension of sequence memory model** – how multiple layers of neurons learn to recognize objects through movement <br/> •	**Location signal** – key feature of cortical function that every column computes for all input <br/> •	**Every column can learn complete objects** – through movement |
-| **Supporting Papers** | **Sequence memory model:** <br/><br/> *[Continuous Online Sequence Learning with an Unsupervised Neural Network Model](https://numenta.com/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/)*	<br/><br/> • Analysis of HTM sequence memory applied to various sequence learning and prediction problems<br/> •	Compares HTM to statistical and Deep Learning techniques<br/><br/> **SDRs:** <br/><br/> *[The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding](http://bit.ly/theHTMSP)* <br/><br/> •	Introduces Spatial Pooler and explains how it models how neurons learn feedforward connections </br> •	Shows how the Spatial Pooler creates SDRs and supports essential neural computations such as sequence learning and memory <br/><br/> *[How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites](http://arxiv.org/abs/1601.00720)* <br/><br/> •	Proposes a formal mathematical model for sparse representations and active dendrites in the cortex <br/> •	Quantifies the benefits and limitations of sparse representations in neurons and cortical networks <br/><br/> *[Properties of Sparse Distributed Representations and their Application To Hierarchical Temporal Memory](http://arxiv.org/abs/1503.07469)* <br/><br/>•	Applies sparse representations to practical HTM systems<br/>•	Earlier version of the above paper|  |
-| <td colspan=2> <center> *[Untangling Sequences: Behavior vs. External Causes](https://doi.org/10.1101/190678)*  </center> <br/> •	Describes a cortical model for untangling sensorimotor from external sequences<br/>•	Shows how a single neural mechanism can learn and recognize these two types of sequences|
-| **Machine Learning Applications** | *[Unsupervised Real-Time Anomaly Detection for Streaming Data](https://numenta.com/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/)*	<br/><br/> •	Demonstrates how HTM meets the requirements necessary for real-time anomaly detection in streaming data<br/> •	Presents results using the Numenta Anomaly Benchmark (NAB), the first open-source benchmark designed for testing anomaly detection algorithms on streaming data <br/><br/> *[Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark](http://arxiv.org/abs/1510.03336)* <br/><br/> •	Discusses how we should think about anomaly detection for streaming applications <br/>•	Introduces a new open-source benchmark for detecting anomalies in real-time, time-series data. <br/><br/> *[Encoding Data for HTM Systems](http://arxiv.org/abs/1602.05925)* <br/><br/>•	Describes how to encode data as Sparse Distributed Representations (SDRs) for use in HTM systems<br/>•	Explains several existing encoders and discusses requirements for creating encoders for new types of data |     |
-| **Neuromorphic Applications** | *[Porting HTM Models to the Heidelberg Neuromorphic Computing Platform](http://arxiv.org/abs/1505.02142)* <br/><br/>•	Provides an example of how to port HTM algorithms to analog hardware platforms|    |
+<head>
+<style>
+table, th, td {
+    border: 2px solid black;
+}
+</style>
+</head>
+<body>
+
+<table>
+<thead>
+<tr>
+<th> </th>
+  <th><b>How the brain learns predictive models of extrinsic sequences</b></th>
+<th><b>How the brain learns predictive models of sensorimotor sequences</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><b>Key Paper</b></td>
+<td><i><a href="https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/">Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex</a></i><br><br>
+<li><b>New pyramidal neuron model</b> – how most of a neuron’s activity is dedicated to predicting</li><br><li><b>Sequence memory model</b> – how a layer of neurons learns sequences of patterns</li><br><li><b>Sparse distributed representations (SDRS)</b> – how the brain represents uncertainty</li></td>
+<td><i><a href="https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">A Theory of How Columns in the Neocortex Learn the Structure of the World</a></i><br><br><li><b>Extension of sequence memory model</b> – how multiple layers of neurons learn to recognize objects through movement</li><br><li><b>Location signal</b> – key feature of cortical function that every column computes for all input</li><br><li><b>Every column can learn complete objects</b> – through movement</li></td>
+</tr>
+<tr>
+  <td rowspan=2><b>Supporting Papers</b></td>
+  <td><b>Sequence memory model:</b><br><br><a href="https://numenta.com/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/"><i>Continuous Online Sequence Learning with an Unsupervised Neural Network Model</i></a><br><br><li>Analysis of HTM sequence memory applied to various sequence learning and prediction problems<br><li>Compares HTM to statistical and Deep Learning techniques</li><br><br><b>SDRs:</b><br><br><i><a href="http://bit.ly/theHTMSP">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a></i><br><br><li>Introduces Spatial Pooler and explains how it models how neurons learn feedforward connections<br><li>Shows how the Spatial Pooler creates SDRs and supports essential neural computations such as sequence learning and memory</li><br><br> <a href="http://arxiv.org/abs/1601.00720"><i>How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites</i></a><br><br><li>Proposes a formal mathematical model for sparse representations and active dendrites in the cortex<br><li>Quantifies the benefits and limitations of sparse representations in neurons and cortical networks</li><br><br><a href="http://arxiv.org/abs/1503.07469"><i>Properties of Sparse Distributed Representations and their Application To Hierarchical Temporal Memory</i></a></i><br><br><li>Applies sparse representations to practical HTM systems<br><li>Earlier version of the above paper</li> </td>
+<td> </td>
+</tr>
+  <tr>
+    <td colspan=2><center><i><a href="https://doi.org/10.1101/190678">Untangling Sequences: Behavior vs. External Causes</a></i></center><br><li>Describes a cortical model for untangling sensorimotor from external sequences<br><li>Shows how a single neural mechanism can learn and recognize these two types of sequences</li></td>
+  </tr>
+<tr>
+  <td><b>Machine Learning Applications</b></td>
+  <td><a href="https://numenta.com/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/"><i>Unsupervised Real-Time Anomaly Detection for Streaming Data</i></a><br><br><li>Demonstrates how HTM meets the requirements necessary for real-time anomaly detection in streaming data<br><li>Presents results using the Numenta Anomaly Benchmark (NAB), the first open-source benchmark designed for testing anomaly detection algorithms on streaming data </li><br><br><a href="http://arxiv.org/abs/1510.03336"><i>Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark</i></a><br><br><li>Discusses how we should think about anomaly detection for streaming applications</li><li>Introduces a new open-source benchmark for detecting anomalies in real-time, time-series data<br><br><a href="http://arxiv.org/abs/1602.05925"><i>Encoding Data for HTM Systems</i></a><br><br><li>Describes how to encode data as Sparse Distributed Representations (SDRs) for use in HTM systems<br><li>Explains several existing encoders and discusses requirements for creating encoders for new types of data </li><br><br></i></td>
+<td></td>
+</tr>
+<tr>
+  <td><b>Neuromorphic Applications</b></td>
+<td><a href="http://arxiv.org/abs/1505.02142"><i>Porting HTM Models to the Heidelberg Neuromorphic Computing Platform</i></a><br><br><li>Provides an example of how to port HTM algorithms to analog hardware platforms</li></td>
+  <td> </i></td>
+</tr>
+</tbody>
+</table>
 
 Though the publishing process can take more than a year for a single paper, we’ll share our work as we go, along with any pre-print manuscripts, until eventually our cortical theory and its associated papers are complete.  Until then, we invite you to catch up on what’s available so far, [including this video presentation at MIT on December 15](https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception) where Jeff discussed the content from our two fundamental papers, as well as new material that we have yet to document.
