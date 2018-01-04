@@ -87,24 +87,24 @@ class MarkdownWrapper extends React.Component {
     const datetime = moment(data.date, config.moments.post)
     const occur = datetime.format(config.moments.human)
     let key = file.dir.split('/')[0]
-    const url = `/${key}/`
-    let author, back, date, event, media, breadcrumb, header, parent
+    let author, back, event, media, header, parent
     let brief = data.brief
 
-    if (key === 'careers-and-team') {
-      key = 'careers'
-    }
-    if (key === 'papers-videos-and-more') {
-      key = 'resources'
+    if (key === 'spatial-pooling-algorithm' ||
+        key === 'temporal-memory-algorithm') {
+      key = 'biological-and-machine-intelligence'
     }
     if (key === 'htm-studio') {
       parent = 'HTM Studio'
-    } else if (key === 'biological-and-machine-intelligence') {
+    }
+    else if (key === 'biological-and-machine-intelligence') {
       parent = 'BAMI'
-    } else {
+    }
+    else {
       parent = startCase(key)
     }
-    breadcrumb = (
+    const url = `/${key}/`
+    const breadcrumb = (
       <span>
         <TextLink to={url}>
           {parent}
@@ -235,7 +235,8 @@ class MarkdownWrapper extends React.Component {
           {breadcrumb}
         </div>
       )
-    } else {
+    }
+    else {
       header = breadcrumb
     }
 

@@ -6,8 +6,6 @@ The following document gives details on the supported date/time formats which
 HTM Studio can input. This file is auto-generated and will be updated
 periodically.
 
-◄ [Back to HTM Studio](/htm-studio/)
-
 
 ### UNIX
 
