@@ -59,8 +59,8 @@ table, th,  td {
 <tr>
   <td><b>Key Paper</b></td>
 <td><i><a href="https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/">Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex</a></i><br><br>
-<li><b>New pyramidal neuron model</b> – how most of a neuron’s activity is dedicated to predicting</li><br><li><b>Sequence memory model</b> – how a layer of neurons learns sequences of patterns</li><br><li><b>Sparse distributed representations (SDRS)</b> – how the brain represents uncertainty</li></td>
-<td><i><a href="https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">A Theory of How Columns in the Neocortex Learn the Structure of the World</a></i><br><br><li><b>Extension of sequence memory model</b> – how multiple layers of neurons learn to recognize objects through movement</li><br><li><b>Location signal</b> – key feature of cortical function that every column computes for all input</li><br><li><b>Every column can learn complete objects</b> – through movement</li></td>
+<li><b>New pyramidal neuron model</b> – how most of a neuron’s activity is dedicated to predicting</li><li><b>Sequence memory model</b> – how a layer of neurons learns sequences of patterns</li><li><b>Sparse distributed representations (SDRS)</b> – how the brain represents uncertainty</li></td>
+<td><i><a href="https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">A Theory of How Columns in the Neocortex Learn the Structure of the World</a></i><br><br><li><b>Extension of sequence memory model</b> – how multiple layers of neurons learn to recognize objects through movement</li><li><b>Location signal</b> – key feature of cortical function that every column computes for all input</li><li><b>Every column can learn complete objects</b> – through movement</li></td>
 </tr>
 <tr>
   <td rowspan=2><b>Supporting Papers</b></td>
