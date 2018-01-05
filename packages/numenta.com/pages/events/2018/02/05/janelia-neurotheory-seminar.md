@@ -1,29 +1,26 @@
 ---
 author: Jeff Hawkins
 brief:
-date: 2017/12/15
+date: 2018/02/05
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
   when:
-    begin: 2017/12/15 16:00
-    end: 2017/12/15 18:00
+    begin: 2018/02/05 12:00
+    end: 2018/02/05 14:00
   where:
-    desc: MIT Building 46-3002 (Singleton Auditorium), 43 Vassar St.
-    city: Cambridge
-    state: MA
+    desc: Howard Hughes Medical Institute: Janelia Research Campus, 19700 Helix Drive
+    city: Ashburn
+    state: VA
     country: USA
-    web: https://cbmm.mit.edu/news-events/events/brains-minds-machines-seminar-series-jeff-hawkins
-  who: Jeff Hawkins and Subutai Ahmad
+    web: https://www.janelia.org/seminars
+  who: Jeff Hawkins
   why: Speaking
-image: ../images/mit-center-for-brains.png
+image: ../images/janelia.png
 org: Co-Founder
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
-title: "MIT, Center for Brains, Minds + Machines Seminar Series"
+title: "Howard Hughes Medical Institute: Janelia Research Campus -  Neurotheory Seminar Series"
 type: post
 ---
-
-## Video:
-<iframe width="504" height="283.5" src="https://www.youtube.com/embed/yVT7dO_Tf4E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract:
 
