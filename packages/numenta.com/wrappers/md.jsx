@@ -87,11 +87,12 @@ class MarkdownWrapper extends React.Component {
     const datetime = moment(data.date, config.moments.post)
     const occur = datetime.format(config.moments.human)
     let key = file.dir.split('/')[0]
-    let author, back, event, media, header, parent
+    let author, back, event, media, header, parent, breadcrumb
     let brief = data.brief
 
     if (key === 'spatial-pooling-algorithm' ||
         key === 'temporal-memory-algorithm') {
+      // FIXME Waiting for new folder structure
       key = 'biological-and-machine-intelligence'
     }
     if (key === 'htm-studio') {
@@ -104,13 +105,17 @@ class MarkdownWrapper extends React.Component {
       parent = startCase(key)
     }
     const url = `/${key}/`
-    const breadcrumb = (
-      <span>
-        <TextLink to={url}>
-          {parent}
-        </TextLink>
-      </span>
-    )
+    if (key !== 'legal') {
+      // FIXME Waiting for new folder structure
+      breadcrumb = (
+        <span>
+          <TextLink to={url}>
+            {parent}
+          </TextLink>
+        </span>
+      )
+    }
+
     if (postsWithBackButton.indexOf(key) > -1) {
       back = (
         <div className={styles.back}>
@@ -228,10 +233,14 @@ class MarkdownWrapper extends React.Component {
     }
 
     if (data.date) {
+      let space
+      if (breadcrumb) {
+        space = (<Spacer />)
+      }
       header = (
         <div className={styles.date}>
           <Time moment={datetime}>{occur}</Time>
-          <Spacer />
+          {space}
           {breadcrumb}
         </div>
       )
