@@ -83,7 +83,7 @@ table, th,  td {
 Machine Learning Applications</b>
 <br>
 <a href="https://numenta.com/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/"><i>Unsupervised Real-Time Anomaly Detection for Streaming Data</i></a><ul><li>Demonstrates how HTM meets the requirements necessary for real-time anomaly detection in streaming data<br><li>Presents results using the Numenta Anomaly Benchmark (NAB), the first open-source benchmark designed for testing anomaly detection algorithms on streaming data </li></ul><br>
-<a href="http://arxiv.org/abs/1510.03336"><i>Evaluating Real-time Anomaly Detection Algorithms-the Numenta Anomaly Benchmark</i></a><ul><li>Discusses how we should think about anomaly detection for streaming applications</li><li>Introduces a new open-source benchmark for detecting anomalies in real-time, time-series data</ul><br><br>
+<a href="http://arxiv.org/abs/1510.03336"><i>Evaluating Real-time Anomaly Detection Algorithms-the Numenta Anomaly Benchmark</i></a><ul><li>Discusses how we should think about anomaly detection for streaming applications</li><li>Introduces a new open-source benchmark for detecting anomalies in real-time, time-series data</ul><br>
 <a href="http://arxiv.org/abs/1602.05925"><i>Encoding Data for HTM Systems</i></a><br><ul><li>Describes how to encode data as Sparse Distributed Representations (SDRs) for use in HTM systems<br><li>Explains several existing encoders and discusses requirements for creating encoders for new types of data</li></ul>
 <br>
   <b>Neuromorphic Applications</b>
