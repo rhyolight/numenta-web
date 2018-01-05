@@ -52,12 +52,12 @@ table, th,  td {
 <table style="border-collapse: collapse;">
 <thead>
 <tr>
-  <th><b><font size="4">Discovery 1: How the brain learns predictive models of extrinsic sequences</font></b></th>
+  <th><b><font size="3">Discovery 1: How the brain learns predictive models of extrinsic sequences</font></b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b><font size="4">Key Paper:</font><br><br></b><i><a href="https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/">Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex</a></i>
+<td><b><font size="3">Key Paper:</font><br><br></b><i><a href="https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/">Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex</a></i>
 <ul><li><b>New pyramidal neuron model</b> – how most of a neuron’s activity is dedicated to predicting</li><li><b>Sequence memory model</b> – how a layer of neurons learns sequences of patterns</li>
 <li><b>Sparse distributed representations (SDRS)</b> – how the brain represents uncertainty</li></ul>
 <br>
@@ -78,7 +78,7 @@ table, th,  td {
 <a href="http://arxiv.org/abs/1503.07469"><i>Properties of Sparse Distributed Representations and their Application To Hierarchical Temporal Memory</i></a></i><ul><li>Applies sparse representations to practical HTM systems<br><li>Earlier version of the above paper</li></ul>
 <tr>
   <td>
-  <b><font size="4">Applications of Discovery 1:</font>
+  <b><font size="3">Applications of Discovery 1:</font>
 <br><br>
 Machine Learning Applications</b>
 <br>
@@ -105,12 +105,12 @@ table, th,  td {
 <table style="border-collapse: collapse;">
 <thead>
 <tr>
-  <th><b><font size="4">Discovery 2: How the brain learns predictive models of sensorimotor sequences</font></b></th>
+  <th><b><font size="3">Discovery 2: How the brain learns predictive models of sensorimotor sequences</font></b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b><font size="4">Key Paper:</font></b><br><br>
+<td><b><font size="3">Key Paper:</font></b><br><br>
 <i><a href="https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">A Theory of How Columns in the Neocortex Learn the Structure of the World</a></i><ul><li><b>Extension of sequence memory model</b> – how multiple layers of neurons learn to recognize objects through movement</li><li><b>Location signal</b> – key feature of cortical function that every column computes for all input</li><li><b>Every column can learn complete objects</b> – through movement</li></ul>
 <br>
 <b><u>Supporting Paper:</b></u><br><br>
