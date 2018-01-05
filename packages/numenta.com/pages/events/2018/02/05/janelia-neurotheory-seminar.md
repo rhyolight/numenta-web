@@ -8,7 +8,7 @@ event:
     begin: 2018/02/05 12:00
     end: 2018/02/05 14:00
   where:
-    desc: Howard Hughes Medical Institute: Janelia Research Campus, 19700 Helix Drive
+    desc: "Howard Hughes Medical Institute: Janelia Research Campus, 19700 Helix Drive"
     city: Ashburn
     state: VA
     country: USA
