@@ -14,30 +14,23 @@ import styles from './index.css'
  * @see github:mzabriskie/react-disqus-thread/issues/14#issuecomment-234407160
  */
 class Disqus extends React.Component {
-
-  constructor(props) {
-    super(props)
-    this.state = props
-  }
-
+  /* eslint-disable camelcase */
   componentWillMount() {
     const {document} = root
-    const component = this
+    const {
+      category_id, identifier, title, url, onNewComment, shortname,
+    } = this.props
     const script = document.createElement('script')
     root.disqus_config = function () {
-      this.page.category_id = component.state.category_id
-      this.page.identifier = component.state.identifier
-      this.page.title = component.state.title
-      this.page.url = component.state.url
-      this.callbacks.onNewComment = component.state.onNewComment
+      this.page.category_id = category_id
+      this.page.identifier = identifier
+      this.page.title = title
+      this.page.url = url
+      this.callbacks.onNewComment = onNewComment
     }
-    script.src = `//${this.state.shortname}.disqus.com/embed.js`
+    script.src = `//${shortname}.disqus.com/embed.js`
     script.async = true
     document.body.appendChild(script)
-  }
-
-  componentWillReceiveProps(nextProps) {
-    this.setState(nextProps)
   }
 
   render() {

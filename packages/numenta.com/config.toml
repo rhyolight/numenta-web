@@ -8,7 +8,7 @@ siteHost = 'Numenta.com'
 siteTitle = ''
 description = 'Leading the New Era of Machine Intelligence'
 company = 'Numenta'
-
+logo = "/assets/img/logo.png"
 [contact]
   [contact.email]
     feedback = 'feedback@numenta.com'
@@ -46,7 +46,7 @@ company = 'Numenta'
     linkedin = 'https://www.linkedin.com/company/numenta'
     map = 'http://maps.google.com/maps?q=791+Middlefield+Road,+Redwood+City,+CA+94063'
     twitter = 'https://twitter.com/numenta'
-    youtube = 'https://www.youtube.com/user/numenta'
+    youtube = 'https://www.youtube.com/OfficialNumenta'
 
   [links.in]  # internal paths
     # main/home pseudo-single page

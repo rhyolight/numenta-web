@@ -60,7 +60,9 @@
     "one-var-declaration-per-line": [0],
     "padded-blocks": [0],
     "react/prefer-stateless-function": ["off"],
-    "react/jsx-boolean-value": [2, "always"],
+    "react/jsx-boolean-value": [2, "always", {
+      "never": ["itemScope"]
+    }],
     "react/jsx-filename-extension": [1],
     "react/forbid-prop-types": [2, {"forbid": ["any"]}],
     "react/no-danger": [0],
