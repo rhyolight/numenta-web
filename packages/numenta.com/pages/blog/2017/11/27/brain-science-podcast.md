@@ -29,3 +29,9 @@ Jeff explains how our latest research uncovers a key feature of cortical functio
 > powerful than people thought.  It allows even a small section of the
 > cortex to model complete objects and know the entire structure of
 > objects."
+
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/podcasts/jeff-brain-science-podcast-transcript.pdf)**
+
+</center>
