@@ -27,10 +27,12 @@ company = 'Numenta'
     meetup = 'https://www.meetup.com/Numenta-Platform-for-Intelligent-Computing-Events/'
     onintelligence = 'https://numenta.com/papers-videos-and-more/resources/on-intelligence/'
     youtube = 'https://www.youtube.com/user/OfficialNumenta'
-    latestSchool = 'https://www.youtube.com/watch?v=1OhY_u3NjdM'
-    latestSchoolThumb = 'https://i3.ytimg.com/vi/1OhY_u3NjdM/mqdefault.jpg'
+    latestSchool = 'https://www.youtube.com/watch?v=mPFx9yuV1Os'
+    latestSchoolThumb = 'https://i3.ytimg.com/vi/mPFx9yuV1Os/mqdefault.jpg'
     spLinks = 'https://numenta.com/spatial-pooling-algorithm/'
     tmLinks = 'https://numenta.com/temporal-memory-algorithm/'
+    columnPaper = 'https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/'
+    mitColumnTalk = 'https://numenta.com/events/2017/12/15/mit-center-for-brains/'
 
   [links.in]  # internal paths
     # main/home pseudo-single page
