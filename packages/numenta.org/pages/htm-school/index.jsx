@@ -677,13 +677,13 @@ const SchoolPage = (props, {config}) => {
             />
           </div>
           <div className={styles.content}>
-          <Paragraph>
-            Your neocortex is made up of thousands of repeated circuits called
-            cortical columns. In this episode, we discuss these computational
-            units and the layers within them. How do layers wire together and what
-            do they process? We'll also walk through the data flow of object
-            recognition.
-          </Paragraph>
+            <Paragraph>
+              Your neocortex is made up of thousands of repeated circuits called
+              cortical columns. In this episode, we discuss these computational
+              units and the layers within them. How do layers wire together and
+              what do they process? We'll also walk through the data flow of
+              object recognition.
+            </Paragraph>
           </div>
         </div>
 
