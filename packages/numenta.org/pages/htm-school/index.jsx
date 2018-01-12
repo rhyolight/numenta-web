@@ -31,6 +31,7 @@ import ImageEpisode9 from './images/ep9.png'
 import ImageEpisode10 from './images/ep10.png'
 import ImageEpisode11 from './images/ep11.png'
 import ImageEpisode12 from './images/ep12.png'
+import ImageEpisode13 from './images/ep13.png'
 import ImageMain from './images/image.png'
 import styles from './index.css'
 
@@ -648,6 +649,59 @@ const SchoolPage = (props, {config}) => {
           <ListItem>
             <TextLink
               to={links.out.tmLinks}
+            >
+              TM in Biological and Machine Intelligence
+            </TextLink>
+          </ListItem>
+        </List>
+
+        <Anchor name="cortical-columns" />
+        <SubTitle>
+          Cortical Columns
+        </SubTitle>
+
+        <Anchor name="cortical-circuitry" />
+        <SubTitle level={3}>
+          Cortical Circuitry
+        </SubTitle>
+        <div className={styles.columns}>
+          <div className={styles.aside}>
+            <Video
+              border={true}
+              image={ImageEpisode13}
+              respond="mw"
+              shadow={true}
+              title="Cortical Circtuitry"
+              type="youtube"
+              videoId="mPFx9yuV1Os"
+            />
+          </div>
+          <div className={styles.content}>
+            <Paragraph>
+              Your neocortex is made up of thousands of repeated circuits called
+              cortical columns. In this episode, we discuss these computational
+              units and the layers within them. How do layers wire together and
+              what do they process? We'll also walk through the data flow of
+              object recognition.
+            </Paragraph>
+          </div>
+        </div>
+
+        <Anchor name="more-cortical-column-resources" />
+        <SubTitle level={3}>
+          More Cortical Column Resources
+        </SubTitle>
+        <List marker="disc">
+          <ListItem>
+            <TextLink
+              to="https://discourse.numenta.org/search?q=cortical+columns"
+            >
+              Cortical Column Forum Discussions
+            </TextLink>
+          </ListItem>
+          <ListItem>
+            <TextLink
+              to={links.out.columnPaper}
             >
               TM in Biological and Machine Intelligence
             </TextLink>
