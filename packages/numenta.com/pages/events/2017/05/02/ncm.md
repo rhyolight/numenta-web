@@ -9,7 +9,7 @@ event:
     end: 2017/05/05
   where:
     desc: Clayton Hotel Burlington Road
-    city: Dublin  
+    city: Dublin,  
     country: Ireland
     web:  https://ncm-society.org/meeting-history/
   who: Subutai Ahmad
