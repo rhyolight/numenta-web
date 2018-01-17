@@ -21,10 +21,13 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "Computational and Systems Neuroscience Meeting (Cosyne) 2018"
 type: post
 ---
+The annual Cosyne meeting provides an inclusive forum for the exchange of experimental and theoretical/computational approaches to problems in systems neuroscience.
 
 ## Posters:
 
-**Title:** A Neural Mechanism for Determining Allocentric Locations of Sensed Features
+<p style="margin-left: 0pt; display: inline">
+<b>Title:</b> A Neural Mechanism for Determining Allocentric Locations of Sensed Features
+</p>
 
 **Authors:** Marcus Lewis and Jeff Hawkins 
 

@@ -24,5 +24,3 @@ type: post
 ## About:
 
 The workshop is aimed at putting together experiments, models and recent neuromorphic systems aiming at understanding the computational properties conferred by dendrites in neural systems. The workshop will focus particularly on the excitable properties of dendrites and the type of computation they can implement. The workshop will take place in central Paris, at the European Institute for Theoretical Neuroscience (EITN), for two full days on February 8th - 9th.
-
-Subutai will be speaking on the first day. His talk is titled, "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex."
