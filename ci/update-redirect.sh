@@ -40,7 +40,8 @@ if [[ -z ${S3_BUCKET} || -z ${CSV_FILE} ]]; then
 fi
 
 TMPFILE=`mktemp`
-while IFS=',' read -r from_url to_url || [[ -n "$from_url" ]]; do
+IFS=$(echo -en ",\r\n")
+while read -r from_url to_url || [[ -n "$from_url" ]]; do
     aws s3 cp ${TMPFILE} s3://${S3_BUCKET}${from_url} --website-redirect ${to_url}
 done < "$CSV_FILE"
 rm ${TMPFILE}
