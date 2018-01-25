@@ -2,13 +2,13 @@
 author: Christy Maver
 brief: "As 2018 is well underway, I’m pleased to share several events we have scheduled for the coming weeks.  You may recall that last month our Co-founder Jeff Hawkins spent a week on the east coast presenting our latest research at Cold Spring Harbor Labs, Boston University, and MIT.  On February 5, Jeff will be back east, delivering his talk, “Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception” at the Janelia Research Campus."
 date: 2018/01/29
-hideImage: true
+hideImage: false
 image: ../images/january.png
 org: VP of Marketing
 tags: numenta newsletter january 2018
 title: Numenta Newsletter January 2018
 type: post
-sound:
+sound: https://soundcloud.com/numenta/january-2018-numenta-news
 ---
 
 As 2018 is well underway, I’m pleased to share several events we have scheduled for the coming weeks.  You may recall that last month our Co-founder Jeff Hawkins spent a week on the east coast presenting our latest research at [Cold Spring Harbor Labs](https://numenta.com/events/2017/12/12/cold-spring-harbor-labs/), [Boston University](https://numenta.com/events/2017/12/13/boston-university/), and [MIT](https://numenta.com/events/2017/12/15/mit-center-for-brains/).  On February 5, Jeff will be back east, delivering his talk, “Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception” at the [Janelia Research Campus](http://numenta.com/events/2018/02/05/janelia-neurotheory-seminar/).  
