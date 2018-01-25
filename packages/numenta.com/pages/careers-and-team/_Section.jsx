@@ -389,7 +389,7 @@ const SectionCareers = (props, {route}) => {
               Jeff is a scientist whose life-long interest in neuroscience led
               to the creation of Numenta and its focus on neocortical theory.
               His research focuses on how the cortex learns predictive models
-              of the world through sensation and movement. In 2002, he founded 
+              of the world through sensation and movement. In 2002, he founded
               the Redwood Neuroscience Institute, where he served as Director
               for three years. The institute is currently located at U.C.
               Berkeley. Previously, he co-founded two companies, Palm and
