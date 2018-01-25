@@ -20,7 +20,7 @@ Jeff, Subutai and several members of our research team will be at [Computational
 <span style="margin-left: 20pt; display:block">
 <b>A neural mechanism for determining allocentric locations of sensed features</b> by <a href="https://twitter.com/mrcslws">Marcus Lewis</a> and Jeff Hawkins <br>
 Reflecting some of our newest work, this poster shows how cortical columns can use multiple independent moving sensors to identify and locate objects.  It lays out a model inspired by grid cell modules that describes how the brain computes and represents locations.</span>
-<br>
+<br><br>
 <span style="margin-left: 20pt; display:block">
 <b>Robust dendritic computations with sparse distributed representations</b> by <a href="https://twitter.com/SubutaiAhmad">Subutai Ahmad</a>, Max Schwarzer and Jeff Hawkins <br>
 This poster covers one of the fundamental properties of cortical theory: sparse distributed representations.  It lays out a mathematical framework for analyzing SDR properties, and their relationships to dendritic computations and HTM theory. </span>
