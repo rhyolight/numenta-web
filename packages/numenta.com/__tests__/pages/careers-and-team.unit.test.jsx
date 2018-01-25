@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import CareersPage from '../../pages/careers-and-team'
+import CareersPage from '../../pages/company/careers-and-team'
 
 
 describe('Careers and Team Page React component', () => {

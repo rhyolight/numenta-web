@@ -9,17 +9,20 @@ import root from 'window-or-global'
 import {hasSessionStorage} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
-import SectionAnomaly from './anomaly-detection-benchmark/_Section'
+import SectionAnomaly from './applications/anomaly-detection-benchmark/_Section'
 import SectionApplications from './applications/_Section'
-import SectionNeuroscience from './neuroscience-research/_Section'
-import SectionBusiness from './business-strategy-and-ip/_Section'
-import SectionCareers from './careers-and-team/_Section'
+import SectionNeuroscience
+  from './machine-intelligence-technology/neuroscience-research/_Section'
+import SectionBusiness
+  from './machine-intelligence-technology/business-strategy-and-ip/_Section'
+import SectionCareers from './company/careers-and-team/_Section'
 import SectionContact from './contact/_Section'
 import SectionHome from './_Section'
-import SectionMission from './mission-and-history/_Section'
-import SectionNutshell from './numenta-in-a-nutshell/_Section'
-import SectionOpensource from './open-source-community/_Section'
-import SectionPapers from './papers-videos-and-more/_Section'
+import SectionMission from './company/mission-and-history/_Section'
+import SectionNutshell
+  from './machine-intelligence-technology/numenta-in-a-nutshell/_Section'
+import SectionOpensource from './resources/open-source-community/_Section'
+import SectionPapers from './resources/papers-videos-and-more/_Section'
 import SectionPartners from './partners/_Section'
 import SectionTechnology from './machine-intelligence-technology/_Section'
 
@@ -32,17 +35,17 @@ const mainSectionList = [
   {
     component: <SectionNutshell key="sectionNutshell" />,
     title: 'Numenta in a Nutshell',
-    url: '/numenta-in-a-nutshell/',
+    url: '/machine-intelligence-technology/numenta-in-a-nutshell/',
   },
   {
     component: <SectionMission key="sectionMission" />,
     title: 'Mission & History',
-    url: '/mission-and-history/',
+    url: '/company/mission-and-history/',
   },
   {
     component: <SectionNeuroscience key="sectionNeuroscience" />,
     title: 'Neuroscience Research',
-    url: '/neuroscience-research/',
+    url: '/machine-intelligence-technology/neuroscience-research/',
   },
   {
     component: <SectionTechnology key="sectionTechnology" />,
@@ -52,7 +55,7 @@ const mainSectionList = [
   {
     component: <SectionOpensource key="sectionOpensource" />,
     title: 'Open Source Community',
-    url: '/open-source-community/',
+    url: '/reources/open-source-community/',
   },
   {
     component: <SectionApplications key="sectionApplications" />,
@@ -67,22 +70,22 @@ const mainSectionList = [
   {
     component: <SectionBusiness key="sectionBusiness" />,
     title: 'Business Strategy & IP',
-    url: '/business-strategy-and-ip/',
+    url: '/machine-intelligence-technology/business-strategy-and-ip/',
   },
   {
     component: <SectionAnomaly key="sectionAnomaly" />,
     title: 'Anomaly Detection Benchmark',
-    url: '/anomaly-detection-benchmark/',
+    url: '/applications/anomaly-detection-benchmark/',
   },
   {
     component: <SectionPapers key="sectionResources" />,
     title: 'Papers, Videos & More',
-    url: '/papers-videos-and-more/',
+    url: '/resources/papers-videos-and-more/',
   },
   {
     component: <SectionCareers key="sectionCareers" />,
     title: 'Careers & Team',
-    url: '/careers-and-team/',
+    url: '/company/careers-and-team/',
   },
   {
     component: <SectionContact key="sectionContact" />,
