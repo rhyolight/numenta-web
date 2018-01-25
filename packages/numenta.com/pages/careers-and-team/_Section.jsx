@@ -135,7 +135,8 @@ const SectionCareers = (props, {route}) => {
               to the creation of Numenta and its focus on neocortical theory.
               His research focuses on how the cortex learns predictive models
               of the world through sensation and movement. In 2002, he founded
-              the Redwood Neuroscience Institute, where he served as Director              for three years. The institute is currently located at U.C.
+              the Redwood Neuroscience Institute, where he served as Director
+              for three years. The institute is currently located at U.C.
               Berkeley. Previously, he co-founded two companies, Palm and
               Handspring, where he designed products such as the PalmPilot and
               Treo smartphone. In 2004 he wrote “On Intelligence”, a book about
@@ -387,7 +388,8 @@ const SectionCareers = (props, {route}) => {
               to the creation of Numenta and its focus on neocortical theory.
               His research focuses on how the cortex learns predictive models
               of the world through sensation and movement. In 2002, he founded
-              the Redwood Neuroscience Institute, where he served as Director              for three years. The institute is currently located at U.C.
+              the Redwood Neuroscience Institute, where he served as Director
+              for three years. The institute is currently located at U.C.
               Berkeley. Previously, he co-founded two companies, Palm and
               Handspring, where he designed products such as the PalmPilot and
               Treo smartphone. In 2004 he wrote “On Intelligence”, a book about
