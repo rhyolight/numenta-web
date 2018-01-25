@@ -15,8 +15,8 @@ As 2018 is well underway, I’m pleased to share several events we have schedule
 
 On Thursday, February 8-9, VP of Research Subutai Ahmad will be at the [Dendritic Integration and Computation with Active Dendrites Workshop](https://numenta.com/events/2018/02/08/dendrites-workshop/) in Paris, France.  Subutai will present a workshop titled, “The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex.”  
 
-Jeff, Subutai and several members of our research team will be at [Computational and Systems Neuroscience Meeting (COSYNE) 2018](https://numenta.com/events/2018/03/01/cosyne-2018/) March 1-6 in Denver, CO.  Subutai will speak at a workshop titled, “Cortical circuits: functions and models of long-range connections.”  In addition, the research team will present two posters:
- 
+Jeff, Subutai and several members of our research team will be at [Computational and Systems Neuroscience Meeting (COSYNE) 2018](https://numenta.com/events/2018/03/01/cosyne-2018/) March 1-6 in Denver, CO.  Subutai will speak at a workshop titled, “Cortical circuits: functions and models of long-range connections.”  In addition, the research team will present two posters: <br/>
+
 <span style="margin-left: 20pt; display:block">
 <b>A neural mechanism for determining allocentric locations of sensed features</b> by <a href="https://twitter.com/mrcslws">Marcus Lewis</a> and Jeff Hawkins <br>
 Reflecting some of our newest work, this poster shows how cortical columns can use multiple independent moving sensors to identify and locate objects.  It lays out a model inspired by grid cell modules that describes how the brain computes and represents locations.</span>
