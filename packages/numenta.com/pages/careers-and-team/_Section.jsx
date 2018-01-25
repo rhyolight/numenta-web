@@ -131,18 +131,15 @@ const SectionCareers = (props, {route}) => {
             </div>
             <div className={styles.content}>
               <Paragraph>
-                Jeff is an engineer, serial entrepreneur, scientist, inventor
-                and author. His life-long interest in neuroscience and theories
-                of the neocortex has driven his passion for building a
-                technology based on neocortical theory. Previously, he founded
-                two mobile computing companies, Palm and Handspring, and is the
-                architect of many computing products such as the PalmPilot and
-                Treo smartphone. In 2002, he founded the Redwood Neuroscience
-                Institute, a scientific institute focused on understanding how
-                the neocortex processes information. The institute is currently
-                located at U.C. Berkeley. In 2004 Jeff wrote the book, On
-                Intelligence, which outlines Hierarchical Temporal Memory (HTM)
-                and describes progress on understanding the neocortex.
+              Jeff is a scientist whose life-long interest in neuroscience led
+              to the creation of Numenta and its focus on neocortical theory.
+              His research focuses on how the cortex learns predictive models
+              of the world through sensation and movement. In 2002, he founded
+              the Redwood Neuroscience Institute, where he served as Director              for three years. The institute is currently located at U.C.
+              Berkeley. Previously, he co-founded two companies, Palm and
+              Handspring, where he designed products such as the PalmPilot and
+              Treo smartphone. In 2004 he wrote “On Intelligence”, a book about
+              cortical theory.
               </Paragraph>
               <Paragraph>
                 Jeff earned his B.S. in Electrical Engineering from Cornell
@@ -390,8 +387,7 @@ const SectionCareers = (props, {route}) => {
               to the creation of Numenta and its focus on neocortical theory.
               His research focuses on how the cortex learns predictive models
               of the world through sensation and movement. In 2002, he founded
-              the Redwood Neuroscience Institute, where he served as Director
-              for three years. The institute is currently located at U.C.
+              the Redwood Neuroscience Institute, where he served as Director              for three years. The institute is currently located at U.C.
               Berkeley. Previously, he co-founded two companies, Palm and
               Handspring, where he designed products such as the PalmPilot and
               Treo smartphone. In 2004 he wrote “On Intelligence”, a book about
