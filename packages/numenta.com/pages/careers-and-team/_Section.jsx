@@ -351,7 +351,7 @@ const SectionCareers = (props, {route}) => {
             </div>
             <div className={styles.content}>
               <Paragraph>
-                Mike Farmwald is a successful serial entrepreneur. He has
+                Mike is a successful serial entrepreneur. He has
                 founded many companies with breakthrough technologies including
                 FTL, a super computing company that merged with MIPs, Epigram,
                 which was acquired by Broadcom, Rambus and Matrix Semiconductor,
