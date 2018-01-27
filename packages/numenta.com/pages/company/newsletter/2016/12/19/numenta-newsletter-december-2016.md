@@ -48,10 +48,10 @@ at this event, so if you’re planning to attend, be sure to come see us.
 Thank you for continuing to follow Numenta, and I look forward to sharing more
 news with you in 2017.  Have a wonderful holiday season and Happy New Year.
 
-[1]: /papers/
+[1]: /resources/papers/
 [2]: /blog/2016/12/09/visit-to-neuroscience-labs-at-mpfi-and-unc/
-[3]: /numenta-anomaly-benchmark/
-[4]: /htm-studio/
+[3]: /applications/numenta-anomaly-benchmark/
+[4]: /applications/htm-studio/
 [5]: http://grokstream.com/
 [6]: https://blog.grokstream.com/grok-anything-and-take-action-everywhere-f16579d36cf6#.mg3ms3dut
 [7]: http://cortical.io/
@@ -59,5 +59,5 @@ news with you in 2017.  Have a wonderful holiday season and Happy New Year.
 [9]: https://www.youtube.com/attribution_link?a=TKA4Os0uoLg&u=%2Fwatch%3Fv%3Dmuf3VI9KKxg%26feature%3Dshare
 [10]: https://www.re-work.co/events/deep-learning-summit-san-francisco-2017
 [11]: http://www.cortical.io/similarity-explorer.html
-[12]: /events/2017/01/19/global-ai-conference-2017/
-[13]: /events/2017/01/31/smartdata-conference-2017/
+[12]: /company/events/2017/01/19/global-ai-conference-2017/
+[13]: /company/events/2017/01/31/smartdata-conference-2017/

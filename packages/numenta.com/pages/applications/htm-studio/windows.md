@@ -2,7 +2,7 @@
 title: HTM Studio - Troubleshooting Tips on Windows
 ---
 
-#### Installation Failure 
+#### Installation Failure
 
 If HTM Studio fails to install, this could be because your antivirus is
 blocking the installation process. This problem is not specific to HTM
@@ -15,4 +15,4 @@ Studio. To troubleshoot, try the following:
 
 -   Once HTM Studio installation is complete, enable your antivirus
 
-◄ [Back to HTM Studio](/htm-studio/)
+◄ [Back to HTM Studio](/applications/htm-studio/)

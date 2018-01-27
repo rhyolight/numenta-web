@@ -24,7 +24,7 @@ can view what Winfried Wilcke, a senior IBM researcher,
 [has to say about his work](http://digitalops.sandia.gov/Mediasite/Play/1365ba62685c4c91a1cb7143c1e321cc1d).
 
 In the publications arena, we have posted an important paper on the mathematical
-properties of sparse distributed representations. You can [read it here](/papers/).
+properties of sparse distributed representations. You can [read it here](/resources/papers/).
 
 We also have a hackathon coming up.  For the first time, we are coming to the
 east coast for this hackathon:  May 30-31 in New York City.  Many of our Numenta
@@ -50,7 +50,7 @@ so be sure to view some of the commentary:
 Lastly, we have an opening in marketing at Numenta.  If HTM and machine
 intelligence is a passion of yours, and you have a strong marketing
 communications background, please consider
-[applying for our position](/careers-and-team/).
+[applying for our position](/company/careers-and-team/).
 
 We are excited about the momentum growing behind HTM technology and hope you’ll
 have a chance to review some of these developments.  

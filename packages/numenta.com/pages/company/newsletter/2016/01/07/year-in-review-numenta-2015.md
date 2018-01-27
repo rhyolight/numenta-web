@@ -43,7 +43,7 @@ I hope to share news of additional partnerships with you in the coming year.
 ### Highlight #2
 
 We also released the
-[Numenta Anomaly Benchmark (NAB)](/numenta-anomaly-benchmark/),
+[Numenta Anomaly Benchmark (NAB)](/applications/numenta-anomaly-benchmark/),
 which was two years in the making.  We believe NAB offers the definitive way
 to assess the performance of algorithms for detecting anomalies in streaming
 data.  We presented NAB v1.0 at two conferences and continue to get positive
@@ -70,11 +70,11 @@ from our most recent hackathon.
 
 Perhaps one of the most exciting achievements of 2015 was the progress toward
 a goal that we set at the beginning of the year: to
-[publish major papers](/papers/) about our work. We have several papers
+[publish major papers](/resources/papers/) about our work. We have several papers
 undergoing peer review, which we’ve  made available pre-publication on arxiv, an
 academic archive. I hope to be  sharing news of publication over the coming
 months, but in the meantime, you can find all our papers
-here: [https://numenta.com/papers/](/papers/)
+here: [https://numenta.com/papers/](/resources/papers/)
 
 ---
 

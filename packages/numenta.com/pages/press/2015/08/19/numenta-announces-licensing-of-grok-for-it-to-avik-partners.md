@@ -22,7 +22,7 @@ Grok for IT Analytics on AWS detects anomalies in Amazon Web Services server
 metrics and is currently available at http://grokstream.com.
 As part of this strategic relationship, Numenta will transfer the Grok
 application and the Grok brand to Avik under a broad general licensing agreement
-for Numenta’s [Hierarchical Temporal Memory (HTM)](/papers-videos-and-more/)
+for Numenta’s [Hierarchical Temporal Memory (HTM)](/resources/papers-videos-and-more/)
 technology. Numenta also will take a minority ownership position in Avik.
 
 “Our core HTM technology can be applied to such a broad array of machine
@@ -51,7 +51,7 @@ During the past two years, Numenta has created a series of example applications
 to illustrate the capabilities of HTM, beginning with Grok for IT Analytics on
 AWS. The HTM technology also has been applied to anomaly detection in stock
 prices and volumes
-([HTM for Stocks](/htm-for-stocks)),
+([HTM for Stocks](/applications/)),
 human behavior, geo-spatial tracking data, and to the predication and
 classification of natural language. For the latter application, Numenta recently
 announced a partnership and licensing agreement with

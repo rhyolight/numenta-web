@@ -17,11 +17,11 @@ outdated.  As a result, we have been working for some time on creating a “livi
 book”, a cohesive body of documentation that provides readers with the “A to Z”
 of HTM, and that can be updated as our work progresses.  I am pleased to
 announce that we have released the first four chapters of this book, called
-[Biological and Machine Intelligence (BAMI)](/biological-and-machine-intelligence/). We
+[Biological and Machine Intelligence (BAMI)](/resources/biological-and-machine-intelligence/). We
 are calling this release v.4 to represent the 4 chapters available. We include a
 list of future chapters that we hope to add, as well as links to research papers
 and supporting material. Material that is replaced by BAMI will be moved to the
-archive section of the [resources section](/papers-videos-and-more/) on our
+archive section of the [resources section](/resources/papers-videos-and-more/) on our
 web site.
 
 In addition to publishing peer reviewed papers, we hope to build on BAMI to

@@ -34,7 +34,7 @@ end of the webinar answers some popular user questions.
 
 Links:
 * [Main Event Website](http://www.prohuddle.com/webinars/ChristyAndScott/Machine_Intelligence_with_Streaming_Data_A_New_Approach.php)
-* [Numenta Event Page](/events/2016/04/26/numenta-webinar/)
+* [Numenta Event Page](/company/events/2016/04/26/numenta-webinar/)
 
 Across every industry, we are seeing an exponential increase in the availability
 of streaming, time-series data. The real-time detection of anomalies has

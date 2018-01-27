@@ -3,12 +3,12 @@ title: Neuroscience Research
 brief: Reverse engineering the neocortex to figure out how the brain works is one of humanity's grand scientific challenges. We are fortunate to be living in an era when neuroscience techniques are advancing at an amazing pace, giving rise to a wealth of data on everything from synapses, to neurons, to entire cortical regions
 ---
 
-[bami]:   /biological-and-machine-intelligence/
-[events]: /events/
-[nab]:    /numenta-anomaly-benchmark/
+[bami]:   /resources/biological-and-machine-intelligence/
+[events]: /company/events/
+[nab]:    /applications/numenta-anomaly-benchmark/
 [org]:    http://numenta.org/
-[papers]: /papers-videos-and-more/
-[visit]:  /careers-and-team/careers/visiting-scholar-program/
+[papers]: /resources/papers-videos-and-more/
+[visit]:  /company/careers-and-team/careers/visiting-scholar-program/
 
 Reverse engineering the neocortex to figure out how the brain works is one of
 humanity's grand scientific challenges. We are fortunate to be living in an era

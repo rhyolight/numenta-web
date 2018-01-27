@@ -4,7 +4,7 @@ brief: We created the **Numenta Anomaly Benchmark (NAB)** in order to be able to
 ---
 
 [biz]:  /assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf
-[nab]:  /numenta-anomaly-benchmark/
+[nab]:  /applications/numenta-anomaly-benchmark/
 [peer]: http://arxiv.org/abs/1510.03336
 
 Sensors and data streams are proliferating as the Internet of Things vision

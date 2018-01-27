@@ -18,7 +18,7 @@ type: post
 <iframe width="560" height="315" src="//www.youtube.com/embed/LbZtc_zWBS4" frameborder="0" allowfullscreen></iframe>
 
 * This video talk on Sparse Distributed Representations (SDR) covers a subset
-  of the topics in the [BAMI](/biological-and-machine-intelligence/) chapter
+  of the topics in the [BAMI](/resources/biological-and-machine-intelligence/) chapter
   on SDRs.
 
 ## Slides

@@ -15,7 +15,7 @@ type: post
 
 Hello Numenta newsletter subscribers! November is shaping up to be a busy and
 exciting month for Numenta.
-[Earlier this month](/newsletter/2015/11/10/numenta-anomaly-benchmark-nab-open-source-with-white-paper/),
+[Earlier this month](/company/newsletter/2015/11/10/numenta-anomaly-benchmark-nab-open-source-with-white-paper/),
 I wrote you about the release of our Numenta Anomaly Benchmark (NAB). Today I’m
 pleased to share more good news.
 

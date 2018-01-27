@@ -64,7 +64,7 @@ engineer Marion Le Borgne’s firsthand account [here][11].  If you’re attendi
 [MLConf][12] on November 11 in San Francisco, stop by our table to get a live
 demo of HTM Studio.
 
-[1]: /biological-and-machine-intelligence/
+[1]: /resources/biological-and-machine-intelligence/
 [2]: https://twitter.com/NumentaBAMI
 [3]: http://www.cortical.io/
 [4]: http://conferences.oreilly.com/artificial-intelligence/ai-deep-learning-bots-ny/public/schedule/detail/54105

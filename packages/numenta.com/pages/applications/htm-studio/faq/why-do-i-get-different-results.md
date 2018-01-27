@@ -9,4 +9,4 @@ HTM sees.  In some cases, aggregating your data may cause you to miss anomalies
 and in other cases, it may help you find anomalies by tuning out noise. The goal
 is to aggregate your data as much as possible but not too much. You can
 experiment with different aggregation windows in HTM Studio to see how it
-changes your results.  To see an example, [click here](/htm-studio/aggregation/).
+changes your results.  To see an example, [click here](/applications/htm-studio/aggregation/).

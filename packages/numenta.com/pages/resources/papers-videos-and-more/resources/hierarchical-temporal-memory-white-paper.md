@@ -16,10 +16,10 @@ type: post
 There have been changes in our thinking, in algorithm implementation, in
 terminology and in other areas since this paper was written, rendering part of
 this paper obsolete. Much of this paper has been replaced by
-[BAMI](/biological-and-machine-intelligence/) and the
-[current white papers](/papers/), and we will continue to provide updated
+[BAMI](/resources/biological-and-machine-intelligence/) and the
+[current white papers](/resources/papers/), and we will continue to provide updated
 material in subsequent releases of
-[BAMI](/biological-and-machine-intelligence/).
+[BAMI](/resources/biological-and-machine-intelligence/).
 
 ## About
 

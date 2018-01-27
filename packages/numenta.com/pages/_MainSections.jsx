@@ -55,7 +55,7 @@ const mainSectionList = [
   {
     component: <SectionOpensource key="sectionOpensource" />,
     title: 'Open Source Community',
-    url: '/reources/open-source-community/',
+    url: '/resources/open-source-community/',
   },
   {
     component: <SectionApplications key="sectionApplications" />,

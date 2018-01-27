@@ -135,4 +135,4 @@ through movement.
 [2]: /blog/2014/09/17/increasing-research-transparency/
 [3]: https://github.com/numenta/nupic.research/tree/master/projects/sequence_learning
 [4]: https://discourse.numenta.org/
-[5]: /papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/
+[5]: /resources/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/

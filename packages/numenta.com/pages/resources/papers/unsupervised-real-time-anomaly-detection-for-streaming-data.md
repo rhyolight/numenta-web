@@ -141,7 +141,7 @@ learning methods.
 
 For more details on the key properties of HTM and how it compares to
 other machine learning models, you can read this [peer-reviewed
-paper](/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
+paper](/resources/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
 which appears in Neural Computation, November 2016, Volume 28.
 
 ### **Q. Where can I find out more?**

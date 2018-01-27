@@ -48,7 +48,7 @@ for new developers.
 
 I hope you’ve had a chance to check out our updated web site, where we have
 released some new whitepapers, including an expanded version of
-[The Science of Anomaly Detection](/papers/).
+[The Science of Anomaly Detection](/resources/papers/).
 
 I look forward to seeing many of you at the Workshop and/or the Hackathon.
 Thank you for your ongoing interest in Numenta.

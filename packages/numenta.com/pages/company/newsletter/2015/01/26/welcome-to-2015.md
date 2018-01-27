@@ -39,13 +39,13 @@ support our product, [Grok](http://grokstream.com), and have an additional
 demonstration application in the works to announce later this year. We also
 will be speaking or exhibiting at a number of events this year, including:
 
-* [Strata + Hadoop World](/events/2015/02/17/strata-hadoop-world/),
+* [Strata + Hadoop World](/company/events/2015/02/17/strata-hadoop-world/),
   2/20, Subutai (VP of Research) will give a talk on streaming analytics
 
 We are also planning a **Spring NuPIC Hackathon**, which we expect to be on the
 U.S. East Coast.  Be sure to follow us on
 [Twitter](https://twitter.com/Numenta?lang=en) and check our
-[events page](/events/) as more speaking appearances or events are announced.
+[events page](/company/events/) as more speaking appearances or events are announced.
 
 You might enjoy seeing a [short video](http://youtu.be/f1tYXv6ST_U) featuring
 Jeff that describes our mission. In an effort to communicate more about our

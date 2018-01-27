@@ -29,7 +29,7 @@ can apply brain theory today and where it will take us tomorrow.
  
 On June 28, Open Source Community Manager [Matt Taylor](https://twitter.com/rhyolight)
 will give a talk on “The Biological Path Towards Strong AI” at the
-[O’Reilly AI Conference](/events/2017/06/28/oreilly-nyc/) in Manhattan, NY.
+[O’Reilly AI Conference](/company/events/2017/06/28/oreilly-nyc/) in Manhattan, NY.
 His talk will feature detailed, dynamic visualizations of foundational
 algorithms of the neocortex. Matt uses these visualizations to demonstrate how
 systems with a biologically accurate neuron model are likely to yield strong AI.
@@ -43,14 +43,14 @@ cases that involve analyzing large amounts of text.
 
 
 Research Engineer [Yuwei Cui](https://twitter.com/ywcui) will be one of two
-speakers at the [SF Big Analytics Meetup](/events/2017/07/06/sf-big-analytics/)
+speakers at the [SF Big Analytics Meetup](/company/events/2017/07/06/sf-big-analytics/)
 on July 6. His talk, “What the brain tells us about the future of streaming
 analytics,” will cover how HTM not only advances our understanding of how the
 brain may solve sequence learning problems, but also how it’s applicable to
 real-world sequence learning problems from continuous data streams. Yuwei will
 also give an in-depth biological talk titled “Presence of high order cell
 assemblies in mouse visual cortices during natural movie stimulation” at the
-[International Conference on Mathematical Neuroscience](/events/2017/06/01/icmns/)
+[International Conference on Mathematical Neuroscience](/company/events/2017/06/01/icmns/)
 on June 1 in Boulder, CO. This talk is based on work done in conjunction with
 Professor Spencer Smith at the [Neuroscience Center at the University of North Carolina](https://www.med.unc.edu/neuroscience),
 which [Yuwei blogged about last year](/blog/2016/12/09/visit-to-neuroscience-labs-at-mpfi-and-unc/).
@@ -73,7 +73,7 @@ application downtime. Grok is holding a webinar on June 6th for people interest
 in hearing more. Reserve your spot [here](http://event.grokstream.com/webinar-aiops).
 
 
-Lastly, we recently made another major update to our living book, [Biological and Machine Intelligence](/biological-and-machine-intelligence/).
+Lastly, we recently made another major update to our living book, [Biological and Machine Intelligence](/resources/biological-and-machine-intelligence/).
 The Problem Sets chapter now contains questions spanning the SDRs, Encoders,
 Spatial Pooling and Temporal Memory chapters. Keep sending us your [comments and questions](https://numenta.wufoo.com/forms/biological-and-machine-intelligence-bami/)
 about BAMI, and don’t forget to follow [@NumentaBAMI](https://twitter.com/NumentaBAMI)

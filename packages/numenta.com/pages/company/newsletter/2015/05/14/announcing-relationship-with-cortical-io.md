@@ -33,7 +33,7 @@ European based Human Brain Project, Sebastian spent several months at Numenta
 porting HTM to the Heidelberg Neuromorphic Computing Platform, with positive
 results. Sebastian implemented HTM using spiking neurons, which are complex
 models often used by neuroscientists to reproduce actual biophysical
-characteristics of neurons. You can read about his work [here](/papers/).
+characteristics of neurons. You can read about his work [here](/resources/papers/).
 
 We have several great projects under development and look forward to sharing
 more with you over the coming months.

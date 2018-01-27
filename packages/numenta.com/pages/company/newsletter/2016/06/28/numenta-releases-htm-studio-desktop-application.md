@@ -48,7 +48,7 @@ As a company with a scientific mission to understand how the brain learns, it’
 been hard for us to make this technology accessible, which is why we are so
 proud of this release. If you’d like to try it, you can download the Windows or
 Mac version, view our tutorials and give us feedback at
-[https://numenta.com/htm-studio/](/htm-studio/). Feel free to write us about
+[https://numenta.com/htm-studio/](/applications/htm-studio/). Feel free to write us about
 interesting anomalies that you find – we hope to share guest blog posts of the
 best ones.
 
@@ -89,15 +89,15 @@ competition. This [short video][19] explains how easy it is to win up to $5,000.
 
 [1]: /machine-intelligence-technology/
 [2]: http://www.businesswire.com/news/home/20160627005453/en/Numenta-Releases-HTM-Studio
-[3]: /htm-studio/
+[3]: /applications/htm-studio/
 [4]: http://youtu.be/f80ewxLvgks
 [5]: mailto:ycui@numenta.com
-[6]: /events/2016/06/18/dendritic-anatomy-molecules-and-function-heraklion-crete/
-[7]: /events/2016/06/22/areadne-2016-research-in-encoding-and-decoding-of-neural-ensembles/
-[8]: /events/2016/07/26/ieee-wcci-2016/
+[6]: /company/events/2016/06/18/dendritic-anatomy-molecules-and-function-heraklion-crete/
+[7]: /company/events/2016/06/22/areadne-2016-research-in-encoding-and-decoding-of-neural-ensembles/
+[8]: /company/events/2016/07/26/ieee-wcci-2016/
 [9]: mailto:sahmad@numenta.com
-[10]: /events/2016/07/01/the-playfair-ai-summit-2016/
-[11]: /events/2016/07/13/data-science-summit/
+[10]: /company/events/2016/07/01/the-playfair-ai-summit-2016/
+[11]: /company/events/2016/07/13/data-science-summit/
 [12]: https://discourse.numenta.org/
 [13]: mailto:matt@numenta.org
 [14]: http://www.grokstream.com/

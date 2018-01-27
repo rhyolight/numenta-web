@@ -55,7 +55,7 @@ applications.  You may want to read Dean Takahashi of VentureBeat’s article
 
 On August 20, Subutai Ahmad, our VP of Research will present “Understanding
 Cortical Principles and Building Intelligent Machines” at the
-[Cognitive Computing Forum](/events/2014/08/20/cognitive-computing-forum/)
+[Cognitive Computing Forum](/company/events/2014/08/20/cognitive-computing-forum/)
 in San Jose. If you’re interested, register using the discount code NUMENTA.
 
 I’d like to add a welcome to Celeste Baranski, who has joined us as VP

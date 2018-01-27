@@ -29,7 +29,7 @@ paper in its journal, *Neural Computation*, over the past twelve
 months.  We’re happy to see these articles reaching a wide audience, and
 we are already working on adding to our portfolio. You can find these,
 along with our entire collection, on our website at
-[numenta.com/papers](/papers/).
+[numenta.com/papers](/resources/papers/).
 
 For those of you that look for us at different events, we have several
 scheduled over the next couple months.  We’ll be at [Smart
@@ -46,10 +46,10 @@ presenting at the [5th Neuro Inspired Computational Elements Workshop
 before joining Subutai to deliver an opening keynote for [Cornell
 Silicon Valley](http://www.alumni.cornell.edu/csv/csv17/schedule.cfm) on
 March 7.  To view all of our upcoming events, and presentations from
-past events, visit [numenta.com/events](/events/).
+past events, visit [numenta.com/events](/company/events/).
 
 In other news, we recently started a [Visiting Scholar
-Program](/careers-and-team/careers/visiting-scholar-program/),
+Program](/company/careers-and-team/careers/visiting-scholar-program/),
 where scientists can apply to spend some time with us for anywhere from
 a few days to a few months.  During their visit, they can join all of
 our research meetings while continuing to work on their normal

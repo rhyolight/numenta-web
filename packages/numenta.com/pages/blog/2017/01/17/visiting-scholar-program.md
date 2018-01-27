@@ -11,7 +11,7 @@ type: post
 ---
 
 We recently began a [*Visiting Scholar
-Program*](/careers-and-team/careers/visiting-scholar-program/),
+Program*](/company/careers-and-team/careers/visiting-scholar-program/),
 where researchers and professors can spend some time at our offices and
 learn about HTM in depth. Designed to promote collaboration,
 participants play an active part in our research meetings while
@@ -136,4 +136,4 @@ entropy*. The interplay of these two quantities is something I want to understan
 
 =================================================================================================
 
-*If you're interested in applying for the Visiting Scholar Program, [*click here*](/careers-and-team/careers/visiting-scholar-program/) to apply*.
+*If you're interested in applying for the Visiting Scholar Program, [*click here*](/company/careers-and-team/careers/visiting-scholar-program/) to apply*.

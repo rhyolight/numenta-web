@@ -9,7 +9,7 @@ A great place to start is [HTM School](/htm-school/),
 an educational YouTube series. The series is designed to be viewed in
 order, with each episode explaining fundamental concepts. HTM School is
 aimed at a general audience. If you’re looking for more technical
-detail, you can view [Numenta's technical papers](/papers/).
+detail, you can view [Numenta's technical papers](/resources/papers/).
 
 ## How can I join the HTM open source community?
 

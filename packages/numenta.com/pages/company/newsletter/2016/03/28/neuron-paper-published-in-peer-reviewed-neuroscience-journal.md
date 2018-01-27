@@ -68,7 +68,7 @@ through our open source project called [NuPIC](http://numenta.org), and explains
 the requirements for creating encoders for new types of data.
 
 Lastly, for any of our readers that will be attending
-[Strata + Hadoop World 2016 in San Jose, CA](/events/2016/03/29/strata-hadoop-world-big-data-conference-2016/),
+[Strata + Hadoop World 2016 in San Jose, CA](/company/events/2016/03/29/strata-hadoop-world-big-data-conference-2016/),
 please stop by and say Hi.  We will be at Booth 540, along with representatives
 from our partners [Cortical.io](http://cortical.io) and
 [Grok](http://grokstream.com), giving demos and overviews on the
