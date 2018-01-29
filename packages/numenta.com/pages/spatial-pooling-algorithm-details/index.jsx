@@ -12,6 +12,7 @@ import React from 'react'
 // import Anchor from 'numenta-web-shared-components/lib/Anchor'
 // import IconMarker from 'numenta-web-shared-components/lib/IconMarker'
 // import Image from 'numenta-web-shared-components/lib/Image'
+import Code from 'numenta-web-shared-components/lib/Code'
 import List from 'numenta-web-shared-components/lib/List'
 import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
@@ -238,6 +239,144 @@ const SpDetailsPage = (props, {config}) => {
               For subsequent inputs, we repeat from step 3.
             </ListItem>
           </List>
+
+          <SubTitle level={2}>
+            Spatial Pooling Pseudocode
+          </SubTitle>
+          <Paragraph>
+            This section contains the detailed pseudocode for the Spatial
+            Pooling function, broken down into four phases: initialization,
+            overlap computation, inhibition, and learning. After
+            initialization (phase 1), every iteration of the Spatial Pooling
+            algorithm’s compute routine goes through three distinct phases
+            (phase 2 through phase 4) that occur in sequence.
+          </Paragraph>
+          <Paragraph>
+            The various data structures and supporting routines used in the
+            code are defined in Table X at the end.
+          </Paragraph>
+
+          <SubTitle level={3}>
+            <Strong>
+              Phase 1 – Initialize Spatial Pooling algorithm parameters
+            </Strong>
+          </SubTitle>
+          <Paragraph>
+            Prior to receiving any inputs, the Spatial Pooling algorithm is
+            initialized by computing a list of initial potential synapses
+            for each column. This consists of a random set of inputs
+            selected from the input space (within a column’s inhibition
+            radius). Each input is represented by a synapse and assigned a
+            random permanence value. The random permanence values are chosen
+            with two criteria. First, the values are chosen to be in a small
+            range around connectedPerm, the minimum permanence value at
+            which a synapse is considered "connected". This enables
+            potential synapses to become connected (or disconnected) after a
+            small number of training iterations. Second, each column has a
+            natural center over the input region, and the permanence values
+            have a bias towards this center, so that they have higher values
+            near the center.
+          </Paragraph>
+
+          <SubTitle level={3}>
+            <Strong>
+              Phase 2 – Compute the overlap with the current input for each
+              column
+            </Strong>
+          </SubTitle>
+          <Paragraph>
+            Given an input vector, this phase calculates the overlap of each
+            column with that vector. The overlap for each column is simply the
+            number of connected synapses with active inputs, multiplied by the
+            column’s boost factor.
+          </Paragraph>
+          <Code>
+            for c in columns
+                overlap(c) = 0
+                    for s in connectedSynapses(c)
+                        overlap(c) = overlap(c) + input(t, s.sourceInput)
+                    overlap(c) = overlap(c) * boost(c)
+          </Code>
+
+          <SubTitle level={3}>
+            <Strong>
+              Phase 3 – Compute the winning columns after inhibition
+            </Strong>
+          </SubTitle>
+          <Paragraph>
+            The third phase calculates which columns remain as winners after
+            the inhibition step. localAreaDensity is a parameter that controls
+            the desired density of active columns within a local inhibition
+            area. Alternatively, the density can be controlled by parameter
+            numActiveColumnsPerInhArea. When using this method, the
+            localAreaDensity parameter must be less than 0. The inhibition
+            logic will ensure that at most numActiveColumnsPerInhArea columns
+            become active in each local inhibition area. For example, if
+            numActiveColumnsPerInhArea is 10, a column will be a winner if it
+            has a non-zero overlap and its overlap score ranks 10th or higher
+            among the columns within its inhibition radius.
+          </Paragraph>
+          <Code>
+            for c in columns
+                minLocalActivity = kthScore(neighbors(c), numActiveColumnsPerInhArea)
+                if overlap(c) > stimulusThreshold and
+                  overlap(c) ≥ minLocalActivity then 
+                    activeColumns(t).append(c)
+          </Code>
+
+          <SubTitle level={3}>
+            <Strong>
+              Phase 4 – Update synapse permanences and internal variables
+            </Strong>
+          </SubTitle>
+          <Paragraph>
+            This final phase performs learning, updating the permanence values
+            of all synapses as necessary, as well as the boost values and
+            inhibition radii. The main learning rule is implemented in lines
+            14-20. For winning columns, if a synapse is active, its permanence
+            value is incremented, otherwise it is decremented; permanence
+            values are constrained to be between 0 and 1. Notice that
+            permanence values on synapses of non-winning columns are not
+            modified.
+          </Paragraph>
+          <Paragraph>
+            Lines 21-27 implement boosting. There are two separate mechanisms
+            in place to help a column learn connections. If a column does not
+            win often enough (as measured by activeDutyCycle) compared to its
+            neighbors, its overall boost value is set to be greater than 1 
+            line 22-23). If a column is active more frequently than its
+            neighbors, its overall boost value is set to be less than one. The
+            boostFunction is an exponential function that depends on the
+            difference between the active duty cycle of a column and the
+            average active duty cycles of its neighbors. If a column's
+            connected synapses do not overlap well with any inputs often
+            enough (as measured by overlapDutyCycle), its permanence values
+            are boosted (line 24-27). Note that once learning is turned off,
+            boost(c) is frozen.
+          </Paragraph>
+          <Paragraph>
+            Finally, at the end of Phase 4 the inhibition radius is recomputed
+            (line 28).
+          </Paragraph>
+          <Code>
+            for c in activeColumns(t)
+                for s in potentialSynapses(c)
+                    if active(s) then
+                        s.permanence += synPermActiveInc
+                        s.permanence = min(1.0, s.permanence)
+                    else
+                        s.permanence -= synPermActiveInc
+                        s.permanence = min(0.0, s.permanence)
+            for c in columns:
+                activeDutyCycle(c) = updateActiveDutyCycle(c)
+                activeDutyCycleNeighbors = mean(activeDutyCycle(neighbors(c))
+                boost(c) = boostFunction(activeDutyCycle(c),
+                    activeDutyCycleNeighbors)
+                overlapDutyCycle(c) = updateOverlapDutyCycle(c)
+                if overlapDutyCycle(c) < minDutyCycle(c) then
+                    increasePermanences(c, 0.1*connectedPerm)
+            inhibitionRadius = averageReceptiveFieldSize()
+          </Code>
 
         </div>
       </div>
