@@ -3,16 +3,8 @@
 // Copyright © 2005—2018 Numenta <http://numenta.com>
 
 import Helmet from 'react-helmet'
-// import IconDownload from 'react-icons/lib/fa/cloud-download'
-// import IconGithub from 'react-icons/lib/fa/github'
-// import IconPdf from 'react-icons/lib/fa/file-pdf-o'
-// import IconSlideshare from 'react-icons/lib/fa/slideshare'
 import React from 'react'
 
-// import Anchor from 'numenta-web-shared-components/lib/Anchor'
-// import IconMarker from 'numenta-web-shared-components/lib/IconMarker'
-// import Image from 'numenta-web-shared-components/lib/Image'
-import Code from 'numenta-web-shared-components/lib/Code'
 import List from 'numenta-web-shared-components/lib/List'
 import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
@@ -23,8 +15,6 @@ import Table from 'numenta-web-shared-components/lib/Table'
 import TableBody from 'numenta-web-shared-components/lib/TableBody'
 import TableCell from 'numenta-web-shared-components/lib/TableCell'
 import TableRow from 'numenta-web-shared-components/lib/TableRow'
-// import TextLink from 'numenta-web-shared-components/lib/TextLink'
-// import Video from 'numenta-web-shared-components/lib/Video'
 import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import styles from './index.css'
@@ -290,13 +280,14 @@ const SpDetailsPage = (props, {config}) => {
             number of connected synapses with active inputs, multiplied by the
             column’s boost factor.
           </Paragraph>
-          <Code>
-            for c in columns
-                overlap(c) = 0
-                    for s in connectedSynapses(c)
-                        overlap(c) = overlap(c) + input(t, s.sourceInput)
-                    overlap(c) = overlap(c) * boost(c)
-          </Code>
+
+          <pre>{`
+for c in columns
+    overlap(c) = 0
+        for s in connectedSynapses(c)
+            overlap(c) = overlap(c) + input(t, s.sourceInput)
+        overlap(c) = overlap(c) * boost(c)
+          `}</pre>
 
           <SubTitle level={3}>
             <Strong>
@@ -316,14 +307,14 @@ const SpDetailsPage = (props, {config}) => {
             has a non-zero overlap and its overlap score ranks 10th or higher
             among the columns within its inhibition radius.
           </Paragraph>
-          <Code>
-            for c in columns
-                minLocalActivity = kthScore(neighbors(c),
-                  numActiveColumnsPerInhArea)
-                if overlap(c) > stimulusThreshold and
-                  overlap(c) ≥ minLocalActivity then
-                    activeColumns(t).append(c)
-          </Code>
+          <pre>{`
+for c in columns
+    minLocalActivity = kthScore(neighbors(c),
+      numActiveColumnsPerInhArea)
+    if overlap(c) > stimulusThreshold and
+      overlap(c) ≥ minLocalActivity then
+        activeColumns(t).append(c)
+          `}</pre>
 
           <SubTitle level={3}>
             <Strong>
@@ -360,27 +351,25 @@ const SpDetailsPage = (props, {config}) => {
             (line 28).
           </Paragraph>
 
-          {/* This Code block is not working, so I commented it out.
-          <Code>
-            for c in activeColumns(t)
-                for s in potentialSynapses(c)
-                    if active(s) then
-                        s.permanence += synPermActiveInc
-                        s.permanence = min(1.0, s.permanence)
-                    else
-                        s.permanence -= synPermActiveInc
-                        s.permanence = min(0.0, s.permanence)
-            for c in columns:
-                activeDutyCycle(c) = updateActiveDutyCycle(c)
-                activeDutyCycleNeighbors = mean(activeDutyCycle(neighbors(c))
-                boost(c) = boostFunction(activeDutyCycle(c),
-                    activeDutyCycleNeighbors)
-                overlapDutyCycle(c) = updateOverlapDutyCycle(c)
-                if overlapDutyCycle(c) < minDutyCycle(c) then
-                    increasePermanences(c, 0.1*connectedPerm)
-            inhibitionRadius = averageReceptiveFieldSize()
-          </Code>
-          */}
+          <pre>{`
+for c in activeColumns(t)
+    for s in potentialSynapses(c)
+        if active(s) then
+            s.permanence += synPermActiveInc
+            s.permanence = min(1.0, s.permanence)
+        else
+            s.permanence -= synPermActiveInc
+            s.permanence = min(0.0, s.permanence)
+for c in columns:
+    activeDutyCycle(c) = updateActiveDutyCycle(c)
+    activeDutyCycleNeighbors = mean(activeDutyCycle(neighbors(c))
+    boost(c) = boostFunction(activeDutyCycle(c),
+        activeDutyCycleNeighbors)
+    overlapDutyCycle(c) = updateOverlapDutyCycle(c)
+    if overlapDutyCycle(c) < minDutyCycle(c) then
+        increasePermanences(c, 0.1*connectedPerm)
+inhibitionRadius = averageReceptiveFieldSize()
+          `}</pre>
 
         </div>
       </div>
