@@ -3,7 +3,7 @@ title: Open Source Community
 brief: "If you are interested in seeing, developing or working with our technology, we invite you to participate at http://numenta.org/"
 ---
 
-[business]: /machine-intelligence-technology/business-strategy-and-ip//
+[business]: /machine-intelligence-technology/business-strategy-and-ip/
 [license]:  /assets/pdf/apps/licensing-guide.pdf
 [trial]:    http://numenta.org/licenses/trial/
 
