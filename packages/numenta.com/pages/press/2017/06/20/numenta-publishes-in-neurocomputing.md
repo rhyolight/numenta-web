@@ -70,7 +70,7 @@ Numenta researchers’ previously published peer-reviewed works published
 in the journals
 [***Frontiers***](http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full)
 and [***Neural
-Computation***](/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
+Computation***](/resources/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/),
 among others.
 
 **Numenta Article** ***What Intelligent Machines Need to Learn from the

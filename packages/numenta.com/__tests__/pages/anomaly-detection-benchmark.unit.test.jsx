@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import AnomalyPage from '../../pages/anomaly-detection-benchmark'
+import AnomalyPage from '../../pages/applications/anomaly-detection-benchmark'
 
 
 describe('Anomaly Detection Benchmark Page React component', () => {

@@ -69,12 +69,15 @@ export default class BlogPage extends React.Component {
   render() {
     const {route, config} = this.context
     const {pages} = route
+    const {links} = config
     const {year, position} = this.state
     const from = position || 0
     const to = from + ITEMS_PER_PAGE
 
-    const allPosts = pages.filter(({file}) => (
-      file.path.match(/^blog\/.*\.md/)))
+    // Filter all markdown files below the current location
+    const pathname = links.in.blog.substr(1)
+    const filter = new RegExp(`^${pathname}.*\\.md`)
+    const allPosts = pages.filter(({file}) => file.path.match(filter))
 
     // Collect categories and years from posts
     const years = new Set()

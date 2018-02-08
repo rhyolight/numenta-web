@@ -94,7 +94,7 @@ presence of such "cell assemblies" with two-photon imaging or other techniques.
 
 [1]: https://www.maxplanckflorida.org/
 [2]: https://www.med.unc.edu/neuroscience
-[3]: /papers/
+[3]: /resources/papers/
 [4]: https://www.youtube.com/watch?v=Y6DhBBWJrJU
 [5]: http://www.nature.com/neuro/journal/v19/n8/full/nn.4323.html
 [6]: http://www.nature.com/nature/journal/v503/n7474/full/nature12600.html

@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import OpensourcePage from '../../pages/open-source-community'
+import OpensourcePage from '../../pages/resources/open-source-community'
 
 
 describe('Open Source Community Page React component', () => {

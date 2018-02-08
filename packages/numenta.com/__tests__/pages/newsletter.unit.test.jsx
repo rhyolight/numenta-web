@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import NewsletterPage from '../../pages/newsletter'
+import NewsletterPage from '../../pages/company/newsletter'
 
 
 describe('Newsletter Page React component', () => {

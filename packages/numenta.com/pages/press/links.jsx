@@ -69,13 +69,14 @@ export default class PressLinksPage extends React.Component {
   render() {
     const {route, config} = this.context
     const {pages} = route
+    const {links} = config
     const {year, position} = this.state
     const from = position || 0
     const to = from + ITEMS_PER_PAGE
+    const pathname = links.in.press.substr(1)
+    const filter = new RegExp(`^${pathname}.*\\.md`)
     let posts
-
-    const allPosts = pages.filter(({file}) =>
-      file.path.match(/^press\/.*\.md/))
+    const allPosts = pages.filter(({file}) => file.path.match(filter))
 
     // Collect categories and years from posts
     const years = new Set()
@@ -97,27 +98,27 @@ export default class PressLinksPage extends React.Component {
       })
     }
     // Build list for the visible items
-    const links = posts.filter(({data}) => (data.type === 'link'))
-    const items = links.sort(sortDateDescend)
-                       .slice(from, to)
-                       .map(({data, file}) => (
-                         <ListItem key={file.stem}>
-                           <div className={styles.link}>
-                             <div>
-                               <TextLink to={data.link}>
-                                 {data.title}
-                               </TextLink>
-                             </div>
-                             <Subtle>
-                               {data.date}
-                               <Spacer />
-                               {data.author}
-                               <Spacer />
-                               {data.org}
-                             </Subtle>
-                           </div>
-                         </ListItem>
-                       ))
+    const presslinks = posts.filter(({data}) => (data.type === 'link'))
+    const items = presslinks.sort(sortDateDescend)
+                            .slice(from, to)
+                            .map(({data, file}) => (
+                              <ListItem key={file.stem}>
+                                <div className={styles.link}>
+                                  <div>
+                                    <TextLink to={data.link}>
+                                      {data.title}
+                                    </TextLink>
+                                  </div>
+                                  <Subtle>
+                                    {data.date}
+                                    <Spacer />
+                                    {data.author}
+                                    <Spacer />
+                                    {data.org}
+                                  </Subtle>
+                                </div>
+                              </ListItem>
+                            ))
 
     return (
       <article>
@@ -143,7 +144,7 @@ export default class PressLinksPage extends React.Component {
         <Pagination
           position={from}
           itemsPerPage={ITEMS_PER_PAGE}
-          total={links.length}
+          total={presslinks.length}
         />
       </article>
     )

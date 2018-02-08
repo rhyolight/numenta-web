@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import NabPage from '../../pages/numenta-anomaly-benchmark'
+import NabPage from '../../pages/applications/numenta-anomaly-benchmark'
 
 
 describe('Numenta Anomaly Benchmark (NAB) Page React component', () => {
