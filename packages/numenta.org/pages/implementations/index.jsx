@@ -54,11 +54,11 @@ const ImplementPage = (props, {config}) => {
               </TextLink> {' '}
               It contains pseudocode for both the {' '}
               {/* eslint-disable max-len */}
-              <TextLink to="https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Spatial-Pooler.pdf">
+              <TextLink to="http://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Spatial-Pooler.pdf">
                 spatial pooling
               </TextLink> and {' '}
               {/* eslint-disable max-len */}
-              <TextLink to="https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Temporal-Memory.pdf">
+              <TextLink to="http://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Temporal-Memory.pdf">
                 temporal memory
               </TextLink> algorithms (PDFs).
               {/* eslint-enable max-len */}
@@ -94,7 +94,7 @@ const ImplementPage = (props, {config}) => {
             </Paragraph>
             <Paragraph>
               This codebase exposes the {' '}
-              <TextLink to="http://nupic.docs.numenta.org/stable/quick-start/network.html">
+              <TextLink to="http://nupic.docs.numenta.org/1.0.3/api/network/index.html">
                 Network API,
               </TextLink> {' '}
               which is the primary low-level interface for creating HTM systems.
@@ -130,14 +130,14 @@ const ImplementPage = (props, {config}) => {
               In addition to providing Python bindings to the {' '}
               <Strong>nupic.core</Strong> {' '}
               {/* eslint-disable max-len */}
-              <TextLink to="http://nupic.docs.numenta.org/stable/quick-start/network.html">
+              <TextLink to="http://nupic.docs.numenta.org/1.0.3/api/network/index.html">
                 Network API,
               </TextLink> {' '}
               this codebase also includes a higher-level client API called the
               Online Prediction Framework (OPF), which is tuned towards
               experimentation with predictions, anomaly detection, and {' '}
               {/* eslint-disable max-len */}
-              <TextLink to="http://nupic.docs.numenta.org/stable/guides/swarming/index.html">
+              <TextLink to="http://nupic.docs.numenta.org/1.0.3/guides/swarming/index.html">
                 identifying optimal model parameters (swarming).
               </TextLink>
               {/* eslint-enable max-len */}

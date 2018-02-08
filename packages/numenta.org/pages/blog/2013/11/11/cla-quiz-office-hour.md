@@ -12,7 +12,7 @@ type: post
 
 Tomorrow at 4PM Pacific, we're holding an Office Hour for anyone interested to
 join in and talk about
-[Hierarchical Temporal Memory](/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/),
+[Hierarchical Temporal Memory](https://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/),
 as implemented by Numenta within [NuPIC](/). Jeff Hawkins and Numenta VP of
 Engineering Subutai Ahmad will be at this event to go through the _CLA Quiz_, a
 serious of challenging questions about how NuPIC algorithms work. These
@@ -60,7 +60,7 @@ invite you. If you can't make it, the video will be
 These questions a bit over your head? Looking for a primer on these technologies
 before you attend? Here are some resources:
 
-* [HTM White Paper](/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/)
+* [HTM White Paper](https://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/)
 * [Tutorial: CLA Basics](http://www.youtube.com/watch?v=z6r3ekreRzY)
 * [CLA Deep Dive](http://www.youtube.com/watch?v=QBs-2_wl_JM)
 

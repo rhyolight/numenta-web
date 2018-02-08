@@ -57,7 +57,7 @@ victorious!
 
 #### The OPF
 
-The [Online Prediction Framework](https://numenta.github.io/nupic/guides/opf.html)
+The [Online Prediction Framework](http://nupic.docs.numenta.org/1.0.3/guides/opf.html)
 ties together all the disparate parts of the CLA functions and HTM regions.
 To break it down, you're working with a data stream and its subsequent encoding.
 A data stream can be (and often is for pre-training) a CSV file, live streaming

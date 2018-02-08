@@ -11,7 +11,7 @@ type: post
 ---
 
 Those of you subscribing to the
-[nupic-theory](http://lists.numenta.org/mailman/listinfo/nupic-theory_lists.numenta.org)
+[nupic-theory](https://discourse.numenta.org/c/htm-theory)
 mailing list are aware that a [new research paper](http://arxiv.org/abs/1601.06116)
 describing a mathematical model for the spatial pooler (SP) has emerged. Many of
 us have asked “What is the math behind the SP?” or “How can I use the SP for
@@ -77,7 +77,7 @@ understanding and application of HTM. We are continuing this work by studying
 the temporal memory portion of HTM.
 
 As with all work, it is important to note any contributions. K. Gomez of
-[Seagate Technology](http://www.seagate.com/) [10] and J. Hawkins, S. Ahmad, and
+Seagate Technology and J. Hawkins, S. Ahmad, and
 Y. Cui of Numenta provided feedback on this work. Many members of the
 NanoComputing Research Lab (namely A. Hartung and C. Merkel) also provided
 critical feedback. Lastly, [RIT’s research computing](http://rc.rit.edu/)
