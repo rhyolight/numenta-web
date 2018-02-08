@@ -53,7 +53,7 @@ We give you the rights to translate these materials under the following license:
 [1]: https://www.gnu.org/licenses/agpl-3.0.en.html
 [2]: mailto:sales@numenta.com?subject=Commercial%20License%20Inquiry
 [3]: /licenses/trial/
-[4]: /assets/pdf/apps/licensing-guide.pdf
+[4]: https://numenta.com/assets/pdf/apps/licensing-guide.pdf
 [5]: /blog/2013/07/01/patent-position/
 [6]: https://discourse.numenta.org/categories
 [7]: /licenses/contrib/

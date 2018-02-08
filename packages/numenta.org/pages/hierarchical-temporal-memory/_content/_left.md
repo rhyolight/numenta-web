@@ -2,7 +2,7 @@
 ---
 
 [bami]:   https://numenta.com/biological-and-machine-intelligence/
-[book]:   /papers-videos-and-more/resources/on-intelligence/
+[book]:   https://numenta.com/papers-videos-and-more/resources/on-intelligence/
 [forum]:  https://discourse.numenta.org/categories
 [school]: /htm-school/
 
