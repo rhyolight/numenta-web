@@ -16,8 +16,8 @@ company = 'Numenta'
 
 [links]
   [links.out]  # external links
-    papers = 'https://numenta.com/papers/'
-    bami = 'https://numenta.com/biological-and-machine-intelligence/'
+    papers = 'https://numenta.com/resources/papers/'
+    bami = 'https://numenta.com/resources/biological-and-machine-intelligence/'
     com = 'https://numenta.com/'
     cortical = 'https://cortical.io/'
     github = 'https://github.com/numenta'
@@ -25,14 +25,12 @@ company = 'Numenta'
     grok = 'https://grokstream.com/'
     forum = 'https://discourse.numenta.org/categories'
     meetup = 'https://www.meetup.com/Numenta-Platform-for-Intelligent-Computing-Events/'
-    onintelligence = 'https://numenta.com/papers-videos-and-more/resources/on-intelligence/'
-    youtube = 'https://www.youtube.com/user/OfficialNumenta'
-    latestSchool = 'https://www.youtube.com/watch?v=mPFx9yuV1Os'
-    latestSchoolThumb = 'https://i3.ytimg.com/vi/mPFx9yuV1Os/mqdefault.jpg'
-    spLinks = 'https://numenta.com/spatial-pooling-algorithm/'
-    tmLinks = 'https://numenta.com/temporal-memory-algorithm/'
-    columnPaper = 'https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/'
-    mitColumnTalk = 'https://numenta.com/events/2017/12/15/mit-center-for-brains/'
+    onintelligence = 'https://numenta.com/resources/papers-videos-and-more/on-intelligence/'
+    youtube = 'https://www.youtube.com/HTMSchool'
+    latestSchool = 'https://www.youtube.com/watch?v=1OhY_u3NjdM'
+    latestSchoolThumb = 'https://i3.ytimg.com/vi/1OhY_u3NjdM/mqdefault.jpg'
+    spLinks = 'https://numenta.com/resources/biological-and-machine-intelligence/spatial-pooling-algorithm/'
+    tmLinks = 'https://numenta.com/resources/biological-and-machine-intelligence/temporal-memory-algorithm/'
 
   [links.in]  # internal paths
     # main/home pseudo-single page

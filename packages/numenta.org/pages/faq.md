@@ -9,7 +9,7 @@ A great place to start is [HTM School](/htm-school/),
 an educational YouTube series. The series is designed to be viewed in
 order, with each episode explaining fundamental concepts. HTM School is
 aimed at a general audience. If you’re looking for more technical
-detail, you can view [Numenta's technical papers](/resources/papers/).
+detail, you can view [Numenta's technical papers](https://numenta.com/resources/papers/).
 
 ## How can I join the HTM open source community?
 
@@ -18,7 +18,7 @@ There are many ways to get involved, but the first step is to join the
 you can introduce yourself, ask questions, find information and connect
 with others interested in and working on HTM. You can also join our
 [Meetup Group](https://www.meetup.com/Numenta-Platform-for-Intelligent-Computing-Events/)
-and subscribe to our [YouTube channel.](https://www.youtube.com/user/OfficialNumenta)
+and subscribe to our [YouTube channel.](https://www.youtube.com/c/NumentaOrg)
 
 ## Where can I find the code?
 
@@ -43,7 +43,7 @@ an [AGPL Version 3](https://www.gnu.org/licenses/agpl-3.0.en.html)
 license. For those who are unable to use AGPLv3, we offer a
 [trial license](/licenses/trial/), and for those interested
 in distributing the technology, we offer
-[commercial licenses](/assets/pdf/apps/licensing-guide.pdf).
+[commercial licenses](https://numenta.com/assets/pdf/apps/licensing-guide.pdf).
 You can read more about our licenses [here](/licenses/).
 
 ## Is there a specific application for HTM?

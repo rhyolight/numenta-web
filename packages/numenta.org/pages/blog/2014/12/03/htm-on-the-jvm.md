@@ -17,9 +17,7 @@ a fully usable version of NuPIC (minus swarming and OPF functionality ➟ _comin
 soon!_) is now available in **Java**.
 
 This port is 100% functionally equivalent to
-[NuPIC's Network API](https://numenta.github.io/nupic/guides/network.html).
-
-[See the **complete javadocs** here!](http://numenta.org/docs/htm.java/)
+[NuPIC's Network API](http://nupic.docs.numenta.org/1.0.3/api/network/index.html).
 
 Bringing NuPIC to Java is an important milestone in NuPIC technology due to the
 size and significance of Java's user base. Because Java is the world's most used
