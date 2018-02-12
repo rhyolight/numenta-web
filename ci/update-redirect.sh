@@ -50,7 +50,7 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
   if [[ ${COUNT} -gt 0 ]]; then
     echo ","
   fi
-  ((COUNT++))
+  COUNT=${COUNT}+1
   echo "{\"Condition\": {\"KeyPrefixEquals\": \"${from_url}\"},"
   echo "\"Redirect\": {"
   if [[ ! ${to_url} =~ https?://.*$ ]]; then
