@@ -37,8 +37,7 @@ As we continue to progress our understanding of how the brain works, we remain e
 ### Footnotes and Citations
 
 <span id="1" class="anchor"></span>
-**[1]** Awater, H., Kerlin, JR., Evans, KK. and Tong, F. (2005). Cortical representation of space around the blind spot. Journal of neurophysiology NCBI doi:10.1152/jn.01330.2004.  
-  https://www.ncbi.nlm.nih.gov/pubmed/16033933
+**[1]** Awater, H., Kerlin, JR., Evans, KK. and Tong, F. (2005). Cortical representation of space around the blind spot. Journal of neurophysiology NCBI doi:10.1152/jn.01330.2004. https://www.ncbi.nlm.nih.gov/pubmed/16033933
 
 <span id="2" class="anchor"></span>
 **[2]** Pessoa, L., Thompson, E., Noë, A. (1998). Finding out about filling-in: a guide to perceptual completion for visual science and the philosophy of perception. Journal of Behavioral Brain Science NCBI. https://www.ncbi.nlm.nih.gov/pubmed/10191878
