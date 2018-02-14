@@ -14,7 +14,7 @@ type: post
 
 REDWOOD CITY, CA –November 10, 2015— [Numenta](/), Inc., a leader in machine
 intelligence, today launched the
-[Numenta Anomaly Benchmark (NAB)](/numenta-anomaly-benchmark/), an
+[Numenta Anomaly Benchmark (NAB)](/applications/numenta-anomaly-benchmark/), an
 open-source benchmark and tool designed to help data researchers evaluate the
 effectiveness of algorithms for anomaly detection in streaming,
 real-time applications.

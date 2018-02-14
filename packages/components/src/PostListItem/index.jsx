@@ -25,15 +25,14 @@ import styles from './index.css'
  * Post Item Row - React view component for Post List.
  */
 const PostListItem = ({post}, {config}) => {
-  const {data, file, path} = post
+  const {data, path} = post
   const datetime = moment(data.date, config.moments.post)
   const occur = datetime.format(config.moments.human)
   const target = (data.type === 'link') ? data.link : path
-  const key = file.dir.split('/')[0]
   let brief = (<Paragraph>{data.brief}...</Paragraph>)
 
   // modifications for: events
-  if (key === 'events') {
+  if ('event' in data) {
     const {when, where} = data.event
     const {desc, city, state, country} = where
     let location = city

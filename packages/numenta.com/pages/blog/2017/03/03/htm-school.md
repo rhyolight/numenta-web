@@ -13,7 +13,7 @@ type: post
 Sitting at the intersection of neuroscience and computer science, we
 encounter interest in our work from a variety of people. For the
 scientific and academic community, we have a growing list of
-peer-reviewed [papers](/papers/). The machine
+peer-reviewed [papers](/resources/papers/). The machine
 learning and data science enthusiasts can dive into our open source code
 and experiment with it firsthand. But what about those of us with no
 exposure to neuroscience – those of us who are neither mathematicians

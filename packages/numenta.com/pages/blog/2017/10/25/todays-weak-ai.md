@@ -70,7 +70,7 @@ techniques to process troves of data coming from advanced brain imaging machines
 # Our Approach to Biological AI <br/>
 All that being said, we gave up ANN and started from scratch studying neurons in the cortex a long time ago. Our work is completely biologically-constrained, as true to the neuroscience as we can make
 it, and we keep discovering cool things. In my talk at ODSC, I go through the complete biological theory of intelligence we call Hierarchical Temporal Memory (HTM). You can also learn about this
-technology by reading our [papers](/papers/) or watching educational videos in [HTM School](https://www.youtube.com/HTMSchool).
+technology by reading our [papers](/resources/papers/) or watching educational videos in [HTM School](https://www.youtube.com/HTMSchool).
 
 
 ©ODSC2017

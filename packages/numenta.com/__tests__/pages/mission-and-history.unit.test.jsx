@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import MissionPage from '../../pages/mission-and-history'
+import MissionPage from '../../pages/company/mission-and-history'
 
 
 describe('Mission and History Page React component', () => {

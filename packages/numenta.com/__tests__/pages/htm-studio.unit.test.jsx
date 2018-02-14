@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import HtmStudioPage from '../../pages/htm-studio'
+import HtmStudioPage from '../../pages/applications/htm-studio'
 
 
 describe('HTM Studio Page React component', () => {

@@ -97,7 +97,7 @@ const SectionPartners = (props, {config}) => {
               </TextLink>
             </ListItem>
             <ListItem>
-              <TextLink to="/newsletter/2015/05/14/announcing-relationship-with-cortical-io/">
+              <TextLink to="/company/newsletter/2015/05/14/announcing-relationship-with-cortical-io/">
                 Newsletter
               </TextLink>
             </ListItem>
@@ -140,7 +140,7 @@ const SectionPartners = (props, {config}) => {
               </TextLink>
             </ListItem>
             <ListItem>
-              <TextLink to="/newsletter/2015/09/01/partnership-between-numenta-and-avik-partners-on-grok-for-it-analytics/">
+              <TextLink to="/company/newsletter/2015/09/01/partnership-between-numenta-and-avik-partners-on-grok-for-it-analytics/">
                 Newsletter
               </TextLink>
             </ListItem>

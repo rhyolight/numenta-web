@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import EventsPage from '../../pages/events'
+import EventsPage from '../../pages/company/events'
 
 
 describe('Events Page React component', () => {
