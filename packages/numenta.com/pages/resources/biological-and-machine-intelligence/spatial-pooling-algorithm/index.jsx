@@ -11,7 +11,6 @@ import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import Strong from 'numenta-web-shared-components/lib/Strong'
 import Section from 'numenta-web-shared-components/lib/Section'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
-import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Table from 'numenta-web-shared-components/lib/Table'
 import TableBody from 'numenta-web-shared-components/lib/TableBody'
 import TableCell from 'numenta-web-shared-components/lib/TableCell'
@@ -21,7 +20,7 @@ import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import styles from './index.css'
 import Metatags from './_metatags.md'
 
-const title = 'Spatial Pooler Algorithm Details'
+const title = 'Spatial Pooling Algorithm Details'
 
 
 /**
@@ -34,128 +33,6 @@ const SpDetailsPage = (props, {config}) => {
     <Helmet title={title}>
       {getMetadataTags(Metatags, links)}
     </Helmet>
-
-    <Section headline={true} open={true}>
-      <div className={styles.columns}>
-        <div className={styles.content}>
-
-          <SubTitle level={2}>
-            Spatial Pooler Resources
-          </SubTitle>
-          <Paragraph>
-            The neocortex is composed of a hierarchy of regions. The
-            feedforward input to each region consists of millions of nerve
-            axons which come from sensory organs and other regions. Most
-            regions in the neocortex receive input from multiple sources; it
-            is not uncommon for a region to receive input from six or more
-            other regions. These inputs are generally mixed together, so a
-            region doesn’t “know” where the inputs originated or what they
-            represent. Confusing the picture, the number of input axons
-            doesn’t correlate closely with the size of the region. How can a
-            region process inputs from many different sources without any
-            prior knowledge of what these inputs represent, how many input
-            bits there will be, and what spatial patterns may exist in the
-            input? Spatial Pooling, a learning mechanism fundamental to both
-            the neocortex and Hierarchical Temporal Memory (HTM), is the
-            answer to this problem. While we are working on a standalone
-            chapter for BAMI that will detail the Spatial Pooling algorithm,
-            for now you can explore the following resources to learn more:
-          </Paragraph>
-
-          <List marker="disc">
-
-            <ListItem>
-              <Strong>
-                {' '}
-                <TextLink to={links.out.htmschool.channel}>
-                  HTM School
-                </TextLink> {' '}
-                 episodes about Spatial Pooling
-              </Strong>
-              <Paragraph>
-                HTM School is a video tutorial series that explains concepts
-                of HTM with an emphasis on visualizations and examples.
-                These episodes talk about Spatial Pooling and related
-                functions.
-              </Paragraph>
-              <List marker="disc">
-                <ListItem>
-                  {' '}
-                  <TextLink to={links.out.htmschool.episode7}>
-                    Spatial Pooling: Input Space & Connections (Episode 7)
-                  </TextLink> {' '}
-                </ListItem>
-                <ListItem>
-                  {' '}
-                  <TextLink to={links.out.htmschool.episode8}>
-                    Spatial Pooling: Learning (Episode 8)
-                  </TextLink> {' '}
-                </ListItem>
-                <ListItem>
-                  {' '}
-                  <TextLink to={links.out.htmschool.episode9}>
-                    Boosting (Episode 9)
-                  </TextLink> {' '}
-                </ListItem>
-              </List>
-            </ListItem>
-
-            <ListItem>
-              <Strong>
-                Peer-reviewed paper
-              </Strong>
-              <Paragraph>
-                This document, authored by Yuwei Cui, Subutai Ahmad and Jeff
-                Hawkins, is a pre-print of a paper submitted to a peer-reviewed
-                journal. The paper contains a detailed description of the
-                Spatial Pooling algorithm, including mathematical derivations
-                and experimental results.
-              </Paragraph>
-              <List marker="disc">
-                <ListItem>
-                  {' '}
-                  <TextLink to={links.in.sppaper}>
-                    The HTM Spatial Pooler: a neocortical algorithm for online
-                    sparse distributed coding
-                  </TextLink> {' '}
-                </ListItem>
-              </List>
-            </ListItem>
-
-            <ListItem>
-              <Strong>
-                Spatial Pooling presentation
-              </Strong>
-              <Paragraph>
-                In this recorded presentation, Yuwei Cui goes into details of
-                the Spatial Pooling algorithm, following the outline of the
-                peer-reviewed paper previously mentioned. Viewing this
-                presentation in conjunction with reading the paper is
-                recommended. A link to the slide deck used in the presentation
-                is also given.
-              </Paragraph>
-              <List marker="disc">
-                <ListItem>
-                  {' '}
-                  <TextLink to={links.out.htmschool.sptalk}>
-                    HTM Spatial Pooler Presentation
-                  </TextLink> {' '}
-                </ListItem>
-                <ListItem>
-                  {' '}
-                  <TextLink to={links.in.slides.sptalk}>
-                    HTM Spatial Pooler Slide Deck
-                  </TextLink> {' '}
-                </ListItem>
-              </List>
-            </ListItem>
-
-          </List>
-
-        </div>
-      </div>
-
-    </Section>
 
     <Section headline={true} open={true} title={title}>
       <div className={styles.columns}>
