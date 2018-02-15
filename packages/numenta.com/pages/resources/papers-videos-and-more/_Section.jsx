@@ -171,7 +171,7 @@ const SectionPapers = (props, {config, route}) => {
             </ListItem>
             <ListItem>
               {/* eslint-disable max-len */}
-              <TextLink to={links.out.htmschool}>
+              <TextLink to={links.out.htmschool.channel}>
                 HTM School
               </TextLink>
               {/* eslint-enable max-len */}
