@@ -39,6 +39,57 @@ const SpDetailsPage = (props, {config}) => {
         <div className={styles.content}>
 
           <SubTitle level={2}>
+            Spatial Pooler Resources
+          </SubTitle>
+          <Paragraph>
+                The neocortex is composed of a hierarchy of regions. The
+                feedforward input to each region consists of millions of nerve
+                axons which come from sensory organs and other regions. Most
+                regions in the neocortex receive input from multiple sources; it
+                is not uncommon for a region to receive input from six or more
+                other regions. These inputs are generally mixed together, so a
+                region doesn’t “know” where the inputs originated or what they
+                represent. Confusing the picture, the number of input axons
+                doesn’t correlate closely with the size of the region. How can a
+                region process inputs from many different sources without any
+                prior knowledge of what these inputs represent, how many input
+                bits there will be, and what spatial patterns may exist in the
+                input? Spatial Pooling, a learning mechanism fundamental to both
+                the neocortex and Hierarchical Temporal Memory (HTM), is the
+                answer to this problem. While we are working on a standalone
+                chapter for BAMI that will detail the Spatial Pooling algorithm,
+                for now you can explore the following resources to learn more:
+          </Paragraph>
+
+          <List marker="disc">
+            <ListItem>
+              <Strong>
+                  HTM School episodes about Spatial Pooling
+              </Strong>
+              <Paragraph>
+                    HTM School is a video tutorial series that explains concepts
+                    of HTM with an emphasis on visualizations and examples.
+                    These episodes talk about Spatial Pooling and related
+                    functions.
+              </Paragraph>
+              <List marker="disc">
+                <ListItem>
+                    Spatial Pooling: Input Space & Connections (Episode 7)
+                    https://www.youtube.com/watch?v=R5UoFNtv5AU
+                </ListItem>
+                <ListItem>
+                    Spatial Pooling: Learning (Episode 8)
+                    https://www.youtube.com/watch?v=rHvjykCIrZM
+                </ListItem>
+                <ListItem>
+                    Boosting (Episode 9)
+                    https://www.youtube.com/watch?v=MSwoNAODrgk
+                </ListItem>
+              </List>
+            </ListItem>
+          </List>
+
+          <SubTitle level={2}>
             Chapter Revision History
           </SubTitle>
           <Paragraph>
