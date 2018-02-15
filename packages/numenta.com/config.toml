@@ -39,14 +39,20 @@ logo = "/assets/img/logo.png"
     cortical = 'http://cortical.io'
     grok = 'http://grokstream.com'
     # Org
-    htmschool = 'https://numenta.org/htm-school'
     org = 'http://numenta.org'
     # social
     facebook = 'https://www.facebook.com/OfficialNumenta'
     linkedin = 'https://www.linkedin.com/company/numenta'
     map = 'http://maps.google.com/maps?q=791+Middlefield+Road,+Redwood+City,+CA+94063'
     twitter = 'https://twitter.com/numenta'
-    youtube = 'https://www.youtube.com/OfficialNumenta'
+    # YouTube
+    [links.out.htmschool]
+      channel = 'https://www.youtube.com/OfficialNumenta'
+      sptalk = 'https://www.youtube.com/watch?v=1r6GxDsEdd0'
+      episode7 = 'https://www.youtube.com/watch?v=R5UoFNtv5AU'
+      episode8 = 'https://www.youtube.com/watch?v=rHvjykCIrZM'
+      episode9 = 'https://www.youtube.com/watch?v=MSwoNAODrgk'
+
 
   [links.in]  # internal paths
     # main/home pseudo-single page
@@ -66,7 +72,8 @@ logo = "/assets/img/logo.png"
     contact = '/contact/'
     # other site pages
     bami = '/resources/biological-and-machine-intelligence/'
-    sp = '/resources/biological-and-machine-intelligence/spatial-pooling-algorithm/'
+    spweb = '/resources/biological-and-machine-intelligence/spatial-pooling-algorithm/'
+    sppdf = '/assets/pdf/spatial-pooling-algorithm/Spatial-Pooling-Algorithm-Details.pdf'
     tm = '/resources/biological-and-machine-intelligence/temporal-memory-algorithm/'
     blog = '/blog/'
     events = '/company/events/'
@@ -74,6 +81,7 @@ logo = "/assets/img/logo.png"
     nab = '/applications/numenta-anomaly-benchmark/'
     newsletter = '/company/newsletter/'
     papers = '/resources/papers/'
+    sppaper = '/resources/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/'
     papersvideos = '/resources/papers-videos-and-more/'
     press = '/press/'
     pressreleases = '/press/releases/'
@@ -83,6 +91,8 @@ logo = "/assets/img/logo.png"
     terms = '/legal/terms/'
     license = '/assets/pdf/apps/licensing-guide.pdf'
     htmforstocks = '/assets/pdf/apps/htmforstocks.pdf'
+    [links.in.slides]
+      sptalk = '/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf'
 
 [moments]
   post = 'YYYY/MM/DD'
