@@ -38,7 +38,7 @@ achievement in 2015:
 |	AI Application of the Year | NuPIC |
 |	AI Startup of the Year | Cortical.io |
 
-Our [most recent newsletter](/newsletter/2016/01/07/year-in-review-numenta-2015/)
+Our [most recent newsletter](/company/newsletter/2016/01/07/year-in-review-numenta-2015/)
 shared what we thought to be highlights of our achievements in 2015.
 
 Cortical.io was recognized for developing a new approach for handling Big Text

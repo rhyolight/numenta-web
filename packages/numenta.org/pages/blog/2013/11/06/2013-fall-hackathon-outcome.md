@@ -40,7 +40,7 @@ apply it.
 
 Here's what some attendees had to say on our
 [Meetup page](http://www.meetup.com/numenta/events/136809782/) and
-[mailing list](http://lists.numenta.org/mailman/listinfo/nupic_lists.numenta.org)
+[forum](https://discourse.numenta.org/)
 about the hackathon:
 
 > *"It was easily the best hackathon I have attended this year."*
@@ -218,7 +218,7 @@ and "cows eat grass". After some training, Subutai asks NuPIC,
 Find out the answer by watching the video!
 
 * Video: http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start=7084
-* Code: https://github.com/subutai/nupic_nlp
+* Code: https://github.com/numenta/nupic.nlp-examples
 * By: Subutai Ahmad
 
 

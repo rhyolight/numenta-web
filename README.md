@@ -444,7 +444,7 @@ example, see the local file `.eslintrc.json`).
   [typographer shortcuts](https://github.com/jonschlinkert/remarkable#typographer)
 * Internal flat markdown auto-links (`https://numenta.com/htm-studio/`) may break
   on staging servers, use markdown style instead:
-  `[https://numenta.com/htm-studio/](/htm-studio/)`
+  `[https://numenta.com/htm-studio/](/applications/htm-studio/)`
 * Search Engine Optimization (SEO) notes:
   * Make sure to follow the **Link** and **URL Format** notes further below.
 * Optimize all images before committing to the repository.
@@ -484,7 +484,7 @@ example, see the local file `.eslintrc.json`).
 | External | Anchor            | [View][link5]  | [View][link11] |
 | External | Protocol          | [View][link6]  | [View][link12] |
 
-[link1]: https://github.com/numenta/numenta-web/blob/master/numenta.com/pages/open-source-community/_Section.jsx#L58
+[link1]: https://github.com/numenta/numenta-web/blob/master/numenta.com/pages/resources/open-source-community/_Section.jsx#L58
 [link2]: https://github.com/numenta/numenta-web/blob/master/numenta.com/pages/applications/_Section.jsx#L178
 [link3]: https://github.com/numenta/numenta-web/blob/master/numenta.com/pages/applications/_Section.jsx#L248
 [link4]: https://github.com/numenta/numenta-web/blob/master/numenta.com/pages/applications/_Section.jsx#L207

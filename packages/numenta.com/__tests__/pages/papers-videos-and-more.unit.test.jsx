@@ -4,7 +4,7 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import PapersMorePage from '../../pages/papers-videos-and-more'
+import PapersMorePage from '../../pages/resources/papers-videos-and-more'
 
 
 describe('Papers Videos and More Page React component', () => {

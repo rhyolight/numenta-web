@@ -130,11 +130,11 @@ that you’ll join us in our progress. Thanks for reading about research at
 [Numenta][14].
 
 [1]: /machine-intelligence-technology/
-[2]: /numenta-anomaly-benchmark/
+[2]: /applications/numenta-anomaly-benchmark/
 [3]: https://github.com/numenta/nupic
 [4]: /applications/
-[5]: /htm-studio/
-[6]: /papers/
+[5]: /applications/htm-studio/
+[6]: /resources/papers/
 [7]: https://en.wikipedia.org/wiki/Preprint
 [8]: https://arxiv.org/help/general
 [9]: http://biorxiv.org/about-biorxiv

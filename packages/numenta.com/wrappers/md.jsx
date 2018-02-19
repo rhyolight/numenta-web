@@ -7,7 +7,6 @@ import Helmet from 'react-helmet'
 import IconArrow from 'react-icons/lib/fa/caret-left'
 import moment from 'moment'
 import React from 'react'
-import root from 'window-or-global'
 import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import Avatar from 'numenta-web-shared-components/lib/Avatar'
@@ -34,14 +33,6 @@ import {
 
 import styles from './md.css'
 
-const postTypes = [
-  'blog', 'careers', 'events', 'newsletter', 'press', 'resources', 'papers',
-]
-const postsWithBackButton = [
-  'careers', 'resources',
-]
-
-
 /**
  * Gatsby Markdown Wrapper - React view component.
  */
@@ -60,20 +51,31 @@ class MarkdownWrapper extends React.Component {
   }
 
   componentDidMount() {
-    const {location} = root
     const {route} = this.props
     const {config} = this.context
-    const {data, file} = route.page
-    const key = file.dir.split('/')[0]
+    const {links} = config
+    const {data, path} = route.page
+    const url = Object.values(links.in)
+                      .filter((p) => p.length > 1 && path.startsWith(p))[0]
+
 
     // add clientside disqus comments below posts
-    if (postTypes.indexOf(key) > -1) {
+    const postTypes = [
+      links.in.blog,
+      links.in.careers,
+      links.in.events,
+      links.in.newsletter,
+      links.in.press,
+      links.in.resources,
+      links.in.papers,
+    ]
+    if (postTypes.indexOf(url) > -1) {
       this.setState({
         comments: (
           <Disqus
             shortname={config.company.toLowerCase()}
             title={data.title}
-            url={location.href}
+            url={config.baseUrl}
           />
         ),
       })
@@ -83,30 +85,40 @@ class MarkdownWrapper extends React.Component {
   render() {
     const {route} = this.props
     const {config} = this.context
+    const {links} = config
     const {comments} = this.state
-    const {data, file, path} = route.page
+    const {data, path} = route.page
     const datetime = moment(data.date, config.moments.post)
     const occur = datetime.format(config.moments.human)
-    let key = file.dir.split('/')[0]
+    let url = Object.values(links.in)
+                      .filter((p) => p.length > 1 && path.startsWith(p))[0]
     let author, back, event, media, header, parent, breadcrumb
     let brief = data.brief
 
-    if (key === 'spatial-pooling-algorithm' ||
-        key === 'temporal-memory-algorithm') {
-      // FIXME Waiting for new folder structure
-      key = 'biological-and-machine-intelligence'
-    }
-    if (key === 'htm-studio') {
+    // Fix breadcrumb text
+    if (url === links.in.htmstudio) {
       parent = 'HTM Studio'
     }
-    else if (key === 'biological-and-machine-intelligence') {
+    else if (url === links.in.bami) {
       parent = 'BAMI'
     }
-    else {
-      parent = startCase(key)
+    else if (url) {
+      const labels = url.split('/')
+      let label = labels.pop()
+      while (label.length === 0) {
+        label = labels.pop()
+      }
+      parent = startCase(label)
     }
-    const url = `/${key}/`
-    if (key !== 'legal') {
+    else {
+      parent = 'Home'
+      url = '/'
+    }
+    const legal = [
+      links.in.terms,
+      links.in.privacy,
+    ]
+    if (legal.indexOf(url) === -1) {
       // FIXME Waiting for new folder structure
       breadcrumb = (
         <span>
@@ -117,7 +129,10 @@ class MarkdownWrapper extends React.Component {
       )
     }
 
-    if (postsWithBackButton.indexOf(key) > -1) {
+    const postsWithBackButton = [
+      links.in.careers, links.in.resources,
+    ]
+    if (postsWithBackButton.indexOf(url) > -1) {
       back = (
         <div className={styles.back}>
           <IconMarker icon={<IconArrow />}>
@@ -140,7 +155,7 @@ class MarkdownWrapper extends React.Component {
         </div>
       )
 
-      if (key === 'events') {
+      if ('events' in data) {
         const {what, when, where, who, why} = data.event
         const {desc, city, state, country, web} = where
         const details = [(

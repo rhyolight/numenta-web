@@ -18,9 +18,13 @@ const title = 'Blog'
 /**
  * Blog Post List index page - React view component.
  */
-const BlogPage = (props, {route}) => {
+const BlogPage = (props, {route, config}) => {
   const {pages} = route
-  const posts = pages.filter(({file}) => (file.path.match(/^blog\/.*\.md/)))
+  const {links} = config
+  // Filter all markdown files below current location
+  const pathname = links.in.blog.substr(1)
+  const filter = new RegExp(`^${pathname}.*\\.md`)
+  const posts = pages.filter(({file}) => file.path.match(filter))
   const items = posts.sort(sortDateDescend).map((post) => (
     <ListItem key={post.file.stem}>
       <PostListRow post={post} />
@@ -41,6 +45,7 @@ const BlogPage = (props, {route}) => {
 
 BlogPage.contextTypes = {
   route: React.PropTypes.object,
+  config: React.PropTypes.object,
 }
 
 export default BlogPage

@@ -26,7 +26,9 @@ import styles from './index.css'
 const PressPage = (props, {route, config}) => {
   const {pages} = route
   const {links} = config
-  const posts = pages.filter(({file}) => (file.path.match(/^press\/.*\.md/)))
+  const pathname = links.in.press.substr(1)
+  const filter = new RegExp(`^${pathname}.*\\.md`)
+  const posts = pages.filter(({file}) => file.path.match(filter))
   const pressLinks = posts
     .filter(({data}) => (data.type === 'link'))
     .sort(sortDateDescend)

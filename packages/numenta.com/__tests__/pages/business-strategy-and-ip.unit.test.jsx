@@ -4,7 +4,8 @@ import stubContext from 'react-stub-context'
 
 import context from '__tests__/__mocks__/reactContextMock'
 
-import BusinessPage from '../../pages/business-strategy-and-ip'
+import BusinessPage
+  from '../../pages/machine-intelligence-technology/business-strategy-and-ip'
 
 
 describe('Business Strategy and IP Page React component', () => {

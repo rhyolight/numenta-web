@@ -100,7 +100,7 @@ const SectionCommunity = (props, {config}) => {
               YouTube channel.
             </TextLink> {' '}
             You may also be interested in Numenta's {' '}
-            <TextLink to="https://numenta.com/events/">
+            <TextLink to="https://numenta.com/company/events/">
               company events and archive.
             </TextLink>
           </Paragraph>
