@@ -18,7 +18,7 @@ event:
 image: ../images/johns-hopkins-logo.jpg
 org: Co-Founder
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
-title: "Howard Hughes Medical Institute: Janelia Research Campus -  Neurotheory Seminar Series"
+title: "The APL Colloquium"
 type: post
 ---
 
