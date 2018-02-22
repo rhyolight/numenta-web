@@ -154,7 +154,7 @@ class MarkdownWrapper extends React.Component {
         </div>
       )
 
-      if ('events' in data) {
+      if ('event' in data) {
         const {what, when, where, who, why} = data.event
         const {desc, city, state, country, web} = where
         const details = [(
