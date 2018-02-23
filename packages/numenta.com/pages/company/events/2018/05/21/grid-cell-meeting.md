@@ -3,7 +3,7 @@ author: Marcus Lewis
 brief:
 date: 2018/05/21
 event:
-  what:
+  what: Using Grid Cells for Coordinate Transforms
   when:
     begin: 2018/05/21
     end: 2018/05/22
@@ -22,6 +22,6 @@ title: "Grid Cell Meeting"
 type: post
 ---
 
-## About:
+## Abstract:
 
-Entorhinal grid cells express spatially regular firing patterns, thought to support self-localisation and navigation. Recent advances suggest grid representations may generalise to non-spatial domains; providing a mechanism for organising conceptual knowledge. Via talks, posters and data blitz sessions this two day meeting will bring together experimenters and theoreticians to discuss the latest developments in the grid cell field relating to both spatial and non-spatial coding.
+The cortex and hippocampus have multiple cell populations that track locations. Many of these represent different reference frames, but it’s not clear how these populations interact and work together. In this work, we show how grid cells can compute flexible coordinate transformations between two maps. Suppose a pair of grid cell populations track two locations: the animal's location in the environment, and its location relative to a source of food. A third cell population could detect the spatial relationship -- the "transform" -- between these two maps. Recalling this transform, the animal could detect its location relative to food by recognizing its location in the environment. This "transform" represents a 1-to-1 mapping between the firing fields of individual grid cells of the two populations. These mappings exist for all translations and for many rotations, so grid cells can perform any translational transform and many transforms in which the maps are rotated. Each grid cell "module" can compute this transform locally, independent of other modules, so the circuit can transform novel multi-module representations. The brain may use this grid cell transform to represent the spatial relationship between environments and goals, between scenes and objects, and between objects and features.
