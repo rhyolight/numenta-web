@@ -15,7 +15,7 @@ event:
     web: http://www.jhuapl.edu/colloquium
   who: Jeff Hawkins
   why: Speaking
-image: ../images/johns-hopkins-logo.jpg
+image: ../images/johns-hopkins.jpg
 org: Co-Founder
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
 title: "The APL Colloquium"
