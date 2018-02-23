@@ -15,7 +15,7 @@ event:
     web: http://www.cognitive-map.com/
   who: Marcus Lewis
   why: Poster Presentation
-image: ../images/ucl.jpg
+image: ../images/ucl.png
 org: Numenta Research Engineer
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
 title: "Grid Cell Meeting"
