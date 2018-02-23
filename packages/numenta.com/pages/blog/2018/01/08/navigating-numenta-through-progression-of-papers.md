@@ -21,7 +21,7 @@ While we sometimes refer to them as dual missions, the order matters. We’ve go
 
 As Jeff explained in a [blog post this summer](https://numenta.com/blog/2017/07/18/Numenta-Research-FY-2018/), the past two years have put us on an accelerated scientific course. In early 2016, we had a major insight related to brain theory. That insight has unlocked additional discoveries and set the stage for tackling new challenges that were previously unsolvable. Just as important as progressing the research, however, is documenting it.  While that demands a balance of focusing on the future and parsing the past, we’ve made it a goal to document all of our discoveries in scientific journals.
 
-Coincidentally, early 2016 brought milestones on the publishing front as well as the research, as we published our first peer-reviewed paper in March 2016.  Since then, we have published a total of 5, with more in the works, in addition to supplemental white papers and research manuscripts. As we continue to build out a library articulating our brain theory, questions may arise like: How do the papers relate to each other? What’s the significance of each one?  How do they contribute to the overall theory?
+Coincidentally, early 2016 brought milestones on the publishing front as well as the research, as we published a seminal peer-reviewed paper in March 2016. Since then, we have published 4 additional peer-reviewed papers, with more in the works, as well as supplemental white papers and research manuscripts. As we continue to build out a library articulating our brain theory, questions may arise like: How do the papers relate to each other? What’s the significance of each one?  How do they contribute to the overall theory?
 
 ### Mapping our Progress through Papers
 
