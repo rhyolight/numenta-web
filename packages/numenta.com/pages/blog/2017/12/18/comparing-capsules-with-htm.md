@@ -10,7 +10,7 @@ title: "Capsules Close-up: Comparing the latest deep learning advance with HTM S
 type: post
 ---
 
-Recently, a new development in the field of Deep Learning (DL), [Geoffrey Hinton's new capsule theory](http://arxiv.org/abs/1710.09829), has been getting some [publicity](https://www.nytimes.com/2017/11/28/technology/artificial-intelligence-research-toronto.html). At Numenta, we have been getting questions about how capsules relate to our new [sensorimotor theory](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/), so I thought I'd share my current thoughts. (I will not dive into the technical details of capsules - see [here](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules) and [here](https://blog.acolyer.org/2017/11/13/dynamic-routing-between-capsules/amp) for some good descriptions.)
+Recently, a new development in the field of Deep Learning (DL), [Geoffrey Hinton's new capsule theory](http://arxiv.org/abs/1710.09829), has been getting some [publicity](https://www.nytimes.com/2017/11/28/technology/artificial-intelligence-research-toronto.html). At Numenta, we have been getting questions about how capsules relate to our new [sensorimotor theory](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/), so I thought I'd share my current thoughts. (I will not dive into the technical details of capsules - see [here](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules) and [here](https://blog.acolyer.org/2017/11/13/dynamic-routing-between-capsules/amp) for some good descriptions.)
 
 **Why have capsules captured attention?**
 
@@ -26,7 +26,7 @@ There is still work to be done before capsules become practical. Today, capsule 
 
 **What are the commonalities with HTM sensorimotor theory?**
 
-There are some clear analogies between capsules and our sensorimotor theory. The ideas that, 1) objects are defined by the relative locations of features, and that, 2) a voting process figures out the most consistent interpretation of sensory data, are both core to our [columns paper](https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).
+There are some clear analogies between capsules and our sensorimotor theory. The ideas that, 1) objects are defined by the relative locations of features, and that, 2) a voting process figures out the most consistent interpretation of sensory data, are both core to our [columns paper](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).
 
 Hinton proposes that every level of a network should be composed of capsules. This notion is also analogous to our theory, where we propose that every cortical column in every level of the neocortex computes and uses relative locations.
 
