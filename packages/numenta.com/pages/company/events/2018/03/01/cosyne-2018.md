@@ -31,7 +31,7 @@ The annual Cosyne meeting provides an inclusive forum for the exchange of experi
 **Title:** Could a Model of Predictive Voting Explain Many Long-Range Connections?
 
 **About:** <br/>
-This workshop on long-range cortical circuits will focus on our most recent peer-reviewed paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).” Subutai will discuss the inference mechanism introduced in the paper, our theory of location information, and how long-range connections allow columns to integrate inputs over space to perform object recognition.
+This workshop on long-range cortical circuits will focus on our most recent peer-reviewed paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).” Subutai will discuss the inference mechanism introduced in the paper, our theory of location information, and how long-range connections allow columns to integrate inputs over space to perform object recognition.
 
 <hr>
 
