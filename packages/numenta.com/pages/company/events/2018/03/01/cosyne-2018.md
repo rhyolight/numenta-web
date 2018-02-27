@@ -21,9 +21,10 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "Computational and Systems Neuroscience Meeting (Cosyne) 2018"
 type: post
 ---
+
 The annual Cosyne meeting provides an inclusive forum for the exchange of experimental and theoretical/computational approaches to problems in systems neuroscience.
 
-##Workshop:
+## Workshop:
 
 **Speaker:** Subutai Ahmad
 
