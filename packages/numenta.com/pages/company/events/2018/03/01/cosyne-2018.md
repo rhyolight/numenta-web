@@ -14,7 +14,7 @@ event:
     country: USA
     web: http://www.cosyne.org/c/index.php?title=Cosyne_18
   who: Jeff Hawkins, Subutai Ahmad, Marcus Lewis, and Max Schwarzer
-  why: Poster Presentation
+  why: Workshop and Poster Presentations
 image: ../images/cosyne.png
 org: Research Team
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
@@ -23,11 +23,18 @@ type: post
 ---
 The annual Cosyne meeting provides an inclusive forum for the exchange of experimental and theoretical/computational approaches to problems in systems neuroscience.
 
+##Workshop:
+
+**Speaker:** Subutai Ahmad
+
+**Title:** Could a Model of Predictive Voting Explain Many Long-Range Connections?
+
+**About:** <br/>
+This workshop will focus on our most recent peer-reviewed paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).” He will discuss the inference mechanism introduced in the paper, our theory of location information, and how long-range connections allow columns to integrate inputs over space to perform object recognition.
+
 ## Posters:
 
-<p style="margin-left: 0pt; display: inline">
-<b>Title:</b> A Neural Mechanism for Determining Allocentric Locations of Sensed Features
-</p>
+**Title:** A Neural Mechanism for Determining Allocentric Locations of Sensed Features
 
 **Authors:** Marcus Lewis and Jeff Hawkins 
 
