@@ -32,6 +32,8 @@ The annual Cosyne meeting provides an inclusive forum for the exchange of experi
 **About:** <br/>
 This workshop will focus on our most recent peer-reviewed paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/).” He will discuss the inference mechanism introduced in the paper, our theory of location information, and how long-range connections allow columns to integrate inputs over space to perform object recognition.
 
+<hr>
+
 ## Posters:
 
 **Title:** A Neural Mechanism for Determining Allocentric Locations of Sensed Features
