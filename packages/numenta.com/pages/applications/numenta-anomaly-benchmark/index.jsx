@@ -152,7 +152,6 @@ const NabPage = (props, {config}) => {
       <SubTitle>Resources</SubTitle>
       <div className={styles.columns}>
         <div className={styles.aside}>
-          {/* eslint-disable max-len */}
           <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
             <Image
               alt="Anomaly Detection Image"
@@ -161,7 +160,6 @@ const NabPage = (props, {config}) => {
               src={ImageAnomalyDetection}
             />
           </TextLink>
-          {/* eslint-enable max-len */}
         </div>
       <div className={styles.content}>
         <SubTitle level={3}>
