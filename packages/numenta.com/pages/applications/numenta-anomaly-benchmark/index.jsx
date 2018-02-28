@@ -33,6 +33,7 @@ import ImageVideoEval from './images/video-mlconf.png'
 import ImageVideoNab from './images/video-nab.png'
 import styles from './index.css'
 import Metatags from './_metatags.md'
+import ImageAnomalyDetection from './images/anomaly-detection-image.png'
 
 const title = 'Numenta Anomaly Benchmark (NAB)'
 
@@ -149,6 +150,36 @@ const NabPage = (props, {config}) => {
 
       <Anchor name="resources" />
       <SubTitle>Resources</SubTitle>
+      <div className={styles.columns}>
+        <div className={styles.aside}>
+          {/* eslint-disable max-len */}
+          <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
+            <Image
+              alt="Anomaly Detection Image"
+              border={true}
+              respond="mw"
+              src={ImageAnomalyDetection}
+            />
+          </TextLink>
+          {/* eslint-enable max-len */}
+        </div>
+      <div className={styles.content}>
+        <SubTitle level={3}>
+          Research Paper: {title}
+        </SubTitle>
+        <Paragraph>
+          This paper introduces an anomaly detection technique using HTM and the
+          Numenta Anomaly Benchmark (NAB). The paper also contains an analysis of
+          the performance of ten algorithms (including HTM) on NAB.
+        </Paragraph>
+        {/* eslint-disable max-len */}
+        <IconMarker icon={<IconPdf />}>
+          <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
+            Read Research Paper
+          </TextLink>
+        </IconMarker>
+      </div>
+      </div>
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Video
