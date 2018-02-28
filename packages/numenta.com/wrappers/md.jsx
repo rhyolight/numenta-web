@@ -74,7 +74,7 @@ class MarkdownWrapper extends React.Component {
           <Disqus
             shortname={config.company.toLowerCase()}
             title={data.title}
-            url={config.baseUrl}
+            url={`${config.baseUrl}${path}`}
           />
         ),
       })
