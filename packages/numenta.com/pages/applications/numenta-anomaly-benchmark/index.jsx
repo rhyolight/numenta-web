@@ -217,7 +217,6 @@ const NabPage = (props, {config}) => {
               src={ImageCompare}
             />
           </TextLink>
-          {/* eslint-enable max-len */}
         </div>
         <div className={styles.content}>
           <SubTitle level={3}>
