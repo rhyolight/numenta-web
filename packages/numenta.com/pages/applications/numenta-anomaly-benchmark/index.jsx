@@ -163,7 +163,7 @@ const NabPage = (props, {config}) => {
         </div>
         <div className={styles.content}>
           <SubTitle level={3}>
-            Research Paper: {title}
+            Research Paper: Unsupervised Real-Time Anomaly Detection for Streaming Data
           </SubTitle>
           <Paragraph>
             This paper introduces an anomaly detection technique using HTM and
