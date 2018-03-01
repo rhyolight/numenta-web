@@ -5,7 +5,7 @@ brief: We created the **Numenta Anomaly Benchmark (NAB)** in order to be able to
 
 [biz]:  /assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf
 [nab]:  /applications/numenta-anomaly-benchmark/
-[peer]: http://arxiv.org/abs/1510.03336
+[peer]: /resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/
 
 Sensors and data streams are proliferating as the Internet of Things vision
 becomes realized. However, using the data from these sensors is not so easy.
@@ -27,5 +27,5 @@ streaming data. NAB is an open source framework consisting of:
 
 * Business Paper: [The Numenta Anomaly Benchmark][biz]
 * Technical Peer-Reviewed Paper:
-  [Evaluating Real-time Anomaly Detection Algorithms – the Numenta Anomaly Benchmark][peer]
+  [Unsupervised Real-Time Anomaly Detection for Streaming Data][peer]
 * [More Information][nab]

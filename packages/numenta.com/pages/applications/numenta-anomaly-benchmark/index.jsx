@@ -33,10 +33,11 @@ import ImageVideoEval from './images/video-mlconf.png'
 import ImageVideoNab from './images/video-nab.png'
 import styles from './index.css'
 import Metatags from './_metatags.md'
+import ImageAnomalyDetection from './images/anomaly-detection-image.png'
 
 const title = 'Numenta Anomaly Benchmark (NAB)'
 
-
+/* eslint-disable max-len */
 /**
  * Numenta Anomaly Benchmark (NAB) page - React view component.
  */
@@ -140,7 +141,7 @@ const NabPage = (props, {config}) => {
         <div className={styles.content}>
           <SubTitle level={3}>Open Source Code Library</SubTitle>
           <Paragraph>
-            NAB is a modular, open source code base.  Numenta will be working
+            NAB is a modular, open source code base. Numenta will be working
             to build a community around NAB to add data files and test
             additional algorithms.
           </Paragraph>
@@ -149,6 +150,34 @@ const NabPage = (props, {config}) => {
 
       <Anchor name="resources" />
       <SubTitle>Resources</SubTitle>
+      <div className={styles.columns}>
+        <div className={styles.aside}>
+          <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
+            <Image
+              alt="Anomaly Detection Image"
+              border={true}
+              respond="mw"
+              src={ImageAnomalyDetection}
+            />
+          </TextLink>
+        </div>
+        <div className={styles.content}>
+          <SubTitle level={3}>
+            Research Paper: Unsupervised Real-Time Anomaly Detection for Streaming Data
+          </SubTitle>
+          <Paragraph>
+            This paper introduces an anomaly detection technique using HTM and
+            the Numenta Anomaly Benchmark (NAB). The paper also contains an
+            analysis of the performance of ten algorithms (including HTM) on
+            NAB.
+          </Paragraph>
+          <IconMarker icon={<IconPdf />}>
+            <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
+              Read Research Paper
+            </TextLink>
+          </IconMarker>
+        </div>
+      </div>
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Video
@@ -172,17 +201,14 @@ const NabPage = (props, {config}) => {
             in San Francisco 2015.
           </Paragraph>
           <IconMarker icon={<IconSlideshare />}>
-            {/* eslint-disable max-len */}
             <TextLink to="http://www.slideshare.net/numenta/evaluating-realtime-anomaly-detection-the-numenta-anomaly-benchmark">
               See Slides
             </TextLink>
-            {/* eslint-enable max-len */}
           </IconMarker>
         </div>
       </div>
       <div className={styles.columns}>
         <div className={styles.aside}>
-          {/* eslint-disable max-len */}
           <TextLink to="/assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf">
             <Image
               alt="NAB White Paper chart figure"
@@ -191,7 +217,6 @@ const NabPage = (props, {config}) => {
               src={ImageCompare}
             />
           </TextLink>
-          {/* eslint-enable max-len */}
         </div>
         <div className={styles.content}>
           <SubTitle level={3}>
@@ -203,7 +228,6 @@ const NabPage = (props, {config}) => {
             highlights how business managers can use NAB to ensure they’re
             getting valuable insights as early as possible.
           </Paragraph>
-          {/* eslint-disable max-len */}
           <IconMarker icon={<IconPdf />}>
             <TextLink to="/assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf">
               Read Whitepaper
@@ -290,11 +314,9 @@ const NabPage = (props, {config}) => {
             components of NAB.
           </Paragraph>
           <IconMarker icon={<IconDownload />}>
-            {/* eslint-disable max-len */}
             <TextLink to="/assets/pdf/numenta-anomaly-benchmark/NAB-Data-Sheet.pdf">
               Download Datasheet
             </TextLink>
-            {/* eslint-enable max-len */}
           </IconMarker>
         </div>
       </div>
