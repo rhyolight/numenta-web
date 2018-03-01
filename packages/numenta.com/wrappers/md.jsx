@@ -101,6 +101,9 @@ class MarkdownWrapper extends React.Component {
     else if (url === links.in.bami) {
       parent = 'BAMI'
     }
+    else if (url === links.in.papersvideos) {
+      parent = 'Papers, Videos and More'
+    }
     else if (url) {
       const labels = url.split('/')
       let label = labels.pop()
