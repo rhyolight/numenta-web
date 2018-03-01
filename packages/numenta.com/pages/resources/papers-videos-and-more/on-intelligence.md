@@ -12,7 +12,7 @@ tags: on intelligence jeff hawkins htm hierarchical temporal memory
 title: On Intelligence (Book)
 type: post
 ---
-![On Intelligence](../../images/on-intelligence.png)
+![On Intelligence](../images/on-intelligence.png)
 
 The core concepts in Hierarchical Temporal Memory (HTM) theory were first
 described in this book titled **On Intelligence**, which was written by Jeff
