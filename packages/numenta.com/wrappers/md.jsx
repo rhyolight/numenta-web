@@ -75,7 +75,7 @@ class MarkdownWrapper extends React.Component {
           <Disqus
             shortname={config.company.toLowerCase()}
             title={data.title}
-            url={config.baseUrl}
+            url={`${config.baseUrl}${path}`}
           />
         ),
       })
@@ -101,6 +101,9 @@ class MarkdownWrapper extends React.Component {
     }
     else if (url === links.in.bami) {
       parent = 'BAMI'
+    }
+    else if (url === links.in.papersvideos) {
+      parent = 'Papers, Videos and More'
     }
     else if (url) {
       const labels = url.split('/')
@@ -155,7 +158,7 @@ class MarkdownWrapper extends React.Component {
         </div>
       )
 
-      if ('events' in data) {
+      if ('event' in data) {
         const {what, when, where, who, why} = data.event
         const {desc, city, state, country, web} = where
         const details = [(

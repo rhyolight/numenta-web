@@ -15,7 +15,7 @@ type: post
 
 <audio controls preload="metadata" style=" width:500px;"> <source src="http://media.blubrry.com/loupventures_braintech_podcast/content.blubrry.com/loupventures_braintech_podcast/Loup_Ventures_BrainTech_Podcast_Numenta.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
-Jeff was invited by [Loup Ventures](http://loupventures.com/) as a guest in its Braintech podcast series. Loup Ventures is a venture capital firm that publishes [research](http://loupventures.com/research/) on AI, robotics, virtual reality, and augmented reality. In this podcast, Jeff talks about intelligence and what led to his inspiration to study the brain. He describes Numenta's biological approach and how it differs from other deep learning techniques as a path to truly intelligent machines. He also shares his opinion on a variety of AI topics and what he’s learned since *[On Intelligence](https://numenta.com/papers-videos-and-more/resources/on-intelligence/)*.
+Jeff was invited by [Loup Ventures](http://loupventures.com/) as a guest in its Braintech podcast series. Loup Ventures is a venture capital firm that publishes [research](http://loupventures.com/research/) on AI, robotics, virtual reality, and augmented reality. In this podcast, Jeff talks about intelligence and what led to his inspiration to study the brain. He describes Numenta's biological approach and how it differs from other deep learning techniques as a path to truly intelligent machines. He also shares his opinion on a variety of AI topics and what he’s learned since *[On Intelligence](/resources/papers-videos-and-more/resources/on-intelligence/)*.
 
 ## Show Notes
 *	[1:26] Jeff talks about what led to his inspiration to combine neuroscience and computer science.

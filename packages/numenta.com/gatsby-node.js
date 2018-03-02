@@ -165,11 +165,11 @@ export function modifyWebpackConfig(webpack, env) {
 export function postBuild(pages, callback) {
   // prep search index
   const searchSkip = [
-    '/blog/',
-    '/events/',
-    '/newsletter/',
-    '/press/',
-    '/sitemap/',
+    config.links.in.blog,
+    config.links.in.events,
+    config.links.in.newsletter,
+    config.links.in.press,
+    config.links.in.sitemap,
   ]
   const dataSkip = ['author', 'date', 'org', 'title']
   const eventSkip = ['what', 'who', 'why']
