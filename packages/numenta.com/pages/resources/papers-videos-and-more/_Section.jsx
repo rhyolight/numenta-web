@@ -109,7 +109,7 @@ const SectionPapers = (props, {config, route}) => {
           </div>
           <div className={styles.learn}>
             <TextLink to={path}>
-              {data.title}: {data.description}
+              {data.title}
             </TextLink>
             <div>
               <Subtle>
