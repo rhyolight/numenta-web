@@ -1,7 +1,7 @@
 ---
 author: Numenta
 brief: "We recently began a Visiting Scholar Program, where researchers and professors can spend some time at our offices and learn about HTM in depth.  Designed to promote collaboration, participants play an active part in our research meetings while continuing their normal research.  To give you a better understanding of this new program, I interviewed our first visiting researcher, Mirko Klukas, and asked him about his time spent at Numenta. "
-date: 2017/01/19
+date: 2017/01/17
 hideImage: true
 image: ../images/mirkoandprogram.png
 org: "Christy Maver & Mirko Klukas"
@@ -134,6 +134,6 @@ interesting part in the objective of the spatial pooler. The objective
 balances a good *reconstruction error* and maximal *mean individual
 entropy*. The interplay of these two quantities is something I want to understand better as well.
 
-=================================================================================================
+<hr>
 
 *If you're interested in applying for the Visiting Scholar Program, [*click here*](/company/careers-and-team/careers/visiting-scholar-program/) to apply*.
