@@ -12,6 +12,7 @@ import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
  */
 const JsonWrapper = ({route}, {config}) => {
   const {data} = route.page
+  const header = data.header || data.title
 
   return (
     <div className="json">
@@ -19,7 +20,7 @@ const JsonWrapper = ({route}, {config}) => {
         {getMetadataTags(data, config.baseUrl)}
       </Helmet>
       <h1>
-        {data.title}
+        {header}
       </h1>
       <p>
         Raw view of json file

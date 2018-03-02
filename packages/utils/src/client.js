@@ -105,10 +105,11 @@ export function getMetadataTags(data, baseUrl, overrides) {
                                            : '/assets/img/logo.png')
   const metaDict = Object.assign({
     title: data.title,
-    description: data.description || data.title,
+    keywords: data.keywords,
+    description: data.description || data.header || data.title,
     'twitter:image': twitterImg,
     'twitter:title': data.title,
-    'twitter:description': data.description || data.title,
+    'twitter:description': data.description || data.header || data.title,
   }, data.meta, overrides)
   /* eslint-disable */
   return Object.entries(metaDict)

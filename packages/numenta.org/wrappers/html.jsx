@@ -7,10 +7,11 @@ import React from 'react'
 
 const HtmlWrapper = ({route}) => {
   const post = route.page.data
+  const header = post.header || post.title
 
   return (
     <div className="html">
-      <h1 dangerouslySetInnerHTML={{__html: post.title}} />
+      <h1 dangerouslySetInnerHTML={{__html: header}} />
       <div dangerouslySetInnerHTML={{__html: post.body}} />
     </div>
   )
