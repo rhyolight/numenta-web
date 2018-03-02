@@ -1,6 +1,6 @@
 ---
 author: "William Vorhies"
-brief:
+description:
 date: 2018/02/20
 image:
 link: https://www.datasciencecentral.com/profiles/blogs/off-the-beaten-path-htm-based-strong-ai-beats-rnns-and-cnns-at-pr

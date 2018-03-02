@@ -1,6 +1,6 @@
 ---
 author: "David Ray"
-brief: "Until now, Java users of NuPIC had to be content with piecing together individual algorithmic components by supplying their own duct-tape, stitching and glue. This is no longer necessary, as the NAPI is very robust; has lots of"
+description: "Until now, Java users of NuPIC had to be content with piecing together individual algorithmic components by supplying their own duct-tape, stitching and glue. This is no longer necessary, as the NAPI is very robust; has lots of"
 date: 2015/06/08
 hideImage: false
 image: ../images/image.png

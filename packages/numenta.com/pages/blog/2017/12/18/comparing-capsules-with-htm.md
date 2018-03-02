@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: "Recently, a new development in the field of Deep Learning (DL), Geoffrey Hinton's new capsule theory, has been getting some publicity. At Numenta, we have been getting questions about how capsules relate to our new sensorimotor theory, so I thought I'd share my current thoughts."
+description: "Recently, a new development in the field of Deep Learning (DL), Geoffrey Hinton's new capsule theory, has been getting some publicity. At Numenta, we have been getting questions about how capsules relate to our new sensorimotor theory, so I thought I'd share my current thoughts."
 date: 2017/12/18
 hideImage: false
 image: ../images/brainwaves-small.jpg

@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2014/11/11
 event:
   when:

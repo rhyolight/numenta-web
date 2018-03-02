@@ -1,6 +1,6 @@
 ---
 author: "Numenta"
-brief:
+description:
 date: 2016/07/24
 event:
   what: "Numenta Anomaly Benchmark Competition for Real-time Anomaly Detection @ IEEE WCCI 2016"

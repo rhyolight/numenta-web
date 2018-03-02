@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "There are two ways you can help decide who shines in the HTM Challenge. Please read below and help us out by voting for your favorite submissions."
+description: "There are two ways you can help decide who shines in the HTM Challenge. Please read below and help us out by voting for your favorite submissions."
 date: 2015/11/09
 hideImage: false
 image: ../images/image.png

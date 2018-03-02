@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "We're having a NuPIC Hackathon on June 21, and we have about five spaces available for more participants. First come, first served! It will be in the San Francisco Bay Area"
+description: "We're having a NuPIC Hackathon on June 21, and we have about five spaces available for more participants. First come, first served! It will be in the San Francisco Bay Area"
 date: 2013/06/10
 hideImage: false
 image: ../images/image.png

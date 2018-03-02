@@ -1,6 +1,6 @@
 ---
 author: Derrick Harris
-brief:
+description:
 date: 2014/09/24
 image:
 link: https://gigaom.com/2014/09/24/the-gigaom-interview-jeff-hawkins-on-why-his-approach-to-ai-will-become-the-approach-to-ai/

@@ -1,6 +1,6 @@
 ---
 author: "Martin Pacino"
-brief:
+description:
 date: 2016/11/18
 image:
 link: https://upside.tdwi.org/articles/2016/11/18/Upside-Briefing-Numenta.aspx

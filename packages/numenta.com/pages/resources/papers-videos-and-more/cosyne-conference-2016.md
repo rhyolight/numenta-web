@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui, Subutai Ahmad, Jeff Hawkins, Chetan Surpur
-brief: A theory of sequence memory in the neocortex.
+description: A theory of sequence memory in the neocortex.
 date: 2016/02/25
 image:
 link: /assets/pdf/posters/CosynePoster_TM-Final-print.pdf

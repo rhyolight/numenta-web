@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: The proliferation of devices and sensors creating machine-generated data yield enormous opportunity for automated predictive maintenance solutions. According
+description: The proliferation of devices and sensors creating machine-generated data yield enormous opportunity for automated predictive maintenance solutions. According
 date: 2013/04/18
 image: ../images/image.png
 link:

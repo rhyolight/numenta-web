@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: Over the last two years, we have created a series of example applications that illustrate the capabilities of HTM. Grok for IT Analytics, available for download on the Amazon Web Services Marketplace
+description: Over the last two years, we have created a series of example applications that illustrate the capabilities of HTM. Grok for IT Analytics, available for download on the Amazon Web Services Marketplace
 date: 2015/07/02
 image: ../images/image.png
 org: CEO

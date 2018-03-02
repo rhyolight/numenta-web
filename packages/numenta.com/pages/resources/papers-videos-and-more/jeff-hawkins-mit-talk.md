@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: This video was recorded on December 15, 2017 at the MIT Center for Brains, Minds + Machines as part of their Brains, Minds and Machines Seminar Series.
+description: This video was recorded on December 15, 2017 at the MIT Center for Brains, Minds + Machines as part of their Brains, Minds and Machines Seminar Series.
 date: 2017/12/15
 image:
 link: https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception

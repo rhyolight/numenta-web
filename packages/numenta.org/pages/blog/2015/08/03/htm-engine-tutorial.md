@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "Numenta recently open-sourced a bunch of product code. This includes the code for our most recent product, HTM for Stocks, and it also includes an extremely useful utility for running many anomaly detection"
+description: "Numenta recently open-sourced a bunch of product code. This includes the code for our most recent product, HTM for Stocks, and it also includes an extremely useful utility for running many anomaly detection"
 date: 2015/08/03
 hideImage: false
 image: ../images/image.png

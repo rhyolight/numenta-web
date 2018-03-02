@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: This video talk on Sparse Distributed Representations (SDR) covers a subset of the topics in the BAMI chapter on SDRs.
+description: This video talk on Sparse Distributed Representations (SDR) covers a subset of the topics in the BAMI chapter on SDRs.
 date: 2014/10/17
 image:
 link:

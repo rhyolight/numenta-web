@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad, Jeff Hawkins, Yuwei Cui
-brief: Why Do Neurons Have Thousands of Synapses? A Theory of Sequence Memory in Neocortex.
+description: Why Do Neurons Have Thousands of Synapses? A Theory of Sequence Memory in Neocortex.
 date: 2016/09/21
 image:
 link: /assets/pdf/posters/BernsteinPoster_V1_narrow.pdf

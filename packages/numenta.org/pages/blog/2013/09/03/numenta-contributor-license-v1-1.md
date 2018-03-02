@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "We have made two small changes to our Contributor License regarding GitHub Usernames and Patent License changes, detailed below."
+description: "We have made two small changes to our Contributor License regarding GitHub Usernames and Patent License changes, detailed below."
 date: 2013/09/03
 hideImage: false
 image: ../images/image.png

@@ -29,7 +29,7 @@ const PostListItem = ({post}, {config}) => {
   const datetime = moment(data.date, config.moments.post)
   const occur = datetime.format(config.moments.human)
   const target = (data.type === 'link') ? data.link : path
-  let brief = (<Paragraph>{data.brief}...</Paragraph>)
+  let description = (<Paragraph>{data.description}...</Paragraph>)
 
   // modifications for: events
   if ('event' in data) {
@@ -44,7 +44,7 @@ const PostListItem = ({post}, {config}) => {
       location = `${location} ${country}`
     }
 
-    brief = (
+    description = (
       <div className={styles.event}>
         <Table direction="horizontal">
           <TableBody>
@@ -83,7 +83,7 @@ const PostListItem = ({post}, {config}) => {
           {data.title}
         </TextLink>
       </span>
-      {brief}
+      {description}
       <div className={styles.author}>
         <Subtle>
           <Avatar name={data.author} />

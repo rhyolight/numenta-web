@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief:
+description:
 date: 2016/11/03
 image:
 link: http://insidebigdata.com/2016/11/03/the-importance-of-brain-theory-in-true-machine-intelligence/

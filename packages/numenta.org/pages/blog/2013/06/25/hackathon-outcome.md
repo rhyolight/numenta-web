@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "The first NuPIC Hackathon occurred over the past weekend, ending with eight demo applications from ten different participants. Even though there were some struggles getting NuPIC building and running on different platforms"
+description: "The first NuPIC Hackathon occurred over the past weekend, ending with eight demo applications from ten different participants. Even though there were some struggles getting NuPIC building and running on different platforms"
 date: 2013/06/25
 hideImage: false
 image: ../images/image.png

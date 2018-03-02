@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2016/05/19
 event:
   what: Detecting Anomalies in Streaming Data - Real-time Algorithms for Real-world applications

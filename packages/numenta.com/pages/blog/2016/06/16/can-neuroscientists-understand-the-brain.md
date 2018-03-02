@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: Eric Jonas and Konrad Kording just released a provocative paper, "Could a neuroscientist understand a microprocessor?". In their paper, they ask whether current neuroscience techniques could discover the operations of a simple microprocessor.
+description: Eric Jonas and Konrad Kording just released a provocative paper, "Could a neuroscientist understand a microprocessor?". In their paper, they ask whether current neuroscience techniques could discover the operations of a simple microprocessor.
 date: 2016/06/16
 hideImage: false
 image: ../images/image.png

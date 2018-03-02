@@ -1,6 +1,6 @@
 ---
 author: Taylor Wirfs
-brief: We are excited to announce the Numenta Anomaly Benchmark (NAB) Competition! Last year, we released NAB, the first ever open-source benchmark for evaluating real-time anomaly detection algorithms. This year, we want to further expand NAB
+description: We are excited to announce the Numenta Anomaly Benchmark (NAB) Competition! Last year, we released NAB, the first ever open-source benchmark for evaluating real-time anomaly detection algorithms. This year, we want to further expand NAB
 date: 2016/02/11
 hideImage: true
 image: ../images/image.png

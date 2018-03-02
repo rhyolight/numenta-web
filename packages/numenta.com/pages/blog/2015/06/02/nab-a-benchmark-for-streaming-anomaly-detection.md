@@ -1,6 +1,6 @@
 ---
 author: Alexander Lavin
-brief: Data is in ever-increasing supply as sensors inhabit more and more of our world. Examples abound from health data tracked by pacemakers and fitness wearables, to temperature sensors
+description: Data is in ever-increasing supply as sensors inhabit more and more of our world. Examples abound from health data tracked by pacemakers and fitness wearables, to temperature sensors
 date: 2015/06/02
 image: ../images/graph2.png
 org: Software Engineer

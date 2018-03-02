@@ -1,6 +1,6 @@
 ---
 author: Joe Block
-brief: Using the burnrate custom metrics script with your Grok server
+description: Using the burnrate custom metrics script with your Grok server
 date: 2014/12/15
 image: ../images/image.png
 org: Site Reliability Engineer

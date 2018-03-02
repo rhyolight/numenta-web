@@ -1,6 +1,6 @@
 ---
 author: "Digital Ops"
-brief:
+description:
 date: 2014/01/06
 image:
 link: http://digitalops.sandia.gov/Mediasite/Play/63eb251aef2f43978161f30d7087e6e21d

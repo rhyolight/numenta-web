@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "As 2018 is well underway, I’m pleased to share several events we have scheduled for the coming weeks. You may recall that last month our Co-founder Jeff Hawkins spent a week on the east coast presenting our latest research at Cold Spring Harbor Labs, Boston University, and MIT. On February 5, Jeff will be back east, delivering his talk, “Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception” at the Janelia Research Campus."
+description: "As 2018 is well underway, I’m pleased to share several events we have scheduled for the coming weeks. You may recall that last month our Co-founder Jeff Hawkins spent a week on the east coast presenting our latest research at Cold Spring Harbor Labs, Boston University, and MIT. On February 5, Jeff will be back east, delivering his talk, “Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception” at the Janelia Research Campus."
 date: 2018/01/29
 hideImage: false
 image: ../images/january.png

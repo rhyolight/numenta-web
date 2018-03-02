@@ -1,6 +1,6 @@
 ---
 author: Derrick Harris
-brief:
+description:
 date: 2015/01/09
 image:
 link: https://gigaom.com/2015/01/09/artificial-intelligence-is-real-now-and-its-just-getting-started/

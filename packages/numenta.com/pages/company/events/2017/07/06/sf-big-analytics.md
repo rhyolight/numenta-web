@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui
-brief:
+description:
 date: 2017/07/06
 event:
   what: "What the brain tells us about the future of streaming analytics"

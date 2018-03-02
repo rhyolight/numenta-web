@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: REDWOOD CITY, CA –August 19, 2015— Numenta, Inc., a leader in machine intelligence, today announced a strategic partnership with Avik Partners, a new IT services and advanced analytics company, for its Grok for IT Analytics on AWS technology.
+description: REDWOOD CITY, CA –August 19, 2015— Numenta, Inc., a leader in machine intelligence, today announced a strategic partnership with Avik Partners, a new IT services and advanced analytics company, for its Grok for IT Analytics on AWS technology.
 date: 2015/08/19
 image: ../images/image.png
 link:

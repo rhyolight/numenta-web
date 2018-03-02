@@ -1,6 +1,6 @@
 ---
 author: Ginger Campbell, MD
-brief: In the Brain Science Podcast, Dr. Ginger Campbell interviews leading scientists and shares recent discoveries from the world of neuroscience. The podcast first aired in 2006 and was in part inspired by Jeff’s book, On Intelligence. Jeff was previously featured in the Brain Science Podcast when Numenta first started in 2008 and was invited over for another interview to talk about the progress on our latest work.
+description: In the Brain Science Podcast, Dr. Ginger Campbell interviews leading scientists and shares recent discoveries from the world of neuroscience. The podcast first aired in 2006 and was in part inspired by Jeff’s book, On Intelligence. Jeff was previously featured in the Brain Science Podcast when Numenta first started in 2008 and was invited over for another interview to talk about the progress on our latest work.
 date: 2017/11/27
 image:
 link: http://brainsciencepodcast.com/bsp/2017/139-hawkins

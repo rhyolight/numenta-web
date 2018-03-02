@@ -94,7 +94,7 @@ export function triggerGAnalyticsEvent(href) {
 /**
  * Collect metadata tags
  * @param  {Object} data The object to collect meta data from.
- *                       The fields 'title', 'brief' and 'meta' are used.
+ *                       The fields 'title', 'description' and 'meta' are used.
  * @param  {String} baseUrl Optional Base URL to use
  * @param  {String} overrides Optional values to override objects meta data
  * @return {Array} Array of <meta> tags
@@ -105,10 +105,10 @@ export function getMetadataTags(data, baseUrl, overrides) {
                                            : '/assets/img/logo.png')
   const metaDict = Object.assign({
     title: data.title,
-    description: data.brief || data.title,
+    description: data.description || data.title,
     'twitter:image': twitterImg,
     'twitter:title': data.title,
-    'twitter:description': data.brief || data.title,
+    'twitter:description': data.description || data.title,
   }, data.meta, overrides)
   /* eslint-disable */
   return Object.entries(metaDict)

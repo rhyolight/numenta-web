@@ -1,6 +1,6 @@
 ---
 author: Celeste Baranski
-brief:
+description:
 date: 2016/05/25
 event:
   what: Reverse-Engineering the Neocortex

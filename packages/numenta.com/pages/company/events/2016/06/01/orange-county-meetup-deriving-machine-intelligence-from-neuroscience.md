@@ -1,6 +1,6 @@
 ---
 author: Alexander Lavin
-brief:
+description:
 date: 2016/06/01
 event:
   what: Deriving Machine Intelligence from Neuroscience

@@ -1,6 +1,6 @@
 ---
 author: Brev Patterson
-brief: "Last year we felt that it was important to communicate our theories and engage in a dialog with the scientific community. As such, we decided to submit our research for peer-review, and to publish our work in major neuroscience-related"
+description: "Last year we felt that it was important to communicate our theories and engage in a dialog with the scientific community. As such, we decided to submit our research for peer-review, and to publish our work in major neuroscience-related"
 date: 2016/11/07
 hideImage: true
 image: ../images/image.png

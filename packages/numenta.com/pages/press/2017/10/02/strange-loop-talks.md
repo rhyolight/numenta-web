@@ -1,6 +1,6 @@
 ---
 author: "Paul Miller"
-brief:
+description:
 date: 2017/10/02
 image:
 link:  https://www.theverge.com/2017/10/2/16404152/strange-loop-2017-programming-talks-youtube

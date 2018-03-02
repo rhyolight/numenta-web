@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "If you’ve been to numenta.com before you may notice that something looks a little – or perhaps more than a little – different. After months of behind the scenes remodeling, we’ve launched our newly designed website."
+description: "If you’ve been to numenta.com before you may notice that something looks a little – or perhaps more than a little – different. After months of behind the scenes remodeling, we’ve launched our newly designed website."
 date: 2016/09/02
 hideImage: false
 image: ../images/image.png

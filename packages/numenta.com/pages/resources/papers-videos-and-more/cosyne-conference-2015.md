@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui, Subutai Ahmad, Jeff Hawkins, Chetan Surpur
-brief: Maintaining Stable Perception During Active Exploration.
+description: Maintaining Stable Perception During Active Exploration.
 date: 2015/03/05
 image:
 link: /assets/pdf/posters/CosynePoster_2015_Numenta.pdf

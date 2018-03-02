@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2016/03/17
 event:
   what: Introductory Workshop - Numenta's Hierarchical Temporal Memory (HTM)

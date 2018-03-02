@@ -1,6 +1,6 @@
 ---
 author: "Christy Maver"
-brief: "I’m pleased to share that we have published a new research paper titled Continuous Online Sequence Learning with an Unsupervised Neural Network Model, in the peer-reviewed journal Neural Computation."
+description: "I’m pleased to share that we have published a new research paper titled Continuous Online Sequence Learning with an Unsupervised Neural Network Model, in the peer-reviewed journal Neural Computation."
 date: 2016/11/10
 hideImage: false
 image: ../images/video.png

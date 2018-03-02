@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief: The Numenta HTM Challenge is an online coding contest encouraging the creation of Hierarchical Temporal Memory applications.
+description: The Numenta HTM Challenge is an online coding contest encouraging the creation of Hierarchical Temporal Memory applications.
 date: 2015/11/14
 event:
   what: Numenta HTM Challenge Onsite

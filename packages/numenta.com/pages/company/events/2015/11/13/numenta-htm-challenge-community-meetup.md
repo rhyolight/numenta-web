@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief: This is an event organized by the NuPIC community to accompany the Numenta HTM Challenge Onsite. If you are coming to the Challenge and want to meet members of the NuPIC community the night before, please RSVP.
+description: This is an event organized by the NuPIC community to accompany the Numenta HTM Challenge Onsite. If you are coming to the Challenge and want to meet members of the NuPIC community the night before, please RSVP.
 date: 2015/11/13
 event:
   what: Numenta HTM Challenge Community Meetup

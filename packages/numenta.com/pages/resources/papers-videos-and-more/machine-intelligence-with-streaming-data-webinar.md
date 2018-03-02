@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: This webinar provides an overview of the current state of HTM, with an emphasis on the software implementation and example applications. The Q&A session at the end of the webinar answers some popular user questions.
+description: This webinar provides an overview of the current state of HTM, with an emphasis on the software implementation and example applications. The Q&A session at the end of the webinar answers some popular user questions.
 date: 2016/04/26
 image:
 link:

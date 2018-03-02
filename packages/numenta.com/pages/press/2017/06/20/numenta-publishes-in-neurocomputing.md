@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: "REDWOOD CITY, CA – June 19, 2017— The exponential increase in the use of connected real-time sensors to surface streaming data in the age of the Internet of Things presents significant challenges and opportunities for the emerging field of streaming analytics."
+description: "REDWOOD CITY, CA – June 19, 2017— The exponential increase in the use of connected real-time sensors to surface streaming data in the age of the Internet of Things presents significant challenges and opportunities for the emerging field of streaming analytics."
 date: 2017/06/20
 org: Press Release
 tags: numenta brain theory machine learning techniques htm hierarchical realtime anomaly detection paper

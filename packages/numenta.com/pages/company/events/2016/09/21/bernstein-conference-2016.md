@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2016/09/21
 event:
   what: "Why Do Neurons Have Thousands of Synapses? A Theory of Sequence Memory in Neocortex"

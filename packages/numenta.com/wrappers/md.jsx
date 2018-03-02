@@ -92,7 +92,7 @@ class MarkdownWrapper extends React.Component {
     let url = Object.values(links.in)
                       .filter((p) => p.length > 1 && path.startsWith(p))[0]
     let author, back, event, media, header, parent, breadcrumb
-    let brief = data.brief
+    let description = data.description
 
     // Fix breadcrumb text
     if (url === links.in.htmstudio) {
@@ -193,12 +193,12 @@ class MarkdownWrapper extends React.Component {
           </TableRow>
         ))
 
-        brief = `${what}, ${getEventTimeDisplay(when)}`
+        description = `${what}, ${getEventTimeDisplay(when)}`
         if (desc) {
-          brief += `, ${desc}`
+          description += `, ${desc}`
         }
         if (location) {
-          brief += `, ${location}`
+          description += `, ${location}`
         }
 
         if (web) {
@@ -317,7 +317,7 @@ class MarkdownWrapper extends React.Component {
     return (
       <article className={styles.md}>
         <Helmet title={data.title}>
-          {getMetadataTags(data, config.baseUrl, {description: brief})}
+          {getMetadataTags(data, config.baseUrl, {description})}
         </Helmet>
         {header}
         <Section

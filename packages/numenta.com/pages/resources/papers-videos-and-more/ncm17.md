@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad, Jeff Hawkins, Yuwei Cui
-brief: A Cortical Circuit For Sensorimotor Learning And Recognition
+description: A Cortical Circuit For Sensorimotor Learning And Recognition
 date: 2017/05/01
 image:
 link: /assets/pdf/posters/NCM_Poster_2017_s.pdf

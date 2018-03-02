@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: "REDWOOD CITY, CA – November 15, 2017—Inputs to the brain from the eyes, ears, and skin are continually changing as we move. Yet our brain perceives objects in the world as stable.  How the brain learns the structure of the world from rapidly changing inputs is a mystery."
+description: "REDWOOD CITY, CA – November 15, 2017—Inputs to the brain from the eyes, ears, and skin are continually changing as we move. Yet our brain perceives objects in the world as stable.  How the brain learns the structure of the world from rapidly changing inputs is a mystery."
 date: 2017/11/15
 org: Press Release
 tags: numenta brain theory machine learning techniques htm hierarchical realtime anomaly detection paper

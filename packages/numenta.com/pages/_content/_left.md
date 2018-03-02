@@ -1,5 +1,5 @@
 ---
-brief: Welcome to numenta.com. Here you’ll find information about the company Numenta.
+description: Welcome to numenta.com. Here you’ll find information about the company Numenta.
 title: numenta.com
 ---
 

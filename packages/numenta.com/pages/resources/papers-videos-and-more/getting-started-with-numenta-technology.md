@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: This video is replaced by the Numenta License Guide
+description: This video is replaced by the Numenta License Guide
 date: 2014/10/17
 image:
 link:

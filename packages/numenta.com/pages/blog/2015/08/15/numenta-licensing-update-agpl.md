@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: In this post, I’d like to tell you about some changes and updates to our open source and commercial licensing strategy. First, effective today, we will be using the AGPL open source license instead of
+description: In this post, I’d like to tell you about some changes and updates to our open source and commercial licensing strategy. First, effective today, we will be using the AGPL open source license instead of
 date: 2015/08/15
 image: ../images/image.png
 org: CEO

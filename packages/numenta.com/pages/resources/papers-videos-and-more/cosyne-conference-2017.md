@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins, Yuwei Cui, Subutai Ahmad, Nathanael Romano, and Marcus Lewis
-brief: 3D Object Learning with Cortical Columns
+description: 3D Object Learning with Cortical Columns
 date: 2017/02/24
 image:
 link: /assets/pdf/posters/CosynePoster_2017.pdf

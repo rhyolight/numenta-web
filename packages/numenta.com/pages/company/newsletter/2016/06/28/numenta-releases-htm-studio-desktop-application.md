@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: Since I arrived at Numenta 9 months ago, one of the most common requests I’ve heard is that people want an easy way to experiment with HTM without having to dive deep into our code and algorithms
+description: Since I arrived at Numenta 9 months ago, one of the most common requests I’ve heard is that people want an easy way to experiment with HTM without having to dive deep into our code and algorithms
 date: 2016/06/28
 image: ../images/htm-studio.png
 org: Director of Marketing

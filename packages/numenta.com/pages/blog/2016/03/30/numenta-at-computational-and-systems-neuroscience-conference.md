@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui
-brief: Earlier this month, I attended the annual Computational and Systems Neuroscience meeting (Cosyne) in Salt Lake City. Cosyne is a peer reviewed scientific conference that brings experimental and theoretical neuroscientists together to exchange data and ideas.
+description: Earlier this month, I attended the annual Computational and Systems Neuroscience meeting (Cosyne) in Salt Lake City. Cosyne is a peer reviewed scientific conference that brings experimental and theoretical neuroscientists together to exchange data and ideas.
 date: 2016/03/30
 hideImage: true
 image: ../images/image.png

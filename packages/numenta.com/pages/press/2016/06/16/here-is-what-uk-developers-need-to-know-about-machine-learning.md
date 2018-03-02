@@ -1,6 +1,6 @@
 ---
 author: Charlotte Jee
-brief:
+description:
 date: 2016/06/16
 image:
 link: http://www.techworld.com/tutorial/apps/everything-uk-developers-need-know-about-machine-learning-3641971/

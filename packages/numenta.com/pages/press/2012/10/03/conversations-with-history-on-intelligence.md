@@ -1,6 +1,6 @@
 ---
 author: "Harry Kreisler"
-brief:
+description:
 date: 2012/10/03
 image:
 link: http://www.youtube.com/watch?v=e5xyF84dw2o

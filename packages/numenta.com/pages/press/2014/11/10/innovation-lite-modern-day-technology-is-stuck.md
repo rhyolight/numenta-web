@@ -1,6 +1,6 @@
 ---
 author: Kevin Maney
-brief:
+description:
 date: 2014/11/10
 image:
 link: http://www.newsweek.com/innovation-lite-modern-day-technology-stuck-283338

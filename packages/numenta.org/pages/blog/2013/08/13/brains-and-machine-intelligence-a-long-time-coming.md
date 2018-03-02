@@ -1,6 +1,6 @@
 ---
 author: "Jeff Hawkins"
-brief: "Recently one of our U.S. agencies, the IARPA (Intelligence Advanced Research Projects Activity), put out an RFI (request for information) stating they are interested in machine learning algorithms that are based on neuroanatomy"
+description: "Recently one of our U.S. agencies, the IARPA (Intelligence Advanced Research Projects Activity), put out an RFI (request for information) stating they are interested in machine learning algorithms that are based on neuroanatomy"
 date: 2013/08/13
 hideImage: false
 image: ../images/image.png

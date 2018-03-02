@@ -1,6 +1,6 @@
 ---
 author: Joe Hayashi
-brief: A question we get from time to time is, “How is Grok different from complex event processing systems?”  Like Grok, CEP systems are all about streaming data
+description: A question we get from time to time is, “How is Grok different from complex event processing systems?”  Like Grok, CEP systems are all about streaming data
 date: 2013/04/02
 image: ../images/image.jpg
 org: Marketing

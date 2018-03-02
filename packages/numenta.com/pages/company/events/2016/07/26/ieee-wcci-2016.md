@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui
-brief:
+description:
 date: 2016/07/26
 event:
   what: A comparative study of HTM and other neural network models for online sequence learning with streaming data

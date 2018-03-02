@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2014/03/26
 event:
   when:

@@ -1,6 +1,6 @@
 ---
 author: Leo Laporte
-brief:
+description:
 date: 2014/04/07
 image:
 link: http://twit.tv/show/triangulation/146

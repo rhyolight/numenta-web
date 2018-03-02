@@ -128,7 +128,7 @@ export default class PapersPage extends React.Component {
                 </Subtle>
               </div>
               <Paragraph>
-                {data.brief}
+                {data.description}
                 <br />
                 <span className={styles.remarks}>
                   {data.remarks}

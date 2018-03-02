@@ -1,6 +1,6 @@
 ---
 author: Rob Haitani
-brief: Jeff Hawkins recently gave a keynote address at Strange Loop 2012, a conference on diverse topics like emerging languages, alternative databases, concurrency and distributed systems.
+description: Jeff Hawkins recently gave a keynote address at Strange Loop 2012, a conference on diverse topics like emerging languages, alternative databases, concurrency and distributed systems.
 date: 2012/10/22
 image: ../images/image.png
 org: Marketing

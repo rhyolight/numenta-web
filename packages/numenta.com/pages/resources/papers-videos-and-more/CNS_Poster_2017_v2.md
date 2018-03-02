@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad, Yuwei Cui, Jeff Hawkins
-brief: A cortical model for learning complex temporal structure in sensory streams.
+description: A cortical model for learning complex temporal structure in sensory streams.
 date: 2017/07/24
 image:
 link: /assets/pdf/posters/CNS_Poster_2017_v2.pdf

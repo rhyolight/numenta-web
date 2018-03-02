@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "As we approach the end of the year, I’m happy to announce the release of two new resources.  The first is a new peer-reviewed paper published in Frontiers in Computational Neuroscience. The second is an episode of the Brain Science podcast featuring an interview with our co-founder, Jeff Hawkins. While the podcast is also intended for a neuroscience audience and does get into some technical details, we hope you’ll find it’s an enjoyable conversation that is accessible to non-technical listeners as well."
+description: "As we approach the end of the year, I’m happy to announce the release of two new resources.  The first is a new peer-reviewed paper published in Frontiers in Computational Neuroscience. The second is an episode of the Brain Science podcast featuring an interview with our co-founder, Jeff Hawkins. While the podcast is also intended for a neuroscience audience and does get into some technical details, we hope you’ll find it’s an enjoyable conversation that is accessible to non-technical listeners as well."
 date: 2017/11/30
 hideImage: false
 image: ../images/november.png

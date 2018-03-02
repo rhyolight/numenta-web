@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2015/03/17
 event:
   what: What the Brain Says About Machine Intelligence

@@ -1,6 +1,6 @@
 ---
 author: "Christy Maver"
-brief: "As 2016 comes to a close, I’m sure many of you are reflecting on this past year as you also look ahead to the next one.  I found myself doing the same when I sat down with our co-founder Jeff Hawkins recently. I asked him to share his"
+description: "As 2016 comes to a close, I’m sure many of you are reflecting on this past year as you also look ahead to the next one.  I found myself doing the same when I sat down with our co-founder Jeff Hawkins recently. I asked him to share his"
 date: 2016/12/19
 hideImage: false
 image: ../images/video.png

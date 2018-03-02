@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: We’ve had a busy summer at Numenta. Since the launch of our first product, Grok for IT Analytics on Amazon Web Services (AWS), we’ve created a variety of demonstration applications to showcase
+description: We’ve had a busy summer at Numenta. Since the launch of our first product, Grok for IT Analytics on Amazon Web Services (AWS), we’ve created a variety of demonstration applications to showcase
 date: 2014/08/19
 image: ../../../../images/numenta.png
 org: CEO

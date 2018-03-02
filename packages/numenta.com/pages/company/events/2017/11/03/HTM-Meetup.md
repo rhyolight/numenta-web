@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2017/11/03
 event:
   what: "Hierarchical Temporal Memory"

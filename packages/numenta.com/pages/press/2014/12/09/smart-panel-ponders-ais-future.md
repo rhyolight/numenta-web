@@ -1,6 +1,6 @@
 ---
 author: Jessica Lipsky
-brief:
+description:
 date: 2014/12/09
 image:
 link: http://www.eetimes.com/document.asp?doc_id=1324910&_mc=sm_eet_editor_rickmerritt

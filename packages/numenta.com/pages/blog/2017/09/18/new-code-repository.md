@@ -1,6 +1,6 @@
 ---
 author: Luiz Scheinkman
-brief: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature"
+description: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature"
 date: 2017/09/18
 hideImage: true
 image: ../images/readmeandfigures.png

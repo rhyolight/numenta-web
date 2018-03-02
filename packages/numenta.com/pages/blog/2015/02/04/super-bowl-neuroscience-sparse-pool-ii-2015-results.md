@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: This year’s Super Bowl between the New England Patriots and the Seattle Seahawks was a cliffhanger. In fact, the twists and turns in the last few minutes had a significant effect on our result
+description: This year’s Super Bowl between the New England Patriots and the Seattle Seahawks was a cliffhanger. In fact, the twists and turns in the last few minutes had a significant effect on our result
 date: 2015/02/04
 image: ../images/image.png
 org: Subutai Ahmad & Ryan McCall

@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: This past month, Numenta sponsored a contest at Yale University, in collaboration with the Yale Entrepreneurial Institute, for a prize to create an application using our HTM technology.
+description: This past month, Numenta sponsored a contest at Yale University, in collaboration with the Yale Entrepreneurial Institute, for a prize to create an application using our HTM technology.
 date: 2015/07/01
 image: ../images/image.png
 org: CEO

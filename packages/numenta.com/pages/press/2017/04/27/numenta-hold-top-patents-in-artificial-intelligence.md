@@ -1,6 +1,6 @@
 ---
 author: "CB Insights"
-brief:
+description:
 date: 2017/04/27
 image:
 link: https://www.cbinsights.com/blog/top-artificial-intelligence-startup-patent-holders/

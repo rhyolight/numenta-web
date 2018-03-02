@@ -1,6 +1,6 @@
 ---
 author: Anthony Wing Kosner
-brief:
+description:
 date: 2015/04/20
 image:
 link: http://www.forbes.com/sites/anthonykosner/2015/04/20/what-really-scares-tech-leaders-about-artificial-intelligence/

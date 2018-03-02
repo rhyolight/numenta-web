@@ -1,4 +1,4 @@
 ---
 title: "Careers & Team"
-brief: Management Team
+description: Management Team
 ---
