@@ -13,6 +13,7 @@ import Avatar from 'numenta-web-shared-components/lib/Avatar'
 import Disqus from 'numenta-web-shared-components/lib/Disqus'
 import IconMarker from 'numenta-web-shared-components/lib/IconMarker'
 import Image from 'numenta-web-shared-components/lib/Image'
+import ImageLink from 'numenta-web-shared-components/lib/ImageLink'
 import Markdown from 'numenta-web-shared-components/lib/Markdown'
 import Section from 'numenta-web-shared-components/lib/Section'
 import Sound from 'numenta-web-shared-components/lib/Sound'
@@ -309,9 +310,26 @@ class MarkdownWrapper extends React.Component {
         )
       }
 
-      media = (
-        <div className={styles.media}>{media}</div>
-      )
+      if (data.media && data.media === 'poster') {
+        author = null
+        media = (
+          <div className={styles.poster}>
+            <ImageLink
+              title="Click on the image above to enlarge"
+              to={data.link}
+            >
+              {media}
+            </ImageLink>
+            <p>Click on the image above to enlarge</p>
+          </div>
+        )
+      }
+      else {
+        // media image
+        media = (
+          <div className={styles.media}>{media}</div>
+        )
+      }
     }
 
     return (

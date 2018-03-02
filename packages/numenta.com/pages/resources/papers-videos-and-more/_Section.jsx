@@ -101,14 +101,14 @@ const SectionPapers = (props, {config, route}) => {
     </ListItem>
   ))
   const posters = postsPosters.sort(sortDateDescend)
-    .map(({data, file}) => (
+    .map(({data, file, path}) => (
       <ListItem key={file.stem}>
         <div className={classNames(styles.columns, styles.row)}>
           <div className={styles.icon}>
             {learnIcons[data.media]}
           </div>
           <div className={styles.learn}>
-            <TextLink to={data.link}>
+            <TextLink to={path}>
               {data.title}: {data.description}
             </TextLink>
             <div>

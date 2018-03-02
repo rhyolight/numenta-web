@@ -49,6 +49,9 @@
   composes: tc from 'tachyons';
 }
 
+.poster {
+  composes: tc i moon-gray from 'tachyons';
+}
 .event {
   composes: bg-near-white from 'tachyons';
   composes: br2 from 'tachyons';
