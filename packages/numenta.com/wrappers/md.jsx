@@ -341,7 +341,7 @@ class MarkdownWrapper extends React.Component {
         <Section
           headline={true}
           open={true}
-          title={data.title}
+          title={data.header || data.title}
         >
           {author}
           {media}
