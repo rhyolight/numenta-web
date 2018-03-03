@@ -1,7 +1,7 @@
 ---
 author: Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
 brief: Robust Dendritic Computations With Sparse Distributed Representations.
-date: 2019/03/01
+date: 2018/03/01
 image:
 link: /assets/pdf/posters/Cosyne2018-SDRs.pdf
 media: poster

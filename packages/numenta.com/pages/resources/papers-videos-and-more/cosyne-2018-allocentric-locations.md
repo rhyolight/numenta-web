@@ -1,7 +1,7 @@
 ---
 author: Marcus Lewsis, Jeff Hawkins
 brief: Determining Allocentric Locations of Sensed Features.
-date: 2019/03/01
+date: 2018/03/01
 image:
 link: /assets/pdf/posters/Cosyne2018-Allocentric-Locations.pdf
 media: poster
