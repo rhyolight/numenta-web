@@ -16,7 +16,9 @@ type: post
 
 This poster introduces a theory of sequence memory in the neocortex called HTM Sequence Memory.
 
-The three key characteristics of HTM Sequence Memory are:
+<br />
+
+**The three key characteristics of HTM Sequence Memory are:**
 
 1. Neurons learn to recognize hundreds of patterns using active dendrites.
 2. Recognition of patterns act as predictions by depolarizing the cell without generating an immediate
@@ -25,7 +27,7 @@ action potential.
 
 The HTM neuron models active dendrites that act as pattern detectors. Each cell can recognize hundreds of unique patterns.
 
-HTM exhibits many desirable features for sequence learning:
+**HTM exhibits many desirable features for sequence learning:**
 
 - Unsupervised learning
 - Quickly adapts to changes in data

@@ -16,6 +16,8 @@ type: post
 
 This poster answers the question: how can the cortex build a sensorimotor model of the world?
 
+<br />
+
 First, we proposed a biologically detailed model of sensorimotor inference. We know the cortex receives a copy of motor commands. We also know that most sensory changes are rapid and due to our own behavior yet our perception of the world is amazingly stable.
 We built a model with a basic premise that predictable transitions lead to invariant representations. This comprises two parts: 1) We learn a predictive model of sensorimotor changes and 2) We learn stable representations of predicted changes.
 

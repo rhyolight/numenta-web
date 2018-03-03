@@ -16,7 +16,9 @@ type: post
 
 Sequence learning is ubiquitous in cortex. This poster explains a neural mechanism for sequence learning, HTM Sequence Memory.
 
-Sequence Learning: Characteristics of HTM sequence memory
+<br />
+
+**Characteristics of HTM sequence memory:**
 
 1. Neurons learn to recognize hundreds of patterns using active dendrites.
 2. Recognition of patterns act as predictions by depolarizing the cell without generating an immediate

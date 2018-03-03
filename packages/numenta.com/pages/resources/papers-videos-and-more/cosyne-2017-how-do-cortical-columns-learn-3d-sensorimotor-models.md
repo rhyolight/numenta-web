@@ -16,7 +16,7 @@ type: post
 
 Since features can be shared among multiple objects, information received by a single cortical column is often ambiguous. In this poster, we propose that cortical columns learn 3D sensorimotor models of the world by combining sensory inputs with allocentric location.
 
-The predictions of the theory are:
+**The predictions of the theory are:**
 
 - Each region contains cells stable over movement of the sensor.
 - The activity of these stable cells are specific to object identity.

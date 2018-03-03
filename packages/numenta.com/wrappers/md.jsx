@@ -4,14 +4,12 @@
 
 import startCase from 'lodash/startCase'
 import Helmet from 'react-helmet'
-import IconArrow from 'react-icons/lib/fa/caret-left'
 import moment from 'moment'
 import React from 'react'
 import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import Avatar from 'numenta-web-shared-components/lib/Avatar'
 import Disqus from 'numenta-web-shared-components/lib/Disqus'
-import IconMarker from 'numenta-web-shared-components/lib/IconMarker'
 import Image from 'numenta-web-shared-components/lib/Image'
 import ImageLink from 'numenta-web-shared-components/lib/ImageLink'
 import Markdown from 'numenta-web-shared-components/lib/Markdown'
@@ -132,20 +130,6 @@ class MarkdownWrapper extends React.Component {
       )
     }
 
-    const postsWithBackButton = [
-      links.in.careers, links.in.resources,
-    ]
-    if (postsWithBackButton.indexOf(url) > -1) {
-      back = (
-        <div className={styles.back}>
-          <IconMarker icon={<IconArrow />}>
-            <TextLink to={url}>
-              All {parent} Posts
-            </TextLink>
-          </IconMarker>
-        </div>
-      )
-    }
     if (data.type === 'post') {
       author = (
         <div className={styles.author}>

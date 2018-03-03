@@ -18,7 +18,7 @@ In this poster, we describe a network model of a cortical circuit that learns se
 
 Extending previous work, this cortical circuit integrates motor representations and feed-forward sensory information to build predictive models of objects.
 
-We propose that:
+**We propose that:**
 
 1. Cortical columns combine sensory and location information to form predictive models of
 objects.
