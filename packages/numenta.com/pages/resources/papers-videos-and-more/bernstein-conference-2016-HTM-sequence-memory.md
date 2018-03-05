@@ -16,7 +16,6 @@ type: post
 
 Sequence learning is ubiquitous in cortex. This poster explains a neural mechanism for sequence learning called HTM (Hierarchical Temporal Memory) Sequence Memory.
 
-
 **Characteristics of HTM sequence memory:**
 
 1. Neurons learn to recognize hundreds of patterns using active dendrites.
