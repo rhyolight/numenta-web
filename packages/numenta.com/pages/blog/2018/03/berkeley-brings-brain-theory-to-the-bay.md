@@ -1,12 +1,13 @@
 ---
 author: Joanne Cua
-brief: Earlier this year, Berkeley kicked off a new program called The Brain and Computation. This semester-long series of 4 workshops aims to bring together researchers from brain science and theoretical computer science to tackle some of the most challenging problems in brain science today.
+description: "Earlier this year, Berkeley kicked off a new program called The Brain and Computation. This semester-long series of 4 workshops aims to bring together researchers from brain science and theoretical computer science to tackle some of the most challenging problems in brain science today."
 date: 2018/03/05
 hideImage: false
 image: ../images/calvin-lab.jpg
 org: Marketing Associate
-tags: numenta hierarchical temporal memory htm blog
+keywords: "numenta, hierarchical temporal memory, htm, blog"
 title: "Berkeley Brings Brain Theory Conference to the Bay"
+header: "Berkeley Brings Brain Theory Conference to the Bay"
 type: post
 ---
 Earlier this year, Berkeley kicked off a new program called [The Brain and Computation](https://simons.berkeley.edu/programs/brain2018). This semester-long series of 4 workshops aims to bring together researchers from brain science and theoretical computer science to tackle some of the most challenging problems in brain science today.  
