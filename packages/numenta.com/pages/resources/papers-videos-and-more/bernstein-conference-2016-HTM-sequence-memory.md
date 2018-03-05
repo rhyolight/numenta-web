@@ -14,7 +14,7 @@ sort: b
 type: post
 ---
 
-Sequence learning is ubiquitous in cortex. This poster explains a neural mechanism for sequence learning, HTM Sequence Memory.
+Sequence learning is ubiquitous in cortex. This poster explains a neural mechanism for sequence learning called HTM (Hierarchical Temporal Memory) Sequence Memory.
 
 <br />
 
