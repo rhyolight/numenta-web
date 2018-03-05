@@ -14,7 +14,7 @@ sort: b
 type: post
 ---
 
-This poster answers the question: how can the cortex build a sensorimotor model of the world? Knowing that we learn the structure of the world from sensorimotor sequences through active exploration, how can we build and test a detailed biological model?
+This poster, Maintaining Stable Perception During Active Exploration, answers the question: how can the cortex build a sensorimotor model of the world? Knowing that we learn the structure of the world from sensorimotor sequences through active exploration, how can we build and test a detailed biological model?
 
 <br />
 
