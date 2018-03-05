@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: While Numenta may not be in the business of selling traditional products, we are in the business of making our technology pervasive. To that end, we build sample applications that demonstrate the value of HTM
+description: While Numenta may not be in the business of selling traditional products, we are in the business of making our technology pervasive. To that end, we build sample applications that demonstrate the value of HTM
 date: 2016/02/18
 hideImage: true
 image: ../images/image.png

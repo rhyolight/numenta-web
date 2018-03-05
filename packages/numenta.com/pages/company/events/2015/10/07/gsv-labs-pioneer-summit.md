@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: We are convening the leading venture and growth companies from around the world, highly curated by the GSV TEAM, to gather in Silicon Valley. We don’t want incremental ideas
+description: We are convening the leading venture and growth companies from around the world, highly curated by the GSV TEAM, to gather in Silicon Valley. We don’t want incremental ideas
 date: 2015/10/07
 event:
   when:

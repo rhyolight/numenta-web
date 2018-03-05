@@ -1,6 +1,6 @@
 ---
 author: "Donna Dubinsky"
-brief: "In this post, I’d like to tell you about some changes and updates to our open source and commercial licensing strategy. First, effective today, we will be using the"
+description: "In this post, I’d like to tell you about some changes and updates to our open source and commercial licensing strategy. First, effective today, we will be using the"
 date: 2015/08/17
 hideImage: false
 image: ../images/image.png

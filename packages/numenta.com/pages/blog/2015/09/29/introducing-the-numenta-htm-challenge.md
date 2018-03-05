@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief: Numenta has held five hackathons over the past several years to engage our community of dedicated and passionate HTM enthusiasts. It's been a great time for lots of people involved. We've grown together and created some really interesting things!
+description: Numenta has held five hackathons over the past several years to engage our community of dedicated and passionate HTM enthusiasts. It's been a great time for lots of people involved. We've grown together and created some really interesting things!
 date: 2015/09/29
 image: ../images/image.png
 org: Open Source Manager

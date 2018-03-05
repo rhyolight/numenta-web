@@ -1,6 +1,6 @@
 ---
 author: Eileen McNulty
-brief:
+description:
 date: 2014/09/16
 image:
 link: http://dataconomy.com/10-machine-learning-experts-you-need-to-know/

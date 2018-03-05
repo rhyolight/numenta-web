@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: I’m writing today to give you a progress report from Numenta.  We have continued to make strides towards our mission of being a catalyst for machine intelligence.
+description: I’m writing today to give you a progress report from Numenta.  We have continued to make strides towards our mission of being a catalyst for machine intelligence.
 date: 2014/06/10
 image: ../../../../images/numenta.png
 org: CEO

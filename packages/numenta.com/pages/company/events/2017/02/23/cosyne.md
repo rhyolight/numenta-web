@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2017/02/23
 event:
   what: Robust object learning with cross-cortical column connections

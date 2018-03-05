@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief:
+description:
 date: 2016/09/25
 event:
   what: "Hierarchical Temporal Memory: Computing Like the Brain"

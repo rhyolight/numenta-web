@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: Today we hear so much about "big data" and the database tools you can use to sort through large amounts of data. However at Numenta we see a different future.
+description: Today we hear so much about "big data" and the database tools you can use to sort through large amounts of data. However at Numenta we see a different future.
 date: 2012/05/23
 image: ../images/image.png
 org: Founder

@@ -1,6 +1,6 @@
 ---
 author: "Marty Lasden"
-brief:
+description:
 date: 2015/05/11
 image:
 link: http://www.uctv.tv/shows/The-Future-of-Artificial-Intelligence-Up-Next-Perspectives-on-the-Future-of-Everything-29526

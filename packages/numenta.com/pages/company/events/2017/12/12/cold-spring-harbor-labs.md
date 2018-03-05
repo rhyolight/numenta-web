@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2017/12/12
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"

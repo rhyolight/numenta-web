@@ -1,6 +1,6 @@
 ---
 author: "Donna Dubinsky"
-brief: "It’s been exciting to see the early positive reaction to our NuPIC open source project (Numenta Platform for Intelligent Computing).  As part of the team that helped start this project, I’m optimistic that great work will come out of it"
+description: "It’s been exciting to see the early positive reaction to our NuPIC open source project (Numenta Platform for Intelligent Computing).  As part of the team that helped start this project, I’m optimistic that great work will come out of it"
 date: 2013/07/01
 hideImage: false
 image: ../images/image.png

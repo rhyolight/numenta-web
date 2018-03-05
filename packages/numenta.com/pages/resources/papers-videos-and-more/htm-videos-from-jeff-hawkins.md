@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: These two videos are similar, and provide an overview of HTM and associated topics by Numenta’s founder, Jeff Hawkins. The talks have slightly different emphasis. For instance, the first video has more details on SDRs.
+description: These two videos are similar, and provide an overview of HTM and associated topics by Numenta’s founder, Jeff Hawkins. The talks have slightly different emphasis. For instance, the first video has more details on SDRs.
 date: 2014/11/22
 image:
 link:

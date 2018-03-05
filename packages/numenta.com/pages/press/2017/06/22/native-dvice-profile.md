@@ -1,6 +1,6 @@
 ---
 author: "Donna Dubinsky"
-brief:
+description:
 date: 2017/06/22
 image:
 link:  http://thenativesociety.com/tnspeak/donna-dubinsky-ceo-co-founder-numenta.html

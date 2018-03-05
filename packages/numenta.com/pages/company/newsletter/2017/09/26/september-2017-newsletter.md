@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "As we say goodbye to summer and hello to fall, we find ourselves quite busy, and I’m happy to share several updates with you. First, we recently published a new manuscript to bioRxiv, titled “Untangling Sequences: Behavior vs. External Causes,” which looks at how the same neural mechanism can process two different types of sequences: sequences where sensory inputs change due to external factors, and sequences where inputs change due to our own behavior (sensorimotor sequences)."
+description: "As we say goodbye to summer and hello to fall, we find ourselves quite busy, and I’m happy to share several updates with you. First, we recently published a new manuscript to bioRxiv, titled “Untangling Sequences: Behavior vs. External Causes,” which looks at how the same neural mechanism can process two different types of sequences: sequences where sensory inputs change due to external factors, and sequences where inputs change due to our own behavior (sensorimotor sequences)."
 date: 2017/09/26
 hideImage: false
 image: ../images/september.png

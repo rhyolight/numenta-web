@@ -1,4 +1,4 @@
 ---
 title: Press
-brief: Press Releases
+description: Press Releases
 ---

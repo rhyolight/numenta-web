@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "Bringing NuPIC to Java is an important milestone in NuPIC technology due to the size and significance of Java's user base. Because Java is the world's most used programming language, HTM now has the advantage"
+description: "Bringing NuPIC to Java is an important milestone in NuPIC technology due to the size and significance of Java's user base. Because Java is the world's most used programming language, HTM now has the advantage"
 date: 2014/12/03
 hideImage: false
 image: ../images/image.png

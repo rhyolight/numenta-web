@@ -1,6 +1,6 @@
 ---
 author: "David Ragazzi"
-brief: "Hello NuPICers! I am introducing a nice tool for the NuPIC community. NuPIC Studio is a powerful all-in-one tool that allows users create an HTM network from scratch, train it"
+description: "Hello NuPICers! I am introducing a nice tool for the NuPIC community. NuPIC Studio is a powerful all-in-one tool that allows users create an HTM network from scratch, train it"
 date: 2014/11/24
 hideImage: false
 image: ../images/image.png

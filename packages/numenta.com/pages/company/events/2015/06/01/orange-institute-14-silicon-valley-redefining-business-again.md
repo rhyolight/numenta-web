@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief:
+description:
 date: 2015/06/01
 event:
   when:

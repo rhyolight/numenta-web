@@ -1,7 +1,7 @@
 ---
 ignored: true
 author: Scott Purdy
-brief:
+description:
 date: 2014/10/15
 event:
   what: Building an Anomaly Service for AWS

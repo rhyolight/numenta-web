@@ -1,6 +1,6 @@
 ---
 author: Rahul Agarwal
-brief: This video tutorial follows the 2011 HTM whitepaper, and is largely obsolete. The content of this tutorial will be replace by HTM School (over time).
+description: This video tutorial follows the 2011 HTM whitepaper, and is largely obsolete. The content of this tutorial will be replace by HTM School (over time).
 date: 2013/08/03
 image:
 link:

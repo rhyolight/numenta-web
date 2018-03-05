@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "I’m happy to share two exciting announcements with you this month. First, we recently completed our initial paper on sensorimotor integration, “Why Does the Neocortex Have Layers and Columns, A Theory of Learning the 3D Structure of the World.”  This paper articulates a major insight that Jeff had last spring when he uncovered a missing ingredient about how the brain works."
+description: "I’m happy to share two exciting announcements with you this month. First, we recently completed our initial paper on sensorimotor integration, “Why Does the Neocortex Have Layers and Columns, A Theory of Learning the 3D Structure of the World.”  This paper articulates a major insight that Jeff had last spring when he uncovered a missing ingredient about how the brain works."
 date: 2017/07/24
 hideImage: false
 image: ../images/july.png

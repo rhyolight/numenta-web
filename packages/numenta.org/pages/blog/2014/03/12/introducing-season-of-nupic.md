@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "Unfortunately, NuPIC was unable to participate in Google's Summer of Code program this year, but some of our community members suggested that we go ahead and host our own GSoC-like event, much like the KDE community does"
+description: "Unfortunately, NuPIC was unable to participate in Google's Summer of Code program this year, but some of our community members suggested that we go ahead and host our own GSoC-like event, much like the KDE community does"
 date: 2014/03/12
 hideImage: false
 image: ../images/image.png

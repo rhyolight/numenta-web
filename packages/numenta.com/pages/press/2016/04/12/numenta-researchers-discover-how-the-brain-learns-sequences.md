@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: REDWOOD CITY, CA –April 12, 2016— How do our brains learn and understand the world? That question is of paramount importance to both neuroscientists and technologists who want to build intelligent machines.
+description: REDWOOD CITY, CA –April 12, 2016— How do our brains learn and understand the world? That question is of paramount importance to both neuroscientists and technologists who want to build intelligent machines.
 date: 2016/04/12
 hideImage: true
 image: ../images/image.jpg

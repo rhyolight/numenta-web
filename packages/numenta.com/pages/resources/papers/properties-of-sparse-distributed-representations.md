@@ -1,6 +1,6 @@
 ---
 author: "Subutai Ahmad & Jeff Hawkins"
-brief: "An earlier version of the above submission, this paper applies our mathematical model of sparse representations to practical HTM systems."
+description: "An earlier version of the above submission, this paper applies our mathematical model of sparse representations to practical HTM systems."
 category: neuroscience, sparse-distributed-representations
 date: 2015/03/25
 hideImage: true

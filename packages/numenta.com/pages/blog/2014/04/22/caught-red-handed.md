@@ -1,6 +1,6 @@
 ---
 author: Jared Casner
-brief: Like most engineering managers, I like to know when someone is manually touching one of our servers. That’s especially true for production systems, but also
+description: Like most engineering managers, I like to know when someone is manually touching one of our servers. That’s especially true for production systems, but also
 date: 2014/04/22
 image: ../images/image.png
 org: Director, Product Development

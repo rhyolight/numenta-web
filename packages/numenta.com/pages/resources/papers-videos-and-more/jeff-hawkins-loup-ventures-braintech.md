@@ -1,6 +1,6 @@
 ---
 author: Doug Clinton
-brief: Jeff was invited by Loup Ventures as a guest in its Braintech podcast series. Loup Ventures is a venture capital firm that publishes research on AI, robotics, virtual reality, and augmented reality. In this podcast, Jeff talks about intelligence and what led to his inspiration to study the brain. He describes Numenta's biological approach and how it differs from other deep learning techniques as a path to truly intelligent machines. He also shares his opinion on a variety of AI topics and what he’s learned since On Intelligence.
+description: Jeff was invited by Loup Ventures as a guest in its Braintech podcast series. Loup Ventures is a venture capital firm that publishes research on AI, robotics, virtual reality, and augmented reality. In this podcast, Jeff talks about intelligence and what led to his inspiration to study the brain. He describes Numenta's biological approach and how it differs from other deep learning techniques as a path to truly intelligent machines. He also shares his opinion on a variety of AI topics and what he’s learned since On Intelligence.
 date: 2018/01/05
 image:
 link: http://loupventures.com/002-jeff-hawkins/

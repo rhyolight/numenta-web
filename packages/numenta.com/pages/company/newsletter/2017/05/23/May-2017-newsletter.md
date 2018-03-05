@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "I’m pleased to share that several of our employees will be speaking at
+description: "I’m pleased to share that several of our employees will be speaking at
 upcoming events across the country over the next couple of months. These
 events will target a broad range of audiences, from neuroscientists to
 data scientists to AI enthusiasts."

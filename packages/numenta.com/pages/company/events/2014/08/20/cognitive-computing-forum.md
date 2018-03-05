@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2014/08/20
 event:
   what: Understanding Cortical Principles and Building Intelligent Machines

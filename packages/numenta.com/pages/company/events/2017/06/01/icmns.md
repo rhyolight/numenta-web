@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui
-brief:
+description:
 date: 2017/06/01
 event:
   what: "Presence of high order cell assemblies in mouse visual cortices during natural movie stimulation"

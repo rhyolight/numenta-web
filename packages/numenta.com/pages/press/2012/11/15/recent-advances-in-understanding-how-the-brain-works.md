@@ -1,6 +1,6 @@
 ---
 author: "Graduate Council Lectures"
-brief:
+description:
 date: 2012/11/15
 image:
 link: http://www.youtube.com/watch?v=qZM9JREjnp4

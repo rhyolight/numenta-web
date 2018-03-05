@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: Around this time of year the US goes crazy over the Super Bowl. So be it, but did you ever think the Super Bowl could help you understand how your brain works? Well, it can!
+description: Around this time of year the US goes crazy over the Super Bowl. So be it, but did you ever think the Super Bowl could help you understand how your brain works? Well, it can!
 date: 2015/01/22
 image: ../images/image.jpg
 org: Subutai Ahmad & Ryan McCall

@@ -31,10 +31,17 @@ const ImageLink = ({children, title, itemProp, to}) => {
   }
   let Node = Link
 
-  if (to && to.match(/^.+:/)) {
+  if (to && (
+    to.match(/^.+:/) || to.match(/^\/assets\//) || to.match(/\.pdf$/)
+  )) {
     // external link (browser location)
     Node = 'a'
-    attrs.href = to
+    if (to.match(/^.*:/)) {
+      attrs.href = to  // = mailto:etc@blah.com
+    }
+    else if (to.match(/^\/assets\//) || to.match(/\.pdf$/)) {
+      attrs.href = prefixLink(to)  // = /assets/etc/
+    }
     delete attrs.to
   }
   else if (to === '/') {

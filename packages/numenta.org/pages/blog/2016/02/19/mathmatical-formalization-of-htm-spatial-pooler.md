@@ -1,6 +1,6 @@
 ---
 author: "James Mnatzaganian"
-brief: "Those of you subscribing to the nupic-theory mailing list are aware that a new research paper describing a mathematical model for the spatial pooler (SP) has emerged. Many of us have asked “What is the math behind the SP?”"
+description: "Those of you subscribing to the nupic-theory mailing list are aware that a new research paper describing a mathematical model for the spatial pooler (SP) has emerged. Many of us have asked “What is the math behind the SP?”"
 date: 2016/02/19
 hideImage: false
 image: ../images/image.png

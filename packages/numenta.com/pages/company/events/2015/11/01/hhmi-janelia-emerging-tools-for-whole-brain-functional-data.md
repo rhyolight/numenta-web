@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: In the last few years, optical techniques have emerged that allow near-simultaneous acquisition of neuronal activity at the whole-brain level and with single-cell resolution
+description: In the last few years, optical techniques have emerged that allow near-simultaneous acquisition of neuronal activity at the whole-brain level and with single-cell resolution
 date: 2015/11/01
 event:
   when:

@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: I am pleased to share with our newsletter subscribers the availability of Grok Amazon Web Services (AWS) Marketplace. Grok monitors complex networks running
+description: I am pleased to share with our newsletter subscribers the availability of Grok Amazon Web Services (AWS) Marketplace. Grok monitors complex networks running
 date: 2014/02/04
 image: ../../../../images/numenta.png
 org: CEO

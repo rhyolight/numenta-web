@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: The Berkeley Symposium on Energy Efficient Electronic Systems brings together researchers from around the world who are working on breakthrough improvements in energy efficiency for information processing systems
+description: The Berkeley Symposium on Energy Efficient Electronic Systems brings together researchers from around the world who are working on breakthrough improvements in energy efficiency for information processing systems
 date: 2015/10/01
 event:
 #  what:

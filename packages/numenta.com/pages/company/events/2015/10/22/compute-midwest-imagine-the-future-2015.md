@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: Get inspired. Learn about what is next in technology. Straight from tech leaders, startup founders and visionaries. Hear the stories of innovators who are building companies that change our life, our work and our business.
+description: Get inspired. Learn about what is next in technology. Straight from tech leaders, startup founders and visionaries. Hear the stories of innovators who are building companies that change our life, our work and our business.
 date: 2015/10/22
 event:
   what: The Future of Machine Intelligence

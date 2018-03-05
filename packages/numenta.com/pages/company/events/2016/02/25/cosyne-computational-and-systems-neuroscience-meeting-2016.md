@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2016/02/25
 event:
   what: A Theory of Sequence Memory in the Neocortex

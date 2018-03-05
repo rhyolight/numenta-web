@@ -1,6 +1,6 @@
 ---
 author: "Yuwei Cui"
-brief: "The mission of Numenta is to discover the computational principles of the neocortex, the seat of intelligence in our brain. We believe this endeavor requires a detailed understanding of experimental neuroscience"
+description: "The mission of Numenta is to discover the computational principles of the neocortex, the seat of intelligence in our brain. We believe this endeavor requires a detailed understanding of experimental neuroscience"
 date: 2016/12/09
 hideImage: false
 image: ../images/image.png

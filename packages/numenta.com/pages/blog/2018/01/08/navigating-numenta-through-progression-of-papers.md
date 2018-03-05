@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "For the near thirteen years that Numenta has existed, we have had two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. While we sometimes refer to them as dual missions, the order matters. We’ve gone through different business models over the years-from focusing on a single product to building example applications to now focusing solely on neuroscience research and theory. Yet our primary mission has always been a scientific one."
+description: "For the near thirteen years that Numenta has existed, we have had two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. While we sometimes refer to them as dual missions, the order matters. We’ve gone through different business models over the years-from focusing on a single product to building example applications to now focusing solely on neuroscience research and theory. Yet our primary mission has always been a scientific one."
 date: 2018/01/08
 hideImage: false
 image: ../images/research-papers.png

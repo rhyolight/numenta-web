@@ -1,6 +1,6 @@
 ---
 author: Rob Haitani
-brief: Years ago, a retiring artificial intelligence researcher told Jeff Hawkins that "one of biggest problems in AI--no, the only problem in AI--is the problem of representation." If the meaning of that statement isn't intuitively obvious
+description: Years ago, a retiring artificial intelligence researcher told Jeff Hawkins that "one of biggest problems in AI--no, the only problem in AI--is the problem of representation." If the meaning of that statement isn't intuitively obvious
 date: 2012/08/27
 image: ../images/image.png
 org: Marketing

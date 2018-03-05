@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "I think I say this after every NuPIC hackathon we host, but this hackathon was the best one yet! We had well over 50 participants, 16 demos, and a ton of fun and community bonding. It was really nice to see some new faces at this"
+description: "I think I say this after every NuPIC hackathon we host, but this hackathon was the best one yet! We had well over 50 participants, 16 demos, and a ton of fun and community bonding. It was really nice to see some new faces at this"
 date: 2014/10/30
 hideImage: false
 image: ../images/image.png

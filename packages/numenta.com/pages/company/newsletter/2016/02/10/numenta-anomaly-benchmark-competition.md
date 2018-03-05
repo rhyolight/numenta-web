@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: This month, I am pleased to announce the Numenta Anomaly Benchmark competition offered in conjunction with the IEEE WCCI (World Congress on Computational Intelligence). This contest follows the release last fall of our
+description: This month, I am pleased to announce the Numenta Anomaly Benchmark competition offered in conjunction with the IEEE WCCI (World Congress on Computational Intelligence). This contest follows the release last fall of our
 date: 2016/02/10
 image: ../../../../images/numenta.png
 org: Director of Marketing

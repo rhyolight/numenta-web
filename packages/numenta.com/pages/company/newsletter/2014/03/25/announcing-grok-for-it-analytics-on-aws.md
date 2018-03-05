@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: Today is an important day for Numenta.  We are pleased to announce the general availability of Grok on the Amazon Web Services Marketplace. We will be showcasing Grok at the
+description: Today is an important day for Numenta.  We are pleased to announce the general availability of Grok on the Amazon Web Services Marketplace. We will be showcasing Grok at the
 date: 2014/03/25
 image: ../../../../images/numenta.png
 org: CEO

@@ -73,7 +73,6 @@ class Template extends React.Component {
       {'http-equiv': 'X-UA-Compatible', content: 'IE=edge'},
       {name: 'author', content: `${company}`},
       {name: 'description', content: title},
-      {name: 'keywords', content: title.split(' ').join(',')},
       {
         name: 'generator',
         content: `© ${now} ${siteHost} v=${STAMP} x Gatsby.js`,

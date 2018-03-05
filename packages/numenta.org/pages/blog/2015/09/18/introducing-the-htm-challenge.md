@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "The Numenta HTM Challenge is an online contest that starts today and runs util November 14th. Participants must come up with ideas for real-world applications of HTM technology and submit them."
+description: "The Numenta HTM Challenge is an online contest that starts today and runs util November 14th. Participants must come up with ideas for real-world applications of HTM technology and submit them."
 date: 2015/09/18
 hideImage: false
 image: ../images/image.png

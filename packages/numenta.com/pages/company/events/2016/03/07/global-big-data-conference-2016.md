@@ -1,6 +1,6 @@
 ---
 author: Alexander Lavin
-brief:
+description:
 date: 2016/03/07
 event:
   what: Global Big Data Conference 2016

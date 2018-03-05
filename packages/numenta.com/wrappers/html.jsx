@@ -12,13 +12,14 @@ import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
  */
 const HtmlWrapper = ({route}, {config}) => {
   const post = route.page.data
+  const header = post.header || post.title
 
   return (
     <div className="html">
       <Helmet title={post.title}>
         {getMetadataTags(post, config.baseUrl)}
       </Helmet>
-      <h1 dangerouslySetInnerHTML={{__html: post.title}} />
+      <h1 dangerouslySetInnerHTML={{__html: header}} />
       <div dangerouslySetInnerHTML={{__html: post.body}} />
     </div>
   )

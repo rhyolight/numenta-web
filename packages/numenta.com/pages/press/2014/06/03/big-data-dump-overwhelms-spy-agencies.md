@@ -1,6 +1,6 @@
 ---
 author: Jordan Robertson
-brief:
+description:
 date: 2014/06/03
 image:
 link: http://www.bloomberg.com/news/2014-06-03/big-data-s-dumping-grounds-how-hoarding-hinders-startups-to-spy-agencies.html

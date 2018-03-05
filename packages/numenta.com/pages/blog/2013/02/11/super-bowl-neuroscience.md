@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: We promised to explain how the Sparse Football Pool relates to the brain, the CLA (Numenta's Cortical Learning Algorithm) and Intelligence.  The CLA relies on
+description: We promised to explain how the Sparse Football Pool relates to the brain, the CLA (Numenta's Cortical Learning Algorithm) and Intelligence.  The CLA relies on
 date: 2013/02/11
 image: ../images/image.png
 org: VP Research

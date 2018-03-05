@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "Jeff Hawkins and Numenta VP of Engineering Subutai Ahmad will be at this event to go through the CLA Quiz, a serious of challenging questions about how NuPIC algorithms work"
+description: "Jeff Hawkins and Numenta VP of Engineering Subutai Ahmad will be at this event to go through the CLA Quiz, a serious of challenging questions about how NuPIC algorithms work"
 date: 2013/11/11
 hideImage: false
 image: ../images/image.png

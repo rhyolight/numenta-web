@@ -1,6 +1,6 @@
 ---
 author: Don Clark
-brief:
+description:
 date: 2016/05/22
 image:
 link: http://www.wsj.com/articles/new-chips-propel-machine-learning-1463957238

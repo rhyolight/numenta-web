@@ -1,6 +1,6 @@
 ---
 author: Zuha Agha
-brief: The wait is over! We are proud to announce the winners of the 2016 Numenta Anomaly Benchmark (NAB) Competition, held in conjunction with IEEE World Congress on Computational Intelligence.
+description: The wait is over! We are proud to announce the winners of the 2016 Numenta Anomaly Benchmark (NAB) Competition, held in conjunction with IEEE World Congress on Computational Intelligence.
 date: 2016/08/10
 hideImage: true
 image: ../images/image.png

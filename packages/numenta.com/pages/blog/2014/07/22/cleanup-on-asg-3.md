@@ -1,6 +1,6 @@
 ---
 author: Joe Block
-brief: I saw a notification from Grok that our web server auto scaling group (ASG) was acting anomalously. At first I thought it was only because we were heavier
+description: I saw a notification from Grok that our web server auto scaling group (ASG) was acting anomalously. At first I thought it was only because we were heavier
 date: 2014/07/22
 image: ../images/image.png
 org: Site Reliability Engineer

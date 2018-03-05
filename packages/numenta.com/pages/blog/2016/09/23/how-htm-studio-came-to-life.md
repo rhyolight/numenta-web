@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: "It’s been a few months since we first launched HTM Studio and things have calmed down from a development perspective. I sat down with Marion Le Borgne, project manager and lead engineer for HTM Studio, to get her thoughts on the process and efforts it took to build the application."
+description: "It’s been a few months since we first launched HTM Studio and things have calmed down from a development perspective. I sat down with Marion Le Borgne, project manager and lead engineer for HTM Studio, to get her thoughts on the process and efforts it took to build the application."
 date: 2016/09/23
 hideImage: true
 image: ../images/image.png

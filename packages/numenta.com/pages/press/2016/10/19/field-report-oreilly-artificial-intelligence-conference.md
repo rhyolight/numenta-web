@@ -1,6 +1,6 @@
 ---
 author: Howard Goldowsky
-brief:
+description:
 date: 2016/10/19
 image:
 link: http://insidebigdata.com/2016/10/19/field-report/

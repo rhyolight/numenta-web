@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: I am often asked, "Is Numenta’s Hierarchical Temporal Memory a neural network?" The short answer to this question is "Yes," but the problem with this short
+description: I am often asked, "Is Numenta’s Hierarchical Temporal Memory a neural network?" The short answer to this question is "Yes," but the problem with this short
 date: 2013/02/19
 image: ../images/main.jpg
 org: Founder

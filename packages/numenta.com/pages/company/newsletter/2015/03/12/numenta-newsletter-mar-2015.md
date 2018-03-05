@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: As part of the community interested in machine intelligence, you may be following the current public debate about whether artificial intelligence should be feared or encouraged. Jeff Hawkins recently
+description: As part of the community interested in machine intelligence, you may be following the current public debate about whether artificial intelligence should be feared or encouraged. Jeff Hawkins recently
 date: 2015/03/12
 image: ../../../../images/numenta.png
 org: CEO

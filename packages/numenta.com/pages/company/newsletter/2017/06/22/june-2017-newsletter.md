@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "I’m pleased to announce that we published two new papers this month. The
+description: "I’m pleased to announce that we published two new papers this month. The
 first is an article that our co-founder Jeff Hawkins was invited to
 write for an IEEE Spectrum Special Report titled “Can we Copy the
 Brain?” The report, which focuses on worldwide efforts to understand the brain

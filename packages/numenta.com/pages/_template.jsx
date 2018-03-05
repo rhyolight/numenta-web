@@ -93,7 +93,6 @@ class Template extends React.Component {
       },
       {name: 'twitter:description', content: `${description}`},
       {name: 'twitter:site', content: '@numenta'},
-      {name: 'keywords', content: title.split(' ').join(',')},
       {
         name: 'generator',
         content: `© ${now} ${siteHost} v=${STAMP} x Gatsby.js`,

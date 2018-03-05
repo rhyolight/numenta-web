@@ -1,6 +1,6 @@
 ---
 author: "Jeff Hawkins"
-brief: "I started studying brain theory over thirty years ago.  At that time most computer scientists didn’t think the brain was relevant to AI and most biologists thought the brain was so complicated that it would take hundreds of"
+description: "I started studying brain theory over thirty years ago.  At that time most computer scientists didn’t think the brain was relevant to AI and most biologists thought the brain was so complicated that it would take hundreds of"
 date: 2013/06/03
 hideImage: false
 image: ../images/image.png

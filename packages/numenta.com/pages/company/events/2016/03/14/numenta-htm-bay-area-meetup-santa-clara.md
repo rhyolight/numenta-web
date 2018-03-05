@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2016/03/14
 event:
   what: HTM Bay Area Meetup

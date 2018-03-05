@@ -1,6 +1,6 @@
 ---
 author: Jared Weiss
-brief: Using Grok's custom metrics, I sampled and fed AWS burnrate statistics into Grok for regional burnrates as well as instance counts. Since AWS instances vary in pricing, spinning up one EC2 I2-8xlarge instance could be just as much of a
+description: Using Grok's custom metrics, I sampled and fed AWS burnrate statistics into Grok for regional burnrates as well as instance counts. Since AWS instances vary in pricing, spinning up one EC2 I2-8xlarge instance could be just as much of a
 date: 2014/08/29
 image: ../images/image.png
 org: Engineering Intern

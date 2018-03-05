@@ -1,6 +1,6 @@
 ---
 author: Nick Vasiloglou
-brief:
+description:
 date: 2016/10/26
 image:
 link: http://mlconf.com/interview-austin-marshall-numenta/

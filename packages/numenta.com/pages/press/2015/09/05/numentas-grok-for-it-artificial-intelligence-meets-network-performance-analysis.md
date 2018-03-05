@@ -1,6 +1,6 @@
 ---
 author: Mark Gibbs
-brief:
+description:
 date: 2015/09/05
 image:
 link: http://www.networkworld.com/article/2980746/infrastructure-management/numentas-grok-for-it-artificial-intelligence-meets-network-performance-analysis.html

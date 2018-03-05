@@ -1,6 +1,6 @@
 ---
 author: "Erik Blas"
-brief: "On April 24, 2013 Numenta hosted their first hackathon, a private event commemorating the recent release of NuPIC (Numenta Platform for Intelligent Computing) to the OSS world."
+description: "On April 24, 2013 Numenta hosted their first hackathon, a private event commemorating the recent release of NuPIC (Numenta Platform for Intelligent Computing) to the OSS world."
 date: 2013/07/09
 hideImage: false
 image: ../images/image.png

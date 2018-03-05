@@ -1,6 +1,6 @@
 ---
 author: Eileen McNulty
-brief:
+description:
 date: 2014/11/12
 image:
 link: http://dataconomy.com/cortical-io-gain-1-25-million-in-new-venture-capital-share-grand-plans-for-the-future/

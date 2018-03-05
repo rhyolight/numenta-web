@@ -1,6 +1,6 @@
 ---
 author: Janet Wagner
-brief:
+description:
 date: 2014/09/05
 image:
 link: http://www.programmableweb.com/news/cognitive-computing-makes-it-possible-to-build-truly-amazing-apps/analysis/2014/09/05

@@ -1,6 +1,6 @@
 ---
 author: Marcus Lewis
-brief:
+description:
 date: 2018/05/21
 event:
   what: Using Grid Cells for Coordinate Transforms

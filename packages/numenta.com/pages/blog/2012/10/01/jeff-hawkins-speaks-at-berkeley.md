@@ -1,6 +1,6 @@
 ---
 author: Rob Haitani
-brief: This week Jeff Hawkins will present two talks in the prestigious Berkeley Hitchcock Lectures series. We're proud of the recognition that Jeff's work has received in the academic community.
+description: This week Jeff Hawkins will present two talks in the prestigious Berkeley Hitchcock Lectures series. We're proud of the recognition that Jeff's work has received in the academic community.
 date: 2012/10/01
 image: ../images/image.png
 org: Marketing
