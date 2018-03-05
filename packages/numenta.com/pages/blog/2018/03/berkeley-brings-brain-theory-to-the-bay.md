@@ -1,6 +1,6 @@
 ---
 author: Joanne Cua
-brief: "Earlier this year, Berkeley kicked off a new program called The Brain and Computation. This semester-long series of 4 workshops aims to bring together researchers from brain science and theoretical computer science to tackle some of the most challenging problems in brain science today."
+brief: Earlier this year, Berkeley kicked off a new program called The Brain and Computation. This semester-long series of 4 workshops aims to bring together researchers from brain science and theoretical computer science to tackle some of the most challenging problems in brain science today.
 date: 2018/03/05
 hideImage: false
 image: ../images/calvin-lab.jpg
