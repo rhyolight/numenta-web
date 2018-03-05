@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2014/10/30
 event:
   what: What the Brain Can Tell Us About the Future of Computing

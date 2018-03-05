@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "The Brain Science Podcast, hosted by Dr. Ginger Campbell, features recent discoveries about neuroscience and interviews with scientists around the world. “Dr. Campbell believes that understanding how the brain works gives us insight into what makes us human. She is also committed to showing how the scientific method has unraveled many long-standing mysteries"
+description: "The Brain Science Podcast, hosted by Dr. Ginger Campbell, features recent discoveries about neuroscience and interviews with scientists around the world. “Dr. Campbell believes that understanding how the brain works gives us insight into what makes us human. She is also committed to showing how the scientific method has unraveled many long-standing mysteries"
 date: 2017/11/27
 hideImage: true
 image: ../images/brainsciencepodcast.jpg

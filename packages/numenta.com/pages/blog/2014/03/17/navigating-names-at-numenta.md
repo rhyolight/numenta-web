@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: For a company that is launching its first product, we have an unusual number of terms and names, including Numenta, Grok, HTM, and NuPIC. This abundance of names reflects our unusual mission.
+description: For a company that is launching its first product, we have an unusual number of terms and names, including Numenta, Grok, HTM, and NuPIC. This abundance of names reflects our unusual mission.
 date: 2014/03/17
 image: ../images/image.png
 org: CEO
@@ -46,7 +46,7 @@ our mission of being a leader in the new era of machine intelligence. We refer
 to the open source project as NuPIC (Numenta Platform for Intelligent
 Computing), and it is hosted at http://numenta.org.
 
-So, that’s all there is to it! In brief:
+So, that’s all there is to it! In description:
 
 | Name | Description |
 | ---- | ----------- |

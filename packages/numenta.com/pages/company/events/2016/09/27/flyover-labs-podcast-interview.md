@@ -1,6 +1,6 @@
 ---
 author: Celeste Baranski
-brief:
+description:
 date: 2016/09/27
 event:
   what: "Flyover Labs Podcast Interview with Celeste Baranski, VP of Engineering at Numenta"

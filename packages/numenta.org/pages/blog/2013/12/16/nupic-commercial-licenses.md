@@ -1,6 +1,6 @@
 ---
 author: "Donna Dubinsky"
-brief: "We created the NuPIC open source environment with the desire to build a broad community to work on these algorithms, to advance the science, and to build applications that can integrate the technology into people's lives"
+description: "We created the NuPIC open source environment with the desire to build a broad community to work on these algorithms, to advance the science, and to build applications that can integrate the technology into people's lives"
 date: 2013/12/16
 hideImage: false
 image: ../images/image.png

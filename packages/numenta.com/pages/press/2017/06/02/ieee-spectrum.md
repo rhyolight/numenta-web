@@ -1,6 +1,6 @@
 ---
 author: "Jeff Hawkins"
-brief:
+description:
 date: 2017/06/02
 image:
 link: http://spectrum.ieee.org/computing/software/what-intelligent-machines-need-to-learn-from-the-neocortex

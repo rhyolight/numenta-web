@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2016/05/12
 event:
   what: What is Intelligence, that a Machine Might Have Some?

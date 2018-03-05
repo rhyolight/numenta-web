@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief: This video was recorded on November 3, 2017 at ODSC West.
+description: This video was recorded on November 3, 2017 at ODSC West.
 date: 2017/11/03
 image:
 link: https://youtu.be/odj7z0-Sa9o

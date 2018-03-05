@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: There have been changes in our thinking, in algorithm implementation, in terminology and in other areas since this paper was written, rendering part of this paper obsolete. Much of this paper has been replaced by BAMI and the current white papers, and we will continue to provide updated material in subsequent releases of BAMI.
+description: There have been changes in our thinking, in algorithm implementation, in terminology and in other areas since this paper was written, rendering part of this paper obsolete. Much of this paper has been replaced by BAMI and the current white papers, and we will continue to provide updated material in subsequent releases of BAMI.
 date: 2011/09/12
 image:
 link: /assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf

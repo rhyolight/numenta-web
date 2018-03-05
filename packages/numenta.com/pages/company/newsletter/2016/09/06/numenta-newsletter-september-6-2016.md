@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: Summer may be winding down, but excitement has been brewing here at Numenta. We recently unveiled our newly designed website, numenta.com. Those who have been to our site in the past will recognize that this was not a minor
+description: Summer may be winding down, but excitement has been brewing here at Numenta. We recently unveiled our newly designed website, numenta.com. Those who have been to our site in the past will recognize that this was not a minor
 date: 2016/09/06
 hideImage: false
 image: ../images/video.png

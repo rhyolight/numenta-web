@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2015/02/17
 event:
   what: Streaming Analytics - It’s Not The Same Game

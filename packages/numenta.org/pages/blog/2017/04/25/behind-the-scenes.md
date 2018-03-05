@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "HTM School turned one this month, and it has accomplished a lot in its
+description: "HTM School turned one this month, and it has accomplished a lot in its
 first year. With 47,000 views and counting, the series has gained a loyal
 following of eager students soaking up the relevant components of brain theory.
 

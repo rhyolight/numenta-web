@@ -1,6 +1,6 @@
 ---
 author: "Jeff Hawkins"
-brief:
+description:
 date: 2017/03/06
 event:
   what:

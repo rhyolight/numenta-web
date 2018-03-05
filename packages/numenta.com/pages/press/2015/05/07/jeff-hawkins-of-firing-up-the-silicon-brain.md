@@ -1,6 +1,6 @@
 ---
 author: Caleb Garling
-brief:
+description:
 date: 2015/05/07
 image:
 link: http://www.wired.com/2015/05/jeff-hawkins-firing-silicon-brain/

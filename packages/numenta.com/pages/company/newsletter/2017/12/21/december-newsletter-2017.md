@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "As we wrap up 2017, I’m pleased to share several new items with you.  Our co-founder Jeff Hawkins recently completed an east coast speaking tour where he presented our latest research at three institutions: Cold Spring Harbor Labs, Boston University, and the MIT Center for Brains, Minds + Machines.  Together with our VP of Research Subutai Ahmad, they spent the week discussing our theory, engaging with scientists, and encouraging experimentalists."
+description: "As we wrap up 2017, I’m pleased to share several new items with you.  Our co-founder Jeff Hawkins recently completed an east coast speaking tour where he presented our latest research at three institutions: Cold Spring Harbor Labs, Boston University, and the MIT Center for Brains, Minds + Machines.  Together with our VP of Research Subutai Ahmad, they spent the week discussing our theory, engaging with scientists, and encouraging experimentalists."
 date: 2017/12/21
 hideImage: true
 image: ../images/december.png

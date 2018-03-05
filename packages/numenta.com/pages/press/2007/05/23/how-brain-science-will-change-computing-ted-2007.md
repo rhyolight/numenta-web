@@ -1,6 +1,6 @@
 ---
 author: "Jeff Hawkins"
-brief:
+description:
 date: 2007/05/23
 image:
 link: http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing.html

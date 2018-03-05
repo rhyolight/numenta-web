@@ -1,6 +1,6 @@
 ---
 author: Dan Sullivan
-brief:
+description:
 date: 2014/08/13
 image:
 link: http://searchcloudcomputing.techtarget.com/tip/Network-monitoring-tools-for-when-cloud-monitoring-falls-short

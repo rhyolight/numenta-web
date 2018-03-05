@@ -1,6 +1,6 @@
 ---
 author: Cortical.io
-brief:
+description:
 date: 2015/10/29
 image:
 link: http://www.prweb.com/releases/corticalio/3rdcapitalround/prweb13038027.htm

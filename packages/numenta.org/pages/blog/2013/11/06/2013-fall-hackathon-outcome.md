@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "Last weekend's hackathon was a lot of fun. Thanks to everyone for coming out. We gave several educational presentations and held some working sessions. The participation from the attendees was outstanding"
+description: "Last weekend's hackathon was a lot of fun. Thanks to everyone for coming out. We gave several educational presentations and held some working sessions. The participation from the attendees was outstanding"
 date: 2013/11/06
 hideImage: false
 image: ../images/image.png

@@ -1,6 +1,6 @@
 ---
 author: Alexander Lavin
-brief:
+description:
 date: 2016/04/23
 event:
   what: TEDx Cornell Tech

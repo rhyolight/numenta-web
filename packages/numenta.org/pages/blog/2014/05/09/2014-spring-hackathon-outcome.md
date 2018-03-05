@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "We had a great hackathon event this past weekend. This was our third hackathon, and it resulted in the most hackers, the most hacks, and the most productive environment yet. Even if you could not attend, I hope the videos"
+description: "We had a great hackathon event this past weekend. This was our third hackathon, and it resulted in the most hackers, the most hacks, and the most productive environment yet. Even if you could not attend, I hope the videos"
 date: 2014/05/09
 hideImage: false
 image: ../images/image.png

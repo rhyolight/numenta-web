@@ -1,6 +1,6 @@
 ---
 author: "Subutai Ahmad & Jeff Hawkins"
-brief: "This paper describes a mathematical model for quantifying the benefits and limitations of sparse representations in neurons and cortical networks."
+description: "This paper describes a mathematical model for quantifying the benefits and limitations of sparse representations in neurons and cortical networks."
 category: neuroscience, sparse-distributed-representations
 date: 2016/01/05
 link: http://arxiv.org/abs/1601.00720

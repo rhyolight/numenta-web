@@ -1,4 +1,4 @@
 ---
 title: Blog
-brief: Blog Posts
+description: Blog Posts
 ---

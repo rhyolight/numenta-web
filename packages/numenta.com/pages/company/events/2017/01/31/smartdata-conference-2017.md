@@ -1,6 +1,6 @@
 ---
 author: "Scott Purdy"
-brief:
+description:
 date: 2017/01/31
 event:
   what: "How to Model Streaming Data That You Know Nothing About"

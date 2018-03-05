@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: "My smartphone buzzed: Grok had sent an alert. I know that with Grok it just takes a few seconds to check things out, so I clicked on the notification graph"
+description: "My smartphone buzzed: Grok had sent an alert. I know that with Grok it just takes a few seconds to check things out, so I clicked on the notification graph"
 date: 2014/04/04
 image: ../images/image.png
 org: VP Research

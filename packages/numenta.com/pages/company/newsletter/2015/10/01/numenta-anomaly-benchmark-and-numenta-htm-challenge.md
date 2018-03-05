@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: To start with, I’m pleased to announce that we have a paper accepted on the Numenta Anomaly Benchmark (NAB).  I’ve written to you about the development of
+description: To start with, I’m pleased to announce that we have a paper accepted on the Numenta Anomaly Benchmark (NAB).  I’ve written to you about the development of
 date: 2015/10/01
 image: ../images/image.png
 org: CEO

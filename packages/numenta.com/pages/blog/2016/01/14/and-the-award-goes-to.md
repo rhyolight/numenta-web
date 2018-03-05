@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: This morning, as Hollywood anxiously awaited to hear the nominees for this year’s Academy Awards, another set of winners was recognized – not for motion pictures, but for artificial intelligence.
+description: This morning, as Hollywood anxiously awaited to hear the nominees for this year’s Academy Awards, another set of winners was recognized – not for motion pictures, but for artificial intelligence.
 date: 2016/01/14
 image: ../images/image.png
 org: Director of Marketing

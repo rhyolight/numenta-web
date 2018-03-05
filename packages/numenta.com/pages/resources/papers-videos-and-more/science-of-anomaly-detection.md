@@ -1,6 +1,6 @@
 ---
 author: Scott Purdy
-brief: This video talk on the Science of Anomaly Detection was delivered at a Numenta workshop and covers the application of HTM to anomaly detection in streaming data.
+description: This video talk on the Science of Anomaly Detection was delivered at a Numenta workshop and covers the application of HTM to anomaly detection in streaming data.
 date: 2014/10/17
 image:
 link:

@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: We are frequently asked how we distinguish our technology from others. This task is made difficult by the fact that there is not an agreed vocabulary; everybody uses the above terms (and other associated terms) differently
+description: We are frequently asked how we distinguish our technology from others. This task is made difficult by the fact that there is not an agreed vocabulary; everybody uses the above terms (and other associated terms) differently
 date: 2016/01/11
 image: ../images/image.png
 org: Jeff Hawkins & Donna Dubinsky

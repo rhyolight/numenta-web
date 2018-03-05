@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "At OSCON 2013 this past July, the Numenta team had the opportunity to give two presentations about cortical learning algorithms and NuPIC. Jeff Hawkins gave a short keynote talk entitled On Open Intelligence"
+description: "At OSCON 2013 this past July, the Numenta team had the opportunity to give two presentations about cortical learning algorithms and NuPIC. Jeff Hawkins gave a short keynote talk entitled On Open Intelligence"
 date: 2013/09/09
 hideImage: false
 image: ../images/image.png

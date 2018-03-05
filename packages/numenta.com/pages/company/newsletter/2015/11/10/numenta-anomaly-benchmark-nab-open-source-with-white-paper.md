@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: As I wrote you last month, we have been working hard on creating NAB, the Numenta Anomaly Benchmark, to test the HTM learning algorithms and enable comparison with other algorithms. Now, it’s here!
+description: As I wrote you last month, we have been working hard on creating NAB, the Numenta Anomaly Benchmark, to test the HTM learning algorithms and enable comparison with other algorithms. Now, it’s here!
 date: 2015/11/10
 image: ../../../../images/numenta.png
 org: CEO

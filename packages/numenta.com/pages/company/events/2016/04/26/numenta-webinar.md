@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief:
+description:
 date: 2016/04/26
 event:
   what: Machine Intelligence with Streaming Data. A new approach for anomaly detection and time-based learning.

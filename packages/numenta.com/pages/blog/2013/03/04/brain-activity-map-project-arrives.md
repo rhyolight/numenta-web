@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief: Last month the Obama administration announced a new ten year $3B science initiative called the "Brain Activity Map Project" (BAM). The ultimate goal is
+description: Last month the Obama administration announced a new ten year $3B science initiative called the "Brain Activity Map Project" (BAM). The ultimate goal is
 date: 2013/03/04
 image: ../images/image.png
 org: Founder

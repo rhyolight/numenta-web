@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: Redwood City, CA –July 8, 2015— Numenta, Inc., today announced the availability of HTM for Stocks, the newest example application showing how Hierarchical Temporal Memory (HTM) technology can be applied to streaming data
+description: Redwood City, CA –July 8, 2015— Numenta, Inc., today announced the availability of HTM for Stocks, the newest example application showing how Hierarchical Temporal Memory (HTM) technology can be applied to streaming data
 date: 2015/07/08
 image: ../images/image.png
 link:

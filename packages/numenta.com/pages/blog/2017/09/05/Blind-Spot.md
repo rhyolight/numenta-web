@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: "We all have them yet rarely need to think about them: a blind spot, or scotoma, in scientific language.  A blind spot is a gap in our vision, created by our own anatomy.  At the point where the optic nerve attaches to the back of the eyeball is a section that cannot detect light.  Yet, we don’t walk around perceiving gaps in our vision.  We don’t see dark spots everywhere we look.  So what’s going on?"
+description: "We all have them yet rarely need to think about them: a blind spot, or scotoma, in scientific language.  A blind spot is a gap in our vision, created by our own anatomy.  At the point where the optic nerve attaches to the back of the eyeball is a section that cannot detect light.  Yet, we don’t walk around perceiving gaps in our vision.  We don’t see dark spots everywhere we look.  So what’s going on?"
 date: 2017/09/08
 hideImage: false
 image: ../images/TheBlindSpot.jpg

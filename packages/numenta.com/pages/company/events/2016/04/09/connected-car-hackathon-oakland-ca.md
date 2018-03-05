@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief:
+description:
 date: 2016/04/09
 event:
   what: Using HTM with GPS Data

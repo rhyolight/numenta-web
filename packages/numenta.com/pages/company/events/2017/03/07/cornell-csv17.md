@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2017/03/07
 event:
   what: "CSV17: Impact through Innovation"

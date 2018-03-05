@@ -1,6 +1,6 @@
 ---
 author: Alexander Lavin
-brief: Alexander Lavin, Numenta Research Engineer, speaks on Evaluating Realtime Anomaly Detection Algorithms – the Numenta Anomaly Benchmark, at IEEE ICMLA'15 Miami.
+description: Alexander Lavin, Numenta Research Engineer, speaks on Evaluating Realtime Anomaly Detection Algorithms – the Numenta Anomaly Benchmark, at IEEE ICMLA'15 Miami.
 date: 2015/12/09
 event:
   what: Evaluating Realtime Anomaly Detection Algorithms – the Numenta Anomaly Benchmark

@@ -1,6 +1,6 @@
 ---
 author: "Donna Dubinsky"
-brief: "Tom Stoppard’s new play, The Hard Problem, poses the following question: are brains just collections of cells that can be explained in a scientific fashion, or is there something separate called the “mind” that explains consciousness?"
+description: "Tom Stoppard’s new play, The Hard Problem, poses the following question: are brains just collections of cells that can be explained in a scientific fashion, or is there something separate called the “mind” that explains consciousness?"
 date: 2016/11/10
 hideImage: false
 image: ../images/image.png

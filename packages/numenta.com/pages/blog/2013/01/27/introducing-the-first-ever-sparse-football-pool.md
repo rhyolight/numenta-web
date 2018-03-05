@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: Did you ever think the Super Bowl could help you understand how your brain works? Numenta's core algorithm, the Cortical Learning Algorithmm (CLA) relies on the
+description: Did you ever think the Super Bowl could help you understand how your brain works? Numenta's core algorithm, the Cortical Learning Algorithmm (CLA) relies on the
 date: 2013/01/27
 image: ../images/image.jpg
 org: VP Research

@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2015/03/05
 event:
   what: Maintaining Stable Perception During Active Exploration

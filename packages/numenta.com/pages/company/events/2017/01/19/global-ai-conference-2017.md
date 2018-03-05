@@ -1,6 +1,6 @@
 ---
 author: "Yuwei Cui"
-brief:
+description:
 date: 2017/01/19
 event:
   what: "Real-Time Streaming Data Analysis with HTM"

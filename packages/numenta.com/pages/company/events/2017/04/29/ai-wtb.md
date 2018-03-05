@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-brief:
+description:
 date: 2017/04/29
 event:
   what: "The Biological Path Towards Strong AI"

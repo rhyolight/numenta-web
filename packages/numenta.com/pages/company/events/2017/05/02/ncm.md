@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2017/05/02
 event:
   what: A cortical circuit for fast sensorimotor learning and recognition

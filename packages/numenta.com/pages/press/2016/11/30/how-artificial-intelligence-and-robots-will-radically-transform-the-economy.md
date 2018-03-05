@@ -1,6 +1,6 @@
 ---
 author: "Kevin Maney"
-brief:
+description:
 date: 2016/11/30
 image:
 link: http://www.newsweek.com/2016/12/09/robot-economy-artificial-intelligence-jobs-happy-ending-526467.html

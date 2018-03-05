@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "We have developed and open-sourced a project called the NuPIC Geospatial Tracking Application, which demonstrates how NuPIC can be used to provide anomaly indications for geospatial data."
+description: "We have developed and open-sourced a project called the NuPIC Geospatial Tracking Application, which demonstrates how NuPIC can be used to provide anomaly indications for geospatial data."
 date: 2014/08/08
 hideImage: false
 image: ../images/image.png

@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2015/03/02
 image:
 link: http://recode.net/2015/03/02/the-terminator-is-not-coming-the-future-will-thank-us/

@@ -1,6 +1,6 @@
 ---
 author: Donna Dubinsky
-brief: I have a lot of exciting news to share. Rather than making the newsletter overly long, I’ve provided links to get more information on any of these topics.
+description: I have a lot of exciting news to share. Rather than making the newsletter overly long, I’ve provided links to get more information on any of these topics.
 date: 2015/04/29
 image: ../../../../images/numenta.png
 org: CEO

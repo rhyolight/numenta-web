@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: "Welcome to the 3rd community hosted HTM [Hierarchical Temporal Memory] Meetup. Meet HTM hackers, AI researchers, Entrepreneurs and enthusiasts working in the field of Artificial Intelligence. Read more for a brief agenda."
+description: "Welcome to the 3rd community hosted HTM [Hierarchical Temporal Memory] Meetup. Meet HTM hackers, AI researchers, Entrepreneurs and enthusiasts working in the field of Artificial Intelligence. Read more for a brief agenda."
 date: 2016/08/08
 event:
   what: HTM Bay Area Meetup

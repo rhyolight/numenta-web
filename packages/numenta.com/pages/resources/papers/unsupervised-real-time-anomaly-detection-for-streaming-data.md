@@ -1,6 +1,6 @@
 ---
 author: "Subutai Ahmad, Alexander Lavin, Scott Purdy, Zuha Agha"
-brief: "This paper, which appears in a special issue of Neurocomputing, demonstrates how Numenta's online sequence memory algorithm, Hierarchical Temporal Memory, meets the requirements
+description: "This paper, which appears in a special issue of Neurocomputing, demonstrates how Numenta's online sequence memory algorithm, Hierarchical Temporal Memory, meets the requirements
 necessary for real-time anomaly detection in streaming data. It also presents results using the
 Numenta Anomaly Benchmark (NAB), the first open-source
 benchmark designed for testing anomaly detection algorithms on streaming data."

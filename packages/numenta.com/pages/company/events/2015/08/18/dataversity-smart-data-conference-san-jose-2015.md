@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: We are witnessing an explosion of sensors and machine generated data. Every server, every building, and every device generates a continuous stream of information that is ever changing and potentially valuable
+description: We are witnessing an explosion of sensors and machine generated data. Every server, every building, and every device generates a continuous stream of information that is ever changing and potentially valuable
 date: 2015/08/18
 event:
   what: How Cognitive Computing Will Drive the Future of Analytics

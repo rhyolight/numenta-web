@@ -4,15 +4,14 @@
 
 import startCase from 'lodash/startCase'
 import Helmet from 'react-helmet'
-import IconArrow from 'react-icons/lib/fa/caret-left'
 import moment from 'moment'
 import React from 'react'
 import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 
 import Avatar from 'numenta-web-shared-components/lib/Avatar'
 import Disqus from 'numenta-web-shared-components/lib/Disqus'
-import IconMarker from 'numenta-web-shared-components/lib/IconMarker'
 import Image from 'numenta-web-shared-components/lib/Image'
+import ImageLink from 'numenta-web-shared-components/lib/ImageLink'
 import Markdown from 'numenta-web-shared-components/lib/Markdown'
 import Section from 'numenta-web-shared-components/lib/Section'
 import Sound from 'numenta-web-shared-components/lib/Sound'
@@ -92,7 +91,7 @@ class MarkdownWrapper extends React.Component {
     let url = Object.values(links.in)
                       .filter((p) => p.length > 1 && path.startsWith(p))[0]
     let author, back, event, media, header, parent, breadcrumb
-    let brief = data.brief
+    let description = data.description
 
     // Fix breadcrumb text
     if (url === links.in.htmstudio) {
@@ -131,20 +130,6 @@ class MarkdownWrapper extends React.Component {
       )
     }
 
-    const postsWithBackButton = [
-      links.in.careers, links.in.resources,
-    ]
-    if (postsWithBackButton.indexOf(url) > -1) {
-      back = (
-        <div className={styles.back}>
-          <IconMarker icon={<IconArrow />}>
-            <TextLink to={url}>
-              All {parent} Posts
-            </TextLink>
-          </IconMarker>
-        </div>
-      )
-    }
     if (data.type === 'post') {
       author = (
         <div className={styles.author}>
@@ -193,12 +178,12 @@ class MarkdownWrapper extends React.Component {
           </TableRow>
         ))
 
-        brief = `${what}, ${getEventTimeDisplay(when)}`
+        description = `${what}, ${getEventTimeDisplay(when)}`
         if (desc) {
-          brief += `, ${desc}`
+          description += `, ${desc}`
         }
         if (location) {
-          brief += `, ${location}`
+          description += `, ${location}`
         }
 
         if (web) {
@@ -309,21 +294,38 @@ class MarkdownWrapper extends React.Component {
         )
       }
 
-      media = (
-        <div className={styles.media}>{media}</div>
-      )
+      if (data.media && data.media === 'poster') {
+        author = null
+        media = (
+          <div className={styles.poster}>
+            <ImageLink
+              title="Click on the image above to enlarge"
+              to={data.link}
+            >
+              {media}
+            </ImageLink>
+            <p>Click on the image above to enlarge</p>
+          </div>
+        )
+      }
+      else {
+        // media image
+        media = (
+          <div className={styles.media}>{media}</div>
+        )
+      }
     }
 
     return (
       <article className={styles.md}>
         <Helmet title={data.title}>
-          {getMetadataTags(data, config.baseUrl, {description: brief})}
+          {getMetadataTags(data, config.baseUrl, {description})}
         </Helmet>
         {header}
         <Section
           headline={true}
           open={true}
-          title={data.title}
+          title={data.header || data.title}
         >
           {author}
           {media}

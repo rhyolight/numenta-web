@@ -1,6 +1,6 @@
 ---
 author: Robert D. Hof
-brief:
+description:
 date: 2014/04/23
 image:
 link: http://m.technologyreview.com/featuredstory/526506/neuromorphic-chips/

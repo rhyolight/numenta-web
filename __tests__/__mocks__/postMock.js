@@ -11,7 +11,7 @@
 export default {
   data: {
     author: 'Ada Lovelace',
-    brief: 'Quick quip or intro to the full text.',
+    description: 'Quick quip or intro to the full text.',
     date: '2016/12/21',
     hideImage: false,
     image: '',

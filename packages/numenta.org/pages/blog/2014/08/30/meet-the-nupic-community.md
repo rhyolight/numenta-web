@@ -1,6 +1,6 @@
 ---
 author: "Matthew Taylor"
-brief: "I wanted to reengage our community members after a couple day of limited messages, so I asked everyone to introduce themselves, and we're getting some really fascinating"
+description: "I wanted to reengage our community members after a couple day of limited messages, so I asked everyone to introduce themselves, and we're getting some really fascinating"
 date: 2014/08/30
 hideImage: false
 image: ../images/image.png

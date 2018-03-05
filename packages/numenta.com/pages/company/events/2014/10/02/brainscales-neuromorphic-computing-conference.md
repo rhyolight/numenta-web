@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-brief:
+description:
 date: 2014/10/02
 event:
   what: Modeling Cortical Layers

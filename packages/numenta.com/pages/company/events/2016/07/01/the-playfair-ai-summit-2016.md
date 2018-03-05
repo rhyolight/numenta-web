@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief:
+description:
 date: 2016/07/01
 event:
   what: Hierarchical Temporal Memory, a theoretical framework for both biological and machine intelligence

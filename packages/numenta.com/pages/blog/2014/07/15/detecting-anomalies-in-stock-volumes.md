@@ -1,6 +1,6 @@
 ---
 author: "Viraj Sinha"
-brief: "I decided to apply Grok and the Cortical Learning Algorithm to stock data: have the CLA learn patterns and alert me to anomalies. I decided to monitor volume"
+description: "I decided to apply Grok and the Cortical Learning Algorithm to stock data: have the CLA learn patterns and alert me to anomalies. I decided to monitor volume"
 date: 2014/07/15
 image: ../images/image.png
 org: "Engineering Intern"

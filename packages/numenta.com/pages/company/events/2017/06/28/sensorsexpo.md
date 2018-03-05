@@ -1,6 +1,6 @@
 ---
 author: Marion LeBorgne
-brief:
+description:
 date: 2017/06/28
 event:
   what: "A New Type of Neural Network for Anomaly Detection in Sensor Data"

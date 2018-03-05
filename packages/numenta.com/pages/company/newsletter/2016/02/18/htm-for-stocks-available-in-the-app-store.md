@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief: I'm pleased to announce that we have released an iOS version of HTM for Stocks, a demonstration application that enables anybody to experience HTM technology firsthand. Previously available for Android only, HTM for Stocks now can be
+description: I'm pleased to announce that we have released an iOS version of HTM for Stocks, a demonstration application that enables anybody to experience HTM technology firsthand. Previously available for Android only, HTM for Stocks now can be
 date: 2016/02/18
 image: ../images/image.png
 org: Director of Marketing

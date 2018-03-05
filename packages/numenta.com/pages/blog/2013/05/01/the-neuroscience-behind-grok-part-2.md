@@ -1,6 +1,6 @@
 ---
 author: Rob Haitani
-brief: Representations are patterns in a computer or a brain that represent something in the real world. They are building blocks to understanding our world, that
+description: Representations are patterns in a computer or a brain that represent something in the real world. They are building blocks to understanding our world, that
 date: 2013/05/01
 image: ../images/image.png
 org: Marketing

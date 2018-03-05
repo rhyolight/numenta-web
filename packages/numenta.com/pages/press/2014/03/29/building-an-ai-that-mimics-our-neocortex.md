@@ -1,6 +1,6 @@
 ---
 author: Jack Clark
-brief:
+description:
 date: 2014/03/29
 image:
 link: http://www.theregister.co.uk/2014/03/29/hawkins_ai_feature/

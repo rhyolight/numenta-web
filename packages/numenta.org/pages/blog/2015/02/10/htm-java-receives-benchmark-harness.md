@@ -1,6 +1,6 @@
 ---
 author: "David Ray"
-brief: "They say in order to lead, one must have someplace to go. It's also true that in order to arrive, one must have departed from someplace (duh! :-P). In software optimization, knowing where it is one came from"
+description: "They say in order to lead, one must have someplace to go. It's also true that in order to arrive, one must have departed from someplace (duh! :-P). In software optimization, knowing where it is one came from"
 date: 2015/02/10
 hideImage: false
 image: ../images/image.png

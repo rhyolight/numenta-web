@@ -1,6 +1,6 @@
 ---
 author: Numenta
-brief: This video series is a conversation in which our Open Source Community Manager, Matt Taylor, interviews Jeff Hawkins about a variety of HTM topics. Recorded on March 15, 2017, Matt asks Jeff to talk about sensorimotor inference and other areas of interest to the HTM community.  The recordings are broken up into a playlist of 8 topics.  Click on the video below to start from the beginning.
+description: This video series is a conversation in which our Open Source Community Manager, Matt Taylor, interviews Jeff Hawkins about a variety of HTM topics. Recorded on March 15, 2017, Matt asks Jeff to talk about sensorimotor inference and other areas of interest to the HTM community.  The recordings are broken up into a playlist of 8 topics.  Click on the video below to start from the beginning.
 date: 2017/03/22
 image:
 link:

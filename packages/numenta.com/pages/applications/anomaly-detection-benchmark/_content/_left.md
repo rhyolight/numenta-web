@@ -1,6 +1,6 @@
 ---
 title: Anomaly Detection Benchmark
-brief: We created the **Numenta Anomaly Benchmark (NAB)** in order to be able to measure and compare results from algorithms designed to find anomalies in streaming data
+description: We created the **Numenta Anomaly Benchmark (NAB)** in order to be able to measure and compare results from algorithms designed to find anomalies in streaming data
 ---
 
 [biz]:  /assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf

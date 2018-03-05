@@ -1,6 +1,6 @@
 ---
 author: "Scott Purdy"
-brief:
+description:
 date: 2017/03/01
 event:
   what: "Machine Learning for the Entire Business Stack"

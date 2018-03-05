@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-brief:
+description:
 date: 2016/05/19
 event:
   what:

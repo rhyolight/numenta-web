@@ -1,6 +1,6 @@
 ---
 author: Alexander Lavin
-brief:
+description:
 date: 2016/08/02
 event:
   what: Predictive Analytics with Numenta Machine Intelligence

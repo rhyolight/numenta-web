@@ -1,6 +1,6 @@
 ---
 author: Yuwei Cui
-brief:
+description:
 date: 2016/04/07
 event:
   what:

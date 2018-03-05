@@ -7,11 +7,12 @@ import React from 'react'
 
 const JsonWrapper = ({route}) => {
   const data = route.page.data
+  const header = data.header || data.title
 
   return (
     <div className="json">
       <h1>
-        {data.title}
+        {header}
       </h1>
       <p>
         Raw view of json file

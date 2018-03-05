@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-brief: Subutai Ahmad, VP Research at Numenta, speaks at MLConf SF on Real-time Anomaly Detection for Real-time Data Needs. MLconf gathers communities to discuss the recent research and application of Algorithms, Tools, and Platforms to solve the hard problems that exist within
+description: Subutai Ahmad, VP Research at Numenta, speaks at MLConf SF on Real-time Anomaly Detection for Real-time Data Needs. MLconf gathers communities to discuss the recent research and application of Algorithms, Tools, and Platforms to solve the hard problems that exist within
 date: 2015/11/13
 event:
   what: Real-time Anomaly Detection for Real-time Data Needs

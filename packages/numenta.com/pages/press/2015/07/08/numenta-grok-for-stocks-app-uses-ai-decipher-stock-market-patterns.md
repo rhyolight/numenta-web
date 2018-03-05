@@ -1,6 +1,6 @@
 ---
 author: Dean Takahashi
-brief:
+description:
 date: 2015/07/08
 image:
 link: http://venturebeat.com/2015/07/08/numentas-grok-for-stocks-app-uses-a-i-to-decipher-stock-market-patterns/

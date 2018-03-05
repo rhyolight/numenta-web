@@ -1,6 +1,6 @@
 ---
 author: Scott Purdy
-brief: "Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, NuPIC. The best description of this theory is in the following papers: Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex and A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
+description: "Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, NuPIC. The best description of this theory is in the following papers: Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex and A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 date: 2017/11/01
 hideImage: true
 image: ../images/Figure1.png
