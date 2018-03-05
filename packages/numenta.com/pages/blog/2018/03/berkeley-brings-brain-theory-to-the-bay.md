@@ -28,16 +28,16 @@ Recordings are available for the workshops that have already passed, and you can
 
 Some of our research engineers attended the most recent workshop, [Representation, Coding and Computation in Neural Circuits](https://simons.berkeley.edu/workshops/brain2018-1), and I asked one of them, Scott Purdy, to share his thoughts.
 
-<p style="margin-left: 40px"><font size="4"><b>What were you hoping to get out of this event?</b></font> <br>
+<p style="margin-left: 30px"><font size="4"><b>What were you hoping to get out of this event?</b></font> <br>
 I wanted to learn more about the biology and modeling effort, as well as network with people that I'll see at <a href="https://numenta.com/company/events/2018/03/01/cosyne-2018/">Cosyne</a> and other venues. </p>
 
-<p style="margin-left: 40px"><font size="4"><b>What were you most looking forward to hearing? </b></font><br>
+<p style="margin-left: 30px"><font size="4"><b>What were you most looking forward to hearing? </b></font><br>
 The talks covering circuit-level mechanisms. Some talks cover fine-grained biology, some high-level abstractions, but the most interesting to me are the ones that show specific circuit level mechanisms, and several talks at this workshop fell into that category. </p>
 
-<p style="margin-left: 40px"><font size="4"><b>What was your key personal takeaway? </b></font><br>
+<p style="margin-left: 30px"><font size="4"><b>What was your key personal takeaway? </b></font><br>
 I learned a lot from the talks, but the discussions also reinforced how speculative a lot of the presumed functional roles of different brain regions are. </p>
 
-<p style="margin-left: 40px"><font size="4"><b>What were some of your favorite talks? </b></font><br>
+<p style="margin-left: 30px"><font size="4"><b>What were some of your favorite talks? </b></font><br>
 <a href="https://simons.berkeley.edu/talks/s-murray-sherman-2-13-18">Murray Sherman</a>, <a href="https://simons.berkeley.edu/talks/martin-usrey-2-13-18">Martin Usrey</a>, and <a href="https://simons.berkeley.edu/talks/farran-briggs-2-13-18">Farran Briggs</a> had back-to-back talks on the thalamus and the retina-thalamus-cortex circuits that hinted at some functional properties of the circuits. <br><br>
 <a href="https://simons.berkeley.edu/talks/mark-sheffield-2-12-18">Mark Sheffield</a> showed that some place cell activity has a late onset, meaning that the cells don't initially have place cell properties in a novel environment but after a few passes through the environment, they start to exhibit place cell properties. In discussions after his talk, I learned that the initial activity in the region is denser in a novel environment, indicating that there may be many candidate place cells for a novel location until some subset wins out. This fits very well with our theories for how neuron populations work, although this work focused on the hippocampus. <br><br>
 <a href="https://simons.berkeley.edu/talks/josh-berke-2-13-18">Josh Berke</a> talked about the basal ganglia and implications for reinforcement learning. He showed some interesting impacts of dopamine on both motivation (latency to act) and learning. <br><br>
