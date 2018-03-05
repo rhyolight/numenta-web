@@ -16,8 +16,6 @@ type: post
 
 This poster introduces a theory of sequence memory in the neocortex called HTM Sequence Memory. This neural mechanism is based on how the brain processes streams of sensory inputs to perform sequence recognition, sequence prediction, and behavior generation.
 
-<br />
-
 **The three key characteristics of HTM Sequence Memory are:**
 
 1. Neurons learn to recognize hundreds of patterns using active dendrites.

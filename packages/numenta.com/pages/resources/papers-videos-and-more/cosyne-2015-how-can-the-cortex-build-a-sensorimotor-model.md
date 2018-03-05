@@ -16,8 +16,6 @@ type: post
 
 This poster, Maintaining Stable Perception During Active Exploration, answers the question: how can the cortex build a sensorimotor model of the world? Knowing that we learn the structure of the world from sensorimotor sequences through active exploration, how can we build and test a detailed biological model?
 
-<br />
-
 First, we proposed a biologically detailed model of sensorimotor inference. We know the cortex receives a copy of motor commands. We also know that most sensory changes are rapid and due to our own behavior yet our perception of the world is amazingly stable.
 We built a model with a basic premise that predictable transitions lead to invariant representations. This comprises two parts: 1) We learn a predictive model of sensorimotor changes and 2) We learn stable representations of predicted changes.
 
