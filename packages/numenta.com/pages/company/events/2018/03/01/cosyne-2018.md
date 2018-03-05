@@ -37,7 +37,7 @@ This workshop on long-range cortical circuits will focus on our most recent peer
 
 ## Posters:
 
-**Title:** A Neural Mechanism for Determining Allocentric Locations of Sensed Features
+**Title:** Determining Allocentric Locations of Sensed Features
 
 **Authors:** Marcus Lewis and Jeff Hawkins 
 
