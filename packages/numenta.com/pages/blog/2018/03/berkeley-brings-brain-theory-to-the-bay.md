@@ -20,7 +20,7 @@ Earlier this year, Berkeley kicked off a new program called [The Brain and Compu
 At Numenta, we talk about theory everyday. In fact, part of what makes us so different from other experimental neuroscience laboratories is our focus on large-scale cortical theory. That’s why we were thrilled to see a program like this; it seems like a rarity to find a conference that recognizes the importance of theory, and we’re fortunate to have one in our backyard here in the Bay Area.
 
 **The workshop line-up of the program is as follows:**  
-*	[The Brain and Computation Boot Cam](https://simons.berkeley.edu/workshops/brain2018-boot-camp) (January)
+*	[The Brain and Computation Boot Camp](https://simons.berkeley.edu/workshops/brain2018-boot-camp) (January)
 *	[Representation, Coding and Computation in Neural Circuits](https://simons.berkeley.edu/workshops/brain2018-1) (February)
 *	[Targeted Discovery in Brain Data](https://simons.berkeley.edu/workshops/brain2018-2) (March)
 *	[Computational Theories of the Brain](https://simons.berkeley.edu/workshops/brain2018-3) (April)
