@@ -15,7 +15,7 @@ import SectionApplications from './_Section'
 import Metatags from './_metatags.md'
 
 const Default = (<SectionApplications key="sectionApplications" />)
-const title = 'Applications'
+const title = 'HTM Applications'
 
 
 /**
