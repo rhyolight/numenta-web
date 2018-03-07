@@ -1,5 +1,7 @@
 ---
-title: Applications
+title: "Hierarchical Temporal Memory (HTM) Applications | Numenta"
+header: "HTM Applications"
 image: ./images/apps.jpg
-description: "While Numenta does not build commercial applications, we have created example HTM applications in several fields such as monitoring stock performance, detecting unusual human behavior, and finding patterns in geospatial data. Additionally, our partners have created commercial applications in the field of monitoring IT infrastructure and understanding natural language. We are confident that many additional applications will be created in the future"
+description: "Numenta has created reference design Hierarchical Temporal Memory (HTM) applications in fields such as monitoring stock performance, detecting unusual human behavior, and finding patterns in geospatial data. We hope these applications will stimulate creative thinking and development of innovative HTM applications."
+keywords: "htm applications"
 ---

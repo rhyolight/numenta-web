@@ -5,9 +5,8 @@ date: 2017/03/03
 hideImage: false
 image: ../images/ep11.png
 org: Director of Marketing
-keywords: htm school
+keywords: "htm school"
 header: "HTM School Teaches Numenta’s Theoretical Framework for Biological and Machine Intelligence"
-title: "HTM School - An Easy, Fast Way to Learn About HTM Theory"
 type: post
 ---
 
