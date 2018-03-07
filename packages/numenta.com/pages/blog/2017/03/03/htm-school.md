@@ -6,7 +6,7 @@ hideImage: false
 image: ../images/ep11.png
 org: Director of Marketing
 keywords: "htm school"
-header: "HTM School Teaches Numenta’s Theoretical Framework for Biological and Machine Intelligence"
+title: "HTM School Teaches Numenta’s Theoretical Framework for Biological and Machine Intelligence"
 type: post
 ---
 
