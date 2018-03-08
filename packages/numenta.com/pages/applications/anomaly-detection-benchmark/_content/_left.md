@@ -1,6 +1,7 @@
 ---
-title: Anomaly Detection Benchmark
-description: We created the **Numenta Anomaly Benchmark (NAB)** in order to be able to measure and compare results from algorithms designed to find anomalies in streaming data
+title: Anomaly Detection Benchmark | Numenta
+description: The Numenta Anomaly Benchmark (NAB) is an anomaly detection benchmark that measures results from algorithms designed to find anomalies in streaming data. NAB is an open source framework with a real-world, labeled dataset, and a scoring mechanism that rewards early detection and on-line learning.
+header: Anomaly Detection Benchmark
 ---
 
 [biz]:  /assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf
