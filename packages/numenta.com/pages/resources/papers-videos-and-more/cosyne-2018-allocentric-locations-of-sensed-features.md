@@ -1,5 +1,5 @@
 ---
-author: Marcus Lewsis, Jeff Hawkins
+author: Marcus Lewis, Jeff Hawkins
 title: "Cosyne 2018: Determining Allocentric Locations of Sensed Features"
 header: "Determining Allocentric Locations of Sensed Features"
 description: "In this poster, we propose a neural mechanism for determining allocentric locations of sensed features. We show how cortical columns can use multiple independent moving sensors to identify and locate objects. We lay out a model inspired by grid cell modules that describes how the brain computes and represents locations."
