@@ -12,7 +12,7 @@ import Section from 'numenta-web-shared-components/lib/Section'
 import SectionAnomaly from './applications/anomaly-detection-benchmark/_Section'
 import SectionApplications from './applications/_Section'
 import SectionNeuroscience
-  from './machine-intelligence-technology/neuroscience-research/_Section'
+  from './neuroscience-research/_Section'
 import SectionBusiness
   from './machine-intelligence-technology/business-strategy-and-ip/_Section'
 import SectionCareers from './company/careers-and-team/_Section'
