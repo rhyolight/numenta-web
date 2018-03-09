@@ -14,7 +14,7 @@ import {prefixLink} from 'gatsby-helpers'
 import ContentLeft from './_content/_left.md'
 import ContentRight from './_content/_right.md'
 
-import MainSections, {getNextSection} from '../../_MainSections'
+import MainSections, {getNextSection} from '../_MainSections'
 import SectionNeuroscience from './_Section'
 
 const Default = (<SectionNeuroscience key="sectionNeuroscience" />)
