@@ -1,11 +1,11 @@
 ---
 author: Christy Maver
-description: "Sitting at the intersection of neuroscience and computer science, we encounter interest in our work from a variety of people.  For the scientific and academic community, we have a growing list of peer-reviewed papers. The machine learning and data science enthusiasts can dive into our open source code and experiment with it firsthand. But what about those of us with no exposure to neuroscience"
+description: "HTM School is a series of educational videos, designed to provide an overview of fundamental HTM Theory concepts to a non-technical audience. The program breaks down HTM theoretical concepts into bite-sized, 15-20 minute episodes filled with stories, examples and illustrations. Start watching now!"
 date: 2017/03/03
 hideImage: false
 image: ../images/ep11.png
 org: Director of Marketing
-tags: numenta hierarchical temporal memory htm school
+keywords: "htm school"
 title: "HTM School Teaches Numenta’s Theoretical Framework for Biological and Machine Intelligence"
 type: post
 ---
