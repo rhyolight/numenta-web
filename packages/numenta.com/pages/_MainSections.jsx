@@ -45,7 +45,7 @@ const mainSectionList = [
   {
     component: <SectionNeuroscience key="sectionNeuroscience" />,
     title: 'Neuroscience Research',
-    url: '/machine-intelligence-technology/neuroscience-research/',
+    url: '/neuroscience-research/',
   },
   {
     component: <SectionTechnology key="sectionTechnology" />,
