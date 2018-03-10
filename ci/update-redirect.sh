@@ -53,12 +53,23 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
   COUNT=${COUNT}+1
   echo "{\"Condition\": {\"KeyPrefixEquals\": \"${from_url}\"},"
   echo "\"Redirect\": {"
-  if [[ ! ${to_url} =~ https?://.*$ ]]; then
-    echo "\"HostName\": \"${BUCKET}\","
+  if [[ ${to_url} =~ https?://.*$ ]]; then
+    protocol=${to_url%%://*}
+    hostandpath=${to_url##*://}
+    hostname=${hostandpath%%/*}
+    echo "\"Protocol\": \"${protocol}\","
+    echo "\"HostName\": \"${hostname}\","
+    path="/"
+    if [[ "${hostname}" -ne "${hostandpath}" ]]; then
+      path=${hostandpath#*/}
+    fi
+    echo "\"ReplaceKeyPrefixWith\": \"${path}\","
+  else
+    echo "\"ReplaceKeyPrefixWith\": \"${to_url}\","
   fi
-  echo "\"ReplaceKeyPrefixWith\": \"${to_url}\","
   echo "\"HttpRedirectCode\": \"301\"}}"
 done < "$CSV_FILE" >> "${TMPFILE}"
 echo "]}" >> "${TMPFILE}"
 aws s3api put-bucket-website --bucket ${BUCKET} --website-configuration file://${TMPFILE}
+cat ${TMPFILE}
 rm ${TMPFILE}
