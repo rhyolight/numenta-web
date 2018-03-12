@@ -55,15 +55,21 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
   echo "\"Redirect\": {"
   if [[ ${to_url} =~ https?://.*$ ]]; then
     protocol=${to_url%%://*}
+    echo "\"Protocol\": \"${protocol}\","
+
     hostandpath=${to_url##*://}
     hostname=${hostandpath%%/*}
-    echo "\"Protocol\": \"${protocol}\","
+    # Special case for internal sites redirects
+    if [ "${hostname}" == "numenta.com" ]; then
+      hostname=${BUCKET}
+    fi
     echo "\"HostName\": \"${hostname}\","
+
     path="/"
-    if [[ "${hostname}" -ne "${hostandpath}" ]]; then
+    if [ "${hostname}" != "${hostandpath}" ]; then
       path=${hostandpath#*/}
     fi
-    echo "\"ReplaceKeyPrefixWith\": \"${path}\","
+    echo "\"ReplaceKeyWith\": \"${path}\","
   else
     echo "\"ReplaceKeyPrefixWith\": \"${to_url}\","
   fi
