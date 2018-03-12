@@ -5,7 +5,7 @@ import stubContext from 'react-stub-context'
 import context from '__tests__/__mocks__/reactContextMock'
 
 import NeurosciencePage
-  from '../../pages/machine-intelligence-technology/neuroscience-research'
+  from '../../pages/neuroscience-research'
 
 
 describe('Neuroscience Research Page React component', () => {

@@ -4,7 +4,7 @@ description: Based on a wealth of neuroscience evidence, we have created HTM (Hi
 ---
 
 [apps]:   /applications/
-[neuro]:  /machine-intelligence-technology/neuroscience-research/
+[neuro]:  /neuroscience-research/
 
 Based on a wealth of [neuroscience evidence][neuro], we have created HTM
 (Hierarchical Temporal Memory), a theoretical framework for both biological and
