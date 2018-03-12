@@ -67,7 +67,7 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
       fi
     fi
 
-    path="/"
+    path=""
     if [ "${hostname}" != "${hostandpath}" ]; then
       path=${hostandpath#*/}
     fi
