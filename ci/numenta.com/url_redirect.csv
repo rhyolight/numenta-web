@@ -16,7 +16,6 @@ htm-studio,applications/htm-studio
 learn,resources/papers-videos-and-more
 mission-and-history,company/mission-and-history
 neuron-paper,resources/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex
-neuroscience-research,machine-intelligence-technology/neuroscience-research
 newsletter,company/newsletter
 newsletters,company/newsletter
 numenta-anomaly-benchmark,applications/numenta-anomaly-benchmark
@@ -28,6 +27,7 @@ papers/why-does-the-neocortex-have-layers-and-columns,resources/papers/a-theory-
 scholars,company/careers-and-team/careers/visiting-scholar-program
 spatial-pooling-algorithm,resources/biological-and-machine-intelligence/spatial-pooling-algorithm
 technology,machine-intelligence-technology
+<<<<<<< HEAD
 temporal-memory-algorithm,resources/biological-and-machine-intelligence/temporal-memory-algorithm
 resources/papers-videos-and-more/resources/on-intelligence,resources/papers-videos-and-more/on-intelligence
 nab,applications/numenta-anomaly-benchmark
@@ -37,3 +37,7 @@ grok,https://grokstream.com
 assets/pdf/grok/resources,https://grokstream.com
 archives/software/vision/VisionToolkitTutorial.pdf,https://github.com/numenta/nupic.vision
 vision,https://github.com/numenta/nupic.vision
+=======
+temporal-memory-algorithm,resources/biological-and-machine-intelligence/temporal-memory-algorithm
+resources/papers-videos-and-more/resources/on-intelligence,resources/papers-videos-and-more/on-intelligence
+>>>>>>> a09b40b0db99d38465268ec28bf277593c233ec3
