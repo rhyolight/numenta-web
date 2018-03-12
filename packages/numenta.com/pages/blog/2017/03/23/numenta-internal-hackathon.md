@@ -22,7 +22,7 @@ ever have free time, I’m going to work on this” list.
 
 A couple months ago, one of our engineers had an idea: What if we could
 dedicate a day or two to work on a Numenta project that may be outside
-our day-to-day responsibilities? From that, the first Internal Numenta
+our day-to-day responsibilities? From that, the first Numenta Internal
 Hackathon was born.
 
 In the weeks leading up to the hackathon, we were encouraged to share
