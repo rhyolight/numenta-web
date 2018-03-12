@@ -11,7 +11,6 @@ careers-and-team,company/careers-and-team
 careers,company/careers-and-team
 contact/thanks.html,/contact/thanks/
 events,company/events
-grok,https://grokstream.com
 htm-for-stocks,applications
 htm-studio,applications/htm-studio
 learn,resources/papers-videos-and-more
@@ -28,7 +27,6 @@ papers/why-does-the-neocortex-have-layers-and-columns,resources/papers/a-theory-
 scholars,company/careers-and-team/careers/visiting-scholar-program
 spatial-pooling-algorithm,resources/biological-and-machine-intelligence/spatial-pooling-algorithm
 technology,machine-intelligence-technology
-<<<<<<< HEAD
 temporal-memory-algorithm,resources/biological-and-machine-intelligence/temporal-memory-algorithm
 resources/papers-videos-and-more/resources/on-intelligence,resources/papers-videos-and-more/on-intelligence
 nab,applications/numenta-anomaly-benchmark
@@ -38,11 +36,3 @@ grok,https://grokstream.com
 assets/pdf/grok/resources,https://grokstream.com
 archives/software/vision/VisionToolkitTutorial.pdf,https://github.com/numenta/nupic.vision
 vision,https://github.com/numenta/nupic.vision
-=======
-temporal-memory-algorithm,resources/biological-and-machine-intelligence/temporal-memory-algorithm
-<<<<<<< HEAD
-resources/papers-videos-and-more/resources/on-intelligence,resources/papers-videos-and-more/on-intelligence
->>>>>>> a09b40b0db99d38465268ec28bf277593c233ec3
-=======
-resources/papers-videos-and-more/resources/,resources/papers-videos-and-more/
->>>>>>> 5755443354258b6c60ea19e1e011eb9c8f216e1f
