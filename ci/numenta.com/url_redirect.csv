@@ -11,6 +11,7 @@ careers-and-team,company/careers-and-team
 careers,company/careers-and-team
 contact/thanks.html,/contact/thanks/
 events,company/events
+grok,https://grokstream.com
 htm-for-stocks,applications
 htm-studio,applications/htm-studio
 learn,resources/papers-videos-and-more
@@ -39,5 +40,9 @@ archives/software/vision/VisionToolkitTutorial.pdf,https://github.com/numenta/nu
 vision,https://github.com/numenta/nupic.vision
 =======
 temporal-memory-algorithm,resources/biological-and-machine-intelligence/temporal-memory-algorithm
+<<<<<<< HEAD
 resources/papers-videos-and-more/resources/on-intelligence,resources/papers-videos-and-more/on-intelligence
 >>>>>>> a09b40b0db99d38465268ec28bf277593c233ec3
+=======
+resources/papers-videos-and-more/resources/,resources/papers-videos-and-more/
+>>>>>>> 5755443354258b6c60ea19e1e011eb9c8f216e1f
