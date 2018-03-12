@@ -11,6 +11,7 @@ careers-and-team,company/careers-and-team
 careers,company/careers-and-team
 contact/thanks.html,/contact/thanks/
 events,company/events
+grok,https://grokstream.com
 htm-for-stocks,applications
 htm-studio,applications/htm-studio
 learn,resources/papers-videos-and-more
@@ -28,4 +29,4 @@ scholars,company/careers-and-team/careers/visiting-scholar-program
 spatial-pooling-algorithm,resources/biological-and-machine-intelligence/spatial-pooling-algorithm
 technology,machine-intelligence-technology
 temporal-memory-algorithm,resources/biological-and-machine-intelligence/temporal-memory-algorithm
-resources/papers-videos-and-more/resources/on-intelligence,resources/papers-videos-and-more/on-intelligence
+resources/papers-videos-and-more/resources/,resources/papers-videos-and-more/
