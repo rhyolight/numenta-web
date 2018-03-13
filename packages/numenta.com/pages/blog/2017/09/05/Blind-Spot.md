@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: "Christy Maver debunks the belief that the brain is "filling in the gap" in our vision to compensate for our blind spot using our theory on sensorimotor inference proposed in our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
+description: "Christy Maver debunks the belief that the brain is filling in the gap in our vision to compensate for our blind spot using our theory on sensorimotor inference proposed in our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 date: 2017/09/08
 hideImage: false
 image: ../images/TheBlindSpot.jpg

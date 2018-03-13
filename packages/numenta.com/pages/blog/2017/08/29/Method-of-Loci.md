@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: "The “method of loci” is an ancient memorization technique that assigns each item to a familiar location. In this blog, Christy Maver explains its connection to our theory on sensorimotor inference proposed in our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
+description: "The method of loci is an ancient memorization technique that assigns each item to a familiar location. In this blog, Christy Maver explains its connection to our theory on sensorimotor inference proposed in our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 date: 2017/08/29
 hideImage: false
 image: ../images/MethodofLoci-resized.jpg
