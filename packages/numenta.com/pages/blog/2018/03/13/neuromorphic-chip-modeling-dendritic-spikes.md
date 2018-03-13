@@ -28,6 +28,6 @@ The creation of BrainScaleS-2 was a major undertaking that involved many people,
 
 The Human Brain Project is a 10-year project funded by the European Union that focuses on six research platforms: Neuroinformatics, Brain Simulation, High Performance Analytics and Computing, Medical Informatics, Neuromorphic Computing and Neurorobotics.  For more information on the Human Brain Project, click [here](https://www.humanbrainproject.eu/en/).
 
-For those interested in the details about the BrainScaleS 2 chip, you can read this paper, “[An Accelerated Analog Neuromorphic Hardware System Emulating NMDA- and Calcium-Based Non-Linear Dendrites](https://arxiv.org/pdf/1703.07286.pdf)” by Johannes Schemmel, Laura Kriener, Paul Muller and Karlheinz Meier.
+For those interested in the details about the BrainScaleS-2 chip, you can read this paper, “[An Accelerated Analog Neuromorphic Hardware System Emulating NMDA- and Calcium-Based Non-Linear Dendrites](https://arxiv.org/pdf/1703.07286.pdf)” by Johannes Schemmel, Laura Kriener, Paul Muller and Karlheinz Meier.
 
 To read a paper our VP of Research, Subutai Ahmad, co-authored in 2015 with a member of the Human Brain Project about porting HTM algorithms to a neuromorphic computing platform, click [here](https://arxiv.org/abs/1505.02142).
