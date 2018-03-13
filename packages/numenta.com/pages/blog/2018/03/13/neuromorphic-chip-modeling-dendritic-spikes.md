@@ -1,7 +1,7 @@
 ---
 author: Christy Maver
 description: "Neuromorphic chips, which emulate neurons in silicon, are essentially the hardware for the future of AI. The Human Brain Project’s Neuromorphic team recently unveiled a chip called BrainScaleS-2 that models neurons consistent with the model described in our 2016 paper “Why Neurons Have Thousands of Synapses.”"
-date: 2018/03/13
+date: 2018/03/14
 hideImage: false
 image: ../images/neuromorphic-chip.jpg
 org: VP of Marketing
