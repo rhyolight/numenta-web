@@ -1,17 +1,13 @@
 ---
 author: Christy Maver
-description: "In our recent manuscript, titled Why Does the Neocortex Have Layers and Columns,
-A Theory of Learning the 3D Structure of the World, we introduced a new theory of how the
-brain makes predictive models of objects.  We proposed that the brain pairs sensory data
-with location data to perform object recognition. After reading our manuscript, a friend of
-the company, Hans-Poul Veldhuyzen van Zanten, emailed us with the observation that our
-theory was compatible with an ancient memorization system known as the “method of loci.”"
+description: "The “method of loci” is an ancient memorization technique that assigns each item to a familiar location. In this blog, Christy Maver explains its connection to our theory on sensorimotor inference proposed in our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 date: 2017/08/29
 hideImage: false
 image: ../images/MethodofLoci-resized.jpg
 org: VP of Marketing
-tags: numenta hierarchical temporal memory htm blog
+keywords: "method of loci"
 title: "The Method of Loci"
+header: "The Method of Loci"
 type: post
 ---
 
