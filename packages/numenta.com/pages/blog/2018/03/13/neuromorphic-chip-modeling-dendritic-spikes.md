@@ -6,8 +6,8 @@ hideImage: false
 image: ../images/neuromorphic-chip.jpg
 org: VP of Marketing
 keywords: "neuromorphic chips"
-title: "Neuromorphic Chip Modeling Dendritic Spikes Debuts at NICE 2018"
-header: "Neuromorphic Chip Modeling Dendritic Spikes Debuts at NICE 2018"
+title: "Neuromorphic Chip Modeling Dendritic Spikes Debuts at NICE"
+header: "Neuromorphic Chip Modeling Dendritic Spikes Debuts at NICE"
 type: post
 ---
 
@@ -22,7 +22,7 @@ BrainScaleS-2 was one of three new chips announced at the [NICE](http://nicework
 ![Neuromorphic Chips - BrainScaleS chip](../images/BrainScales-2.jpg) </br>
 > *The original BrainScaleS chip.  Credit: Human Brain Project 2017.*
 
-The creation of BraniSacleS-2 was a major undertaking that involved many people, and it’s great to see a neuromorphic development headed in this direction.  We’re not focused on neuromorphic computing ourselves, but we’re pleased to see people modeling neurons more realistically.  Our theories show why this is important, and now it could have major implications for the chip industry.
+The creation of BrainScaleS-2 was a major undertaking that involved many people, and it’s great to see a neuromorphic development headed in this direction.  We’re not focused on neuromorphic computing ourselves, but we’re pleased to see people modeling neurons more realistically.  Our theories show why this is important, and now it could have major implications for the chip industry.
 
 ### Additional Resources
 
