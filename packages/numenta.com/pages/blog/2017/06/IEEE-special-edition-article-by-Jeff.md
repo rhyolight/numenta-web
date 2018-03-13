@@ -1,12 +1,13 @@
 ---
 author: Christy Maver
-description: "Our co-founder, Jeff Hawkins, was invited to write an article for a special edition of IEEE Spectrum, the flagship magazine and website of the Institute of Electrical and Electronics Engineers. His piece, What Intelligent Machines Need to Learn from the Neocortex, makes the case for"
+description: "This blog contains an interview with Jeff Hawkins about his IEEE Spectrum article, What Intelligent Machines Need to Learn from the Neocortex, where he discusses the importance of building biologically based intelligent machines and the far reaching implications of machine intelligence."
 date: 2017/06/02
 hideImage: false
 image: ../images/IEEE_article_soundcloud.jpg
 org: Director of Marketing
-tags: numenta Jeff Hawkins machine intelligence
+keywords: "jeff hawkins ieee spectrum"
 title: "New Article by Jeff Hawkins Appears in IEEE Spectrum Special Report"
+header: "New Article by Jeff Hawkins Appears in IEEE Spectrum Special Report"
 type: post
 sound: https://soundcloud.com/numenta/interview-with-jeff-hawkins-ieee
 ---

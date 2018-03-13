@@ -1,12 +1,13 @@
 ---
 author: Jeff Hawkins
-description: "This time each year we create a plan for the coming fiscal year, ending each June. The plan includes how we allocate our time and budget. This year (fiscal year ending June 30, 2018) we are shifting our priorities more than most years, and I thought I would share those changes."
+description: "This time each year we create a plan for the coming fiscal year, ending each June. The plan includes how we allocate our time and budget. This year (fiscal year ending June 30, 2018) we are shifting our research priorities more than most years, and Jeff Hawkins shares those changes in this blog."
 date: 2017/07/18
 hideImage: false
 image: ../images/research.jpg
 org: Co-Founder
-tags: numenta hierarchical temporal memory htm blog
+keywords: numenta research 2018
 title: "Numenta Research FY 2018"
+header: "Numenta Research FY 2018"
 type: post
 ---
 

@@ -1,12 +1,13 @@
 ---
 author: Christy Maver
-description: "We all have them yet rarely need to think about them: a blind spot, or scotoma, in scientific language.  A blind spot is a gap in our vision, created by our own anatomy.  At the point where the optic nerve attaches to the back of the eyeball is a section that cannot detect light.  Yet, we don’t walk around perceiving gaps in our vision.  We don’t see dark spots everywhere we look.  So what’s going on?"
+description: "Christy Maver debunks the belief that the brain is filling in the gap in our vision to compensate for our blind spot using our theory on sensorimotor inference proposed in our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 date: 2017/09/08
 hideImage: false
 image: ../images/TheBlindSpot.jpg
 org: VP of Marketing
-tags: numenta hierarchical temporal memory htm blog
+keywords: "blind spot"
 title: "The Blind Spot"
+header: "The Blind Spot"
 type: post
 ---
 
