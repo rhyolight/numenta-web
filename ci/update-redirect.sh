@@ -76,6 +76,15 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
     echo "\"HostName\": \"${hostname}\","
     echo "\"ReplaceKeyWith\": \"${path}\","
   else
+    hostname=${BUCKET}
+    # Special case for internal sites redirects
+    if [ "${hostname}" == "numenta.com" ]; then
+        protocol="https"
+    else
+        protocol="http"
+    fi
+    echo "\"Protocol\": \"${protocol}\","
+    echo "\"HostName\": \"${hostname}\","
     echo "\"ReplaceKeyPrefixWith\": \"${to_url}\","
   fi
   echo "\"HttpRedirectCode\": \"301\"}}"
