@@ -1,12 +1,13 @@
 ---
 author: Jeff Hawkins
-description: "Artificial Intelligence techniques such as “deep learning” and “convolutional neural networks” have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Numerous AI companies have appeared to catch the wave of excitement as funding and acquisitions have accelerated. Yet, leading AI researchers realize something is not right."
+description: "AI techniques, such as deep learning and convolutional neural networks, have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Yet, leading AI researchers realize something is not right. In this piece, Jeff Hawkins writes about the "missing ingredient" for strong AI."
 date: 2017/11/14
 hideImage: false
 image: ../images/brain-lightbulb.png
 org: Co-Founder
-tags: numenta hierarchical temporal memory htm blog
+keywords: "strong AI"
 title: "The Secret to Strong AI"
+header: "The Secret to Strong AI"
 type: post
 ---
 
@@ -25,7 +26,7 @@ Numenta’s research has revealed several important principles the brain uses, p
 
 While there are several other discoveries we have made that are essential for intelligence, I want to describe our most recent, and perhaps most important one. We were studying how we recognize objects by touch. From this we deduced a new property of the neocortex that applies not only to touch, but to vision, and to everything else the neocortex does. I sometimes refer to it as “the missing ingredient,” or as the title of this essay says, “the secret to strong AI.” We recently published a scientific [paper](https://doi.org/10.3389/fncir.2017.00081) detailing this discovery; I will summarize it here.
 
-![Secret to Strong AI](../images/cup.png)
+![Secret to Strong AI - Cup](../images/cup.png)
 
 Look at this image. It is obviously a cup. But, of course, it isn’t actually a cup, it is a collection of lines on a flat surface. Surprisingly, it is difficult to see this image for what it is, a collection of lines on a flat surface, and not as a three-dimensional cup. A common belief among brain scientists is that the neocortex takes the image from the eyes, and through a series of steps, extracts more and more complex features until it can recognize the image. This is how deep learning networks work, too. This process is called pattern recognition, and deep learning networks are good at it. After training on many images, they can take a new image and tell you what it is. But they don’t understand what the object is beyond its label. In contrast, when you see an image, you immediately perceive its three-dimensional shape. You can imagine how it would look from different angles, that it might hold liquid, and even what it would feel like if you touched it. A deep learning network is good at putting a label on an image without understanding what it is, whereas the neocortex understands the structure of an object and how it behaves.
 
