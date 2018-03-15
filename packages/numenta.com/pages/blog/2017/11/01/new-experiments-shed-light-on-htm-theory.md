@@ -1,12 +1,12 @@
 ---
 author: Scott Purdy
-description: "Numenta's HTM theory includes a detailed explanation for the role of neurons and minicolumns in cortical layers. We've been sharing this theory for years and publishing implementations in our open source project, NuPIC. The best description of this theory is in the following papers: Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex and A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
+description: "Numenta's HTM theory explains the role of neurons and minicolumns in cortical layers. In this blog, Scott Purdy writes about an experiment conducted by researchers from Michael Berry’s lab at Princeton on how mice respond to familiar vs. novel stimuli and how its findings are consistent with HTM theory."
 date: 2017/11/01
 hideImage: true
 image: ../images/Figure1.png
 org: Research Staff Member
-tags: numenta hierarchical temporal memory htm blog
-title: "New Experiment Sheds Light on HTM Theory"
+keywords: "htm theory"
+header: "New Experiment Sheds Light on HTM Theory"
 type: post
 ---
 
