@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: "Numenta has two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. Our progress to date can be summarized by two important discoveries. Here’s a summary of those discoveries, as explained by Christy Maver."
+description: "Numenta has two missions– reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. Our progress to date can be summarized by two important discoveries. Here’s a summary of those discoveries, as explained by Christy Maver."
 date: 2018/01/08
 hideImage: false
 image: ../images/research-papers.png
