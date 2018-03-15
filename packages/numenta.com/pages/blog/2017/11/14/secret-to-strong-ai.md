@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: "AI techniques, such as deep learning and convolutional neural networks, have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Yet, leading AI researchers realize something is not right. In this piece, Jeff Hawkins writes about the "missing ingredient" for strong AI."
+description: 'AI techniques, such as deep learning and convolutional neural networks, have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Yet, leading AI researchers realize something is not right. In this piece, Jeff Hawkins writes about the "missing ingredient" for strong AI.'
 date: 2017/11/14
 hideImage: false
 image: ../images/brain-lightbulb.png
