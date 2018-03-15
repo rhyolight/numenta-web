@@ -1,12 +1,13 @@
 ---
 author: Christy Maver
-description: "For the near thirteen years that Numenta has existed, we have had two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. While we sometimes refer to them as dual missions, the order matters. We’ve gone through different business models over the years-from focusing on a single product to building example applications to now focusing solely on neuroscience research and theory. Yet our primary mission has always been a scientific one."
+description: "Numenta has two missions: reverse-engineer the neocortex to understand how we learn and behave and enable technology based on brain theory. Our progress to date can be summarized by two important discoveries. Here’s a summary of those discoveries, as explained by Christy Maver."
 date: 2018/01/08
 hideImage: false
 image: ../images/research-papers.png
 org: VP of Marketing
-tags: numenta hierarchical temporal memory htm blog
+keywords: "numenta brain theory"
 title: "Navigating Numenta’s Brain Theory through a Progression of Papers"
+header: "Navigating Numenta’s Brain Theory through a Progression of Papers"
 type: post
 ---
 <br>

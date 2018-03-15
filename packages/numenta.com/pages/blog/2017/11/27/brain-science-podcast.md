@@ -1,12 +1,13 @@
 ---
 author: Christy Maver
-description: "The Brain Science Podcast, hosted by Dr. Ginger Campbell, features recent discoveries about neuroscience and interviews with scientists around the world. “Dr. Campbell believes that understanding how the brain works gives us insight into what makes us human. She is also committed to showing how the scientific method has unraveled many long-standing mysteries"
+description: "The Brain Science Podcast features recent discoveries about neuroscience and interviews with scientists around the world. In this episode, Jeff explains how our latest research uncovers a key feature of cortical function that has been completely missed: a location signal."
 date: 2017/11/27
 hideImage: true
 image: ../images/brainsciencepodcast.jpg
 org: VP of Marketing
-tags: numenta hierarchical temporal memory htm blog
+keywords: "jeff hawkins brain science podcast"
 title: "Brain Science Podcast: Jeff Hawkins Explores a New Theory of Cortical Function"
+header: "Brain Science Podcast: Jeff Hawkins Explores a New Theory of Cortical Function"
 type: post
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5974535/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

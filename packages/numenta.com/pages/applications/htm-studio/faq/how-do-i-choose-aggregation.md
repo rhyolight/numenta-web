@@ -12,4 +12,4 @@ application itself. HTM Studio defaults to an automated technique that
 determines a best-effort aggregation window for your data. However, you can
 change the value of the aggregation window (or choose to not aggregate the data
 at all) in “advanced settings” when you create a new model. For more information
-on how to change the aggregation window,[click here](/applications/htm-studio/aggregation/).
+on how to change the aggregation window, [click here](/applications/htm-studio/aggregation/).

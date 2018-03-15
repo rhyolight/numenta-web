@@ -1,12 +1,13 @@
 ---
 author: Subutai Ahmad
-description: "Recently, a new development in the field of Deep Learning (DL), Geoffrey Hinton's new capsule theory, has been getting some publicity. At Numenta, we have been getting questions about how capsules relate to our new sensorimotor theory, so I thought I'd share my current thoughts."
+description: "A new development in the field of Deep Learning, Geoffrey Hinton's capsule theory, has recently been getting some publicity. At Numenta, we have been getting questions about how capsules relate to our new sensorimotor theory. Our VP of Research Subutai Ahmad compares HTM and capsules in this blog."
 date: 2017/12/18
 hideImage: false
 image: ../images/brainwaves-small.jpg
 org: VP of Research
-tags: numenta hierarchical temporal memory htm blog
+keywords: "comparing htm and capsules"
 title: "Capsules Close-up: Comparing the latest deep learning advance with HTM Sensorimotor Theory"
+header: "Capsules Close-up: Comparing the latest deep learning advance with HTM Sensorimotor Theory"
 type: post
 ---
 
