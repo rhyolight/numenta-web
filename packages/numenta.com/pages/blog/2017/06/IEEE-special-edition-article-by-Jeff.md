@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: "This blog contains an interview with Jeff Hawkins about his IEEE Spectrum article, What Intelligent Machines Need to Learn from the Neocortex, where he discusses the importance of building biologically based intelligent machines and the far reaching implications of machine intelligence."
+description: "In a special issue of IEEE Spectrum, Jeff Hawkins writes an article "What Intelligent Machines Need to Learn from the Neocortex”, where he discusses biologically based intelligent machines and the far reaching implications of machine intelligence. This blog contains an interview with Jeff about the piece."
 date: 2017/06/02
 hideImage: false
 image: ../images/IEEE_article_soundcloud.jpg
