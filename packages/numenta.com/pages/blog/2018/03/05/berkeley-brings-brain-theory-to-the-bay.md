@@ -1,6 +1,6 @@
 ---
 author: Joanne Cua
-description: "Earlier this year, the Simons Institute at Berkeley kicked off a new program called The Brain and Computation. Numenta research engineer Scott Purdy attended the workshop, Representation, Coding and Computation in Neural Circuits, and shares his thoughts about it in this blog."
+description: "Earlier this year, the Simons Institute at Berkeley kicked off a new program called The Brain and Computation. Numenta research engineer Scott Purdy attended the workshop, Representation, Coding and Computation in Neural Circuits, and shares how the workshop relates to Numenta's brain theory in this blog."
 date: 2018/03/05
 hideImage: false
 image: ../images/calvin-lab.jpg
