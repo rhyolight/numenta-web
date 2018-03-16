@@ -1,6 +1,6 @@
 ---
 author: Joanne Cua
-description: 'HTM School recently debuted a series "Interview with a Neuroscientist", where Numenta's Matt Taylor sits down with neuroscientists to discuss pun-laden categories related to their study. The new series features the likes of David Eagleman from the PBS show, The Brain, and Michael Berry from The Berry Lab at Princeton.'
+description: HTM School recently debuted a series "Interview with a Neuroscientist", where Numenta's Matt Taylor sits down with neuroscientists to discuss pun-laden categories related to their study. The new series features the likes of David Eagleman from the PBS show, The Brain, and Michael Berry from The Berry Lab at Princeton.
 date: 2017/09/22
 hideImage: true
 image: ../images/eagleman.png
