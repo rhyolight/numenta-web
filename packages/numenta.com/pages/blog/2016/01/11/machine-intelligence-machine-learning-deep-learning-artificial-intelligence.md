@@ -1,11 +1,12 @@
 ---
 author: Numenta
-description: We are frequently asked how we distinguish our technology from others. This task is made difficult by the fact that there is not an agreed vocabulary; everybody uses the above terms (and other associated terms) differently
+description: "We are frequently asked how we distinguish our technology from others. In our view, there are three major approaches to building smart machines. Let’s call these approaches Classic AI, Simple Neural Networks, and Biological Neural Networks. The rest of this blog post will describe and differentiate these approaches."
 date: 2016/01/11
 image: ../images/image.png
 org: Jeff Hawkins & Donna Dubinsky
-tags: numenta machine intelligence learning deep artificial ai htm brain neurons
-title: What is Machine Intelligence vs. Machine Learning vs. Deep Learning vs. Artificial Intelligence (AI)?
+keywords: "biological neural network"
+title: "What is Machine Intelligence vs. Machine Learning vs. Deep Learning vs. Artificial Intelligence (AI)?"
+header: "What is Machine Intelligence vs. Machine Learning vs. Deep Learning vs. Artificial Intelligence (AI)?"
 type: post
 ---
 

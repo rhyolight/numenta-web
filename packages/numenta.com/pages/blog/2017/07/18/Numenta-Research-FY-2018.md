@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: "This time each year we create a plan for the coming fiscal year, ending each June. The plan includes how we allocate our time and budget. This year (fiscal year ending June 30, 2018) we are shifting our research priorities more than most years, and Jeff Hawkins shares those changes in this blog."
+description: "This time each year we create a plan for the coming fiscal year, ending each June. The plan includes how we allocate our time and budget. This year (fiscal year ending June 30, 2018) we are shifting our priorities more than most years, and Jeff Hawkins shares the Numenta research 2018 plan in this blog."
 date: 2017/07/18
 hideImage: false
 image: ../images/research.jpg
