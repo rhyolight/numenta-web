@@ -6,6 +6,7 @@ hideImage: true
 image: ../images/Figure1.png
 org: Research Staff Member
 keywords: "htm theory"
+title: "New Experiment Sheds Light on HTM Theory"
 header: "New Experiment Sheds Light on HTM Theory"
 type: post
 ---

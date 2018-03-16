@@ -2,14 +2,14 @@ anomaly-detection-benchmark,applications/anomaly-detection-benchmark
 bami,resources/biological-and-machine-intelligence
 BAMI,resources/biological-and-machine-intelligence
 biological-and-machine-intelligence,resources/biological-and-machine-intelligence
-blog/can-neuroscientists-understand-the-brain.html,/blog/2016/06/16/can-neuroscientists-understand-the-brain/
-blog/increasing-research-transparency.html,/blog/2014/09/17/increasing-research-transparency/
-blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html,/blog/2016/01/11/machine-intelligence-machine-learning-deep-learning-artificial-intelligence/
-blog/nab-a-benchmark-for-streaming-anomaly-detection.html,/blog/2015/06/02/nab-a-benchmark-for-streaming-anomaly-detection/
+blog/can-neuroscientists-understand-the-brain.html,blog/2016/06/16/can-neuroscientists-understand-the-brain
+blog/increasing-research-transparency.html,blog/2014/09/17/increasing-research-transparency
+blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html,blog/2016/01/11/machine-intelligence-machine-learning-deep-learning-artificial-intelligence
+blog/nab-a-benchmark-for-streaming-anomaly-detection.html,blog/2015/06/02/nab-a-benchmark-for-streaming-anomaly-detection
 business-strategy-and-ip,machine-intelligence-technology/business-strategy-and-ip
 careers-and-team,company/careers-and-team
 careers,company/careers-and-team
-contact/thanks.html,/contact/thanks/
+contact/thanks.html,contact/thanks
 events,company/events
 htm-for-stocks,applications
 htm-studio,applications/htm-studio
@@ -37,3 +37,5 @@ grok,https://grokstream.com
 assets/pdf/grok/resources,https://grokstream.com
 archives/software/vision/VisionToolkitTutorial.pdf,https://github.com/numenta/nupic.vision
 vision,https://github.com/numenta/nupic.vision
+support,contact
+company,https:numenta.com
