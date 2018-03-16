@@ -1,6 +1,6 @@
 ---
 author: Ali Kaan Sungur
-description: "HTM community member, Ali Kaan Sungur, shares his thesis on an HTM-based autonomous agent in video game environments. In his HTM based thesis, he shows a real-time agent architecture involving a hierarchy of HTM layers that models patterns based on rewarding behavior."
+description: "HTM community member, Ali Kaan Sungur, shares his thesis on an HTM based autonomous agent in video game environments. In his HTM based thesis, he shows a real-time agent architecture involving a hierarchy of HTM layers that models patterns based on rewarding behavior."
 date: 2017/10/04
 hideImage: true
 image: ../images/Picture5.png
