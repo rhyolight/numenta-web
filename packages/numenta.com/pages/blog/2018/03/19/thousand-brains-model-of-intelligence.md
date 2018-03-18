@@ -6,8 +6,8 @@ hideImage: false
 image: ../images/thousand-brains.jpg
 org: Jeff Hawkins & Christy Maver
 keywords: "thousand brains model"
-title: The “Thousand Brains Model of Intelligence”'
-header: 'The “Thousand Brains Model of Intelligence”'
+title: "The Thousand Brains Model of Intelligence"
+header: "The Thousand Brains Model of Intelligence"
 type: post
 ---
 
