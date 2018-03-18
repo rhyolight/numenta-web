@@ -1,12 +1,13 @@
 ---
 author: Joanne Cua
-description: "Designed to make the theory of Hierarchical Temporal Memory (HTM) more accessible to the general public, HTM School is a YouTube channel containing videos about HTM and updates on our ongoing research here at Numenta. The channel is run by Numenta’s Open Source Manager Matt Taylor and was created a year ago to educate everyone about HTM. On the channel, you will find bite-sized, 15-20 minute educational HTM videos with visualizations and examples, "
+description: HTM School recently debuted a series "Interview with a Neuroscientist", where Numenta's Matt Taylor sits down with neuroscientists to discuss pun-laden categories related to their study. The new series features the likes of David Eagleman from the PBS show, The Brain, and Michael Berry from The Berry Lab at Princeton.
 date: 2017/09/22
 hideImage: true
 image: ../images/eagleman.png
 org: Marketing Associate
-tags: numenta hierarchical temporal memory htm blog
+keywords: "HTM School"
 title: "New HTM School Series Debut: Interview with a Neuroscientist"
+header: "New HTM School Series Debut: Interview with a Neuroscientist"
 type: post
 ---
 

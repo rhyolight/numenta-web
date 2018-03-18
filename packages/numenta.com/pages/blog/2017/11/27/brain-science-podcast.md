@@ -1,11 +1,11 @@
 ---
 author: Christy Maver
-description: "The Brain Science Podcast features recent discoveries about neuroscience and interviews with scientists around the world. In this episode, Jeff explains how our latest research uncovers a key feature of cortical function that has been completely missed: a location signal."
+description: "The Brain Science Podcast features recent discoveries about neuroscience and interviews with scientists around the world. In this episode of the Brain Science Podcast, Jeff Hawkins explains how our latest research uncovers a key feature of cortical function that has been completely missed: a location signal."
 date: 2017/11/27
 hideImage: true
 image: ../images/brainsciencepodcast.jpg
 org: VP of Marketing
-keywords: "jeff hawkins brain science podcast"
+keywords: "brain science podcast jeff hawkins"
 title: "Brain Science Podcast: Jeff Hawkins Explores a New Theory of Cortical Function"
 header: "Brain Science Podcast: Jeff Hawkins Explores a New Theory of Cortical Function"
 type: post

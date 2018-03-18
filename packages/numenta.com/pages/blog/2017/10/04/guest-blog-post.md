@@ -1,12 +1,13 @@
 ---
 author: Ali Kaan Sungur
-description: "My full name is Ali Kaan Sungur and I work as a research assistant in Middle East Technical University, Graduate School of Informatics. I'm a computer science graduate specialized in game development and real-time 3D graphics. Recently, HTM and related neuroscience became my main area of interest. I have an Ms. degree in Game Technologies and just started my PhD. in Cognitive Science. Oh, and I love cycling."
+description: "HTM community member, Ali Kaan Sungur, shares his thesis on an HTM based autonomous agent in video game environments. In his HTM based thesis, he shows a real-time agent architecture involving a hierarchy of HTM layers that models patterns based on rewarding behavior."
 date: 2017/10/04
 hideImage: true
 image: ../images/Picture5.png
 org: HTM Community Member
-tags: numenta hierarchical temporal memory htm blog
+keywords: "htm based thesis"
 title: "Guest Post: Behind the Idea – HTM Based Autonomous Agent"
+header: "Guest Post: Behind the Idea – HTM Based Autonomous Agent"
 type: post
 ---
 
