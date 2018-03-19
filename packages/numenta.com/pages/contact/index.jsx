@@ -6,20 +6,25 @@ import Helmet from 'react-helmet'
 import React from 'react'
 
 import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {scrollToSection} from 'numenta-web-shared-utils/lib/client'
+import {
+  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
 import MainSections from '../_MainSections'
 import SectionContact from './_Section'
+import Metatags from './_metatags.md'
 
 const Default = (<SectionContact key="sectionContact" />)
-const title = 'Contact'
+const title = 'Contact Us' || Metatags.title
 
 
 /**
  * Contact page and MainSection wrapper - React view component.
  */
 class ContactPage extends React.Component {
+  static contextTypes = {
+    config: React.PropTypes.object,
+  }
 
   state = {
     sections: (
@@ -46,9 +51,12 @@ class ContactPage extends React.Component {
 
   render() {
     const {sections} = this.state
+    const {config} = this.context
     return (
       <div>
-        <Helmet title={title} />
+        <Helmet title={title}>
+          {getMetadataTags(Metatags, config.baseUrl)}
+        </Helmet>
         {sections}
       </div>
     )
