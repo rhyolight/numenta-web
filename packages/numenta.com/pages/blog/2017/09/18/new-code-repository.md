@@ -21,7 +21,7 @@ This is why we decided to create a [new place](https://github.com/numenta/htmpap
 
 If you go to our [new repository](https://github.com/numenta/htmpapers), you will see that it is now organized by publications and by the names of the papers.
 
-![Repository New Repository](../images/repository.png)
+![Replicating Scientific Results - New Repository](../images/repository.png)
 
 Let’s say that you are looking for the code used in the experiments on our [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263) paper from bioRxiv.
 
@@ -29,15 +29,15 @@ You can either:
 <li>Click <b>bioRxiv/why_does the_neocortex_have_layers_and_columns</b>, or</li>
 <li>Scroll down and click on “Sources” under the description of the paper.</li>
 
-![Repository Sources](../images/sources.png)
+![Replicating Scientific Results - Repository Sources](../images/sources.png)
 
 Each folder has a <b>README.md</b> file. In it, there are instructions on how to install the requirements, how to generate figures, and explanations of all the figures in the paper.
 
-![Repository Readme Instructions and Figures](../images/readmeandfigures.png)
+![Replicating Scientific Results - Repository Readme Instructions and Figures](../images/readmeandfigures.png)
 
 There is also a <b>requirements.txt</b> file which tells you the software and software versions we used to run the experiments. I have frozen the repositories in time, so that you can replicate our results from the time when the papers were written.
 
-![Repository Requirements](../images/requirements.png)
+![Replicating Scientific Results - Repository Requirements](../images/requirements.png)
 
 For now, we have only done this for one recent paper– [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263). It is still a work in progress and should be considered “beta”. We will be updating the repository to include our other papers in the weeks to come.
 
