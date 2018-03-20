@@ -1,12 +1,13 @@
 ---
 author: Luiz Scheinkman
-description: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature"
+description: "We understand the struggle of replicating scientific results. That’s why we created a new repository, where we’ve organized our code by the names of our papers. In this blog, Luiz Scheinkman walks through our new repository, which he describes as a standardized guide for those who want to use our technology."
 date: 2017/09/18
 hideImage: true
 image: ../images/readmeandfigures.png
 org: Software Architect
-tags: numenta hierarchical temporal memory htm blog
-title: "Reproducing Scientific Results: Numenta's New GitHub Repository for Research Papers"
+keywords: "replicating scientific results"
+title: "Replicating Scientific Results: Numenta's New GitHub Repository for Research Papers"
+header: "Replicating Scientific Results: Numenta's New GitHub Repository for Research Papers"
 type: post
 ---
 
@@ -20,7 +21,7 @@ This is why we decided to create a [new place](https://github.com/numenta/htmpap
 
 If you go to our [new repository](https://github.com/numenta/htmpapers), you will see that it is now organized by publications and by the names of the papers.
 
-![Repository New Repository](../images/repository.png)
+![Replicating Scientific Results - New Repository](../images/repository.png)
 
 Let’s say that you are looking for the code used in the experiments on our [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263) paper from bioRxiv.
 
@@ -28,15 +29,15 @@ You can either:
 <li>Click <b>bioRxiv/why_does the_neocortex_have_layers_and_columns</b>, or</li>
 <li>Scroll down and click on “Sources” under the description of the paper.</li>
 
-![Repository Sources](../images/sources.png)
+![Replicating Scientific Results - Repository Sources](../images/sources.png)
 
 Each folder has a <b>README.md</b> file. In it, there are instructions on how to install the requirements, how to generate figures, and explanations of all the figures in the paper.
 
-![Repository Readme Instructions and Figures](../images/readmeandfigures.png)
+![Replicating Scientific Results - Repository Readme Instructions and Figures](../images/readmeandfigures.png)
 
 There is also a <b>requirements.txt</b> file which tells you the software and software versions we used to run the experiments. I have frozen the repositories in time, so that you can replicate our results from the time when the papers were written.
 
-![Repository Requirements](../images/requirements.png)
+![Replicating Scientific Results - Repository Requirements](../images/requirements.png)
 
 For now, we have only done this for one recent paper– [Why Does the Neocortex have Layers and Columns](https://doi.org/10.1101/162263). It is still a work in progress and should be considered “beta”. We will be updating the repository to include our other papers in the weeks to come.
 

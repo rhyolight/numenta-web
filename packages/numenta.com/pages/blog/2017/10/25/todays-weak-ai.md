@@ -1,12 +1,13 @@
 ---
 author: Matthew Taylor
-description: "While Deep Learning and other ANN-based methods of machine learning have produced some amazing capabilities over the past decade, they still leave me wanting more intelligence than they can deliver. The “point neuron” used in ANN is based on an understanding of neuroscience we had back in the 1970s. Just in the past couple of decades, we have learned more about the pyramidal neuron in the neocortex than we have ever known before. This knowledge has never been applied to the old ANN point neuron."
+description: "This blog by Matt Taylor compares today's weak AI to strong AI, or AGI. While Deep Learning and other ANN-based methods are useful, he believes that the path to strong AI is a biological one. At Numenta, we aim to understand how intelligence works in the cortex and create new intelligent systems using those principles."
 date: 2017/10/25
 hideImage: false
 image: ../images/broken-robot.jpg
 org: Open Source Community Manager
-tags: numenta hierarchical temporal memory htm blog
+keywords: "weak AI strong AI"
 title: "Today’s Weak AI Lacks Intelligence"
+header: "Today’s Weak AI Lacks Intelligence"
 type: post
 ---
 
