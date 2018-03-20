@@ -1,12 +1,13 @@
 ---
 author: Luiz Scheinkman
-description: "Science advances faster when researchers can verify each other’s results. However, this is easier said than done, as evident by the long-standing issue about reproducibility of scientific research. This widespread “reproducibility crisis” has been featured in newspapers, magazines, education-related publications, and scientific journals. According to a survey conducted by Nature"
+description: "We understand the struggle of replicating scientific results. That’s why we created a new repository, where we’ve organized our code by the names of our papers. In this blog, Luiz Scheinkman walks through our new repository, which he describes as a standardized guide for those who want to use our technology."
 date: 2017/09/18
 hideImage: true
 image: ../images/readmeandfigures.png
 org: Software Architect
-tags: numenta hierarchical temporal memory htm blog
-title: "Reproducing Scientific Results: Numenta's New GitHub Repository for Research Papers"
+keywords: "replicating scientific results"
+title: "Replicating Scientific Results: Numenta's New GitHub Repository for Research Papers"
+header: "Replicating Scientific Results: Numenta's New GitHub Repository for Research Papers"
 type: post
 ---
 
