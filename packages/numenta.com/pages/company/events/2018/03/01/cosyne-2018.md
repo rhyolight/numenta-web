@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'Be sure not to miss Numenta at Cosyne 2018! VP of Research Subutai Ahmad will be hosting a workshop, "Could a Model of Predictive Voting Explain Many Long-Range Connections?" while the Numenta research team led by Jeff Hawkins will be presenting two posters on Allocentric Locations and Sparse Distributed Representations.'
+description: 
 date: 2018/03/01
 event:
   what: "A Neural Mechanism for Determining Allocentric Locations of Sensed Features, Robust dendritic Computations with Sparse Distributed Representations"
