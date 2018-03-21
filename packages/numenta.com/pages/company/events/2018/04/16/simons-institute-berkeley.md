@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: 
+description:
 date: 2018/04/16
 event:
   what: "Does the neocortex use grid cell-like mechanisms to learn the structure of objects?"

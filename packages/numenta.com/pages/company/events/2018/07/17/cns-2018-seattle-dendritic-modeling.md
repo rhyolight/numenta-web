@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-description: 
+description:
 date: 2018/07/17
 event:
   what: "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex"

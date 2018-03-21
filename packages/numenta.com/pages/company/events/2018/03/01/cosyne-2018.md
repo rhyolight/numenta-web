@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 
+description:
 date: 2018/03/01
 event:
   what: "A Neural Mechanism for Determining Allocentric Locations of Sensed Features, Robust dendritic Computations with Sparse Distributed Representations"
