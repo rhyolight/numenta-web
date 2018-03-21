@@ -17,7 +17,7 @@ event:
   why: Speaking
 image: ../images/janelia.png
 org: Co-Founder
-keyword: "Janelia Jeff Hawkins"
+keywords: "Janelia Jeff Hawkins"
 title: "Howard Hughes Medical Institute: Janelia Research Campus -  Neurotheory Seminar Series"
 header: "Howard Hughes Medical Institute: Janelia Research Campus -  Neurotheory Seminar Series"
 type: post
