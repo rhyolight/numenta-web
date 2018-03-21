@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-description: "Numenta VP of Research, Subutai Ahmad, will be in CNS 2018 to host a workshop about "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex." The event will be held at the Allen Institute in Seattle, WA."
+description: 'Numenta VP of Research, Subutai Ahmad, will be in CNS 2018 to host a workshop about "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex." The event will be held at the Allen Institute in Seattle, WA.'
 date: 2018/07/17
 event:
   what: "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex"

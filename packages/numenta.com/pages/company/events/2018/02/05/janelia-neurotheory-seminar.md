@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description:
+description: 'Speaking at the Howard Hughes Medical Institute's Neurotheory Seminar Series at Janelia, Jeff Hawkins will be presenting our latest research progress in his talk titled, "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception."'
 date: 2018/02/05
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
@@ -17,8 +17,9 @@ event:
   why: Speaking
 image: ../images/janelia.png
 org: Co-Founder
-tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
+keyword: "Janelia Jeff Hawkins"
 title: "Howard Hughes Medical Institute: Janelia Research Campus -  Neurotheory Seminar Series"
+header: "Howard Hughes Medical Institute: Janelia Research Campus -  Neurotheory Seminar Series"
 type: post
 ---
 
