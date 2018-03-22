@@ -25,7 +25,7 @@
 # See https://docs.aws.amazon.com/AmazonS3/latest/dev/how-to-page-redirect.html
 
 set -o errexit
-# set -o xtrace
+set -o xtrace
 
 while getopts "f:b:" opt; do
   case "$opt" in
@@ -39,14 +39,23 @@ if [[ -z ${BUCKET} || -z ${CSV_FILE} ]]; then
   exit 1
 fi
 
+# AWS S3 buckets redirects are limited to 50 "RoutingRules".
+# We will use "RoutingRules" for the first 50 items and S3 keys with redirect
+# metadata for the extra redirects
+readarray -t redirects < ${CSV_FILE}
+first_50=("${redirects[@]:0:50}")
+extra_redirects=("${redirects[@]:50}")
 TMPFILE=`mktemp`
-IFS=$(echo -en ",\r\n")
 COUNT=0
 echo '{
   "IndexDocument": {"Suffix": "index.html"},
   "ErrorDocument": {"Key": "404/index.html"},
   "RoutingRules": [' > "${TMPFILE}"
-while read -r from_url to_url || [[ -n "${from_url}" ]]; do
+for row in ${first_50[@]}; do
+  from_url=("${row%%,*}")
+  to_url=("${row#*,}")
+  to_url=${to_url%%[[:space:]]}
+
   if [[ ${COUNT} -gt 0 ]]; then
     echo ","
   fi
@@ -65,6 +74,12 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
       if [ "${BUCKET}" != "numenta.com" ]; then
         protocol="http"
       fi
+    elif [ "${hostname}" == "numenta.org" ]; then
+      hostname=${BUCKET}
+      # Staging sites do not support "https" protocol
+      if [ "${BUCKET}" != "numenta.org" ]; then
+        protocol="http"
+      fi
     fi
 
     path=""
@@ -80,6 +95,8 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
     # Special case for internal sites redirects
     if [ "${hostname}" == "numenta.com" ]; then
         protocol="https"
+    elif [ "${hostname}" == "numenta.org" ]; then
+      protocol="https"
     else
         protocol="http"
     fi
@@ -88,8 +105,30 @@ while read -r from_url to_url || [[ -n "${from_url}" ]]; do
     echo "\"ReplaceKeyPrefixWith\": \"${to_url}\","
   fi
   echo "\"HttpRedirectCode\": \"301\"}}"
-done < "$CSV_FILE" >> "${TMPFILE}"
+done >> "${TMPFILE}"
 echo "]}" >> "${TMPFILE}"
 aws s3api put-bucket-website --bucket ${BUCKET} --website-configuration file://${TMPFILE}
 cat ${TMPFILE}
 rm ${TMPFILE}
+
+# Create S3 key redirects for all other redirects
+TMPFILE=`mktemp`
+for row in ${extra_redirects[@]}; do
+  from_url=("${row%%,*}")
+  to_url=("${row#*,}")
+  to_url=${to_url%%[[:space:]]}
+  if [[ ! ${to_url} =~ https?://.*$ ]]; then
+    hostname=${BUCKET}
+    path=${to_url}
+    # Special case for internal sites redirects
+    if [ "${hostname}" == "numenta.com" ]; then
+        protocol="https"
+    elif [ "${hostname}" == "numenta.org" ]; then
+      protocol="https"
+    else
+        protocol="http"
+    fi
+    to_url=${protocol}://${hostname}/${path}
+  fi
+  aws s3 cp ${TMPFILE} s3://${BUCKET}/${from_url} --website-redirect ${to_url}
+done
