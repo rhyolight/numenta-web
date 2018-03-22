@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: "Jeff Hawkins has been invited to give a talk at the APL Colloquium in Johns Hopkins University, where will be speaking about the latest progress of Numenta's research. Held weekly, the APL Colloquium is one of the longest standing technical and scientific lecture series in the Washington/Baltimore area."
+description: "Jeff Hawkins has been invited to give a talk at the APL Colloquium in Johns Hopkins University, where he will be speaking about the latest progress of Numenta's research. Held weekly, the APL Colloquium is one of the longest standing technical and scientific lecture series in the Washington/Baltimore area."
 date: 2018/09/21
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
