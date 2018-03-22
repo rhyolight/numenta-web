@@ -178,12 +178,14 @@ class MarkdownWrapper extends React.Component {
           </TableRow>
         ))
 
-        description = `${what}, ${getEventTimeDisplay(when)}`
-        if (desc) {
-          description += `, ${desc}`
-        }
-        if (location) {
-          description += `, ${location}`
+        if (!description) {
+          description = `${what}, ${getEventTimeDisplay(when)}`
+          if (desc) {
+            description += `, ${desc}`
+          }
+          if (location) {
+            description += `, ${location}`
+          }
         }
 
         if (web) {
