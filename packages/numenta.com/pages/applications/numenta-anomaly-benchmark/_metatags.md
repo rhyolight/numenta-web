@@ -1,5 +1,6 @@
 ---
-title: Numenta Anomaly Benchmark (NAB)
+title: "Anomaly Detection in Streaming Data - The Numenta Benchmark"
 image: ./images/detail.png
-description: The First Benchmark For Evaluating Anomaly Detection In Streaming Data
+keywords: "anomaly detection"
+description: "Anomaly detection in streaming data has business value in many applications, but how do you measure its effectiveness? The Numenta Anomaly Benchmark (NAB) is the first benchmark designed for time-series data that gives credit to finding anomalies earlier and adjusting to changed patterns."
 ---
