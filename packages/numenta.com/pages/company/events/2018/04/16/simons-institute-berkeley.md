@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description:
+description: 'Speaking at the Computational Theories of the Brain Workshop at Simons Institute, Jeff Hawkins will propose that the neocortex learns models of objects in a similar method that the entorhinal cortex uses to map to environments.'
 date: 2018/04/16
 event:
   what: "Does the neocortex use grid cell-like mechanisms to learn the structure of objects?"

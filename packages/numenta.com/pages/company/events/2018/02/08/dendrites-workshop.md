@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-description:
+description: 'Invited to speak at the Dendritic Integration and Computation with Active Dendrites Workshop, Subutai Ahmad will be giving a talk about "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex." The workshop will take place in central Paris, at EITN on February 8-9, 2018.'
 date: 2018/02/08
 event:
   what: "The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex"
