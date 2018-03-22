@@ -96,7 +96,7 @@ const NabPage = (props, {config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="Heartbeat monitor"
+            alt="Numenta Anomaly Detection Benchmark – Heartbeat Monitor"
             border={true}
             respond="mw"
             src={ImageHeartbeat}
@@ -114,7 +114,7 @@ const NabPage = (props, {config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="mathematical equations"
+            alt="Numenta Anomaly Detection Benchmark – Mathematical Equations"
             border={true}
             respond="mw"
             src={ImageEquations}
@@ -132,7 +132,7 @@ const NabPage = (props, {config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="Geometric and math blueprints"
+            alt="Numenta Anomaly Detection Benchmark – Geometric and Math Blueprints"
             border={true}
             respond="mw"
             src={ImageMath}
@@ -154,7 +154,7 @@ const NabPage = (props, {config}) => {
         <div className={styles.aside}>
           <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
             <Image
-              alt="Anomaly Detection Image"
+              alt="Numenta Anomaly Detection Benchmark – Anomaly Detection Image"
               border={true}
               respond="mw"
               src={ImageAnomalyDetection}
@@ -211,7 +211,7 @@ const NabPage = (props, {config}) => {
         <div className={styles.aside}>
           <TextLink to="/assets/pdf/numenta-anomaly-benchmark/NAB-Business-Paper.pdf">
             <Image
-              alt="NAB White Paper chart figure"
+              alt="Numenta Anomaly Detection Benchmark – NAB White Paper Chart Figure"
               border={true}
               respond="mw"
               src={ImageCompare}
@@ -239,7 +239,7 @@ const NabPage = (props, {config}) => {
         <div className={styles.aside}>
           <TextLink to="http://arxiv.org/abs/1510.03336">
             <Image
-              alt="NAB Scoreboard"
+              alt="Numenta Anomaly Detection Benchmark – NAB Scoreboard"
               border={true}
               respond="mw"
               src={ImageScoreboard}
@@ -270,7 +270,7 @@ const NabPage = (props, {config}) => {
         <div className={styles.aside}>
           <TextLink to="https://github.com/numenta/NAB">
             <Image
-              alt="NAB Github Repo"
+              alt="Numenta Anomaly Detection Benchmark – NAB Github Repository"
               border={true}
               respond="mw"
               src={ImageRepo}
@@ -298,7 +298,7 @@ const NabPage = (props, {config}) => {
             to="/assets/pdf/numenta-anomaly-benchmark/NAB-Data-Sheet.pdf"
           >
             <Image
-              alt="NAB Datasheet"
+              alt="Numenta Anomaly Detection Benchmark – NAB Datasheet"
               border={true}
               respond="mw"
               src={ImageDatasheet}
@@ -328,7 +328,7 @@ const NabPage = (props, {config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="NAB Chart Detail"
+            alt="Numenta Anomaly Detection Benchmark – NAB Chart Detail"
             border={true}
             respond="mw"
             src={ImageDetail}
