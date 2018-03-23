@@ -35,7 +35,7 @@ import styles from './index.css'
 import Metatags from './_metatags.md'
 import ImageAnomalyDetection from './images/anomaly-detection-image.png'
 
-const title = 'Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)'
+const title = 'Evaluating Anomaly Detection in Streaming Data– Numenta Anomaly Benchmark (NAB)'
 
 /* eslint-disable max-len */
 /**
@@ -67,7 +67,7 @@ const NabPage = (props, {config}) => {
           </SubTitle>
           <Paragraph lead={true}>
             The need for anomaly detection has grown as the Internet of Things
-            has produced a world that’s overflowing with streaming data. As 
+            has produced a world that’s overflowing with streaming data. As
             these data sources continue to grow, so does the need for anomaly
             detection. Uncovering anomalies allows you to:
           </Paragraph>
