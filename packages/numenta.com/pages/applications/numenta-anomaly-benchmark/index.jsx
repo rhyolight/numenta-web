@@ -40,7 +40,7 @@ import ImageAnomalyDetection from './images/anomaly-detection-image.png'
  * Numenta Anomaly Benchmark (NAB) page - React view component.
  */
 
-const title = 'Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)'
+const title = 'Anomaly Detection: Numenta Anomaly Benchmark'
 
 const NabPage = (props, {config}) => {
   const {baseUrl} = config
