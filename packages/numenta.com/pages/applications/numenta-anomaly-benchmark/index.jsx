@@ -55,7 +55,7 @@ const NabPage = (props, {config}) => {
             image={ImageVideoNab}
             respond="mw"
             time="02:23"
-            title=Using NAB to evaluate anomaly detection in streaming data
+            title="Numenta Anomaly Benchmark (NAB) for anomaly detection in streaming data"
             type="youtube"
             videoId="u_ENXLIlu8s"
           />
