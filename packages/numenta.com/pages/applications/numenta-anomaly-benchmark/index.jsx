@@ -35,12 +35,13 @@ import styles from './index.css'
 import Metatags from './_metatags.md'
 import ImageAnomalyDetection from './images/anomaly-detection-image.png'
 
-const title = 'Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)'
-
 /* eslint-disable max-len */
 /**
  * Numenta Anomaly Benchmark (NAB) page - React view component.
  */
+
+const title = 'Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)'
+
 const NabPage = (props, {config}) => {
   const {baseUrl} = config
 
