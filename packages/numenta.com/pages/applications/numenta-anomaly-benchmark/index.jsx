@@ -70,7 +70,10 @@ const NabPage = (props, {config}) => {
             The need for anomaly detection has grown, as the Internet of Things
             has produced a world that’s overflowing with streaming data. As
             these data sources continue to grow, so does the need for anomaly
-            detection. <br><br> Uncovering anomalies allows you to:
+            detection.
+          </Paragraph>
+          <Paragraph>
+          Uncovering anomalies allows you to:
           </Paragraph>
           <List marker="disc">
             <ListItem>
