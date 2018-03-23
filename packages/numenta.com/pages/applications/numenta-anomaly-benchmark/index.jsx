@@ -67,10 +67,10 @@ const NabPage = (props, {config}) => {
             Data
           </SubTitle>
           <Paragraph lead={true}>
-            The need for anomaly detection has grown as the Internet of Things
+            The need for anomaly detection has grown, as the Internet of Things
             has produced a world that’s overflowing with streaming data. As
             these data sources continue to grow, so does the need for anomaly
-            detection. Uncovering anomalies allows you to:
+            detection. </br></br> Uncovering anomalies allows you to:
           </Paragraph>
           <List marker="disc">
             <ListItem>
