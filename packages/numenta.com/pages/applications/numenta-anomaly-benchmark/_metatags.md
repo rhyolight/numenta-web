@@ -1,5 +1,5 @@
 ---
-title: "Anomaly Detection Benchmark | Numenta"
+title: "Anomaly Detection Benchmark: Numenta"
 header: "Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)"
 image: ./images/detail.png
 keywords: "anomaly detection"
