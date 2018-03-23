@@ -35,7 +35,7 @@ import styles from './index.css'
 import Metatags from './_metatags.md'
 import ImageAnomalyDetection from './images/anomaly-detection-image.png'
 
-const title = 'Numenta Anomaly Benchmark (NAB)'
+const title = 'Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)'
 
 /* eslint-disable max-len */
 /**
@@ -55,7 +55,7 @@ const NabPage = (props, {config}) => {
             image={ImageVideoNab}
             respond="mw"
             time="02:23"
-            title={title}
+            title=Anomaly Detection – Numenta Anomaly Benchmark (NAB)
             type="youtube"
             videoId="u_ENXLIlu8s"
           />
@@ -66,10 +66,10 @@ const NabPage = (props, {config}) => {
             Data
           </SubTitle>
           <Paragraph lead={true}>
-            The Internet of Things has produced a world that’s overflowing
-            with streaming data. As these data sources continue to grow, so
-            does the need for anomaly detection. Uncovering anomalies allows
-            you to:
+            The need for anomaly detection has grown as the Internet of Things
+            has produced a world that’s overflowing with streaming data. As 
+            these data sources continue to grow, so does the need for anomaly
+            detection. Uncovering anomalies allows you to:
           </Paragraph>
           <List marker="disc">
             <ListItem>
@@ -96,7 +96,7 @@ const NabPage = (props, {config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="Numenta Anomaly Detection Benchmark – Heartbeat Monitor"
+            alt="Numenta Anomaly Detection Benchmark – Heartbeat monitor"
             border={true}
             respond="mw"
             src={ImageHeartbeat}
