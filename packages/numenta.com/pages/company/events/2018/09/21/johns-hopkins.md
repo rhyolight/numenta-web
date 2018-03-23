@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description:
+description: "Jeff Hawkins has been invited to give a talk at the APL Colloquium in Johns Hopkins University, where he will be speaking about the latest progress of Numenta's research. Held weekly, the APL Colloquium is one of the longest standing technical and scientific lecture series in the Washington/Baltimore area."
 date: 2018/09/21
 event:
   what: "Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception"
@@ -17,8 +17,9 @@ event:
   why: Speaking
 image: ../images/johns-hopkins.jpg
 org: Co-Founder
-tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
+keywords: "Jeff Hawkins APL Colloquium"
 title: "The APL Colloquium"
+header: "The APL Colloquium"
 type: post
 ---
 

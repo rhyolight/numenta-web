@@ -1,6 +1,6 @@
 ---
 author: Marcus Lewis
-description:
+description: 'Marcus Lewis will be representing Numenta in the Grid Cell Meeting at University College London (UCL) on May 21-22, 2018 to give a talk on the topic, "Using Grid Cells for Coordinate Transforms."'
 date: 2018/05/21
 event:
   what: Using Grid Cells for Coordinate Transforms
@@ -17,8 +17,9 @@ event:
   why: Poster Presentation
 image: ../images/ucl.png
 org: Numenta Research Engineer
-tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
+keywords: "Numenta Grid Cell Meeting"
 title: "Grid Cell Meeting"
+header: "Grid Cell Meeting"
 type: post
 ---
 
