@@ -35,7 +35,7 @@ import styles from './index.css'
 import Metatags from './_metatags.md'
 import ImageAnomalyDetection from './images/anomaly-detection-image.png'
 
-const title = 'Evaluating Anomaly Detection in Streaming Data– Numenta Anomaly Benchmark (NAB)'
+const title = 'Evaluating Anomaly Detection in Streaming Data: Numenta Anomaly Benchmark (NAB)'
 
 /* eslint-disable max-len */
 /**
@@ -55,7 +55,7 @@ const NabPage = (props, {config}) => {
             image={ImageVideoNab}
             respond="mw"
             time="02:23"
-            title=Anomaly Detection – Numenta Anomaly Benchmark (NAB)
+            title=Using NAB to evaluate anomaly detection in streaming data
             type="youtube"
             videoId="u_ENXLIlu8s"
           />
