@@ -39,6 +39,7 @@ archives/software/vision/VisionToolkitTutorial.pdf,https://github.com/numenta/nu
 vision,https://github.com/numenta/nupic.vision
 support,contact
 blog/index.rss,blog
+assets/pdf/biological-and-machine-intelligence/0.4,resources/biological-and-machine-intelligence
 blog/numenta-anomaly-benchmark-nab-competition-2016-winners.html,blog/2016/08/10/numenta-anomaly-benchmark-nab-competition-2016-winners
 blog/winner-of-htm-contest-at-yale.html,blog/2015/07/01/winner-of-htm-contest-at-yale
 blog/how-is-groks-algorithm-different.html,blog/2012/06/04/how-is-groks-algorithm-different
@@ -63,3 +64,7 @@ archives/education/heli_static.swf,https://numenta.com
 about-numenta/press/2007-08-29.php,press
 library,resources/papers
 mediawiki/index.php/Community_Wiki,https://discourse.numenta.org/users
+faq.html,https://numenta.org/faq
+blog/jeff-hawkins-on-skynet-vs-c3po.html,blog/2012/12/13/jeff-hawkins-on-skynet-vs-c3po
+blog/an-insiders-look-interview-with-yang-lan-and-jeff-hawkins.html,/blog/2016/08/18/an-insiders-look-interview-with-yang-lan-and-jeff-hawkins
+blog/numenta-at-computational-and-systems-neuroscience-conference.html,blog/2016/03/30/numenta-at-computational-and-systems-neuroscience-conference
