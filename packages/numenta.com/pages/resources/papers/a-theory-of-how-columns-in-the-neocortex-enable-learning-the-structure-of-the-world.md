@@ -1,6 +1,7 @@
 ---
 author: "Jeff Hawkins, Subutai Ahmad & Yuwei Cui"
-description: "This paper proposes a network model composed of columns and layers that performs robust object learning and recognition. The model introduces a new feature to cortical columns, location information, which is represented relative to the object being sensed. Pairing sensory features with locations is a requirement for modeling objects and therefore must occur somewhere in the neocortex. We propose it occurs in every column in every region."
+description: "This paper proposes a network model composed of columns and layers that performs robust object learning and recognition. The model introduces a new feature to cortical columns, location information, which is represented relative to the object being sensed."
+keywords: sensorimotor inference, object recognition, 
 category: neuroscience, sensorimotor
 date: 2017/10/25
 hideImage: true
