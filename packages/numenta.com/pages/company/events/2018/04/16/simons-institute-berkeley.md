@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description:
+description: 'Speaking at the Computational Theories of the Brain Workshop at Simons Institute, Jeff Hawkins will propose that the neocortex learns models of objects in a similar method that the entorhinal cortex uses to map to environments.'
 date: 2018/04/16
 event:
   what: "Does the neocortex use grid cell-like mechanisms to learn the structure of objects?"
@@ -17,8 +17,9 @@ event:
   why: Speaking
 image: ../images/simons-institute.jpg
 org: Co-Founder
-tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing brain neuroscience
+keywords: "Simons Institute Jeff Hawkins"
 title: "Computational Theories of the Brain Workshop"
+header: "Computational Theories of the Brain Workshop"
 type: post
 ---
 
@@ -27,6 +28,6 @@ In this talk, I propose that the neocortex learns models of objects using the sa
 
 
 ### References:
-* “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)” by Jeff Hawkins, Subutai Ahmad, YuWei Cui (2017)
+* “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)” by Jeff Hawkins, Subutai Ahmad, YuWei Cui (2017)
 * “[Place Cells, Grid Cells, and the Brain’s Spatial Representation System](https://doi.org/10.1146/annurev.neuro.31.061307.090723)” by Edvard Moser, Emilio Kropff, May-Britt Moser (2008)
 * “[Evidence for grid cells in a human memory network](https://doi.org/10.1038/nature08704)” by Christian Doeller, Caswell Barry, Neil Burgess (2010)
