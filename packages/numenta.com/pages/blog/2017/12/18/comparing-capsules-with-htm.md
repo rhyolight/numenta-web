@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-description: "A new development in the field of Deep Learning, Geoffrey Hinton's capsule theory, has recently been getting some publicity. At Numenta, we have been getting questions about how it relates to our sensorimotor theory. Subutai Ahmad shares his thoughts about the Hinton's theory in this blog comparing HTM and capsules."
+description: "How does Numenta's theory compare to Geoffrey Hinton's capsule theory? Subutai Ahmad, Numenta VP Research, shares his thoughts and breaks down the similarities and differences in this blog comparing HTM and capsules."
 date: 2017/12/18
 hideImage: false
 image: ../images/brainwaves-small.jpg
