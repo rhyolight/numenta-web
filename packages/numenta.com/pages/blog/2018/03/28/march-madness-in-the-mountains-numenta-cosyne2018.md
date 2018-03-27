@@ -39,7 +39,7 @@ Adam Calhoun has a nice [blog](https://neuroecology.wordpress.com/2018/02/27/cos
 
 ![Numenta Cosyne 2018 - Accepted 2018](../images/accepted-2018.png)
 
-</br></br>
+</br>
 
 ## Most creative experimental technique
 
