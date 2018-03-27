@@ -25,7 +25,7 @@ At Numenta, we talk about theory everyday. In fact, part of what makes us so dif
 *	[Targeted Discovery in Brain Data](https://simons.berkeley.edu/workshops/brain2018-2) (March)
 *	[Computational Theories of the Brain](https://simons.berkeley.edu/workshops/brain2018-3) (April)
 
-Recordings are available for the workshops that have already passed, and you can still sign up to attend the March and April workshops. Our co-founder, Jeff Hawkins, will be speaking at the final workshop in the series this [April](https://numenta.com/company/events/2018/04/16/simons-institute-berkeley/). If you are in the Bay Area, we encourage you to [register](https://simons.berkeley.edu/BRAIN18-3-registration-form).
+Recordings are available for the workshops that have already passed, and you can still sign up to attend the March and April workshops. Our co-founder, Jeff Hawkins, will be speaking at the final workshop in the series this [April](/company/events/2018/04/16/simons-institute-berkeley/). If you are in the Bay Area, we encourage you to [register](https://simons.berkeley.edu/BRAIN18-3-registration-form).
 
 Some of our research engineers attended the most recent workshop, [Representation, Coding and Computation in Neural Circuits](https://simons.berkeley.edu/workshops/brain2018-1), and I asked one of them, Scott Purdy, to share his thoughts.
 
