@@ -57,4 +57,4 @@ Mirko adds, “I enjoyed Sam Gershman's talk about model-based reinforcement lea
 
 Overall, with these talks, posters, and meetings, plus our three presentations it was a busy but rewarding week. We’re already looking forward to next year’s March Madness with Cosyne 2019.
 
-![Numenta Cosyne 2018 - Numenta Group Photo at Cosyne 2018](../images/numenta-group-photo.png)
+![Numenta Cosyne 2018 - Numenta Group Photo at Cosyne 2018](../images/numenta-group-photo.jpg)
