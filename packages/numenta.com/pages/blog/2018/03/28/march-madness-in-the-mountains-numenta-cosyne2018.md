@@ -1,11 +1,11 @@
 ---
 author: Numenta
-description: 'In our paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World, we proposed that a single cortical column can learn models of complete objects through movement. Jeff Hawkins and Christy Maver explain our “Thousand Brains Model of Intelligence” and its implications for AI in this blog.'
-date: 2018/03/19
+description: 'Scott Purdy and Subutai Ahmad write about Numenta's Cosyne 2018 experience, where they share some of the posters and talks they found interesting. This Cosyne, we presented two posters and a workshop on our latest work. It was a busy but rewarding week, and we’re already looking forward to Cosyne 2019.'
+date: 2018/03/28
 hideImage: false
 image: ../images/marcus-with-poster.jpg
 org: Subutai Ahmad & Scott Purdy
-keywords: "thousand brains model"
+keywords: "Numenta Cosyne 2018"
 title: "March Madness in the Mountains – Numenta’s Cosyne 2018 Report"
 header: "March Madness in the Mountains – Numenta’s Cosyne 2018 Report"
 type: post
