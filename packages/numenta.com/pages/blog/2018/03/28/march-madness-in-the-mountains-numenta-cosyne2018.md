@@ -2,7 +2,7 @@
 author: Numenta
 description: "Scott Purdy and Subutai Ahmad write about Numenta's Cosyne 2018 experience, where they share some of the posters and talks they found interesting. This Cosyne, we presented two posters and a workshop on our latest work. It was a busy but rewarding week, and we’re already looking forward to Cosyne 2019."
 date: 2018/03/28
-hideImage: false
+hideImage: true
 image: ../images/marcus-with-poster.jpg
 org: Subutai Ahmad & Scott Purdy
 keywords: "Numenta Cosyne 2018"
