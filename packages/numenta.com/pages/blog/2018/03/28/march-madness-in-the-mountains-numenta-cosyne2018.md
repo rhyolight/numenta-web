@@ -15,7 +15,7 @@ As usual, in early March a bunch of us (Jeff, Subutai, Scott, Marcus, and Mirko)
 
 The sessions start early in the morning and end late at night; this goes on for six days. The conference is super intense and tiring, but overall Cosyne is the best way to get an in-depth understanding of the latest research in Computational Neuroscience.
 
-### Our participation
+## Our participation
 
 This year, Numenta had 2 posters and one workshop talk at Cosyne:
 
@@ -31,21 +31,21 @@ Subutai also gave a talk at the workshop on “[Cortical circuits: functions and
 
 With three presentations, it was a busy Cosyne for us. As always, discussing our work led to several interesting in-depth discussions with neuroscientists. We returned to Numenta with new ideas and perspectives.
 
-### Interesting trends
+## Interesting trends
 
 Several topics were covered in depth this year. There were many talks and posters that explored the properties of grid cells, such as a talk on Sunday by Malcolm Campbell. A lot of work was dedicated to understanding decision making and building reinforcement learning models. Oscillations were a popular topic, especially in the context of [working memory, which had it own workshop session](http://www.cosyne.org/c/index.php?title=Workshops2018_02_02). And recording techniques continue to improve, resulting in new experiments using technologies such as [Neuropixels](http://www.ucl.ac.uk/neuropixels).
 
-Adam Calhoun has a [nice blog](https://neuroecology.wordpress.com/2018/02/27/cosyne18-by-the-numbers/), where he analytically summarizes some of the interesting trends at Cosyne. As an example, his word cloud of accepted abstracts clearly shows that movement and behavior were fairly important this year:
+Adam Calhoun has a nice [blog](https://neuroecology.wordpress.com/2018/02/27/cosyne18-by-the-numbers/), where he analytically summarizes some of the interesting trends at Cosyne. As an example, his word cloud of accepted abstracts clearly shows that movement and behavior were fairly important this year:
 
 ![Numenta Cosyne 2018 - Accepted 2018](../images/accepted-2018.png)
 
-### Most creative experimental technique
+## Most creative experimental technique
 
 ![Numenta Cosyne 2018 - Jeremie Barral workshop](../images/jeremie-barral.png)
 
 Jeremie Barral presented a workshop talk about results from an experiment with an interesting setup. He uses a technique for separating neurons out of a small slice of cortex, so that they can be optogenetically stimulated and recorded from a constrained glia-free culture. The picture above, taken from his [2016 Nature Neuroscience paper](https://www.nature.com/articles/nn.4415), shows one such culture with some neurons stained red and highlighted with green boxes. Four recording probes are also visible. With this technique, the connectivity can be restricted, and every cell in the network can be targeted for optical stimulation. Typical recordings and slice preparations are stuck with the structure and connectivity already present in the tissue. This technique enables complete control of the structure of the neuronal network and the times at which each neuron receives direct activation. The technique could be useful for studying plasticity and the balance between excitatory and inhibitory activations. You can read more about the technique [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5548145/).
 
-### Other talks and posters
+## Other talks and posters
 
 We enjoyed the invited talk by Tim Behrens from Oxford, where he approaches the question of how mammals navigate abstract conceptual spaces. He emphasized the importance of a code that represents the relationship between two abstract instances and organizes it in a graph like structure that can be flexibly queried. He proposes that grid-cell like neurons in cortex are involved in navigating these spaces, and showed some evidence for this. There are many analogies to our proposals that cortical columns use grid cells to represent locations and relationships between features.
 
