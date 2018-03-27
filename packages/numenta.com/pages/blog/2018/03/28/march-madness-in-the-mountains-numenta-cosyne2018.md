@@ -35,7 +35,7 @@ With three presentations, it was a busy Cosyne for us. As always, discussing our
 
 Several topics were covered in depth this year. There were many talks and posters that explored the properties of grid cells, such as a talk on Sunday by Malcolm Campbell. A lot of work was dedicated to understanding decision making and building reinforcement learning models. Oscillations were a popular topic, especially in the context of [working memory, which had it own workshop session](http://www.cosyne.org/c/index.php?title=Workshops2018_02_02). And recording techniques continue to improve, resulting in new experiments using technologies such as [Neuropixels](http://www.ucl.ac.uk/neuropixels).
 
-Adam Calhoun has a [nice blog](https://neuroecology.wordpress.com/2018/02/27/cosyne18-by-the-numbers/), where he analytically summarizes some of the interesting trends at Cosyne. As an example, his word cloud of accepted abstracts clearly shows that movement and behavior was fairly important this year:
+Adam Calhoun has a [nice blog](https://neuroecology.wordpress.com/2018/02/27/cosyne18-by-the-numbers/), where he analytically summarizes some of the interesting trends at Cosyne. As an example, his word cloud of accepted abstracts clearly shows that movement and behavior were fairly important this year:
 
 ![Numenta Cosyne 2018 - Accepted 2018](../images/accepted-2018.png)
 
