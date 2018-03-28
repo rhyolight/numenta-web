@@ -47,7 +47,7 @@ The neocortex can learn and recognize objects using input from independently mov
 
 <hr>
 
-**Title:** [Robust dendritic Computations with Sparse Distributed Representations](http://jcua.numenta.com/resources/papers-videos-and-more/cosyne-2018-sparse-distributed-representations/)
+**Title:** [Robust dendritic Computations with Sparse Distributed Representations](/resources/papers-videos-and-more/cosyne-2018-sparse-distributed-representations/)
 
 **Authors:** Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
 
