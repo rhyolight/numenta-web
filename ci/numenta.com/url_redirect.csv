@@ -38,8 +38,11 @@ assets/pdf/grok/resources,https://grokstream.com
 archives/software/vision/VisionToolkitTutorial.pdf,https://github.com/numenta/nupic.vision
 vision,https://github.com/numenta/nupic.vision
 support,contact
+assets/pdf/biological-and-machine-intelligence/0.4/BaMI-HTM-Overview.pdf,resources/biological-and-machine-intelligence
+assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Problem-Sets.pdf,resources/biological-and-machine-intelligence
+assets/pdf/biological-and-machine-intelligence/0.4/BaMI-SDR.pdf,resources/biological-and-machine-intelligence
+assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Encoders.pdf,resources/biological-and-machine-intelligence
 blog/index.rss,blog
-assets/pdf/biological-and-machine-intelligence/0.4,resources/biological-and-machine-intelligence
 blog/numenta-anomaly-benchmark-nab-competition-2016-winners.html,blog/2016/08/10/numenta-anomaly-benchmark-nab-competition-2016-winners
 blog/winner-of-htm-contest-at-yale.html,blog/2015/07/01/winner-of-htm-contest-at-yale
 blog/how-is-groks-algorithm-different.html,blog/2012/06/04/how-is-groks-algorithm-different
@@ -79,5 +82,5 @@ blog/revisiting-a-1986-essay-on-brain-theory.html,blog/2016/08/04/revisiting-a-1
 blog/summer-internships-and-extensibility-of-htm.html,blog/2014/08/11/summer-internships-and-extensibility-of-htm
 blog/introducing-the-numenta-htm-challenge.html,https://numenta.com/blog/2015/09/29/introducing-the-numenta-htm-challenge
 terms.html,legal/terms
-htm-school,numenta.org/htm-school
+htm-school,https://numenta.org/htm-school
 blog/wait-the-brain-is-a-bloom-filter.html,blog/2012/10/07/wait-the-brain-is-a-bloom-filter

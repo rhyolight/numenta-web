@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: "Scott Purdy and Subutai Ahmad write about Numenta's Cosyne 2018 experience, where they share some of the posters and talks they found interesting. This Cosyne, we presented two posters and a workshop on our latest work. It was a busy but rewarding week, and we’re already looking forward to Cosyne 2019."
+description: "Scott Purdy and Subutai Ahmad recap Numenta's Cosyne 2018 experience and share the posters and talks they found interesting. This Cosyne, we presented two posters and a workshop, which led to meetings and several in-depth discussions with other neuroscientists. It was a busy, but very rewarding week!"
 date: 2018/03/28
 hideImage: true
 image: ../images/marcus-with-poster.jpg
