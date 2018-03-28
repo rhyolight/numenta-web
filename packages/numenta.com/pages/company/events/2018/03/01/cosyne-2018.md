@@ -38,7 +38,7 @@ This workshop on long-range cortical circuits will focus on our most recent peer
 
 ## Posters:
 
-**Title:** Determining Allocentric Locations of Sensed Features
+**Title:** [Determining Allocentric Locations of Sensed Features](/resources/papers-videos-and-more/cosyne-2018-allocentric-locations-of-sensed-features/)
 
 **Authors:** Marcus Lewis and Jeff Hawkins 
 
@@ -47,7 +47,7 @@ The neocortex can learn and recognize objects using input from independently mov
 
 <hr>
 
-**Title:** Robust dendritic Computations with Sparse Distributed Representations
+**Title:** [Robust dendritic Computations with Sparse Distributed Representations](http://jcua.numenta.com/resources/papers-videos-and-more/cosyne-2018-sparse-distributed-representations/)
 
 **Authors:** Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
 
