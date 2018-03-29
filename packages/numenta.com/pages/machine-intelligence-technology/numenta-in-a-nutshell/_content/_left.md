@@ -1,6 +1,6 @@
 ---
 title: Numenta in a Nutshell
-description: "We are a team trying to solve one of science’s grand challenges– how the brain works and how brain principles will be used in artificial general intelligence. Numenta is one of the few teams developing large scale brain theories that are biologically constrained, testable and implemented in software."
+description: "We are a team trying to solve one of science’s grand challenges– how the brain works and how brain principles will be used in Artificial General Intelligence. Numenta is one of the few teams developing large scale brain theories that are biologically constrained, testable and implemented in software."
 keywords: artificial general intelligence Numenta
 ---
 
@@ -13,7 +13,7 @@ We are a team of scientists and engineers led by Jeff Hawkins. We create and pub
 
 ### Our Progress
 
-We’ve made a series of discoveries–from how the brain represents information to how neurons make predictions and detect anomalies to how entire cortical columns learn to model objects through movement. Our work is filling in the pieces of the common cortical circuit, which underlines all of intelligence.
+We’ve made a series of discoveries– from how the brain represents information to how neurons make predictions and detect anomalies to how entire cortical columns learn to model objects through movement. Our work is filling in the pieces of the common cortical circuit, which underlines all of intelligence.
 
 ### What Makes Us Unique
 
