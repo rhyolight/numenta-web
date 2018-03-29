@@ -1,6 +1,7 @@
 ---
 title: Numenta in a Nutshell
-description: "Numenta is a small team of scientists and engineers working on one of science’s grand challenges - how the brain works and how brain principles will be used in Machine Intelligence."
+description: "We are a team trying to solve one of science’s grand challenges– how the brain works and how brain principles will be used in artificial general intelligence. Numenta is one of the few teams developing large scale brain theories that are biologically constrained, testable and implemented in software."
+keywords: artificial general intelligence Numenta
 ---
 
 Numenta is reverse-engineering the neocortex to solve one of science’s grand challenges: how the brain works.
