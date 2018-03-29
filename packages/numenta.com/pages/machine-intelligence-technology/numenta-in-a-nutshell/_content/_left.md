@@ -1,7 +1,7 @@
 ---
 title: Numenta in a Nutshell
-description: "We are a team trying to solve one of science’s grand challenges– how the brain works and how brain principles will be used in Artificial General Intelligence. Numenta is one of the few teams developing large scale brain theories that are biologically constrained, testable and implemented in software."
-keywords: artificial general intelligence Numenta
+description: "Numenta’s dual mission is first, to figure out how the brain works and second, to enable technology based on those principles, paving the way for the creation of Artificial General Intelligence (AGI). The team develops large scale brain theories that are testable and implemented in software."
+keywords: artificial general intelligence
 ---
 
 Numenta is reverse-engineering the neocortex to solve one of science’s grand challenges: how the brain works.
