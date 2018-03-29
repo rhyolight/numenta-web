@@ -5,6 +5,7 @@ keywords: artificial general intelligence Numenta
 ---
 
 Numenta is reverse-engineering the neocortex to solve one of science’s grand challenges: how the brain works.
+<br/><br/>
 
 ### What We Do
 
