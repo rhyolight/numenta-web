@@ -1,50 +1,27 @@
-**Who we are**
-
-<ul> Numenta is a small team of scientists and engineers working on one of
-science’s grand challenges: how the brain works and how brain
-principles will be used in Machine Intelligence.
+<ul>Numenta is reverse-engineering the neocortex to solve one of science’s grand challenges: how the brain works.
 </ul>
 
-**What we do**
+**What We Do**
 
-<ul> We are reverse engineering the neocortex. We publish our progress in
-scientific journals and create software simulations to test our
-theories. Everything we do is publicly disclosed and available in an
-open source form.
+<ul>We are a team of scientists and engineers led by Jeff Hawkins. We create and publish theories in scientific journals, test them through software simulations, and collaborate with experimental neuroscientists. Everything we do is publicly disclosed and available in open source.
 </ul>
 
-**Our business**
+**Our Progress**
 
-<ul> We have built a large IP/patent portfolio. We offer several types of
-licenses. Our IP will become increasingly essential as machine
-learning and AI adopt brain principles.
+<ul>We’ve made a series of discoveries–from how the brain represents information to how neurons make predictions and detect anomalies to how entire cortical columns learn to model objects through movement. Our work is filling in the pieces of the common cortical circuit, which underlines all of intelligence.
 </ul>
 
-**Our progress**
+**What Makes Us Unique**
 
-<ul> We have made several fundamental discoveries so far. These include:
-
-  - How neurons make predictions and detect anomalies.
-  - How layers of neurons learn sequences of patterns.
-  - How multiple layers of neurons learn to recognize objects via movement.
+<ul>We are one of the few teams developing large scale theories of the brain that are biologically constrained, testable and implemented in software. We believe our theories will be foundational to the creation of Artificial General Intelligence (AGI).
 </ul>
 
-**Our latest discovery: sensorimotor integration**
+**How Our Research Will Impact the Future of Machine Intelligence**
 
-<ul> In 2016 we discovered a “missing ingredient”. All areas of the
-neocortex assign their input to a “location" in the external world.
-This explains how we learn through movement and perceive a rich model
-of the world and the objects in it. This is a major addition to
-existing neuroscience thinking and it will have a large impact on how
-we design intelligent machines.
+<ul>Today’s machine learning technologies are limited compared to human intelligence. Intelligent machines patterned after the brain will be able to solve many important problems that aren’t being addressed by today’s AI. Numenta is a leader in this approach.
 </ul>
 
-**What it means for machine intelligence**
+**Our Business**
 
-<ul> Today’s machine learning technologies are extremely limited compared
-to human intelligence. To overcome these limitations, intelligent
-machines need to work on the same principles as the brain. Intelligent
-machines patterned after the brain will be able to solve many
-important problems. Numenta is far ahead of any other team in this
-effort to create true machine intelligence.
+<ul>We license our intellectual property for commercial applications.
 </ul>
