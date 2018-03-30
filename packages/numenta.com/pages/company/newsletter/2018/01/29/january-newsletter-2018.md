@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "As 2018 is well underway, I’m pleased to share several events we have scheduled for the coming weeks. You may recall that last month our Co-founder Jeff Hawkins spent a week on the east coast presenting our latest research at Cold Spring Harbor Labs, Boston University, and MIT. On February 5, Jeff will be back east, delivering his talk, “Have We Missed Most of What the Neocortex Does? Allocentric Location as the Basis of Perception” at the Janelia Research Campus."
+description: "This month, Jeff Hawkins is speaking at Janelia about the progress of our work. Subutai Ahmad will be at the Dendritic Integration & Computation with Active Dendrites Workshop in Paris. In other news, Jeff was featured in a Loup Ventures podcast series called Braintech."
 date: 2018/01/29
 hideImage: false
 image: ../images/january.png
 org: VP of Marketing
 tags: numenta newsletter january 2018
-title: Numenta Newsletter January 2018
+title: "Jeff Hawkins at Janelia, Subutai Ahmad at EITN | Numenta News - January 2018"
+header: "Jeff Hawkins at Janelia, Subutai Ahmad at EITN & More"
+keywords: "Jeff Hawkins Subutai Ahmad"
 type: post
 sound: https://soundcloud.com/numenta/january-2018-numenta-news
 ---
