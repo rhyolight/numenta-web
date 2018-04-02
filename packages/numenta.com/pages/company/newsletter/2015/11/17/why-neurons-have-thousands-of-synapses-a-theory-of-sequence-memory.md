@@ -5,7 +5,8 @@ date: 2015/11/17
 image: ../images/image.png
 org: CEO
 tags: numenta machine learning intelligence neurons thousands synapses theory sequence memory neocortex
-title: Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex
+title: "New paper about a theory of sequence memory in neocortex | Numenta News - November 2015"
+header: "New paper about a theory of sequence memory in neocortex & More"
 type: post
 ---
 

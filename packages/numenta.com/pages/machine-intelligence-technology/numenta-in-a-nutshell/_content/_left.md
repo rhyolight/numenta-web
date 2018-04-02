@@ -17,7 +17,7 @@ We’ve made a series of discoveries– from how the brain represents informatio
 
 ### What Makes Us Unique
 
-We are one of the few teams developing large scale theories of the brain that are biologically constrained, testable and implemented in software. We believe our theories will be foundational to the creation of Artificial General Intelligence (AGI).
+We are one of the few teams developing large scale theories of the brain that are biologically constrained, testable, and implemented in software. We believe our theories will be foundational to the creation of Artificial General Intelligence (AGI).
 
 ### How Our Research Will Impact the Future of Machine Intelligence
 
