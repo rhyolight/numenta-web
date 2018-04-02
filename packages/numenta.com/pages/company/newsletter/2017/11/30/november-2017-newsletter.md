@@ -1,14 +1,14 @@
 ---
 author: Christy Maver
-description: "We're happy to announce a new paper on the HTM Spatial Pooler, as well as a new episode of the Brain Science podcast featuring Jeff Hawkins. The paper shows how the spatial pooler supports sequence learning and memory, while the podcast includes an update from Jeff about our research since the debut of On Intelligence."
+description: "We're happy to announce a new paper on the HTM Spatial Pooler, as well as a new episode of the Brain Science podcast with Jeff Hawkins. The paper shows how the spatial pooler supports sequence learning and memory, while the podcast includes an update from Jeff about our research since the debut of On Intelligence."
 date: 2017/11/30
 hideImage: false
 image: ../images/november.png
 org: VP of Marketing
 tags: numenta newsletter november 2017
-title: "New paper on the HTM Spatial Pooler | Numenta News – November 2017"
-header: "New paper on the HTM Spatial Pooler & More"
-keywords: "HTM Spatial Pooler"
+title: "Jeff Hawkins on the Brain Science Podcast | Numenta News – November 2017"
+header: "Jeff Hawkins on the Brain Science Podcast & More"
+keywords: "Brain Science Podcast Jeff Hawkins"
 type: post
 sound: https://soundcloud.com/numenta/november-2017-numenta-news
 ---
