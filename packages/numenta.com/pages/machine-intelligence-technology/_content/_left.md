@@ -1,6 +1,7 @@
 ---
-title: Technology Overview
-description: Based on a wealth of neuroscience evidence, we have created HTM (Hierarchical Temporal Memory), a theoretical framework for both biological and machine intelligence.
+title: Machine Intelligence Technology
+keywords: machine intelligence
+description: We have created a theoretical framework for biological and machine intelligence called HTM (Hierarchical Temporal Memory). When applied to computers, HTM is well suited for a variety of machine intelligence problems, including prediction and anomaly detection.
 ---
 
 [apps]:   /applications/
