@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "As we approach the end of the year, I’m happy to announce the release of two new resources.  The first is a new peer-reviewed paper published in Frontiers in Computational Neuroscience. The second is an episode of the Brain Science podcast featuring an interview with our co-founder, Jeff Hawkins. While the podcast is also intended for a neuroscience audience and does get into some technical details, we hope you’ll find it’s an enjoyable conversation that is accessible to non-technical listeners as well."
+description: "We're happy to announce a new paper on the HTM Spatial Pooler, as well as a new episode of the Brain Science podcast featuring Jeff Hawkins. The paper shows how the spatial pooler supports sequence learning and memory, while the podcast includes an update from Jeff about our research since the debut of On Intelligence."
 date: 2017/11/30
 hideImage: false
 image: ../images/november.png
 org: VP of Marketing
 tags: numenta newsletter november 2017
-title: Numenta Newsletter November 2017
+title: "New paper on the HTM Spatial Pooler | Numenta News – November 2017"
+header: "New paper on the HTM Spatial Pooler & More"
+keywords: "HTM Spatial Pooler"
 type: post
 sound: https://soundcloud.com/numenta/november-2017-numenta-news
 ---
