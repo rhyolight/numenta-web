@@ -10,7 +10,7 @@ section: overview
 sort: a
 tags: sensorimotor integration numenta hierarchical temporal memory htm technology nupic
 title: "Watch The Video - How Columns in the Neocortex Enable Learning"
-header: "Watch The Video - How Columns in the Neocortex Enable Learning"
+header: "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
 type: post
 ---
 
