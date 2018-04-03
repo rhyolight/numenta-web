@@ -7,7 +7,7 @@ image: ../images/december.png
 org: VP of Marketing
 tags: numenta newsletter december 2017
 title: "Jeff Hawkins at MIT, 2017 Year in Review | Numenta News – December 2017"
-header: "Jeff Hawkins at MIT, 2017 Year in Review, & More"
+header: "Jeff Hawkins at MIT, 2017 Year in Review & More"
 keywords: "Jeff Hawkins MIT"
 type: post
 sound:
