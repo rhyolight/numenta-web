@@ -6,8 +6,8 @@ hideImage: false
 image: ../images/october.png
 org: VP of Marketing
 tags: numenta newsletter october 2017
-title: "HTM Meetup, new paper on sensorimotor inference | Numenta News – October 2017"
-header: "HTM Meetup, new paper on sensorimotor inference & More"
+title: "HTM Meetup, New Columns Paper | Numenta News – October 2017"
+header: "HTM Meetup, New Columns Paper & More"
 keywords: "HTM Meetup"
 type: post
 sound: https://soundcloud.com/numenta/october-2017-numenta-news
