@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "I’m excited to share that our first paper on sensorimotor inference has been accepted and published in the journal Frontiers in Neural Circuits. We posted an earlier version on bioRxiv in July while it was undergoing review, and the final, peer-reviewed version is now available under its new title, “A Theory of How Columns in the Neocortex Enable Learning the Structure of the World.”"
+description: "We're excited to share that our first paper on sensorimotor inference has been accepted and published in the journal, Frontiers in Neural Circuits. Now that it has been published, we plan to present our findings at the HTM Meetup in November and in several neuroscience labs in the months to come."
 date: 2017/10/26
 hideImage: false
 image: ../images/october.png
 org: VP of Marketing
 tags: numenta newsletter october 2017
-title: Numenta Newsletter October 2017
+title: "HTM Meetup, new paper on sensorimotor inference | Numenta News – October 2017"
+header: "HTM Meetup, new paper on sensorimotor inference & More"
+keywords: "HTM Meetup"
 type: post
 sound: https://soundcloud.com/numenta/october-2017-numenta-news
 ---
