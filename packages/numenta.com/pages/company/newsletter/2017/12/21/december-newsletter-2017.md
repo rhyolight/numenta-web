@@ -1,14 +1,14 @@
 ---
 author: Christy Maver
-description: "As we wrap up 2017, we're pleased to share the completion of Jeff Hawkins' MIT, Cold Spring Harbor Labs, and Boston University speaking tours, where he presented our latest research. We also look back at 2017 and reflect on the progress we've made in our brain theory, as well as share predictions for Numenta in 2018."
+description: "As we wrap up 2017, we're pleased to share the completion of Jeff Hawkins' MIT, Cold Spring Harbor Labs, and Boston University speaking tours, where he presented our latest research. We also look back at the year with a Numenta 2017 Year in Review video and reflect on the progress we've made in our brain theory, as well as share predictions for Numenta in 2018."
 date: 2017/12/21
 hideImage: true
 image: ../images/december.png
 org: VP of Marketing
 tags: numenta newsletter december 2017
-title: "Jeff Hawkins at MIT, 2017 Year in Review | Numenta News – December 2017"
-header: "Jeff Hawkins at MIT, 2017 Year in Review & More"
-keywords: "Jeff Hawkins MIT"
+title: "2017 Year in Review, Jeff Hawkins at MIT | Numenta News – December 2017"
+header: "2017 Year in Review, Jeff Hawkins at MIT & More"
+keywords: "Numenta 2017 year in review"
 type: post
 sound:
 ---
