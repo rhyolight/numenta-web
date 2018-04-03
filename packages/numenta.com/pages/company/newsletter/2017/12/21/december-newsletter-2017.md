@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "As we wrap up 2017, I’m pleased to share several new items with you.  Our co-founder Jeff Hawkins recently completed an east coast speaking tour where he presented our latest research at three institutions: Cold Spring Harbor Labs, Boston University, and the MIT Center for Brains, Minds + Machines.  Together with our VP of Research Subutai Ahmad, they spent the week discussing our theory, engaging with scientists, and encouraging experimentalists."
+description: "As we wrap up 2017, we're pleased to share the completion of Jeff Hawkins' MIT, Cold Spring Harbor Labs, and Boston University speaking tours, where he presented our latest research. We also look back at the year with a Numenta 2017 Year in Review video and reflect on the progress we've made in our brain theory, as well as share predictions for Numenta in 2018."
 date: 2017/12/21
 hideImage: true
 image: ../images/december.png
 org: VP of Marketing
 tags: numenta newsletter december 2017
-title: Numenta Newsletter December 2017
+title: "2017 Year in Review, Jeff Hawkins at MIT | Numenta News – December 2017"
+header: "2017 Year in Review, Jeff Hawkins at MIT & More"
+keywords: "Numenta 2017 year in review"
 type: post
 sound:
 ---
