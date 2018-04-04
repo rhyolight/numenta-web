@@ -14,7 +14,7 @@ import TextLink from 'numenta-web-shared-components/lib/TextLink'
 
 import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
 
-import ImageCareers from './images/careers.png'
+import ImageCareers from './images/Numenta-Careers-and-Team-photo.png'
 import ImageCeleste from './images/team/celeste-baranski.png'
 import ImageDonna from './images/team/donna-dubinsky.jpg'
 import ImageEd from './images/team/ed-colligan.jpg'
@@ -52,7 +52,7 @@ const SectionCareers = (props, {route, config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="Numenta Careers and Team – Numenta Office Interior"
+            alt="Numenta Careers and Team – Numenta Office Exterior"
             border={true}
             respond="mw"
             src={ImageCareers}
