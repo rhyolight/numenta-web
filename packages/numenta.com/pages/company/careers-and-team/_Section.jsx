@@ -81,10 +81,10 @@ const SectionCareers = (props, {route, config}) => {
           </Paragraph>
 
           <SubTitle level={3}>Current Openings</SubTitle>
-    <List marker="disc">
-      {careers}
-    </List>
-  </div>
+          <List marker="disc">
+            {careers}
+          </List>
+        </div>
       </div>
 
       <Anchor name="team" />
