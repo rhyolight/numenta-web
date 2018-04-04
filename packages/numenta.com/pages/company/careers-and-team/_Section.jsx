@@ -61,9 +61,9 @@ const SectionCareers = (props, {route, config}) => {
         <div className={styles.content}>
           <Paragraph lead={true}>
             We may be busy contemplating cortical theory, but we’ve got a
-            work-hard, play-hard attitude. Our kitchen is stocked with salty
-            and sweet snacks, and we enjoy weekly catered lunches from a
-            variety of local restaurants.
+            work-hard, play-hard attitude. Our kitchen is stocked with snacks,
+            and we enjoy weekly catered lunches from a variety of local
+            restaurants.
           </Paragraph>
           <Paragraph>
             At the heart of the peninsula, our downtown Redwood City location
