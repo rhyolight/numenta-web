@@ -79,6 +79,7 @@ const SectionCareers = (props, {route, config}) => {
             established professors and scientists to join our Visiting Scholar
             Program.
           </Paragraph>
+        </div>
 
       <Anchor name="team" />
       <SubTitle>Management Team</SubTitle>
