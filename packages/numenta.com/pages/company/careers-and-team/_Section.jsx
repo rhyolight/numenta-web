@@ -75,9 +75,8 @@ const SectionCareers = (props, {route, config}) => {
           <Paragraph>
             While we aren’t currently hiring full-time positions, we are
             always looking for strong research candidates to join us through
-            our <a href="/company/careers-and-team/careers/research-internship/">research internships</a>.
-            We also welcome young researchers, established professors and
-            scientists to join our <a href="/company/careers-and-team/careers/visiting-scholar-program/">Visiting Scholar Program</a>.
+            our research internships. We also welcome young researchers, established professors and
+            scientists to join our Visiting Scholar Program.
           </Paragraph>
 
       <Anchor name="team" />
