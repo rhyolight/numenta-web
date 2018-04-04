@@ -6,8 +6,8 @@ hideImage: false
 image: ../images/november.png
 org: VP of Marketing
 tags: numenta newsletter november 2017
-title: "Jeff Hawkins on the Brain Science Podcast | Numenta News – November 2017"
-header: "Jeff Hawkins on the Brain Science Podcast & More"
+title: "Brain Science Podcast with Jeff | Numenta News – November 2017"
+header: "Brain Science Podcast with Jeff & More"
 keywords: "Brain Science Podcast Jeff Hawkins"
 type: post
 sound: https://soundcloud.com/numenta/november-2017-numenta-news

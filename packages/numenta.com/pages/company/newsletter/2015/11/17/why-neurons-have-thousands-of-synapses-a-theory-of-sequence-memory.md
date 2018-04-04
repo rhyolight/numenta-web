@@ -5,8 +5,8 @@ date: 2015/11/17
 image: ../images/image.png
 org: CEO
 tags: numenta machine learning intelligence neurons thousands synapses theory sequence memory neocortex
-title: "New paper about a theory of sequence memory in neocortex | Numenta News - November 2015"
-header: "New paper about a theory of sequence memory in neocortex & More"
+title: "New Paper on Sequence Memory | Numenta News - November 2015"
+header: "New Paper on Sequence Memory & More"
 keywords: "Numenta neuron paper MIT"
 type: post
 ---

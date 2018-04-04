@@ -6,9 +6,9 @@ hideImage: false
 image: ../images/january.png
 org: VP of Marketing
 tags: numenta newsletter january 2018
-title: "Jeff Hawkins at Janelia, Subutai Ahmad at EITN | Numenta News - January 2018"
-header: "Jeff Hawkins at Janelia, Subutai Ahmad at EITN & More"
-keywords: "Jeff Hawkins Subutai Ahmad"
+title: "Jeff Hawkins' Janelia Campus Visit | Numenta News - January 2018"
+header: "Jeff Hawkins' Janelia Campus Visit & More"
+keywords: "Jeff Hawkins Janelia"
 type: post
 sound: https://soundcloud.com/numenta/january-2018-numenta-news
 ---
