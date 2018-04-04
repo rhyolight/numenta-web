@@ -76,7 +76,7 @@ const SectionCareers = (props, {route, config}) => {
             While we aren’t currently hiring full-time positions, we are
             always looking for strong research candidates to join us through
             our research internships. We also welcome young researchers,
-            established professors and scientists to join our Visiting Scholar
+            established professors, and scientists to join our Visiting Scholar
             Program.
           </Paragraph>
 
