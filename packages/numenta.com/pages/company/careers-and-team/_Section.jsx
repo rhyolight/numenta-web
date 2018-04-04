@@ -57,7 +57,7 @@ const SectionCareers = (props, {route, config}) => {
             respond="mw"
             src={ImageCareers}
           />
-        </div>alt
+        </div>
         <div className={styles.content}>
           <Paragraph lead={true}>
             We may be busy contemplating cortical theory, but we’ve got a
