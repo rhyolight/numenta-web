@@ -80,6 +80,7 @@ const SectionCareers = (props, {route, config}) => {
             Program.
           </Paragraph>
         </div>
+      </div>
 
       <Anchor name="team" />
       <SubTitle>Management Team</SubTitle>
