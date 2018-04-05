@@ -1,7 +1,7 @@
 ---
 author: "Jeff Hawkins, Subutai Ahmad & Yuwei Cui"
 description: "This paper proposes a network model composed of columns and layers that performs robust object learning and recognition. The model introduces a new feature to cortical columns, location information, which is represented relative to the object being sensed."
-keywords: sensorimotor inference, object recognition, 
+keywords: sensorimotor inference, object recognition
 category: neuroscience, sensorimotor
 date: 2017/10/25
 hideImage: true
