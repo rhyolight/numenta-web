@@ -10,7 +10,7 @@ org: Published in Neural Computation, November 2016, Vol 28. No. 11
 sort: bd
 title: "Continuous Online Sequence Learning with an Unsupervised Neural Network Model"
 header: "Continuous Online Sequence Learning with an Unsupervised Neural Network Model"
-keywords: "HTM sequence memory"
+keywords: "Online Sequence Learning"
 type: post
 ---
 
@@ -36,7 +36,7 @@ several important properties like continuous online learning, the ability to
 handle multiple predictions, robustness to sensor noise and fault tolerance, and
 good performance without the need for task-specific tuning.
 
-![HTM sequence memory - Taxi passenger predictions](../images/continuous-online-sequence-learning.png)
+![Online Sequence Learning comparison – Taxi passenger predictions](../images/continuous-online-sequence-learning.png)
 > *We used HTM and other algorithms to predict taxi
   passenger count in the New York City.
   **LEFT:** Overall prediction error for various algorithms.

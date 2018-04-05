@@ -11,7 +11,7 @@ sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
 title: "On Intelligence (Book) by Jeff Hawkins"
 header: "On Intelligence (Book) by Jeff Hawkins"
-keywords: "On Intelligence Jeff Hawkins"
+keywords: "On Intelligence"
 type: post
 ---
 ![On Intelligence Jeff Hawkins](../images/on-intelligence.png)
