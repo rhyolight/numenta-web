@@ -11,7 +11,7 @@ sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
 header: "Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception"
 title: "Jeff's MIT Talk: Have We Missed Half of What the Neocortex Does?"
-keyword: "Jeff Hawkins MIT talk"
+keywords: "Jeff Hawkins MIT talk"
 type: post
 ---
 
