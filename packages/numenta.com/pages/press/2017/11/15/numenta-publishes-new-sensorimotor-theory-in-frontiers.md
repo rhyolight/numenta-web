@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'In Numenta's Columns paper, they proposed a theory for how the brain learns models of objects through movement. The theory is an important piece of Numenta’s goal to reverse-engineer the neocortex. In a blog titled "The Secret to Strong AI" on Medium, Jeff Hawkins describes the importance of the new theory to AGI.'
+description: In Numenta's Columns paper, they proposed a theory for how the brain learns models of objects through movement. The theory is an important piece of Numenta’s goal to reverse-engineer the neocortex. In a blog titled "The Secret to Strong AI" on Medium, Jeff Hawkins describes the importance of the new theory to AGI.
 date: 2017/11/15
 org: Press Release
 tags: numenta brain theory machine learning techniques htm hierarchical realtime anomaly detection paper
