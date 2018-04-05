@@ -1,6 +1,7 @@
 ---
 title: Neuroscience Research
-description: Reverse engineering the neocortex to figure out how the brain works is one of humanity's grand scientific challenges. We are fortunate to be living in an era when neuroscience techniques are advancing at an amazing pace, giving rise to a wealth of data on everything from synapses, to neurons, to entire cortical regions
+keywords: neuroscience research
+description: At Numenta, our neuroscience research team focuses on large-scale cortical theory and simulation.  We work with experimentalists and published results to derive an understanding of the neocortex. We test our theories via simulation, mathematical analysis, and experimental partnerships. 
 ---
 
 [bami]:   /resources/biological-and-machine-intelligence/
