@@ -1,11 +1,13 @@
 ---
 author: Numenta
-description: "REDWOOD CITY, CA – June 19, 2017— The exponential increase in the use of connected real-time sensors to surface streaming data in the age of the Internet of Things presents significant challenges and opportunities for the emerging field of streaming analytics."
+description: "Neuroscience and machine intelligence researchers at Numenta reveal Hierarchical Temporal Memory (HTM)'s results on real-time anomaly detection. They have described the technique in a new peer-reviewed paper, Unsupervised real-time anomaly detection for streaming data, published in a special issue of Neurocomputing."
 date: 2017/06/20
 org: Press Release
 tags: numenta brain theory machine learning techniques htm hierarchical realtime anomaly detection paper
 image: ../images/image.png
-title: "New Research Paper from Numenta Demonstrates Results of Machine Intelligence Algorithm on Real-time Anomaly Detection for Streaming Data"
+title: "Numenta Demonstrates HTM Results on Real-time Anomaly Detection"
+header: "New Research Paper from Numenta Demonstrates Results of Machine Intelligence Algorithm on Real-time Anomaly Detection for Streaming Data"
+keywords: "HTM Results Real-time Anomaly Detection"
 type: post
 
 ---

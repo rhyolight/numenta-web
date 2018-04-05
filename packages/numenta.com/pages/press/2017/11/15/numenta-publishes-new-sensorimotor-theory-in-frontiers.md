@@ -1,11 +1,13 @@
 ---
 author: Numenta
-description: "REDWOOD CITY, CA – November 15, 2017—Inputs to the brain from the eyes, ears, and skin are continually changing as we move. Yet our brain perceives objects in the world as stable.  How the brain learns the structure of the world from rapidly changing inputs is a mystery."
+description: "In Numenta's Columns paper, they proposed a theory for how the brain learns models of objects through movement. The theory is an important piece of Numenta’s goal to reverse-engineer the neocortex. In a blog titled "The Secret to Strong AI" on Medium, Jeff Hawkins describes the importance of the new theory to AGI."
 date: 2017/11/15
 org: Press Release
 tags: numenta brain theory machine learning techniques htm hierarchical realtime anomaly detection paper
 image: ../images/columns-paper-figure.png
-title: "Numenta Publishes a New Theory that Could Solve the Mystery of How the Brain Transforms Sensations into Mental Objects"
+title: "Numenta Publishes a New Theory on Sensorimotor Inference"
+header: "Numenta Publishes a New Theory that Could Solve the Mystery of How the Brain Transforms Sensations into Mental Objects"
+keywords: "Numenta Columns paper"
 type: post
 
 ---
