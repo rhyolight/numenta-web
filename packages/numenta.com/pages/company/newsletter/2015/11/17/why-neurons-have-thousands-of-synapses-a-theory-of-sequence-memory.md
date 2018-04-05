@@ -1,11 +1,13 @@
 ---
 author: Donna Dubinsky
-description: November is shaping up to be a busy and exciting month for Numenta. I wrote you about the release of our Numenta Anomaly Benchmark (NAB). Today I’m pleased to share more good news. Founders Jeff Hawkins and Subutai Ahmad have written a paper that
+description: "November is shaping up to be a busy and exciting month for Numenta. Jeff Hawkins and Subutai Ahmad wrote a neuron paper that MIT Technology Review noticed and wrote a thoughtful article about. If you are interested in Numenta, brain theory, and machine intelligence I think you will be interested in reading them."
 date: 2015/11/17
 image: ../images/image.png
 org: CEO
 tags: numenta machine learning intelligence neurons thousands synapses theory sequence memory neocortex
-title: Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex
+title: "New Paper on Sequence Memory | Numenta News - November 2015"
+header: "New Paper on Sequence Memory & More"
+keywords: "Numenta neuron paper MIT"
 type: post
 ---
 

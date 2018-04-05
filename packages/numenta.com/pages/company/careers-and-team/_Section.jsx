@@ -14,7 +14,7 @@ import TextLink from 'numenta-web-shared-components/lib/TextLink'
 
 import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
 
-import ImageCareers from './images/careers.png'
+import ImageCareers from './images/Numenta-Careers-and-Team-photo.png'
 import ImageCeleste from './images/team/celeste-baranski.png'
 import ImageDonna from './images/team/donna-dubinsky.jpg'
 import ImageEd from './images/team/ed-colligan.jpg'
@@ -52,7 +52,7 @@ const SectionCareers = (props, {route, config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="Numenta Office Interior"
+            alt="Numenta Careers and Team – Numenta Office Exterior"
             border={true}
             respond="mw"
             src={ImageCareers}
@@ -60,18 +60,24 @@ const SectionCareers = (props, {route, config}) => {
         </div>
         <div className={styles.content}>
           <Paragraph lead={true}>
-            Company culture is important to us, so why not join a startup that
-            feels like a family? We may be busy cracking the code on machine
-            intelligence, but we’ve got a work-hard, play-hard attitude. Our
-            kitchen is stocked with salty and sweet snacks, and on Wednesdays
-            we enjoy catered lunches from a variety of local restaurants.
+            We may be busy contemplating cortical theory, but we’ve got a
+            work-hard, play-hard attitude. Our kitchen is stocked with snacks,
+            and we enjoy weekly catered lunches from a variety of local
+            restaurants.
           </Paragraph>
           <Paragraph>
             At the heart of the peninsula, our downtown Redwood City location
-            is a short walk from the Caltrain station.  Outside the office, we
-            blow off steam with company events, happy hours and other fun
+            is a short walk from the Caltrain station. Outside the office,
+            we blow off steam with company events, happy hours, and other fun
             activities. In the past, we’ve cheered on the SF Giants, baked
             pies at Pie Ranch in Pescadero, and do-si-doed through the night.
+          </Paragraph>
+          <Paragraph>
+            While we aren’t currently hiring full-time positions, we are
+            always looking for strong research candidates to join us through
+            our research internships. We also welcome young researchers,
+            established professors, and scientists to join our Visiting Scholar
+            Program.
           </Paragraph>
 
           <SubTitle level={3}>Current Openings</SubTitle>
@@ -91,7 +97,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Donna Dubinsky"
+                alt="Numenta Careers and Team – Donna Dubinsky"
                 border={true}
                 respond="mw"
                 src={ImageDonna}
@@ -126,7 +132,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Jeff Hawkins"
+                alt="Numenta Careers and Team – Jeff Hawkins"
                 border={true}
                 respond="mw"
                 src={ImageJeff}
@@ -161,7 +167,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Subutai Ahmad"
+                alt="Numenta Careers and Team – Subutai Ahmad"
                 border={true}
                 respond="mw"
                 src={ImageSubutai}
@@ -197,7 +203,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Celeste Baranski"
+                alt="Numenta Careers and Team – Celeste Baranski"
                 border={true}
                 respond="mw"
                 src={ImageCeleste}
@@ -232,7 +238,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Christy Maver"
+                alt="Numenta Careers and Team – Christy Maver"
                 border={true}
                 respond="mw"
                 src={ImageChristy}
@@ -271,7 +277,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Ed Colligan"
+                alt="Numenta Careers and Team – Ed Colligan"
                 border={true}
                 respond="mw"
                 src={ImageEd}
@@ -312,7 +318,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Donna Dubinsky"
+                alt="Numenta Careers and Team – Donna Dubinsky"
                 border={true}
                 respond="mw"
                 src={ImageDonna}
@@ -347,7 +353,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Mike Farmwald"
+                alt="Numenta Careers and Team – Mike Farmwald"
                 border={true}
                 respond="mw"
                 src={ImageMike}
@@ -379,7 +385,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Jeff Hawkins"
+                alt="Numenta Careers and Team – Jeff Hawkins"
                 border={true}
                 respond="mw"
                 src={ImageJeff}
@@ -416,7 +422,7 @@ const SectionCareers = (props, {route, config}) => {
           <div className={styles.columns}>
             <div className={styles.aside}>
               <Image
-                alt="Harry Saal"
+                alt="Numenta Careers and Team – Harry Saal"
                 border={true}
                 respond="mw"
                 src={ImageHarry}

@@ -1,13 +1,13 @@
 ---
 author: Christy Maver
-description: "Jeff Hawkins is speaking at the Computational Theories of the Brain workshop at the Simons Institute this April. He also co-wrote a new article with Christy Maver on the Thousand Brains Model of Intelligence. Similarly, Cortical.io published a new piece on why intelligent machines must be versatile."
+description: "Jeff Hawkins is speaking at a Berkeley brain theories workshop, called Computational Theories of the Brain, this April. He also co-wrote a new article with Christy Maver on the Thousand Brains Model of Intelligence. Similarly, Cortical.io published a new piece on why intelligent machines must be versatile."
 date: 2018/03/22
 hideImage: false
 image: ../images/numenta-newsletter-march-2018.png
 org: VP of Marketing
 keywords: "Jeff Hawkins Computational Theories of the Brain"
-title: "Computational Theories of the Brain Workshop | Numenta News - March 2018"
-header: "Computational Theories of the Brain Workshop & More"
+title: "Berkeley Brain Theories Workshop | Numenta News - March 2018"
+header: "Berkeley Brain Theories Workshop & More"
 type: post
 sound: https://soundcloud.com/numenta/march-2018-numenta-news
 ---

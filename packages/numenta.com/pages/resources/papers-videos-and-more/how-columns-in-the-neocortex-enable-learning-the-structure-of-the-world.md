@@ -9,7 +9,9 @@ org: Jeff Hawkins, Subutai Ahmad, and Yuwei Cui
 section: overview
 sort: a
 tags: sensorimotor integration numenta hierarchical temporal memory htm technology nupic
-title: A Theory of How Columns in the Neocortex Enable Learning the Structure of the World
+title: "Watch The Video - How Columns in the Neocortex Enable Learning"
+header: "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
+keywords: "video Numenta columns paper"
 type: post
 ---
 
