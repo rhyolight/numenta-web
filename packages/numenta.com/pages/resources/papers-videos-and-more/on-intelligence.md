@@ -18,7 +18,7 @@ type: post
 
 The core concepts in Hierarchical Temporal Memory (HTM) theory were first
 described in this book titled **On Intelligence**, which was written by Jeff
-Hawkins with the help of Sandra Blakeslee. This book still provides background
+Hawkins with Sandra Blakeslee. This book still provides background
 and a great introduction to our theory, though many of the ideas in chapter 6
 (“How the Cortex Works”) are currently being revised.
 
