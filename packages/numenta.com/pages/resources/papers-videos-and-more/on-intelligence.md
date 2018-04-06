@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins & Sandra Blakeslee
-description: The core concepts in Hierarchical Temporal Memory (HTM) theory were first described in this book titled On Intelligence, which was written by Jeff Hawkins with the help of Sandra Blakeslee.
+description: "On Intelligence is a book Jeff Hawkins wrote in 2004 with the help of Sandra Blakeslee. It outlines Hierarchical Temporal Memory (HTM) and describes progress on understanding the neocortex."
 date: 2005/07/14
 image:
 link: https://www.amazon.com/On-Intelligence-ebook/dp/B003J4VE5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1359401193&sr=1-1&keywords=on+intelligence
@@ -9,10 +9,12 @@ org: Co-Founder & Co-Author
 section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
-title: On Intelligence (Book)
+title: "On Intelligence (Book) by Jeff Hawkins"
+header: "On Intelligence (Book) by Jeff Hawkins"
+keywords: "On Intelligence"
 type: post
 ---
-![On Intelligence](../images/on-intelligence.png)
+![On Intelligence Jeff Hawkins](../images/on-intelligence.png)
 
 The core concepts in Hierarchical Temporal Memory (HTM) theory were first
 described in this book titled **On Intelligence**, which was written by Jeff

@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: This video was recorded on December 15, 2017 at the MIT Center for Brains, Minds + Machines as part of their Brains, Minds and Machines Seminar Series.
+description: "In Jeff Hawkins' MIT talk, he describes a theory that sensory regions of the neocortex process two inputs. One input is the well-known sensory data, and he proposes that the other is a representation of allocentric location. He discusses material from our March 2016 neuron paper and our October 2017 columns paper."
 date: 2017/12/15
 image:
 link: https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception
@@ -9,7 +9,9 @@ org: Co-founder
 section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
-title: Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception
+header: "Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception"
+title: "Jeff's MIT Talk: Have We Missed Half of What the Neocortex Does?"
+keywords: "Jeff Hawkins MIT talk"
 type: post
 ---
 

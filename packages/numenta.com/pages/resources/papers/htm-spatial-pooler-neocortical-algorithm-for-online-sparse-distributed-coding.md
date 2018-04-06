@@ -1,6 +1,6 @@
 ---
 author: "Yuwei Cui, Subutai Ahmad & Jeff Hawkins"
-description: "This paper describes an important component of HTM, the HTM spatial pooler, which is a neurally inspired algorithm that learns sparse distributed representations online. Written from a neuroscience perspective, the paper demonstrates key computational properties of HTM spatial pooler."
+description: "This paper describes an important component of HTM, the HTM spatial pooler, which is a neurally inspired algorithm that learns sparse distributed representations online. Written from a neuroscience perspective, the paper demonstrates key computational properties of the HTM spatial pooler."
 category: neuroscience, sparse-distributed-representations
 date: 2017/11/29
 hideImage: true
@@ -9,6 +9,8 @@ link: https://doi.org/10.3389/fncom.2017.00111
 org: "Published in Frontiers in Neuroscience"
 sort: bb
 title: "The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Distributed Coding"
+header: "The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Distributed Coding"
+keywords: "HTM Spatial Pooler"
 type: post
 ---
 
