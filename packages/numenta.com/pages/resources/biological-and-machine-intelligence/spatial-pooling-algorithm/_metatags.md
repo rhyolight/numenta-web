@@ -1,6 +1,6 @@
 ---
 title: "HTM Spatial Pooling Algorithm Details"
 header: "Spatial Pooling Algorithm Details"
-description: "This shows a detailed pseudocode implementation of HTM spatial pooling and is meant to be an additional resource to the Spatial Pooling chapter of Numenta's living book, Biological and Machine Intelligence (BAMI)."
+description: "Curious about our spatial pooling algorithm? Looking for details on pseudocode and implementation? This chapter from Numenta's living book, Biological and Machine Intelligence (BAMI) provides the details and resources you need to understand the high-level concepts and role of Spatial Pooling in biology, and in HTM."
 keywords: "HTM spatial pooling"
 ---

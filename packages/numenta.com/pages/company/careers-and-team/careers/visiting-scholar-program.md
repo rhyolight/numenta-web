@@ -7,7 +7,7 @@ org: Careers
 sort: 10
 title: "Numenta Visiting Scholar Program"
 header: "Visiting Scholar Program"
-description: "The goals of the Numenta Visiting Scholar Program are to exchange ideas, actively participate in internal research discussions, and start research collaborations. Visiting scholars will get a chance to learn about Hierarchical Temporal Memory (HTM) and continue their normal research during the visit."
+description: "If you're interested in exchanging ideas, actively participating in internal research discussions at Numenta, and starting research collaborations, then apply for our Visiting Scholar Program! You'll get a chance to learn about Hierarchical Temporal Memory (HTM) and continue your normal research during the visit."
 keywords: "Numenta Visiting Scholar Program"
 type: post
 ---

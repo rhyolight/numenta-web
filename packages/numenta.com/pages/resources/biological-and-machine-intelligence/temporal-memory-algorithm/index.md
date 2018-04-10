@@ -1,7 +1,7 @@
 ---
 header: Temporal Memory
 title: "Numenta Resources on Temporal Memory"
-description: "In HTM, sequence memory is implemented by the Temporal Memory algorithm. You can learn more about Temporal Memory in HTM School, our March 2016 paper on neurons, our October 2016 paper on sequence learning, and our document on Temporal Memory algorithm details and pseudocode."
+description: "The Temporal Memory algorithm enables sequence memory and is foundational to HTM (Hierarchical Temporal Memory). You can learn more about Temporal Memory in HTM School, our March 2016 paper on neurons, our October 2016 paper on sequence learning, and our document on Temporal Memory algorithm details and pseudocode."
 keywords: "temporal memory"
 ---
 In HTM, sequence memory is implemented by the Temporal Memory algorithm.
