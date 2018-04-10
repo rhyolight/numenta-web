@@ -5,7 +5,10 @@ date: 2016/01/22
 email: interns@numenta.com
 org: Careers
 sort: 2
-title: Research Internship
+header: "Research Internship"
+title: "Numenta Research Internship"
+keywords: "Numenta research internship"
+description: "Are you a PhD student or research scientist with an expertise in Computational Neuroscience or Machine Learning? Apply for our research internship program! You'll get exposure to all aspects of HTM, participate in leading edge research in computational neuroscience, and get full clearance to publish your work."
 type: post
 ---
 

@@ -5,7 +5,10 @@ date: 2017/01/09
 email: scholars@numenta.com
 org: Careers
 sort: 10
-title: Visiting Scholar Program
+title: "Numenta Visiting Scholar Program"
+header: "Visiting Scholar Program"
+description: "If you're interested in exchanging ideas, actively participating in internal research discussions at Numenta, and starting research collaborations, then apply for our Visiting Scholar Program! You'll get a chance to learn about Hierarchical Temporal Memory (HTM) and continue your normal research during the visit."
+keywords: "Numenta Visiting Scholar Program"
 type: post
 ---
 
