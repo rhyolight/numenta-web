@@ -1,6 +1,6 @@
 ---
 author: Ginger Campbell, MD
-description: Listen in as host Loup Ventures' Braintech Series host Doug Clinton interview Numenta Co-founder Jeff Hawkins about intelligence and how the company's approach differs from deep learning techniques.
+description: "Listen in as Brain Science podcast host Ginger Campbell interviews Numenta Co-founder Jeff Hawkins about his latest developments in brain theory."
 date: 2017/11/27
 image:
 link: http://brainsciencepodcast.com/bsp/2017/139-hawkins
