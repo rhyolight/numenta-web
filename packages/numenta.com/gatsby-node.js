@@ -21,6 +21,23 @@ require('events').EventEmitter.prototype._maxListeners = 20  // eslint-disable-l
 const config = toml.parse(fs.readFileSync(`${__dirname}/config.toml`))
 
 /**
+ * Parse URL redirect CSV files into JSON array
+ * @return {JSON} JSON array of the url_redirect.csv file
+ */
+function parseUrlRedirects() {
+  const redirects = []
+  const lines = fs.readFileSync(
+    `${__dirname}/../../ci/numenta.com/url_redirect.csv`, {encoding: 'utf-8'})
+    .split(/\r?\n/)
+  for (const line of lines) {
+    if (line.length !== 0) {
+      redirects.push(line.split(','))
+    }
+  }
+  return redirects
+}
+
+/**
  * Gatsby.js Node server-side specific functions.
  *  1. modifyWebpackConfig()
  *  2. postBuild()
@@ -240,6 +257,10 @@ export function postBuild(pages, callback) {
     hostname: config.baseUrl,
     urls,
   })
+
+  const redirects = parseUrlRedirects()
+  console.log('postBuild generate redirects')
+  fs.writeFileSync('public/.redirects.json', JSON.stringify(redirects))
 
   console.log('postBuild generate search index')
   fs.writeFileSync('public/_searchIndex.json', JSON.stringify(searches))
