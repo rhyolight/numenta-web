@@ -24,7 +24,7 @@ type: post
 ---
 
 ## Video:
-<iframe width="504" height="283.5" src="https://youtu.be/zVGQeFFjhEk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="283.5" src="https://www.youtube.com/embed/zVGQeFFjhEk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract:
 In this talk, I propose that the neocortex learns models of objects using the same methods that the entorhinal cortex uses to map environments. I propose that each cortical column contains cells that are equivalent to grid cells. These cells represent the location of sensor patches relative to objects in the world. As we move our sensors, the location of the sensor is paired with sensory input to learn the structure of objects. I explore the evidence for this hypothesis, propose specific cellular mechanisms that the hypothesis requires, and suggest how the hypothesis could be tested.
