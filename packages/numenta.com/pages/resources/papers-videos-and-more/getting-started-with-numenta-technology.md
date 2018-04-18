@@ -17,7 +17,7 @@ type: post
 
 #### This video is replaced by the [Numenta License Guide](/assets/pdf/apps/licensing-guide.pdf)!
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/5HD9NnXpRus" frameborder="0" allowfullscreen></iframe>
+<iframe width="504" height="283.5" src="//www.youtube.com/embed/5HD9NnXpRus" frameborder="0" allowfullscreen></iframe>
 
 ## Presenters
 
