@@ -26,6 +26,6 @@ type: post
 
 The workshop is aimed at putting together experiments, models and recent neuromorphic systems aiming at understanding the computational properties conferred by dendrites in neural systems. The workshop will focus particularly on the excitable properties of dendrites and the type of computation they can implement. The workshop will take place in central Paris, at the European Institute for Theoretical Neuroscience (EITN), for two full days on February 8th - 9th.
 
-##Slides:
+## Slides:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/45034781" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/the-predictive-neuron-how-active-dendrites-enable-spatiotemporal-computation-in-the-neocortex-by-subutai-ahmad-02082018-88009150" title="The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex by Subutai Ahmad (02/08/2018)" target="\_blank">The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex by Subutai Ahmad (02/08/2018)</a> </strong> from <strong><a href="//www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>

@@ -37,6 +37,6 @@ In this talk, I propose that the neocortex learns models of objects using the sa
 <iframe width="504" height="283.5" src="https://www.youtube.com/embed/zVGQeFFjhEk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-##Slides:
+## Slides:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ILfcRYOKiR0HiP" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/does-the-neocortex-use-grid-celllike-mechanisms-to-learn-the-structure-of-objects-by-jeff-hawkins-041718" title="Does the neocortex use grid cell-like mechanisms to learn the structure of objects? by Jeff Hawkins (04/17/18)" target="\_blank">Does the neocortex use grid cell-like mechanisms to learn the structure of objects? by Jeff Hawkins (04/17/18)</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>
