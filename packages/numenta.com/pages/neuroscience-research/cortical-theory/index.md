@@ -19,7 +19,7 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 ## Our Theory
 ___
-Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries-from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).
+<p>Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries-from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).</p>
 
 ## Our Research Focus Areas
 ___
