@@ -7,8 +7,7 @@ description: "Through our focus on cortical theory, we seek to understand the co
 
 ## Our Goal
 ___
-Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.  
-
+<p>Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.  </p>
 Vernon Mountcastle proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
 
 ## Our Approach
@@ -19,7 +18,7 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 ## Our Theory
 ___
-<p>Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries-from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).</p>
+Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries-from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).
 
 ## Our Research Focus Areas
 ___
