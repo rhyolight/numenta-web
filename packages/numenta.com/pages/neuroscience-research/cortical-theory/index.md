@@ -18,18 +18,18 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 ## Our Theory
 ___
-Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries-from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).
+Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries- from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).
 
 ## Our Research Focus Areas
 ___
 
 ### Cortical columns
-Building on [Mountcastle’s](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
+Building on [Mountcastle’s](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit– understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
 
 Find more information on [cortical columns](/neuroscience-research/cortical-theory/cortical-columns).
 
 ### Sequence learning
-We have developed a theoretical framework for sequence learning–what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
+We have developed a theoretical framework for sequence learning– what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
 
 Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning) and prediction in cortex.
 
