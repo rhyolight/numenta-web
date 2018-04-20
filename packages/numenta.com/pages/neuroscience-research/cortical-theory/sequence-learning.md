@@ -4,7 +4,7 @@ header: "Sequence learning and prediction in the neocortex"
 keywords: "Sequence learning"
 description: "We first developed a theoretical framework for sequence learning in the cortex that proposes a new understanding of how neurons work, based on the idea that every pyramidal cell is a prediction machine. In this page, you'll find all our resources regarding sequence learning."
 ---
-![Cortical Columns](../images/sequence-learning.png)
+![Sequence Learning](../images/sequence-learning.png)
 
 Much of our research focuses around one fundamental observation: that the neocortex is constantly predicting its inputs. We started by addressing the following question: how do networks of neurons make predictions and learn the temporal structure in streams of sensory data?
 
