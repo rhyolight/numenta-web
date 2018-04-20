@@ -7,7 +7,7 @@ description: "Through our focus on cortical theory, we seek to understand the co
 
 ## Our Goal
 ___
-Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
+<br /> Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
 
 [Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
 
@@ -25,12 +25,12 @@ Although there is much to do, we have made significant progress on several key a
 ___
 
 ### Cortical columns
-Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit– understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
+Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
 
 Find more information on [cortical columns](/neuroscience-research/cortical-theory/cortical-columns/).
 
 ### Sequence learning
-We have developed a theoretical framework for sequence learning– what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
+We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
 
 Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning/) and prediction in cortex.
 
