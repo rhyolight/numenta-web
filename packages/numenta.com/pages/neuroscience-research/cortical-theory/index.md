@@ -4,10 +4,11 @@ header: "Neuroscience Research at Numenta: Cortical Theory"
 keywords: "cortical theory"
 description: "Through our focus on cortical theory, we seek to understand the cortical column. We do this by reading papers, proposing ideas, and testing them via simulation. We document our work in several ways, such as papers and invited talks. Our main research focus areas are cortical columns, sequence learning, and SDRs."
 ---
+<br />
 
 ## Our Goal
 ___
-<br /> Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
+Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
 
 [Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
 

@@ -3,6 +3,7 @@ title: "Cortical Columns | Numenta"
 header: "Cortical columns"
 keywords: "cortical columns"
 description: "Vernon Mountcastle was the first to propose that a canonical circuit consisting of cortical columns underlies everything the neocortex does. Understanding the function of cortical columns is a central goal of our research program. On this page, you'll find all our resources regarding cortical columns."
+image: ../images/cortical-columns.png
 ---
 
 The neocortex is complex. It contains dozens of cell types, numerous layers, and intricate connectivity patterns. The connections between cells suggest a columnar flow of information across layers as well as a laminar flow within some layers. Fortunately, this complex circuitry is remarkably preserved in all regions. Vernon Mountcastle [1] was the first to propose that a canonical circuit consisting of cortical columns underlies everything the neocortex does. The way we see, feel, hear, move – and even do high level planning runs on the same circuitry.
