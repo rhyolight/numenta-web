@@ -3,8 +3,9 @@ title: "Sequence Learning | Numenta"
 header: "Sequence learning and prediction in the neocortex"
 keywords: "Sequence learning"
 description: "We first developed a theoretical framework for sequence learning in the cortex that proposes a new understanding of how neurons work, based on the idea that every pyramidal cell is a prediction machine. In this page, you'll find all our resources regarding sequence learning."
-image: ../images/sequence-learning.png
 ---
+![Cortical Columns](../images/sequence-learning.png)
+
 Much of our research focuses around one fundamental observation: that the neocortex is constantly predicting its inputs. We started by addressing the following question: how do networks of neurons make predictions and learn the temporal structure in streams of sensory data?
 
 We first developed a theoretical framework for sequence learning in the cortex that proposes a new understanding of how neurons work, based on the idea that every pyramidal cell is a prediction machine. In [1] we show how a single pyramidal neuron with active dendrites can recognize hundreds of unique patterns and contexts in which it can predict its input. We then show that a network incorporating such neurons can learn complex sequences in a surprisingly robust and flexible manner. The model learns in a completely unsupervised fashion and, as a continuously learning system, adapts rapidly to changes in its input.
