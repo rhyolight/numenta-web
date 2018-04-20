@@ -6,8 +6,7 @@ description: "Through our focus on cortical theory, we seek to understand the co
 ---
 ## Our Goal
 <hr><br />Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
-
-[Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
+<br />[Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
 
 ## Our Approach
 ___
