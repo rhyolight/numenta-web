@@ -8,7 +8,7 @@ description: "Through our focus on cortical theory, we seek to understand the co
 <h2>Our Goal</h2>
 <hr><br />Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
 
-<br /><a href="https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle">Vernon Mountcastle</a> proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
+<a href="https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle">Vernon Mountcastle</a> proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
 
 <h2>Our Approach</h2>
 <hr><br />We are often asked how we do neuroscience research at Numenta and what it means to focus on cortical theory. We read many neuroscience papers and published results to get an understanding of what the neocortex does. We propose ideas about how the detailed architecture of the neocortex implements these functions. We ensure our work satisfies biological constraints and test our theories via simulation. Since we do not do any wet lab work, we collaborate with experimentalists that run investigations and give us feedback.
@@ -20,8 +20,14 @@ description: "Through our focus on cortical theory, we seek to understand the co
 
 <h2>Our Research Focus Areas</h2>
 <hr>
-<h3>Cortical columns</h3><br />Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.<br />Find more information on [cortical columns](/neuroscience-research/cortical-theory/cortical-columns/).
+<h3>Cortical columns</h3><br />Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
 
-<h3>Sequence learning</h3><br />We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.<br />Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning/) and prediction in cortex.
+<br />Find more information on <a href="https://numenta.com/neuroscience-research/cortical-theory/cortical-columns/">cortical columns</a>.
 
-<h3>Sparse distributed representations</h3><br />Sparse distributed representations (SDRs) are a foundational aspect of HTM Theory.  They are how the brain represents its input and the state of its world, with very few neurons active at any given time. The unique properties of SDRs enable semantic generalization and robustness to noise.<br />Find more information on [sparse distributed representations](/neuroscience-research/cortical-theory/sparse-distributed-representations/).
+<h3>Sequence learning</h3><br />We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
+
+<br />Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning/) and prediction in cortex.
+
+<h3>Sparse distributed representations</h3><br />Sparse distributed representations (SDRs) are a foundational aspect of HTM Theory.  They are how the brain represents its input and the state of its world, with very few neurons active at any given time. The unique properties of SDRs enable semantic generalization and robustness to noise.
+
+<br />Find more information on [sparse distributed representations](/neuroscience-research/cortical-theory/sparse-distributed-representations/).
