@@ -332,7 +332,7 @@ class MarkdownWrapper extends React.Component {
           {author}
           {media}
           {event}
-          <div className={styles.content}>
+          <div className={data.dropcap === false ? '' : styles.lead}>
             <Markdown>
               <div dangerouslySetInnerHTML={{__html: data.body}} />
             </Markdown>
