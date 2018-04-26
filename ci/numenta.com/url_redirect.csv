@@ -1,6 +1,9 @@
+company/events/2017/04/25/earth-pixels,company/events
+company/newsletters,company/newsletter
 assets/pdf/whitepapers/SDR_Properties%20draft%2010-28-14.pdf,assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf
 resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper.html,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
 company/events/2017/06/18/dac,company/events
+resources/papers-videos-and-more/resources/layers-and-columns,resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world
 press/2015/05/22/numenta-and-ibm-to-build-biologically-inspired-intelligent-machines,press/releases
 press/2015/04/14/numenta-the-bruce-lee-of-ai-and-deep-learning,press/releases
 company/events/2017/12/14/boston-university,company/events/2017/12/13/boston-university
@@ -109,7 +112,6 @@ assets/pdf/whitepapers/current-research-overview-summer-2014.pdf,resources/biolo
 blog/science-of-anomaly-detection.html,blog/2014/03/20/science-of-anomaly-detection
 assets/pdf/whitepapers,resources/papers-videos-and-more
 htmoverview/education/HTM_CorticalLearningAlgorithms.pdf,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
-resources/papers-videos-and-more/resources/layers-and-columns,resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world
 htm-school,https://numenta.org/htm-school/
 machine-intelligence-technology.php,machine-intelligence-technology
 company/newsletters/numenta-open-sourcing-two-htm-products.html,company/newsletter/2015/06/09/numenta-open-sourcing-two-htm-products
@@ -126,7 +128,6 @@ htm-overview/education/%20Numenta_HTM_Learning_Algos.pdf,resources/biological-an
 assets/pdf/biologi,resources/biological-and-machine-intelligence
 company/events/ai-by-the-bay.html,company/events/2016/05/19/ai-by-the-bay
 company/events/orange-county-meetup-deriving-machine-intelligence-from-neuroscience.html,company/events/2016/06/01/orange-county-meetup-deriving-machine-intelligence-from-neuroscience
-company/events/2017/04/25/earth-pixels,company/events
 archives/education/tbi_movie.swf,https://numenta.com/
 resources/papers/why-neurons,resources/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex
 resources/biological-and-machine-intelligence/A5HgE,resources/biological-and-machine-intelligence
