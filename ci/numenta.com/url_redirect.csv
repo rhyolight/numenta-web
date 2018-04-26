@@ -4,8 +4,15 @@ assets/pdf/apps/de,applications
 %23applications,applications
 machine-intelligence-technology.html,machine-intelligence-technology
 about-numenta/numenta-technology.php,machine-intelligence-technology
+machine-intelligence-technology.php,machine-intelligence-technology
 machine-intelligence-technology-overview,machine-intelligence-technology
+about-numenta/technology/pictures-demo.php,machine-intelligence-technology
+code-of-conduct.php,company/mission-and-history
+contact.php,contact
+about-numenta/customers.php,partners
 assets/pdf/whitepa-,resources/papers-videos-and-more
+founders.php,company/careers-and-team
+company/newsletter/index.php,company/newsletter
 fordevelopers/education/DileepThesis.pdf,resources/papers-videos-and-more
 assets/pdf/whitepapers/SDR_Properties%20draft%2010-28-14.pdf,assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf
 resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper.html,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
@@ -61,6 +68,7 @@ faq.html,https://numenta.org/faq
 htmcla.php,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
 legal/privacy.html,legal/privacy
 legal/terms.html,legal/terms
+about-numenta/press/2007-03-05.php,machine-intelligence-technology/numenta-in-a-nutshell
 mediawiki/index.php/Community_Wiki,https://discourse.numenta.org/users
 papers/why-does-the-neocortex-have-layers-and-columns,resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world
 press/2014/10/22/jeff-hawkins-limitations-of-artificial-neural-networks,press
@@ -173,3 +181,4 @@ assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-
 phpBB2/viewtopic.php?t=1374,https://numenta.com
 company/newsletters/announcing-bami-biological-and-machine-intelligence.html,company/newsletter/2016/05/11/announcing-bami-biological-and-machine-intelligence
 company/newsletters/numenta-releases-htm-studio-desktop-application.html,press/2016/06/26/numenta-releases-htm-studio
+phpBB2/viewtopic.php?p=1913,https://numenta.com
