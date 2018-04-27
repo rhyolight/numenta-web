@@ -1,7 +1,3 @@
-https://numenta.com/phpBB2/viewtopic.php?t=1374,https://discourse.numenta.org
-https://numenta.com/phpBB2/viewtopic.php?p=1913,https://discourse.numenta.org
-https://numenta.com/phpBB2/viewtopic.php?t=1368,https://discourse.numenta.org
-https://numenta.com/%E2%80%8E,https://numenta.com
 resources/papers/why-does-the-neocortex-have-layers-and-columns,resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world
 company/events/2017/04/25/earth-pixels,company/events
 company/newsletters/year-in-review-numenta-2015.html,company/newsletter/2016/01/07/year-in-review-numenta-2015
@@ -23,8 +19,9 @@ assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Encoders.pdf,resources/b
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-HTM-Overview.pdf,resources/biological-and-machine-intelligence
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Problem-Sets.pdf,resources/biological-and-machine-intelligence
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-SDR.pdf,resources/biological-and-machine-intelligence
-assets/pdf/biological-and-machine-,resources/biological-and-machine-intelligence
+assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Temporal-Memory.pdf,resources/biological-and-machine-intelligence/temporal-memory-algorithm
 assets%E3%80%80/pdf/biological-and-machineintelligence/BAMI-Complete.pdf,assets/pdf/biological-and-machine-intelligence
+assets/pdf/biological-and-machine-,resources/biological-and-machine-intelligence
 assets/pdf/whitepa-,resources/papers-videos-and-more
 founders.php,company/careers-and-team
 company/newsletter/index.php,company/newsletter
@@ -117,10 +114,9 @@ prs/pr-04-18-13.html,press/2013/04/18/thingworx-partnership
 people.html,company/careers-and-team
 assets/pdf/whitepapers/hierarchical-temporal-memorycortical-learning-algorithm-0.2.1-en.pdf,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
 assets/pdf/whitepapers/current-research-overview-summer-2014.pdf,resources/biological-and-machine-intelligence
-assets/pdf/whitepapers/SDR_Properties%20draft%2010-28-14.pdf,assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf
-assets/pdf/whitepapers/Numenta%2520White%2520Paper%2520-%2520Science%2520of%2520Anomaly%2520Detection.pdf,assets/pdf/whitepapers/Numenta%20White%20Paper%20-%20Science%20of%20Anomaly%20Detection.pdf
+https://numenta.com/assets/pdf/whitepapers/SDR_Properties%20draft%2010-28-14.pdf,assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf
+https://numenta.com/assets/pdf/whitepapers/Numenta%2520White%2520Paper%2520-%2520Science%2520of%2520Anomaly%2520Detection.pdf,assets/pdf/whitepapers/Numenta%20White%20Paper%20-%20Science%20of%20Anomaly%20Detection.pdf
 assets/pdf/whitepapers,resources/papers-videos-and-more
-assets/css/index.css?v=0.1.37,resources/papers-videos-and-more
 htmoverview/education,resources/biological-and-machine-intelligence
 htmoverview/education/HTM_CorticalLearningAlgorithms.pdf,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
 htm-school,https://numenta.org/htm-school/
@@ -155,7 +151,6 @@ phpBB2/viewtopic.php?t=1533,https://numenta.com
 press/numenta-researchers-discover-how-the-brain-learns-sequences.html?_utm_source=1-2-2,press/2016/04/12/numenta-researchers-discover-how-the-brain-learns-sequences
 company/events/dendritic-anatomy-molecules-and-function-heraklion-crete.html,company/events/2016/06/18/dendritic-anatomy-molecules-and-function-heraklion-crete
 company/events/strata-hadoop-world-big-data-conference-2016.html,company/events/2016/03/29/strata-hadoop-world-big-data-conference-2016
-assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Temporal-Memory.pdf,resources/biological-and-machine-intelligence/temporal-memory-algorithm
 company/events/numenta-webinar.html,company/events/2016/04/26/numenta-webinar
 vision/vision-toolkit.php,https://github.com/numenta/nupic.vision
 press/what-really-scares-tech-leaders-about-artificial-intelligence.html,http://www.forbes.com/sites/anthonykosner/2015/04/20/what-really-scares-tech-leaders-about-artificial-intelligence
