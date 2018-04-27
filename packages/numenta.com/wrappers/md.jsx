@@ -319,7 +319,7 @@ class MarkdownWrapper extends React.Component {
     }
 
     return (
-      <article className={styles.md}>
+      <article className={data.columns ? styles.mdCol : styles.md}>
         <Helmet title={data.title}>
           {getMetadataTags(data, config.baseUrl, {description})}
         </Helmet>
@@ -333,7 +333,7 @@ class MarkdownWrapper extends React.Component {
           {media}
           {event}
           <div className={data.dropcap === false ? '' : styles.lead}>
-            <Markdown>
+            <Markdown columns={data.columns || false}>
               <div dangerouslySetInnerHTML={{__html: data.body}} />
             </Markdown>
           </div>

@@ -6,10 +6,11 @@
 
 .markdown {
   composes: lh-copy from 'tachyons';
+}
+.wide {
   composes: measure from 'tachyons';
   composes: measure-wide-l from 'tachyons';
 }
-
 .markdown a:link,
 .markdown a:visited {
   color: #0277bd;
@@ -62,4 +63,34 @@
 .markdown table td {
   padding: 0.5rem 0.666rem;
   vertical-align: top;
+}
+
+.columns {
+  composes: cf from 'tachyons';
+  composes: w-100 from 'tachyons';
+}
+
+.columns aside {
+  float: right;
+  text-align: center;
+  margin: 0.5rem 1rem auto auto;
+  width: 100%;
+}
+.columns img {
+  border: none;
+  box-shadow: none;
+}
+
+@media screen and (min-width: 48em) {
+  .columns aside {
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    width: 40%;
+  }
+  .columns section {
+    display: inline-block;
+  }
+  .columns section > p {
+    width: 60%;
+  }
 }
