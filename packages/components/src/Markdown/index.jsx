@@ -3,6 +3,7 @@
 // Copyright © 2005—2017 Numenta <http://numenta.com>
 
 import catchLinks from 'catch-links'
+import classNames from 'classnames'
 import {prefixLink} from 'gatsby-helpers'
 import React from 'react'
 import root from 'window-or-global'
@@ -20,6 +21,7 @@ class Markdown extends React.Component {
 
   static propTypes = {
     children: React.PropTypes.node.isRequired,
+    columns: React.PropTypes.bool,
   }
 
   static contextTypes = {
@@ -57,11 +59,18 @@ class Markdown extends React.Component {
   }
 
   render() {
-    const {children} = this.props
+    const {children, columns} = this.props
+    const classes = [styles.markdown]
+    if (columns) {
+      classes.push(styles.columns)
+    }
+    else {
+      classes.push(styles.wide)
+    }
 
     return (
       <div
-        className={styles.markdown}
+        className={classNames(...classes)}
         ref={(ref) => this._markdown = ref}
       >
         {children}
