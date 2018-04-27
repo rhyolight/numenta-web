@@ -32,6 +32,10 @@
   composes: measure-wide-l from 'tachyons';
 }
 
+.mdCol {
+  composes: center from 'tachyons';
+}
+
 .date {
   composes: fw5 from 'tachyons';
   composes: lh-copy from 'tachyons';
