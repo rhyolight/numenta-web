@@ -29,6 +29,7 @@ Our research has focused on binary sparse distributed representations, i.e. an a
 In [2] we show that high dimensional sparse patterns can be classified extremely reliably, even in the presence of large amounts of noise and failures. We discuss the union property, which allows multiple patterns to be simultaneously represented and recognized. This property is what enables HTM sequence memory to make multiple predictions about the future. The paper derives scaling equations for computing the probability of false positive and false negative errors, both with and without unions.
 
 Through active dendrites, a neural property that is a key underpinning of HTM theory, neurons are thought to detect patterns using a small number of synapses (as few as 10 to 20 synapses). Given that neural populations are large, and their activity is extremely unreliable and noisy, how could neurons reliably detect patterns with such a tiny number of synapses? The above scaling laws show that under a range of numbers, even 10 to 20 synapses can accurately classify patterns under very noisy conditions. The equations can even be used to explain the experimentally observed thresholds in active dendrites (see Cosyne poster below).
+</section>
 
 ### Sparse Distributed Representations Resources
 
