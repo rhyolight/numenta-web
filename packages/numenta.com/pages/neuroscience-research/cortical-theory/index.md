@@ -12,7 +12,7 @@ ___
 <section>
 <aside>
 
-![Cortical Theory - Our Goal](../images/cortical-theory-our-goal.png)
+![Cortical Theory - Our Goal](images/cortical-theory-our-goal.png)
 
 </aside>
 
@@ -27,7 +27,7 @@ ___
 <section>
 <aside>
 
-![Cortical Theory - Our Approach 1](../images/cortical-theory-our-approach-1.png)
+![Cortical Theory - Our Approach 1](images/cortical-theory-our-approach-1.png)
 
 </aside>
 
@@ -37,7 +37,7 @@ We are often asked how we do neuroscience research at Numenta and what it means 
 <section>
 <aside>
 
-![Cortical Theory - Our Approach 2](../images/cortical-theory-our-approach-2.png)
+![Cortical Theory - Our Approach 2](images/cortical-theory-our-approach-2.png)
 
 </aside>
 
@@ -50,7 +50,7 @@ ___
 <section>
 <aside>
 
-![Cortical Theory - Our Theory](../images/cortical-theory-our-theory.jpeg)
+![Cortical Theory - Our Theory](images/cortical-theory-our-theory.jpeg)
 
 </aside>
 Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries- from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).
@@ -64,7 +64,7 @@ ___
 <section>
 <aside>
 
-![Cortical Theory - Cortical Columns](../images/cortical-theory-cortical-columns.png)
+![Cortical Theory - Cortical Columns](images/cortical-theory-cortical-columns.png)
 
 <aside/>
 Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
@@ -78,7 +78,7 @@ Find more information on [cortical columns](/neuroscience-research/cortical-theo
 <section>
 <aside>
 
-![Cortical Theory - Sequence Learning](../images/cortical-theory-sequence-learning.png)
+![Cortical Theory - Sequence Learning](images/cortical-theory-sequence-learning.png)
 
 </aside>
 We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
@@ -92,7 +92,7 @@ Find more information on [sequence learning](/neuroscience-research/cortical-the
 <section>
 <aside>
 
-![Cortical Theory - SDRs](../images/cortical-theory-sparse-distributed-representations.png)
+![Cortical Theory - SDRs](images/cortical-theory-sparse-distributed-representations.png)
 
 </aside>
 Sparse distributed representations (SDRs) are a foundational aspect of HTM Theory.  They are how the brain represents its input and the state of its world, with very few neurons active at any given time. The unique properties of SDRs enable semantic generalization and robustness to noise.
