@@ -9,7 +9,7 @@ dropcap: false
 <section>
 <aside>
 
-![Sparse Distributed Representations - Figure from Paper](images/cortical-theory-sparse-distributed-representations.png)
+![Sparse Distributed Representations - Figure from Paper](../images/cortical-theory-sparse-distributed-representations.png)
 
 </aside>
 One of the most remarkable observations about the neocortex is that no matter where you look, the activity of neurons is sparse, meaning only a small percentage of them are spiking at any point in time. The sparsity might vary from less than one percent to several percent, but it is always sparse. Sparse distributed representations (SDRs) model this property and are a key component of HTM theory [1].
@@ -24,7 +24,7 @@ Our research has focused on binary sparse distributed representations, i.e. an a
 <section>
 <aside>
 
-![Sparse Distributed Representations - Formula](images/sparse-distributed-representations-2.png)
+![Sparse Distributed Representations - Formula](../images/sparse-distributed-representations-2.png)
 
 </aside>
 

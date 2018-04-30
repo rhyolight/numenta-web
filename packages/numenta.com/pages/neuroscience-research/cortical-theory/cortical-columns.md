@@ -9,7 +9,7 @@ dropcap: false
 <section>
 <aside>
 
-![Cortical Columns - Cajal Artwork](images/cortical-columns-1.png)
+![Cortical Columns - Cajal Artwork](../images/cortical-columns-1.png)
 
 </aside>
 
@@ -20,7 +20,7 @@ If we can understand how a single cortical column works, we will have a framewor
 <section>
 <aside>
 
-![Cortical Columns - Multiple Columns Diagram](images/cortical-columns-2.png)
+![Cortical Columns - Multiple Columns Diagram](../images/cortical-columns-2.png)
 
 </aside>
 In our October 2017 paper [1], we proposed a surprising idea: that a single cortical column can learn models of complete objects through movement. We proposed there is a key feature common to all cortical columns: a signal representing location. This location signal represents a location relative to the object being sensed, not relative to the sensor. In other words, a column knows not only what feature is being sensed, but where that feature is on the object. As we move our sensors, the “features at locations” input is integrated over time so that a single column can learn and recognize complete objects.
