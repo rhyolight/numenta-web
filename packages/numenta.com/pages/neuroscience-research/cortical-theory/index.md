@@ -23,7 +23,8 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 </section>
 
 ## Our Approach
-___
+<hr>
+
 <section>
 <aside>
 
