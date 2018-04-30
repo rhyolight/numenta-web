@@ -47,7 +47,8 @@ We document our research in several ways, including [peer-reviewed journal paper
 </section>
 
 ## Our Theory
-___
+<hr>
+
 <section>
 <aside>
 
