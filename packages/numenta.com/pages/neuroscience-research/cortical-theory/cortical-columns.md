@@ -3,6 +3,7 @@ title: "Cortical Columns | Numenta"
 header: "Cortical columns"
 keywords: "cortical columns"
 description: "Vernon Mountcastle was the first to propose that a canonical circuit consisting of cortical columns underlies everything the neocortex does. Understanding the function of cortical columns is a central goal of our research program. On this page, you'll find all our resources regarding cortical columns."
+columns: true
 ---
 <section>
 <aside>

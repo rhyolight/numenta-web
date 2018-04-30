@@ -3,11 +3,12 @@ title: "Sparse Distributed Representations | Numenta"
 header: "Sparse distributed representations"
 keywords: "Sparse distributed representations"
 description: "Our research on sparse distributed representations (SDRs) is aimed at uncovering properties of sparse representations that provide insight into the neocortex. In this page, you'll find all our resources regarding SDRs."
+columns: true
 ---
 <section>
 <aside>
 
-![Sparse Distributed Representations](../images/sparse-distributed-representations-1.png)
+![Sparse Distributed Representations](images/sparse-distributed-representations-1.png)
 
 </aside>
 One of the most remarkable observations about the neocortex is that no matter where you look, the activity of neurons is sparse, meaning only a small percentage of them are spiking at any point in time. The sparsity might vary from less than one percent to several percent, but it is always sparse. Sparse distributed representations (SDRs) model this property and are a key component of HTM theory [1].
@@ -22,7 +23,7 @@ Our research has focused on binary sparse distributed representations, i.e. an a
 <section>
 <aside>
 
-![Sparse Distributed Representations](../images/sparse-distributed-representations-2.png)
+![Sparse Distributed Representations](images/sparse-distributed-representations-2.png)
 
 </aside>
 
