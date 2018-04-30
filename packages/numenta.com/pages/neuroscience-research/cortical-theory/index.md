@@ -66,7 +66,7 @@ ___
 
 ![Cortical Theory - Cortical Columns](images/cortical-theory-cortical-columns.png)
 
-<aside/>
+</aside>
 Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
 
 Find more information on [cortical columns](/neuroscience-research/cortical-theory/cortical-columns/).
