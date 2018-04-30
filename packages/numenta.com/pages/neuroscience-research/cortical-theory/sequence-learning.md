@@ -9,7 +9,7 @@ dropcap: false
 <section>
 <aside>
 
-![Sequence Learning](images/sequence-learning-1.png)
+![Sequence Learning - Pyramidal vs HTM Neuron](../images/sequence-learning-1.png)
 
 </aside>
 
@@ -27,7 +27,7 @@ Sequence learning continues to be an active area of research at Numenta. We are 
 <section>
 <aside>
 
-![Sequence Learning](images/sequence-learning-2.png)
+![Sequence Learning - Figure from Paper](images/cortical-theory-sequence-learning.png)
 
 </aside>
 Although primarily a biological model, our sequence learning framework has practical applications in temporal prediction and anomaly detection. In [4] we show how our sequence learning algorithm is applied to temporal prediction with streaming data. We compare the algorithm against a number of common machine learning techniques. Our model achieves static performance on par with state of the art techniques, while displaying improved performance on several important properties like continuous online learning, the ability to handle multiple predictions, robustness to sensor noise and fault tolerance, and good performance without the need for task-specific tuning.

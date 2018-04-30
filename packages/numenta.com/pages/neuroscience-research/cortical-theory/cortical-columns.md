@@ -9,7 +9,7 @@ dropcap: false
 <section>
 <aside>
 
-![Cortical Columns - Cajal](images/cortical-columns-1.png)
+![Cortical Columns - Cajal Artwork](images/cortical-columns-1.png)
 
 </aside>
 
