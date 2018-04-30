@@ -28,17 +28,17 @@ In our October 2017 paper [1], we proposed a surprising idea: that a single cort
 Under this proposal, cortical columns have far more powerful recognition and modeling capabilities than previously assumed.  It is consistent with Mountcastle’s original idea, and the concept that if the neocortex is doing a function somewhere, it must be doing it everywhere. This idea also has large implications for how we think about biological and machine intelligence, a subject of our blog post, “The Thousand Brains Model of Intelligence”.
 </section>
 
-### Cortical Columns Resources
+## Cortical Columns Resources
 
-#### Papers
+### Papers
 
 <span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">Hawkins, J., Ahmad, S., & Cui, Y. (2017) A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. <i>Front. Neural Circuits</i>, <b>11</b>, 81.</a></span>
 
-#### Videos
+### Videos
 *	[Does the neocortex use grid cell-like mechanisms to learn the structure of objects?](/company/events/2018/04/16/simons-institute-berkeley/)
 *	[Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception](/resources/papers-videos-and-more/jeff-hawkins-mit-talk/)
 
-#### Posters
+### Posters
 *	[Cosyne 2018: Determining Allocentric Locations of Sensed Features](/resources/papers-videos-and-more/cosyne-2018-allocentric-locations-of-sensed-features/)
 *	[NCM 2017: A Cortical Circuit for Sensorimotor Learning and Recognition](/resources/papers-videos-and-more/ncm-2017a-cortical-circuit-for-learning-sensorimotor-representations/)
 *	[Cosyne 2017: How Do Cortical Columns Learn 3D Sensorimotor Models?](https://numenta.com/resources/papers-videos-and-more/cosyne-2017-how-do-cortical-columns-learn-3d-sensorimotor-models/)
