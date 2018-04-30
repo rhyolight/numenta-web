@@ -4,6 +4,7 @@ header: "Sparse distributed representations"
 keywords: "Sparse distributed representations"
 description: "Our research on sparse distributed representations (SDRs) is aimed at uncovering properties of sparse representations that provide insight into the neocortex. In this page, you'll find all our resources regarding SDRs."
 columns: true
+dropcap: false
 ---
 <section>
 <aside>
