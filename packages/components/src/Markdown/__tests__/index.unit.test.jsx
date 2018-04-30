@@ -14,7 +14,7 @@ describe('Markdown React component', () => {
     )
     const element = component._markdown  // get ref
     expect(element.textContent).toEqual('Content')
-    expect(element.className).toEqual('markdown')
+    expect(element.className).toEqual('markdown wide')
   })
 
   // @TODO more in depth testing below...
