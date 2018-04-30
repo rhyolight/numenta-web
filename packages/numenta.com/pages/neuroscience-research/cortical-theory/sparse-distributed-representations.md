@@ -15,9 +15,9 @@ dropcap: false
 One of the most remarkable observations about the neocortex is that no matter where you look, the activity of neurons is sparse, meaning only a small percentage of them are spiking at any point in time. The sparsity might vary from less than one percent to several percent, but it is always sparse. Sparse distributed representations (SDRs) model this property and are a key component of HTM theory [1].
 
 Our research on SDRs is aimed at uncovering properties of sparse representations that provide insight into the neocortex. The research also provides a practical mathematical framework that helps explain some of the numbers and parameters used in HTM systems.
-</section>
 
 Our research has focused on binary sparse distributed representations, i.e. an array consisting of a large number of bits where a small percentage are 1’s and the rest are 0’s. The bits of SDRs correspond to neurons in the brain, where 1 represents an active neuron and 0 an inactive one. Each bit typically has some meaning (such as the presence of an edge at a particular location and orientation). The information is distributed amongst the bits such that no single bit is critical.
+</section>
 
 ### How accurately can neurons recognize sparse patterns?
 
