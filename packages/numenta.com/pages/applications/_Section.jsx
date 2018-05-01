@@ -119,7 +119,7 @@ const SectionApplications = (props, {config}) => {
         </div>
         <div className={styles.content}>
           <Paragraph>
-            HTM Studio for Anomaly Detection is a tool that makes it easy to
+            HTM Studio for Anomaly Detection is a free desktop tool that makes it easy to
             experiment with using HTM to detect anomalies in your own scalar
             data. Designed for the business-focused user, this tool makes it
             easy to develop a proof of concept with HTM technology without
@@ -128,7 +128,7 @@ const SectionApplications = (props, {config}) => {
           <List marker="disc">
             <ListItem>
               <TextLink to={links.in.htmstudio}>
-                More Information
+                Learn More and Download HTM Studio 
               </TextLink>
             </ListItem>
             <ListItem>
