@@ -29,18 +29,11 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 <aside>
 
 ![Cortical Theory - Our Approach 1](images/cortical-theory-our-approach-1.png)
+![Cortical Theory - Our Approach 2](images/cortical-theory-our-approach-2.png)
 
 </aside>
 
 We are often asked how we do neuroscience research at Numenta and what it means to focus on cortical theory. We read many neuroscience papers and published results to get an understanding of what the neocortex does. We propose ideas about how the detailed architecture of the neocortex implements these functions. We ensure our work satisfies biological constraints and test our theories via simulation. Since we do not do any wet lab work, we collaborate with experimentalists that run investigations and give us feedback.
-
-</section>
-<section>
-<aside>
-
-![Cortical Theory - Our Approach 2](images/cortical-theory-our-approach-2.png)
-
-</aside>
 
 We document our research in several ways, including [peer-reviewed journal papers](/resources/papers/), conference proceedings, research reports, [invited talks](/events/), and a living book titled [BAMI](/resources/biological-and-machine-intelligence/) (Biological and Machine Intelligence). In addition, we place our daily research commits in an [open source project](http://numenta.org/). We strive to be completely open in everything we do.
 
@@ -48,7 +41,6 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 ## Our Theory
 <hr>
-
 <section>
 <aside>
 
