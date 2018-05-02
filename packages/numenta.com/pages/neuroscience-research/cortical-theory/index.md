@@ -29,6 +29,8 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 <aside>
 
 ![Cortical Theory - Our Approach 1](images/cortical-theory-our-approach-1.png)
+
+
 ![Cortical Theory - Our Approach 2](images/cortical-theory-our-approach-2.png)
 
 </aside>
