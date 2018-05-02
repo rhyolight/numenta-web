@@ -33,7 +33,7 @@ Under this proposal, cortical columns have far more powerful recognition and mod
 
 ### Papers
 
-<span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">Hawkins, J., Ahmad, S., & Cui, Y. (2017) A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. <i>Front. Neural Circuits</i>, <b>11</b>, 81.</a></span>
+<span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">Hawkins, J., Ahmad, S., & Cui, Y. (2017) A Theory of How Columns in the Neocortex Enable Learning <br>the Structure of the World. <i>Front. Neural Circuits</i>, <b>11</b>, 81.</a></span>
 
 ### Videos
 *	[Does the neocortex use grid cell-like mechanisms to learn the structure of objects?](/company/events/2018/04/16/simons-institute-berkeley/)
