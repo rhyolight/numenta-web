@@ -28,9 +28,6 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 <section>
 <aside>
 
-![Cortical Theory - Our Approach 1](images/cortical-theory-our-approach-1.png)
-
-
 ![Cortical Theory - Our Approach 2](images/cortical-theory-our-approach-2.png)
 
 </aside>
@@ -49,7 +46,7 @@ We document our research in several ways, including [peer-reviewed journal paper
 ![Cortical Theory - Our Theory](images/cortical-theory-our-theory.png)
 
 </aside><br>
-Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries- from how neurons make predictions to how cortical columns learn to model objects through movement-we’ve developed a framework for biological intelligence. We refer to this theory as Hierarchical Temporal Memory (HTM).
+Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries – from how neurons make predictions to how cortical columns learn to model objects through movement – we’ve developed a framework for biological intelligence. We refer to this theory as [Hierarchical Temporal Memory (HTM)](/machine-intelligence-technology/).
 
 </section>
 
