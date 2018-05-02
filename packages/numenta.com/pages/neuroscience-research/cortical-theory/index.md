@@ -45,7 +45,8 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 ![Cortical Theory - Our Theory](images/cortical-theory-our-theory.png)
 
-</aside><br>
+</aside>
+
 Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries – from how neurons make predictions to how cortical columns learn to model objects through movement – we’ve developed a framework for biological intelligence. We refer to this theory as [Hierarchical Temporal Memory (HTM)](/machine-intelligence-technology/).
 
 </section>
