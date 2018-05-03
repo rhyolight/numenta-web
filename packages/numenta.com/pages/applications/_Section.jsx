@@ -33,7 +33,7 @@ const SectionApplications = (props, {config}) => {
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Image
-            alt="HTM Applications"
+            alt="     HTM Applications"
             respond="mw"
             src={ImageApps}
           />
