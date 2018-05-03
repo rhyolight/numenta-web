@@ -25,7 +25,7 @@ If we can understand how a single cortical column works, we will have a framewor
 </aside>
 In our October 2017 paper [1], we proposed a surprising idea: that a single cortical column can learn models of complete objects through movement. We proposed there is a key feature common to all cortical columns: a signal representing location. This location signal represents a location relative to the object being sensed, not relative to the sensor. In other words, a column knows not only what feature is being sensed, but where that feature is on the object. As we move our sensors, the “features at locations” input is integrated over time so that a single column can learn and recognize complete objects.
 
-Under this proposal, cortical columns have far more powerful recognition and modeling capabilities than previously assumed.  It is consistent with Mountcastle’s original idea, and the concept that if the neocortex is doing a function somewhere, it must be doing it everywhere. This idea also has large implications for how we think about biological and machine intelligence, a subject of our blog post, “[The Thousand Brains Model of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/).”
+Under this proposal, cortical columns have far more powerful recognition and modeling capabilities than previously assumed. It is consistent with Mountcastle’s original idea, and the concept that if the neocortex is doing a function somewhere, it must be doing it everywhere. This idea also has large implications for how we think about biological and machine intelligence, a subject of our blog post, “[The Thousand Brains Model of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/).”
 
 </section>
 

@@ -18,7 +18,7 @@ ___
 
 Through our focus on cortical theory, we seek to understand the complex circuitry of a cortical column. We want to understand the function and operation of the laminar circuits in the brain, including what the neurons are doing, what the layers are doing, how they interact, and how a cortical column works.
 
-[Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing.  Therefore, if we can understand a cortical column, we will understand the neocortex.  
+[Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) proposed that because every part of the neocortex has the same complex circuitry, then every part is doing the same thing. Therefore, if we can understand a cortical column, we will understand the neocortex.
 
 </section>
 
@@ -47,7 +47,7 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 </aside>
 
-Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence.  Through our series of discoveries – from how neurons make predictions to how cortical columns learn to model objects through movement – we’ve developed a framework for biological intelligence. We refer to this theory as [Hierarchical Temporal Memory (HTM)](/machine-intelligence-technology/).
+Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence. Through our series of discoveries – from how neurons make predictions to how cortical columns learn to model objects through movement – we’ve developed a framework for biological intelligence. We refer to this theory as [Hierarchical Temporal Memory (HTM)](/machine-intelligence-technology/).
 
 </section>
 
@@ -76,7 +76,7 @@ Find more information on [cortical columns](/neuroscience-research/cortical-theo
 
 ### Sequence learning
 
-We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue.  We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
+We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue. We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
 
 Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning/) and prediction in cortex.
 
@@ -90,7 +90,7 @@ Find more information on [sequence learning](/neuroscience-research/cortical-the
 
 ### Sparse distributed representations
 
-Sparse distributed representations (SDRs) are a foundational aspect of HTM Theory.  They are how the brain represents its input and the state of its world, with very few neurons active at any given time. The unique properties of SDRs enable semantic generalization and robustness to noise.
+Sparse distributed representations (SDRs) are a foundational aspect of HTM Theory. They are how the brain represents its input and the state of its world, with very few neurons active at any given time. The unique properties of SDRs enable semantic generalization and robustness to noise.
 
 Find more information on [sparse distributed representations](/neuroscience-research/cortical-theory/sparse-distributed-representations/).
 
