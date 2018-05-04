@@ -32,22 +32,22 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 
 </aside>
 
-We are often asked how we do neuroscience research at Numenta and what it means to focus on cortical theory. We read many neuroscience papers and published results to get an understanding of what the neocortex does. We propose ideas about how the detailed architecture of the neocortex implements these functions. We ensure our work satisfies biological constraints and test our theories via simulation. Since we do not do any wet lab work, we collaborate with experimentalists that run investigations and give us feedback.
+We are often asked how we do neuroscience research at Numenta and what it means to focus on cortical theory. We read many neuroscience papers and published results to get a deep understanding of neuroanatomy, neurophysiology, and cortical function. We propose theories about how the detailed architecture of the neocortex implements these functions. We ensure our work satisfies biological constraints and test our theories via simulation. Since we do not do any wet lab work, we collaborate with experimentalists that run investigations and give us feedback. We also host scientists through our [Visiting Scholar Program](/company/careers-and-team/careers/visiting-scholar-program/).
 
-We document our research in several ways, including [peer-reviewed journal papers](/resources/papers/), conference proceedings, research reports, [invited talks](/events/), and a living book titled [BAMI](/resources/biological-and-machine-intelligence/) (Biological and Machine Intelligence). In addition, we place our daily research commits in an [open source project](http://numenta.org/). We strive to be completely open in everything we do.
+We document our research in several ways, including [peer-reviewed journal papers](/resources/papers/), conference proceedings, research reports, and [invited talks](/events/). In addition, we place our daily research commits in an [open source project](http://numenta.org/) and answer questions about our research posted on our [forums](https://discourse.numenta.org/). We strive to be completely open in everything we do.
 
 </section>
 
-## Our Theory
+## Our Theories
 <hr>
 <section>
 <aside>
 
-![Cortical Theory - Our Theory](images/cortical-theory-our-theory.png)
+![Cortical Theory - Our Theories](images/cortical-theory-our-theory.png)
 
 </aside>
 
-Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence. Through our series of discoveries – from how neurons make predictions to how cortical columns learn to model objects through movement – we’ve developed a framework for biological intelligence. We refer to this theory as [Hierarchical Temporal Memory (HTM)](/machine-intelligence-technology/).
+Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence. We have made discoveries on how neurons make predictions, the role of dendritic spikes in cortical processing, how cortical layers learn sequences, and how cortical columns learn to model objects through movement.
 
 </section>
 
@@ -62,7 +62,7 @@ ___
 
 ### Cortical columns
 
-Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement updated allocentric location signal.
+Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing, and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that shows how cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement-updated allocentric location signal.
 
 Find more information on [cortical columns](/neuroscience-research/cortical-theory/cortical-columns/).
 
@@ -76,7 +76,7 @@ Find more information on [cortical columns](/neuroscience-research/cortical-theo
 
 ### Sequence learning
 
-We have developed a theoretical framework for sequence learning – what we consider the most fundamental operation of all neocortical tissue. We’ve shown how a biologically detailed model of pyramidal neurons with thousands of synapses and active dendrites can learn transitions of patterns, and how a network of neurons can form a robust sequence memory.
+Memory and recall of sequences is an essential component of inference and behavior. We believe that sequence memory is occurring in multiple layers of the neocortex. We’ve shown how a layer of pyramidal neurons with active dendrites, arranged in mini-columns, will learn transitions of patterns and form a robust sequence memory.
 
 Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning/) and prediction in cortex.
 
@@ -90,7 +90,7 @@ Find more information on [sequence learning](/neuroscience-research/cortical-the
 
 ### Sparse distributed representations
 
-Sparse distributed representations (SDRs) are a foundational aspect of HTM Theory. They are how the brain represents its input and the state of its world, with very few neurons active at any given time. The unique properties of SDRs enable semantic generalization and robustness to noise.
+Sparse Distributed Representations (SDRs) are a foundational aspect of all of our theories. Everywhere in the neocortex, information is represented by distributed and sparsely active sets of neurons. We have shown through mathematical analysis and simulation that SDRs enable semantic generalization and robustness. 
 
 Find more information on [sparse distributed representations](/neuroscience-research/cortical-theory/sparse-distributed-representations/).
 
