@@ -59,7 +59,7 @@ const mainSectionList = [
   },
   {
     component: <SectionApplications key="sectionApplications" />,
-    title: '     H   TM Applications',
+    title: '     HTM Applications',
     url: '/applications/',
   },
   {
