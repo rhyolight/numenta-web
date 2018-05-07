@@ -5,7 +5,6 @@
 import React from 'react'
 import Markdown from 'numenta-web-shared-components/lib/Markdown'
 import Helmet from 'react-helmet'
-import Section from 'numenta-web-shared-components/lib/Section'
 import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Content from './neuroscience-research.md'
 import styles from './index.css'
@@ -19,15 +18,9 @@ const SectionNeuroscience = (props, {config}) => (
     <Helmet title={Content.title}>
       {getMetadataTags(Content, config.baseUrl, Content.description)}
     </Helmet>
-    <Section
-      headline={true}
-      open={true}
-      title={Content.header || Content.title}
-    >
-      <Markdown columns={true}>
-        <div dangerouslySetInnerHTML={{__html: Content.body}} />
-      </Markdown>
-    </Section>
+    <Markdown columns={true}>
+      <div dangerouslySetInnerHTML={{__html: Content.body}} />
+    </Markdown>
   </article>
 )
 
