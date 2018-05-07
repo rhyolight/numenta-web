@@ -2,35 +2,37 @@
 // MIT License (see LICENSE.txt)
 // Copyright © 2005—2017 Numenta <http://numenta.com>
 
-import MarkdownBody from 'numenta-web-shared-components/lib/MarkdownBody'
-import MarkdownMedia from 'numenta-web-shared-components/lib/MarkdownMedia'
 import React from 'react'
-
-import ContentLeft from './_content/_left.md'
-import ContentRight from './_content/_right.md'
-
+import Markdown from 'numenta-web-shared-components/lib/Markdown'
+import Helmet from 'react-helmet'
+import Section from 'numenta-web-shared-components/lib/Section'
+import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
+import Content from './neuroscience-research.md'
 import styles from './index.css'
 
 
 /**
  * Neuroscience Research MainSection and page content - React view component.
  */
-const SectionNeuroscience = () => (
-  <article>
-    <div className={styles.columns}>
-      <div className={styles.aside}>
-        <div className={styles.brain}>
-          <MarkdownMedia
-            border={false}
-            shadow={false}
-            markdown={ContentRight}
-          />
-        </div>
-      </div>
-      <div className={styles.content}>
-        <MarkdownBody markdown={ContentLeft} />
-      </div>
-    </div>
-  </article>)
+const SectionNeuroscience = (props, {config}) => (
+  <article className={styles.columns}>
+    <Helmet title={Content.title}>
+      {getMetadataTags(Content, config.baseUrl, Content.description)}
+    </Helmet>
+    <Section
+      headline={true}
+      open={true}
+      title={Content.header || Content.title}
+    >
+      <Markdown columns={true}>
+        <div dangerouslySetInnerHTML={{__html: Content.body}} />
+      </Markdown>
+    </Section>
+  </article>
+)
+
+SectionNeuroscience.contextTypes = {
+  config: React.PropTypes.object,
+}
 
 export default SectionNeuroscience
