@@ -12,7 +12,7 @@ ___
 <section>
 <aside>
 
-![Cortical Theory - Our Goal](images/cortical-theory-our-goal.png)
+![Cortical Theory - Our Goal](/neuroscience-research/images/cortical-theory-our-goal.png)
 
 </aside>
 
@@ -28,7 +28,7 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 <section>
 <aside>
 
-![Cortical Theory - Our Approach 2](images/cortical-theory-our-approach-2.png)
+![Cortical Theory - Our Approach 2](/neuroscience-research/images/cortical-theory-our-approach-2.png)
 
 </aside>
 
@@ -43,7 +43,7 @@ We document our research in several ways, including [peer-reviewed journal paper
 <section>
 <aside>
 
-![Cortical Theory - Our Theories](images/cortical-theory-our-theory.png)
+![Cortical Theory - Our Theories](/neuroscience-research/images/cortical-theory-our-theory.png)
 
 </aside>
 
@@ -56,7 +56,7 @@ ___
 <section>
 <aside>
 
-![Cortical Theory - Cortical Columns](images/cortical-theory-cortical-columns.png)
+![Cortical Theory - Cortical Columns](/neuroscience-research/images/cortical-theory-cortical-columns.png)
 
 </aside>
 
@@ -70,7 +70,7 @@ Find more information on [cortical columns](/neuroscience-research/cortical-colu
 <section>
 <aside>
 
-![Cortical Theory - Sequence Learning](images/cortical-theory-sequence-learning.png)
+![Cortical Theory - Sequence Learning](/neuroscience-research/images/cortical-theory-sequence-learning.png)
 
 </aside>
 
@@ -84,7 +84,7 @@ Find more information on [sequence learning](/neuroscience-research/sequence-lea
 <section>
 <aside>
 
-![Cortical Theory - SDRs](images/cortical-theory-sparse-distributed-representations.png)
+![Cortical Theory - SDRs](/neuroscience-research/images/cortical-theory-sparse-distributed-representations.png)
 
 </aside>
 
