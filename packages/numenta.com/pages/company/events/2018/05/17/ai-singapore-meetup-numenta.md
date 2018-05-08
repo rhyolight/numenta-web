@@ -1,5 +1,5 @@
 ---
-author: Matt Taylor
+author: Matthew Taylor
 description: "The AI Singapore Meetup will be showcasing Numenta’s anomaly detection method that uses Hierarchical Temporal Memory (HTM) and differentiating it from traditional techniques that use thresholds or predetermined limits to identify anomalies."
 date: 2018/05/17
 event:
@@ -9,18 +9,19 @@ event:
     end: 2018/05/17
   where:
     desc: "3 Research Link, Seminar Room, Level One"
-    city:
+    city: Singapore
     state:
-    country: Singapore
-    web: https://www.aisingapore.org/eventspage/
-  who: Matt Taylor
-  why: Remotely speaking
+    country:
+    web: https://www.aisingapore.org/event/aisg-meetup-anormaly-detection/
+  who: Matthew Taylor
+  why: Speaking
 image: ../images/ai-singapore-meetup-numenta.jpg
 org: Open Source Community Manager
 keywords: "AI Singapore meetup Numenta"
 title: "AI Singapore Meetup – Anomaly Detection by Numenta"
 header: "AI Singapore Meetup – Anomaly Detection by Numenta"
 type: post
+dropcap: false
 ---
 
 ## About:
