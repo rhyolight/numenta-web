@@ -64,7 +64,7 @@ ___
 
 Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing, and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that shows how cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement-updated allocentric location signal.
 
-Find more information on [cortical columns](/neuroscience-research/cortical-theory/cortical-columns/).
+Find more information on [cortical columns](/neuroscience-research/cortical-columns/).
 
 </section>
 <section>
@@ -78,7 +78,7 @@ Find more information on [cortical columns](/neuroscience-research/cortical-theo
 
 Memory and recall of sequences is an essential component of inference and behavior. We believe that sequence memory is occurring in multiple layers of the neocortex. We’ve shown how a layer of pyramidal neurons with active dendrites, arranged in mini-columns, will learn transitions of patterns and form a robust sequence memory.
 
-Find more information on [sequence learning](/neuroscience-research/cortical-theory/sequence-learning/) and prediction in cortex.
+Find more information on [sequence learning](/neuroscience-research/sequence-learning/) and prediction in cortex.
 
 </section>
 <section>
@@ -90,8 +90,8 @@ Find more information on [sequence learning](/neuroscience-research/cortical-the
 
 ### Sparse distributed representations
 
-Sparse Distributed Representations (SDRs) are a foundational aspect of all of our theories. Everywhere in the neocortex, information is represented by distributed and sparsely active sets of neurons. We have shown through mathematical analysis and simulation that SDRs enable semantic generalization and robustness. 
+Sparse Distributed Representations (SDRs) are a foundational aspect of all of our theories. Everywhere in the neocortex, information is represented by distributed and sparsely active sets of neurons. We have shown through mathematical analysis and simulation that SDRs enable semantic generalization and robustness.
 
-Find more information on [sparse distributed representations](/neuroscience-research/cortical-theory/sparse-distributed-representations/).
+Find more information on [sparse distributed representations](/neuroscience-research/sparse-distributed-representations/).
 
 </section>
