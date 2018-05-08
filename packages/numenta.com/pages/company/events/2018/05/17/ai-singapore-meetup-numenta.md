@@ -18,8 +18,8 @@ event:
 image: ../images/ai-singapore-meetup-numenta.jpg
 org: Open Source Community Manager
 keywords: "AI Singapore meetup Numenta"
-title: "AI Singapore Meetup – Anomaly Detection by Numenta"
-header: "AI Singapore Meetup – Anomaly Detection by Numenta"
+title: "AI Singapore Meetup – The Science of Anomaly Detection"
+header: "AI Singapore Meetup – The Science of Anomaly Detection"
 type: post
 dropcap: false
 ---
