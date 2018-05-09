@@ -96,8 +96,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="/blog/2018/03/19/thousand-brains-model-of-intelligence/">
-            The Thousand Brains Model of Intelligence
+            <TextLink to="/resources/papers-videos-and-more/jeff-hawkins-simons-institute-talk/">
+            Jeff Hawkins' Simons Institute Talk
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
