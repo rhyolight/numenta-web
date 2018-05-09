@@ -34,7 +34,7 @@ Through our focus on cortical theory, we seek to understand the complex circuitr
 
 We are often asked how we do neuroscience research at Numenta and what it means to focus on cortical theory. We read many neuroscience papers and published results to get a deep understanding of neuroanatomy, neurophysiology, and cortical function. We propose theories about how the detailed architecture of the neocortex implements these functions. We ensure our work satisfies biological constraints and test our theories via simulation. Since we do not do any wet lab work, we collaborate with experimentalists that run investigations and give us feedback. We also host scientists through our [Visiting Scholar Program](/company/careers-and-team/careers/visiting-scholar-program/).
 
-We document our research in several ways, including [peer-reviewed journal papers](/resources/papers/), conference proceedings, research reports, and [invited talks](/events/). In addition, we place our daily research commits in an [open source project](http://numenta.org/) and answer questions about our research posted on our [forums](https://discourse.numenta.org/). We strive to be completely open in everything we do.
+We document our research in several ways, including [peer-reviewed journal papers](/resources/papers/), conference proceedings, research reports, and [invited talks](/company/events/). In addition, we place our daily research commits in an [open source project](http://numenta.org/) and answer questions about our research posted on our [forums](https://discourse.numenta.org/). We strive to be completely open in everything we do.
 
 </section>
 
