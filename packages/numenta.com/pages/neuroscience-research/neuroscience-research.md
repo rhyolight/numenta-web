@@ -1,8 +1,8 @@
 ---
 title: "Neuroscience Research at Numenta: Cortical Theory"
 header: "Neuroscience Research at Numenta: Cortical Theory"
-keywords: "cortical theory"
-description: "Through our focus on cortical theory, we seek to understand the cortical column. We do this by reading papers, proposing ideas, and testing them via simulation. We document our work in several ways, such as papers and invited talks. Our main research focus areas are cortical columns, sequence learning, and SDRs."
+keywords: "neuroscience research"
+description: "Through our neuroscience research and focus on cortical theory, we seek to understand the cortical column. We read papers, propose ideas, and test them via simulation. We document our work in papers, posters and invited talks. Our main research focus areas are cortical columns, sequence learning, and SDRs."
 dropcap: false
 columns: true
 ---
