@@ -67,25 +67,17 @@ const NabPage = (props, {config}) => {
             Data
           </SubTitle>
           <Paragraph lead={true}>
-            The need for anomaly detection has grown, as the Internet of Things
-            has produced a world that’s overflowing with streaming data. As
-            these data sources continue to grow, so does the need for anomaly
-            detection.
+          Sensors and data streams are proliferating as the Internet of Things
+          vision becomes realized. However, using the data from these sensors
+          is not so easy. Specifically, being able to identify anomalies in
+          streaming data is surprisingly difficult. Most techniques are a
+          form of thresholds, i.e. predetermined limits that must be set to
+          notify abnormalities. However, thresholds have some glaring
+          weaknesses, including often finding a problem after it has happened,
+          not before, and not adapting to new states, such that false
+          positives can crowd out the important signal.
           </Paragraph>
-          <Paragraph>
-          Uncovering anomalies allows you to:
-          </Paragraph>
-          <List marker="disc">
-            <ListItem>
-              Detect potential machine failures
-            </ListItem>
-            <ListItem>
-              Recognize changes in Twitter activity
-            </ListItem>
-            <ListItem>
-              Identify unexpected traffic patterns
-            </ListItem>
-          </List>
+
           <Paragraph>
             There are different methods of anomaly detection in streaming
             data, but how do you measure their effectiveness? NAB is the first
