@@ -24,4 +24,4 @@ streaming data. NAB is an open source framework consisting of:
 * A dataset with real-world, labeled data files
 * A scoring mechanism that rewards early detection and on-line learning
 
-Learn more about the [Numenta Anomaly Benchmark][nab]
+Learn more about the [Numenta Anomaly Benchmark][nab].
