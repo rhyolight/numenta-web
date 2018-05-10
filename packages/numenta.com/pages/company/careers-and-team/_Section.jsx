@@ -16,13 +16,13 @@ import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
 
 import ImageCareers from './images/Numenta-Careers-and-Team-photo.png'
 import ImageCeleste from './images/team/celeste-baranski.png'
-import ImageDonna from './images/team/donna-dubinsky.jpg'
+import ImageDonna from './images/team/donna-dubinsky.png'
 import ImageEd from './images/team/ed-colligan.jpg'
-import ImageHarry from './images/team/harry-saal.jpg'
-import ImageJeff from './images/team/jeff-hawkins.jpg'
+import ImageHarry from './images/team/harry-saal.png'
+import ImageJeff from './images/team/jeff-hawkins.png'
 import ImageMike from './images/team/mike-farmwald.jpg'
-import ImageSubutai from './images/team/subutai-ahmad.jpg'
-import ImageChristy from './images/team/christy-maver.jpg'
+import ImageSubutai from './images/team/subutai-ahmad.png'
+import ImageChristy from './images/team/christy-maver.png'
 import styles from './index.css'
 
 
