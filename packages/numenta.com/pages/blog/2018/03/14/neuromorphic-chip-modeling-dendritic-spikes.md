@@ -33,6 +33,3 @@ For those interested in the details about the BrainScaleS-2 chip, you can read t
 
 To read a paper our VP of Research, Subutai Ahmad, co-authored in 2015 with a member of the Human Brain Project about porting HTM algorithms to a neuromorphic computing platform, click [here](https://arxiv.org/abs/1505.02142).
 
-<script defer="defer" type="text/javascript">
-    console.log('foo');
-</script>
