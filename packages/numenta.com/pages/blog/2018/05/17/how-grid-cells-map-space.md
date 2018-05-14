@@ -8,9 +8,10 @@ keywords: "grid cells"
 title: "How Grid Cells Map Space"
 header: "How Grid Cells Map Space"
 type: post
-script: https://code.jquery.com/jquery-3.3.1.slim.min.js
-script: https://d3js.org/d3.v5.min.js
-script: https://htm-community.github.io/building-htm-systems/bhtms-how-do-grid-cells-work-0.2.2.js
+script: 
+ - https://code.jquery.com/jquery-3.3.1.slim.min.js
+ - https://d3js.org/d3.v5.min.js
+ - https://htm-community.github.io/building-htm-systems/bhtms-how-do-grid-cells-work-0.2.2.js
 ---
 
 <div id="header"></div>
