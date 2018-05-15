@@ -8,7 +8,7 @@ date: 2018/05/21
 image:
 link:
 media: poster
-org: Numenta
+org: Numenta Research Engineer
 section: archive
 sort: b
 type: post
