@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: "In 2016, we wrote a blog about the three major approaches to building machine intelligence: Classic AI, Simple Neural Networks, and Biological Neural Networks. This piece revisits each one and looks at the machine intelligence landscape today. Discover the state of the art, compare and contrast approaches, and understand fundamental limitations. Read why brain theory will be the future of machine intelligence."
+description: "In 2016, Numenta co-founders Jeff Hawkins and Donna Dubinsky wrote a blog about the three major approaches to building machine intelligence: Classic AI, Simple Neural Networks, and Biological Neural Networks. This piece revisits each one and looks at the machine intelligence landscape today. Discover the state of the art, compare and contrast approaches, and understand fundamental limitations. Read why brain theory will be the future of machine intelligence."
 date: 2018/05/16
 hideImage: true
 image: ../images/MachineIntelligenceLandscape2018.jpg
