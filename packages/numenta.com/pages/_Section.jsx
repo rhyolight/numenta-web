@@ -54,7 +54,7 @@ const SectionHome = (props, {config}) => {
             Employees
           </DefineTitle>
           <DefineItem>
-            15 — 20
+            10 — 20
           </DefineItem>
 
           <DefineTitle>
@@ -80,7 +80,7 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             <TextLink to={links.in.press}>
-              Press
+              Releases and Links
             </TextLink>
           </DefineItem>
 
