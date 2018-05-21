@@ -11,8 +11,7 @@ about-numenta/numenta-technology.php,machine-intelligence-technology
 machine-intelligence-technology.php,machine-intelligence-technology
 machine-intelligence-technology-overview,machine-intelligence-technology
 about-numenta/technology/pictures-demo.php,machine-intelligence-technology
-code-of-conduct.php,company/mission-and-history
-contact.php,contact
+install/java/osx,https://numenta.com
 about-numenta/customers.php,partners
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Encoders.pdf,resources/biological-and-machine-intelligence
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-HTM-Overview.pdf,resources/biological-and-machine-intelligence
@@ -78,7 +77,8 @@ blog/big-datas-digital-nervous-system.html,blog/2012/09/06/big-datas-digital-ner
 blog/2016/01/11/machine-intelligence-machine-learning-deep-learning-artificial-intelligence/f78,blog/2016/01/11/machine-intelligence-machine-learning-deep-learning-artificial-intelligence
 blog/brain-activity-map-project-arrives.html,blog/2013/03/04/brain-activity-map-project-arrives
 blog/grok-for-managing-aws-cost-anomalies.html,blog/2014/08/29/grok-for-managing-aws-cost-anomalies
-blog/2,blog
+blog/2/,blog
+blog/jeff-hawkins-speaks-at-berkeley.html,blog/2012/10/01/jeff-hawkins-speaks-at-berkeley
 blog/anomaly-of-the-week.html,blog/2014/04/04/anomaly-of-the-week
 blog/htm-challenge-2015-results.html,blog/2015/12/01/htm-challenge-2015-results
 blog/introducing-the-first-ever-sparse-football-pool.html,blog/2013/01/27/introducing-the-first-ever-sparse-football-pool
@@ -157,8 +157,8 @@ applications/htm-studio/Cheb+Bello+2018+Goulouli+Kelma+,applications/htm-studio
 applications/htm-studio/windows.html,applications/htm-studio/windows
 applications/htm-studio/date-time-formats.html,applications/htm-studio/date-time-formats
 applications/htm-studio/modal-terms.html,applications/htm-studio
-htm-studio/Lensa+HTM+Januari+2017Activities,applications/htm-studio
 htm-studio/Cheb+Djalil+Ft+Mounir+Reacutecos+2017+,applications/htm-studio
+htm-studio/Lensa+HTM+Januari+2017Activities,applications/htm-studio
 htm-overview/education/%20Numenta_HTM_Learning_Algos.pdf,resources/biological-and-machine-intelligence
 htm-overview/education/HTM_CorticalLearningAlgorithms.pdf,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
 assets/pdf/biologi,resources/biological-and-machine-intelligence
@@ -194,6 +194,7 @@ press/numenta-releases-grok-for-it-analytics-on-aws.html,press/2014/03/25/nument
 press/numenta-ships-new-htm-example-app-grok-for-stocks.html,press/2015/07/08/numenta-ships-new-htm-example-app-htm-for-stocks
 press/nupic-open-source-project.html,press/2013/07/22/nupic-open-source-project
 press/sybase-esp-integration.html,press/2013/05/17/sybase-esp-integration
+press/numenta-changes-name-to-grok.html,press
 press/terminator-not-coming-future-will-thank-us.html,https://www.recode.net/2015/3/2/11559576/the-terminator-is-not-coming-the-future-will-thank-us
 resources/papers-videos-and-more/hierarchical-temporal-memorywhite-paper.html.,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
 assets/pdf/whitepapers/hierarchical-temporal-,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
@@ -239,6 +240,8 @@ papers,resources/papers
 privacy,legal/privacy
 support,contact
 terms,legal/terms
+code-of-conduct.php,company/mission-and-history
+contact.php,contact
 nucontact.php,contact
 nucareers.php,company/careers-and-team
 news.html,press
@@ -248,7 +251,6 @@ numenta-anomaly-benchmark,applications/numenta-anomaly-benchmark
 htmoverview/education,resources/biological-and-machine-intelligence
 neuroscience-research/cortical-theory,neuroscience-research
 neuroscience-research/cortical-theory/,neuroscience-research
-install/java/osx,https://numenta.com
 htm-it,https://numenta.com
 500.html,https://numenta.com
 index.php,https://numenta.com
