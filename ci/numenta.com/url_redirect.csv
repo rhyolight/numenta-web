@@ -1,3 +1,5 @@
+install/java/osx,https://numenta.com
+blog/2/,blog
 resources/papers/why-does-the-neocortex-have-layers-and-columns,resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world
 company/events/2017/04/25/earth-pixels,company/events
 company/newsletters/year-in-review-numenta-2015.html,company/newsletter/2016/01/07/year-in-review-numenta-2015
@@ -11,7 +13,6 @@ about-numenta/numenta-technology.php,machine-intelligence-technology
 machine-intelligence-technology.php,machine-intelligence-technology
 machine-intelligence-technology-overview,machine-intelligence-technology
 about-numenta/technology/pictures-demo.php,machine-intelligence-technology
-install/java/osx,https://numenta.com
 about-numenta/customers.php,partners
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-Encoders.pdf,resources/biological-and-machine-intelligence
 assets/pdf/biological-and-machine-intelligence/0.4/BaMI-HTM-Overview.pdf,resources/biological-and-machine-intelligence
@@ -77,7 +78,6 @@ blog/big-datas-digital-nervous-system.html,blog/2012/09/06/big-datas-digital-ner
 blog/2016/01/11/machine-intelligence-machine-learning-deep-learning-artificial-intelligence/f78,blog/2016/01/11/machine-intelligence-machine-learning-deep-learning-artificial-intelligence
 blog/brain-activity-map-project-arrives.html,blog/2013/03/04/brain-activity-map-project-arrives
 blog/grok-for-managing-aws-cost-anomalies.html,blog/2014/08/29/grok-for-managing-aws-cost-anomalies
-blog/2/,blog
 blog/jeff-hawkins-speaks-at-berkeley.html,blog/2012/10/01/jeff-hawkins-speaks-at-berkeley
 blog/anomaly-of-the-week.html,blog/2014/04/04/anomaly-of-the-week
 blog/htm-challenge-2015-results.html,blog/2015/12/01/htm-challenge-2015-results
