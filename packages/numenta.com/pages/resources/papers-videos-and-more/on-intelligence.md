@@ -16,7 +16,7 @@ type: post
 ---
 ![On Intelligence Jeff Hawkins](../images/on-intelligence.png)
 
-The core concepts in Hierarchical Temporal Memory (HTM) theory were first
+The core concepts in our cortical theory were first
 described in this book titled **On Intelligence**, which was written by Jeff
 Hawkins with Sandra Blakeslee. This book still provides background
 and a great introduction to our theory, though many of the ideas in chapter 6
