@@ -1,4 +1,4 @@
-install/java/osx,https://numenta.com
+install/java/osx,applications
 blog/2/,blog
 resources/papers/why-does-the-neocortex-have-layers-and-columns,resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world
 company/events/2017/04/25/earth-pixels,company/events
@@ -244,6 +244,8 @@ code-of-conduct.php,company/mission-and-history
 contact.php,contact
 nucontact.php,contact
 nucareers.php,company/careers-and-team
+register.php,https://numenta.com
+login.php,https://numenta.com
 news.html,press
 vision,https://github.com/numenta/nupic.vision
 numenta-in-a-nutshell,machine-intelligence-technology/numenta-in-a-nutshell
