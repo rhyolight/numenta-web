@@ -22,6 +22,6 @@ In partner news, [Cortical.io](http://www.cortical.io/) recently released a new 
 
 Francisco Webber, Cortical.io Co-founder, will be speaking on May 29 at the [Frankfurt Finance Summit](http://www.cortical.io/company/events/frankfurt-finance-summit.html) about how financial institutions have used the Cortical.io Contract Intelligence Engine to improve information extraction for legal documents.
 
-Lastly, we have a new piece on our blog titled “[The 2018 Machine Intelligence Landscape](https://numenta.com/blog/2018/05/16/the-2018-machine-intelligence-landscape/),” which looks at what progress has been made in the various approaches to machine intelligence – from Classic AI to Deep Learning to the Biological Neural Network. The piece is an update to a blog our co-founders Jeff Hawkins and Donna Dubinsky wrote in 2016. Check it out to see why we believe now more than ever that brain theory provides the roadmap to general machine intelligence.
+Lastly, we have a new piece on our blog titled “[The 2018 Machine Intelligence Landscape](/blog/2018/05/16/the-2018-machine-intelligence-landscape/),” which looks at what progress has been made in the various approaches to machine intelligence – from Classic AI to Deep Learning to the Biological Neural Network. The piece is an update to a blog our co-founders Jeff Hawkins and Donna Dubinsky wrote in 2016. Check it out to see why we believe now more than ever that brain theory provides the roadmap to general machine intelligence.
 
 Thank you for continuing to follow Numenta.
