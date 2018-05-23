@@ -23,5 +23,5 @@ into a playlist of 8 topics. Click on the video below to start from the beginnin
 ## Video Playlist
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PL3yXMgtrZmDrlePl0jUIZWKwQwUgOfxA-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="//www.youtube.com/embed/videoseries?list=PL3yXMgtrZmDrlePl0jUIZWKwQwUgOfxA-" frameborder="0" allowfullscreen></iframe>
 </div>

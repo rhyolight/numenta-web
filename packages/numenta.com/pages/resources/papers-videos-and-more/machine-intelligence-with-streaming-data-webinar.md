@@ -28,7 +28,7 @@ end of the webinar answers some popular user questions.
 
 ### Video
 
-<iframe src="https://player.vimeo.com/video/164320064?title=0&byline=0&portrait=0" width="640" height="481" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/164320064">Machine Intelligence with Streaming Data</a> from <a href="https://vimeo.com/formspider">ProHuddle</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/164320064?title=0&byline=0&portrait=0" width="504" height="379" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/164320064">Machine Intelligence with Streaming Data</a> from <a href="https://vimeo.com/formspider">ProHuddle</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### About
 

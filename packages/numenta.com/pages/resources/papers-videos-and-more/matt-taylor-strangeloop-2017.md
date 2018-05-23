@@ -17,7 +17,11 @@ This video was recorded on September 29, 2017 at Strange Loop in St. Louis, MO. 
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-h-cz7yY-G8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="284" src="https://www.youtube.com/embed/-h-cz7yY-G8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Slides
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/eYSckY4cAopPmt" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/the-biological-path-towards-strong-ai-strange-loop-2017-st-louis" title="The Biological Path Towards Strong AI Strange Loop 2017, St. Louis" target="\_blank">The Biological Path Towards Strong AI Strange Loop 2017, St. Louis</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>
 
 ## Abstract
 
