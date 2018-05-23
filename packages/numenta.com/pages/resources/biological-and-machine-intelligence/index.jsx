@@ -109,14 +109,14 @@ const BamiPage = (props, {config}) => {
             <Paragraph lead={true}>
               <Strong>Biological and Machine Intelligence (BAMI)</Strong> is a
               living book authored by Numenta researchers and engineers. Its
-              purpose is to document Hierarchical Temporal Memory, a theoretical
+              purpose is to document our theoretical
               framework for both biological and machine intelligence. While
-              there’s a lot more work to be done on HTM theory, we have made
+              there’s a lot more work to be done, we have made
               good progress on several components of a comprehensive theory of
               the neocortex and how to apply that knowledge to practical
               applications.  We would like to share our work as we go.  We hope
               this book will become the standard reference for people who want
-              to learn about HTM cortical theory and its applications for
+              to learn about cortical theory and its applications for
               machine intelligence. Going forward we anticipate using two main
               forms of documentation of our research, one is published research
               papers and the other is additions to this book, Biological and
@@ -126,7 +126,7 @@ const BamiPage = (props, {config}) => {
               Just as we make all of our research and technology available in
               open source, we want to be transparent with this manuscript as
               well, even well-ahead of its completion. When it is finished, this
-              book will cover all the fundamental concepts of HTM theory. For
+              book will cover all the fundamental concepts of our theory. For
               now, we are sharing the chapters that have been completed, each of
               which contains a revision history, so you can see what has changed
               in each chapter. Over time, we will add chapters to BAMI.
