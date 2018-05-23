@@ -18,7 +18,9 @@ Our research team has been actively exploring our most recent brain theory devel
 
 Research Engineer Marcus Lewis presented a poster titled “[Using Grid Cells for Coordinate Transforms](/resources/papers-videos-and-more/grid-cell-meeting/)” at the [Grid Cell Meeting](/company/events/2018/05/21/grid-cell-meeting/) in London May 21-22. In the poster, Marcus walks through a detailed mechanism that could explain how grid cells in the cortex enable object recognition.
 
-In partner news, [Cortical.io](http://www.cortical.io/) recently released a new version of their free tool, Iris, which allows you to perform intelligent text analysis, information extraction and text-data comparison. The latest release allows you to enter a few examples and classify your text in 8 different languages. You can learn more and download Iris [here](https://github.com/cortical-io/Iris).
+In partner news, [Grok](http://grokstream.com/) has been busy building their latest version, Grok 3.0, scheduled for a limited release at the end of the month. Version 3.0 includes the addition of a microservices-based backbone capable of scaling to accommodate very large deployments, thus allowing real-time monitoring of data streams to increasingly improve incident detection. You can be one of the first to preview the new version by requesting a demo at [https://www.grokstream.com/demo/](https://www.grokstream.com/demo/).
+
+[Cortical.io](http://www.cortical.io/) recently released a new version of their free tool, Iris, which allows you to perform intelligent text analysis, information extraction and text-data comparison. The latest release allows you to enter a few examples and classify your text in 8 different languages. You can learn more and download Iris [here](https://github.com/cortical-io/Iris).
 
 Francisco Webber, Cortical.io Co-founder, will be speaking on May 29 at the [Frankfurt Finance Summit](http://www.cortical.io/company/events/frankfurt-finance-summit.html) about how financial institutions have used the Cortical.io Contract Intelligence Engine to improve information extraction for legal documents.
 
