@@ -8,7 +8,7 @@ event:
     begin: 2018/05/17
     end: 2018/05/17
   where:
-    desc: "3 Research Link, Seminar Room, Level One"
+    desc: "Smart Nation Research Cluster, 3 Research Link, Seminar Room, Level One"
     city: Singapore
     state:
     country:
