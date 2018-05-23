@@ -90,8 +90,7 @@ class MarkdownWrapper extends React.Component {
     const occur = datetime.format(config.moments.human)
     let url = Object.values(links.in)
                       .filter((p) => p.length > 1 && path.startsWith(p))[0]
-    let author, back, event,
-      media, script, header, parent, breadcrumb
+    let author, back, event, media, header, parent, breadcrumb, scripts
     let description = data.description
 
     // Fix breadcrumb text
@@ -318,6 +317,9 @@ class MarkdownWrapper extends React.Component {
         )
       }
     }
+    if ('scripts' in data) {
+      scripts = data.scripts.map((src) => (<script src={src} async="true" />))
+    }
 
     if (data.script) {
       script = (
@@ -328,7 +330,7 @@ class MarkdownWrapper extends React.Component {
       <article className={data.columns ? styles.mdCol : styles.md}>
         <Helmet title={data.title}>
           {getMetadataTags(data, config.baseUrl, {description})}
-          {script}
+          {scripts}
         </Helmet>
         {header}
         <Section
