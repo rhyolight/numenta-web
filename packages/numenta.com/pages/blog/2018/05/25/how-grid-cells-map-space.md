@@ -14,10 +14,6 @@ scripts:
  - /assets/js/bhtms-how-do-grid-cells-work-0.2.3.js
 ---
 
-<blockquote>
-    This blog post contains interactive visualizations that may not work on older web browsers.
-</blockquote>
-
 <p>
     A <em><strong><a target="_blank" href="http://www.scholarpedia.org/article/Grid_cells">grid cell</a></strong></em> is a type of pyramidal neuron that responds to location. To do this, each grid cell creates a cognitive map of space. One example of grid cell behavior is how one grid cell might respond to an agent's location in a room. Play the movie below and watch as one grid cell fires as a mouse moves throughout a room. These firing fields form a hexagonal lattice across the room.
 </p>
