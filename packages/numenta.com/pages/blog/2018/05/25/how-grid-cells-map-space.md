@@ -1,9 +1,10 @@
 ---
 author: Matthew Taylor
-description: "Explore how grid cells map space with these interactive visualizations."
+description: "The discover of grid cells won the Nobel Prize in 2014, but do you know how they work? Working together in populations, grid cells create a cognitive map of space. Each cell responds to certain areas of space. Groups of grid cells called modules have the same projection properties onto space. Many grid cell modules working together can map a virtually infinite amount of space."
 date: 2018/05/17
 hideImage: true
 org: Open Source Community Manager
+image: ../images/grid-cell-module-projections.png
 keywords: "grid cells"
 title: "How Grid Cells Map Space"
 header: "How Grid Cells Map Space"
@@ -13,6 +14,10 @@ scripts:
  - https://d3js.org/d3.v5.min.js
  - /assets/js/bhtms-how-do-grid-cells-work-0.2.3.js
 ---
+
+<blockquote>
+    This blog post contains interactive visualizations that may not work on older web browsers.
+</blockquote>
 
 <p>
     A <em><strong><a target="_blank" href="http://www.scholarpedia.org/article/Grid_cells">grid cell</a></strong></em> is a type of pyramidal neuron that responds to location. To do this, each grid cell creates a cognitive map of space. One example of grid cell behavior is how one grid cell might respond to an agent's location in a room. Play the movie below and watch as one grid cell fires as a mouse moves throughout a room. These firing fields form a hexagonal lattice across the room.
