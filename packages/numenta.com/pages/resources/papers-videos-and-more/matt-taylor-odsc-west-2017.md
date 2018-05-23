@@ -17,7 +17,7 @@ This video was recorded on November 3, 2017 at Open Data Science Conference (ODS
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odj7z0-Sa9o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="284" src="https://www.youtube.com/embed/odj7z0-Sa9o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract
 

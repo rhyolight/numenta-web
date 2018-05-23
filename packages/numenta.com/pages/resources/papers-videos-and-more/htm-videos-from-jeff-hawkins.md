@@ -30,7 +30,7 @@ Numenta Co-Founder. Nov 2014 in Redwood City, CA.
 #### Video
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/izO2_mCvFaw" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="//www.youtube.com/embed/izO2_mCvFaw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 #### Slides

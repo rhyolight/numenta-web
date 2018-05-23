@@ -24,5 +24,5 @@ The video examines how a human recognizes objects just through touch by simulati
 ## Video
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BvJJn9VS4rk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="https://www.youtube.com/embed/BvJJn9VS4rk" frameborder="0" allowfullscreen></iframe>
 </div>
