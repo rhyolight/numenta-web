@@ -1,7 +1,7 @@
 ---
 author: Matthew Taylor
 description: "The discovery of grid cells won the Nobel Prize in 2014, but do you know how they work? Working together in populations, grid cells create a cognitive map of space. Each cell responds to certain areas of space. Groups of grid cells called modules have the same projection properties onto space. Many grid cell modules working together can map a virtually infinite amount of space."
-date: 2018/05/17
+date: 2018/05/25
 hideImage: true
 org: Open Source Community Manager
 image: ../images/grid-cell-module-projections.png
@@ -12,11 +12,11 @@ type: post
 scripts:
  - https://code.jquery.com/jquery-3.3.1.slim.min.js
  - https://d3js.org/d3.v5.min.js
- - /assets/js/bhtms-how-do-grid-cells-work-0.2.3.js
+ - /assets/js/bhtms-how-grid-cells-map-space-0.2.3.js
 ---
 
 <blockquote>
-    This blog post contains interactive visualizations that may not work on older web browsers and touch devices. It is best viewed with a width resolution over 500px. 
+    This blog post contains interactive visualizations that may not work well on older web browsers and mobile devices.
 </blockquote>
 
 <p>
@@ -34,7 +34,7 @@ scripts:
 <h2>A Simulation of Grid Cells in Action</h2>
 
 <p>
-    <a onclick="toggleSim(true)">Click here</a> to start the interactive visualization below, where you can see an object moving through a 2-dimensional space, which wraps at the edges. This 2D space is being mapped by 3 grid cells (<a onclick="showOnly('red')">red</a>, <a onclick="showOnly('blue')">blue</a>, and <a onclick="showOnly('green')">green</a>). The color splotches are each grid cell's firing fields, or the locations in the space where the cell has fired recently in response to the object's location. These spikes fade away as they are replaced with new firings as the object moves through the space.
+    <a onclick="toggleSim(true)">Click or touch here</a> to start the interactive visualization below, where you can see an object moving through a 2-dimensional space, which wraps at the edges. This 2D space is being mapped by 3 grid cells (<a onclick="showOnly('red')">red</a>, <a onclick="showOnly('blue')">blue</a>, and <a onclick="showOnly('green')">green</a>). The color splotches are each grid cell's firing fields, or the locations in the space where the cell has fired recently in response to the object's location. These spikes fade away as they are replaced with new firings as the object moves through the space.
 </p>
 
 <p>
@@ -44,7 +44,7 @@ scripts:
 <div id="gridCellFiringFields" class="widget"></div>
 
 <p>
-    If you're a fast reader, the firing fields may not have filled in much yet. If you are at a  computer, hover your mouse over the 2D space to control the location of the object and watch as each grid cell fires in response to your movement. See if you can find the firing fields yourself as you move the cursor across the space.
+    If you're a fast reader, the firing fields may not have filled in much yet. Hover your mouse or drag your finger over the 2D space to control the location of the object and watch as each grid cell fires in response to your movement. See if you can find the firing fields yourself as you move the cursor across the space.
 </p>
 
 <p>
@@ -61,7 +61,7 @@ scripts:
     In the <a onclick="toggleOneGridCell(true)">figure below</a>, one grid cell's firing fields are displayed as filled circles in a hexagonal lattice. This represents all the locations the grid cell is receptive to. As you mouse over the filled circles, they change color, indicating that the grid cell monitoring this space is firing. The grid cell has noticed something within its receptive field.
 </p>
 
-<div id="oneGridCell"></div>
+<div id="oneGridCell" class="widget"></div>
 
 <p>
     Each grid cell can project onto space in many ways. Above, you can <a onclick="resetOneGridCell()">change</a> the orientation and scale of this grid cell's projection onto the 2D space. Try moving the sliders now.
@@ -77,14 +77,14 @@ scripts:
     A <a onclick="toggleOneGridCellModule(true)">grid cell module</a> is simply a group of grid cells sharing the same projection properties onto space. Using many grid cells, we can cover a patch of space and use it to tile over a larger space.
 </p>
 
-<div id="oneGridCellModule"></div>
+<div id="oneGridCellModule" class="widget"></div>
 
 <p>
-    The overlay on the bottom left shows all 16 grid cells within the module, and which one is currently active in response to an object's location in space. Hover your mouse over the parallelogram shape in the overlay to see each individual grid cell's firing fields.
+    The overlay on the bottom left shows all 16 grid cells within the module, and which one is currently active in response to an object's location in space. Hover your mouse over the parallelogram shape in the overlay to see each individual grid cell's firing fields. Note that this parallelogram shape is <strong><em>not how these neurons are arranged in the brain</em></strong>! This is just how they project onto space. (There is no hexagonal arrangement of neurons in your cortex.)
 </p>
 
 <p>
-    One grid cell module can tell us a lot more about an object's location in space than a lone grid cell. As you mouse-over the space above, notice how the grid cell module knows your mouse cursor must be within one of many locations moving across the space. But it cannot decipher an exact location.
+    One grid cell module can tell us a lot more about an object's location in space than a lone grid cell. As you hover or swipe the space above, notice how the grid cell module knows you must be within one of many locations moving across the space. But it cannot decipher an exact location.
 </p>
 
 <p>
@@ -97,7 +97,7 @@ scripts:
     When grid cell modules work together, they can uniquely map space by combining their representations. Each cell in a grid cell module is like a bit in an <a target="_new" href="https://www.youtube.com/watch?v=ZDgCdWTuIzc">Sparse Distributed Representation (SDR)</a>. As you can see <a onclick="toggleManyGcm(true)">below</a>, this space is being mapped with <span class="gcmCount">?</span> grid cell modules each with 16 cells (<span class="cellCount">?</span> grid cells).
 </p>
 
-<div id="manyGridCellModules"></div>
+<div id="manyGridCellModules" class="widget"></div>
 
 <p>
     Let's try something. First, <a onclick="manyGcmSelect(4)">select only 4 grid cell modules</a>. <a onclick="toggleManyGcm(true)">Turn on</a> the random walk, then <a onclick="hideGcmLocationMarker(true)">hide the location marker</a>. With only a few grid cell modules mapping this space, it is hard to tell where the object is without turning the marker <a onclick="manyGcmSetMarker(true)">on</a> and <a onclick="manyGcmSetMarker(false)">off</a>. But if you <a onclick="manyGcmSelect(16)">increase the number of grid cell modules</a>, you can easily tell where the object is by looking for the space with the <a onclick="manyGcmSetMarker(true)">most overlap</a>. Use your mouse to hover over the space and explore. Use the checkbox above or <a onclick="toggleManyGcm(false)">click here</a> to turn off the animation.
@@ -109,9 +109,7 @@ scripts:
     Grid cell module activations are SDRs, and can be used to represent semantic location information in many ways in the brain. Many grid cell modules' SDR representations can be used to create unique binary representations of space.
 </p>
 
-<div id="gcmAsSdr"></div>
-
-<div id="gcmAsSdr"></div>
+<div id="gcmAsSdr" class="widget"></div>
 
 <h2>Grid Cells in the Neocortex</h2>
 
