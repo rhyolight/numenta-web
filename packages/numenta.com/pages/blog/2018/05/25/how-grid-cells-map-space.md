@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-description: "The discover of grid cells won the Nobel Prize in 2014, but do you know how they work? Working together in populations, grid cells create a cognitive map of space. Each cell responds to certain areas of space. Groups of grid cells called modules have the same projection properties onto space. Many grid cell modules working together can map a virtually infinite amount of space."
+description: "The discovery of grid cells won the Nobel Prize in 2014, but do you know how they work? Working together in populations, grid cells create a cognitive map of space. Each cell responds to certain areas of space. Groups of grid cells called modules have the same projection properties onto space. Many grid cell modules working together can map a virtually infinite amount of space."
 date: 2018/05/17
 hideImage: true
 org: Open Source Community Manager
@@ -16,7 +16,7 @@ scripts:
 ---
 
 <blockquote>
-    This blog post contains interactive visualizations that may not work on older web browsers.
+    This blog post contains interactive visualizations that may not work on older web browsers and touch devices. It is best viewed with a width resolution over 500px. 
 </blockquote>
 
 <p>
