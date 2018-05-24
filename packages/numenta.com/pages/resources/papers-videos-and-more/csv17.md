@@ -18,7 +18,7 @@ Jeff Hawkins and Subutai Ahmad deliver the opening keynote for Cornell Silicon V
 ## Video
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/RfxG5aSTrHA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="//www.youtube.com/embed/RfxG5aSTrHA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Presenters

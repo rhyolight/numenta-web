@@ -19,7 +19,7 @@ This video was recorded on December 15, 2017 at the MIT Center for Brains, Minds
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yVT7dO_Tf4E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="284" src="https://www.youtube.com/embed/yVT7dO_Tf4E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## About
 

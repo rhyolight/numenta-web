@@ -22,5 +22,5 @@ Learning Algorithm, or CLA; we have recently decided to sunset this term.
 ## Video
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/z6r3ekreRzY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="//www.youtube.com/embed/z6r3ekreRzY" frameborder="0" allowfullscreen></iframe>
 </div>
