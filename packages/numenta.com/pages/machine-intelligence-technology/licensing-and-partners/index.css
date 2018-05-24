@@ -37,3 +37,9 @@
   composes: color-blue-mute from '../../../static/assets/css/theme.css';
   font-size: 10rem;
 }
+
+.logomark {
+  composes: center from 'tachyons';
+  composes: h4 from 'tachyons';
+  composes: w4 from 'tachyons';
+}

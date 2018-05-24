@@ -10,18 +10,18 @@ import {
   scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
-import MainSections, {getNextSection} from '../_MainSections'
-import SectionPartners from './_Section'
+import MainSections, {getNextSection} from '../../_MainSections'
+import SectionBusiness from './_Section'
 import Metatags from './_metatags.md'
 
-const Default = (<SectionPartners key="sectionPartners" />)
-const title = 'Partners'
+const Default = (<SectionBusiness key="sectionBusiness" />)
+const title = 'Licensing & Partners'
 
 
 /**
- * Partners Page - React view component.
+ * Business Strategy & IP page and MainSection wrapper - React view component.
  */
-class PartnersPage extends React.Component {
+class BusinessPage extends React.Component {
   static contextTypes = {
     config: React.PropTypes.object,
   }
@@ -59,14 +59,14 @@ class PartnersPage extends React.Component {
     const {config} = this.context
     return (
       <div>
-        <Helmet title={Metatags.title}>
+        <Helmet title={title}>
           {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
+
         {sections}
       </div>
     )
   }
-
 }
 
-export default PartnersPage
+export default BusinessPage

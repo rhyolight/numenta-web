@@ -13,7 +13,7 @@ import SectionAnomaly from './applications/anomaly-detection-benchmark/_Section'
 import SectionNeuroscience
   from './neuroscience-research/_Section'
 import SectionBusiness
-  from './machine-intelligence-technology/business-strategy-and-ip/_Section'
+  from './machine-intelligence-technology/licensing-and-partners/_Section'
 import SectionCareers from './company/careers-and-team/_Section'
 import SectionContact from './contact/_Section'
 import SectionHome from './_Section'
@@ -22,7 +22,6 @@ import SectionNutshell
   from './machine-intelligence-technology/numenta-in-a-nutshell/_Section'
 import SectionOpensource from './resources/open-source-community/_Section'
 import SectionPapers from './resources/papers-videos-and-more/_Section'
-import SectionPartners from './partners/_Section'
 import SectionTechnology from './machine-intelligence-technology/_Section'
 
 const mainSectionList = [
@@ -57,14 +56,9 @@ const mainSectionList = [
     url: '/resources/open-source-community/',
   },
   {
-    component: <SectionPartners key="sectionPartners" />,
-    title: 'Partners',
-    url: '/partners/',
-  },
-  {
     component: <SectionBusiness key="sectionBusiness" />,
-    title: 'Business Strategy & IP',
-    url: '/machine-intelligence-technology/business-strategy-and-ip/',
+    title: 'Licensing & Partners',
+    url: '/machine-intelligence-technology/licensing-and-partners/',
   },
   {
     component: <SectionAnomaly key="sectionAnomaly" />,
