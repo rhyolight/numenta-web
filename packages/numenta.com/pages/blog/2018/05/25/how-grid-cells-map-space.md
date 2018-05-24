@@ -15,6 +15,12 @@ scripts:
  - /assets/js/bhtms-how-grid-cells-map-space-0.2.3.js
 ---
 
+<style>
+    body a {
+        text-decoration: underline;
+    }
+</style>
+
 <blockquote>
     This blog post contains interactive visualizations that may not work well on older web browsers and mobile devices.
 </blockquote>
