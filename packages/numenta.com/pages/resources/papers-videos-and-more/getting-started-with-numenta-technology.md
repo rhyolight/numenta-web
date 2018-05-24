@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: "In this talk, Numenta VP of Engineering Celeste Baranski and Open Source Community Manager Matt Taylor give an introduction to Numenta technology and provide information on how to license our IP. This video is replaced by the Numenta License Guide."
+description: "In this talk, Numenta VP of Engineering Celeste Baranski and Open Source Community Manager Matt Taylor give an introduction to our technology and provide information on licensing Numenta's IP. This video is replaced by the Numenta License Guide."
 date: 2014/10/17
 image:
 link:
@@ -11,7 +11,7 @@ sort: a
 tags: numenta getting started hierarchical temporal memory htm technology nupic
 title: "Getting Started With Numenta Technology"
 header: "Getting Started With Numenta Technology"
-keywords: "introduction to Numenta technology"
+keywords: "licensing Numenta"
 type: post
 ---
 

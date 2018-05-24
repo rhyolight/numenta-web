@@ -9,8 +9,8 @@ org: Software Engineer
 section: archive
 sort: c
 tags: htm hierarchical temporal memory tutorial algorithm basics
-title: "HTM Learning Algorithm Tutorial - Algorithm Basics"
-header: "HTM Learning Algorithm Tutorial - Algorithm Basics"
+title: "HTM Learning Algorithm Tutorial: Algorithm Basics"
+header: "HTM Learning Algorithm Tutorial: Algorithm Basics"
 keywords: "HTM algorithm basics"
 type: post
 ---
