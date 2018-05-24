@@ -1,6 +1,6 @@
 ---
 author: Chetan Surpur
-description: This video talk on Applications of Hierarchical Temporal Memory (HTM) was delivered at a Numenta workshop.
+description: "This video talk on Applications of Hierarchical Temporal Memory (HTM) was delivered at an October 2014 Numenta workshop. In the talk, Chetan Surpur discusses the current implementations of our HTM technology, the future of data analytics, and examples of HTM applications."
 date: 2014/10/17
 image:
 link:
@@ -9,13 +9,15 @@ org: Software Engineer
 section: detail
 sort: e
 tags: numenta hierarchical temporal memory htm applications
-title: Applications of Hierarchical Temporal Memory (HTM)
+title: "Applications of Hierarchical Temporal Memory (HTM)"
+header: "Applications of Hierarchical Temporal Memory (HTM)"
+keywords: "Applications of hierarchical temporal memory"
 type: post
 ---
 
 ## Talk Video
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/900nFOfzp2E" frameborder="0" allowfullscreen></iframe>
+<iframe width="504" height="284" src="//www.youtube.com/embed/900nFOfzp2E" frameborder="0" allowfullscreen></iframe>
 
 * This video talk on Applications of Hierarchical Temporal Memory (HTM) was
   delivered at a Numenta workshop.
