@@ -10,7 +10,7 @@ section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
 header: "Does the Neocortex Use Grid Cell-Like Mechanisms to Learn the Structure of Objects?"
-title: "Jeff Hawkins - Simons Institute Talk: Does the Neocortex Use Grid Cell-Like Mechanisms to Learn the Structure of Objects?"
+title: "Jeff Hawkins at the Simons Institute: Grid Cell-Like Mechanisms in the Neocortex"
 keywords: "Jeff Hawkins Simons Institute"
 type: post
 ---
