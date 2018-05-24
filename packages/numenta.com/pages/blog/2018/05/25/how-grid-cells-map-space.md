@@ -26,6 +26,10 @@ scripts:
 </blockquote>
 
 <p>
+    For those who’ve been following our research developments, you may have noticed that we’ve been focused on grid cells lately.  In fact, our Co-founder, Jeff Hawkins, gave a talk last month, <a href="http://numenta.com/resources/papers-videos-and-more/jeff-hawkins-simons-institute-talk/" target="_blank">“Does the Neocortex Use Grid Cell-Like Mechanisms to Learn the Structure of Objects?”</a> If you’re wondering what grid cells are, don’t worry.  This post will walk you through the basics and demonstrate how they relate to our current research. 
+</p>
+
+<p>
     A <em><strong><a target="_blank" href="http://www.scholarpedia.org/article/Grid_cells">grid cell</a></strong></em> is a type of pyramidal neuron that responds to location. To do this, each grid cell creates a cognitive map of space. One example of grid cell behavior is how one grid cell might respond to an agent's location in a room. Play the movie below and watch as one grid cell fires as a mouse moves throughout a room. These firing fields form a hexagonal lattice across the room.
 </p>
 
