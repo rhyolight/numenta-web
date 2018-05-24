@@ -10,7 +10,6 @@ import {hasSessionStorage} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
 import SectionAnomaly from './applications/anomaly-detection-benchmark/_Section'
-import SectionApplications from './applications/_Section'
 import SectionNeuroscience
   from './neuroscience-research/_Section'
 import SectionBusiness
@@ -56,11 +55,6 @@ const mainSectionList = [
     component: <SectionOpensource key="sectionOpensource" />,
     title: 'Open Source Community',
     url: '/resources/open-source-community/',
-  },
-  {
-    component: <SectionApplications key="sectionApplications" />,
-    title: '     HTM Applications',
-    url: '/applications/',
   },
   {
     component: <SectionPartners key="sectionPartners" />,

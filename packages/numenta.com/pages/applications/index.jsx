@@ -2,70 +2,75 @@
 // MIT License (see LICENSE.txt)
 // Copyright © 2005—2017 Numenta <http://numenta.com>
 
-import Helmet from 'react-helmet'
 import React from 'react'
+import TextLink from 'numenta-web-shared-components/lib/TextLink'
+import MarkdownBody from 'numenta-web-shared-components/lib/MarkdownBody'
+import MarkdownMedia from 'numenta-web-shared-components/lib/MarkdownMedia'
 
-import NextSection from 'numenta-web-shared-components/lib/NextSection'
-import {
-  scrollToSection, getMetadataTags} from 'numenta-web-shared-utils/lib/client'
-import Section from 'numenta-web-shared-components/lib/Section'
+import AppsLeft from './_content/_apps_left.md'
+import AppsRight from './_content/_apps_right.md'
 
-import MainSections, {getNextSection} from '../_MainSections'
-import SectionApplications from './_Section'
-import Metatags from './_metatags.md'
+import GeospatialLeft from './_content/_geospatial_left.md'
+import GeospatialRight from './_content/_geospatial_right.md'
 
-const Default = (<SectionApplications key="sectionApplications" />)
-const title = 'HTM Applications'
+import RogueLeft from './_content/_rogue_left.md'
+import RogueRight from './_content/_rogue_right.md'
+
+import HtmForStocksLeft from './_content/_htm_for_stocks_left.md'
+import HtmForStocksRight from './_content/_htm_for_stocks_right.md'
+
+import styles from './index.css'
 
 
 /**
  * Applications page and MainSection wrapper - React view component.
  */
-class ApplicationsPage extends React.Component {
-  static contextTypes = {
-    config: React.PropTypes.object,
-  }
+const ApplicationsPage = () => (
+  <article className={styles.article}>
+    <span>
+      <TextLink to="/machine-intelligence-technology/">
+        Machine Intelligence Technology
+      </TextLink>
+    </span>
 
-  constructor(props) {
-    super(props)
-    const next = getNextSection(Default)
-
-    this.state = {
-      sections: (
-        <Section headline={true} open={true} title={title}>
-          {Default}
-          <NextSection {...next} />
-        </Section>
-      ),
-    }
-  }
-
-  componentDidMount() {
-    this.setState({
-      sections: (<MainSections current={Default} />),
-    })
-  }
-
-  componentDidUpdate() {
-    scrollToSection(global.document.getElementById(Default.key))
-  }
-
-  componentWillUnmount() {
-    this.setState({sections: []})
-  }
-
-  render() {
-    const {sections} = this.state
-    const {config} = this.context
-    return (
-      <div>
-        <Helmet title={Metatags.title}>
-          {getMetadataTags(Metatags, config.baseUrl)}
-        </Helmet>
-        {sections}
+    <div className={styles.columns}>
+      <div className={styles.aside}>
+        <MarkdownMedia markdown={AppsRight} />
       </div>
-    )
-  }
-}
+      <div className={styles.content}>
+        <MarkdownBody markdown={AppsLeft} />
+      </div>
+    </div>
+
+    <hr />
+    <div className={styles.columns}>
+      <div className={styles.aside}>
+        <MarkdownMedia markdown={RogueRight} />
+      </div>
+      <div className={styles.content}>
+        <MarkdownBody markdown={RogueLeft} />
+      </div>
+    </div>
+
+    <hr />
+    <div className={styles.columns}>
+      <div className={styles.aside}>
+        <MarkdownMedia markdown={GeospatialRight} />
+      </div>
+      <div className={styles.content}>
+        <MarkdownBody markdown={GeospatialLeft} />
+      </div>
+    </div>
+
+    <hr />
+    <div className={styles.columns}>
+      <div className={styles.aside}>
+        <MarkdownMedia markdown={HtmForStocksRight} />
+      </div>
+      <div className={styles.content}>
+        <MarkdownBody markdown={HtmForStocksLeft} />
+      </div>
+    </div>
+  </article>)
 
 export default ApplicationsPage
