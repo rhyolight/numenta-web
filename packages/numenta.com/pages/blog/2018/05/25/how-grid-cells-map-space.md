@@ -12,7 +12,7 @@ type: post
 scripts:
  - https://code.jquery.com/jquery-3.3.1.slim.min.js
  - https://d3js.org/d3.v5.min.js
- - /assets/js/bhtms-how-grid-cells-map-space-0.2.3.js
+ - /assets/js/bhtms-how-grid-cells-map-space-0.2.4.js
 ---
 
 <style>
