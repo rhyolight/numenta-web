@@ -13,11 +13,11 @@ import styles from './index.css'
  * Markdown Body item text wrapper for lone Markdown text columns.
  */
 const MarkdownBody = ({markdown}) => {
-  const {body} = markdown
+  const {body, dropcap} = markdown
 
   return (
     <Markdown>
-      <div className={styles.markdownBody}>
+      <div className={dropcap === false ? '' : styles.lead}>
         <div dangerouslySetInnerHTML={{__html: body}} />
       </div>
     </Markdown>

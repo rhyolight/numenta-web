@@ -29,6 +29,6 @@
   }
 }
 
-.markdownBody {
+.lead {
   composes: _dropcap;
 }

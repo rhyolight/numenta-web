@@ -11,8 +11,8 @@ import {
 import Section from 'numenta-web-shared-components/lib/Section'
 import {prefixLink} from 'gatsby-helpers'
 
-import ContentLeft from './_content/_left.md'
-import ContentRight from './_content/_right.md'
+import ContentLeft from './_content/_htm_left.md'
+import ContentRight from './_content/_htm_right.md'
 
 import MainSections, {getNextSection} from '../_MainSections'
 import SectionTechnology from './_Section'
