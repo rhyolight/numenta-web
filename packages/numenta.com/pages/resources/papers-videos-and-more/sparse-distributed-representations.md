@@ -11,7 +11,7 @@ sort: g
 tags: numenta sparse distributed representations sdr brain data structure
 title: "Sparse Distributed Representations: Our Brain's Data Structure"
 header: "Sparse Distributed Representations: Our Brain's Data Structure"
-keywords:
+keywords: subutai ahmad sdr
 type: post
 ---
 
