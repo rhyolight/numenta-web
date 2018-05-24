@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-description: This video talk on Sparse Distributed Representations (SDR) covers a subset of the topics in the BAMI chapter on SDRs.
+description: "This video talk on Sparse Distributed Representations (SDRs) by Numenta VP of Research, Subutai Ahmad, was given at an October 2014 Numenta workshop and covers a subset of the topics in the BAMI chapter on SDRs. "
 date: 2014/10/17
 image:
 link:
@@ -9,7 +9,9 @@ org: VP Research
 section: detail
 sort: g
 tags: numenta sparse distributed representations sdr brain data structure
-title: Sparse Distributed Representations - Our Brain's Data Structure
+title: "Sparse Distributed Representations: Our Brain's Data Structure"
+header: "Sparse Distributed Representations: Our Brain's Data Structure"
+keywords:
 type: post
 ---
 
@@ -17,7 +19,7 @@ type: post
 
 <iframe width="504" height="284" src="//www.youtube.com/embed/LbZtc_zWBS4" frameborder="0" allowfullscreen></iframe>
 
-* This video talk on Sparse Distributed Representations (SDR) covers a subset
+* This video talk on Sparse Distributed Representations (SDRs) covers a subset
   of the topics in the [BAMI](/resources/biological-and-machine-intelligence/) chapter
   on SDRs.
 
