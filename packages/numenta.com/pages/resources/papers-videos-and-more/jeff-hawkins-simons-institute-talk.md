@@ -10,18 +10,18 @@ section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
 header: "Does the Neocortex Use Grid Cell-Like Mechanisms to Learn the Structure of Objects?"
-title: "Jeff’s Simons Institute Talk: Does the Neocortex Use Grid Cell-Like Mechanisms to Learn the Structure of Objects?"
+title: "Jeff Hawkins at the Simons Institute: Grid Cell-Like Mechanisms in the Neocortex"
 keywords: "Jeff Hawkins Simons Institute"
 type: post
 ---
 
-This video was recorded on April 17, 2018 at the [Computational Theories of the Brain Workshop](/company/events/2018/04/16/simons-institute-berkeley/) at UC Berkeley’s Simons Institute for the Theory of Computing.
+This video of Jeff Hawkins presenting at the [Computational Theories of the Brain Workshop](/company/events/2018/04/16/simons-institute-berkeley/) at UC Berkeley’s Simons Institute for the Theory of Computing was recorded on April 17, 2018.
 
 The Computational Theories of the Brain Workshop is one of the four workshops under [The Brain and Computation](https://simons.berkeley.edu/programs/brain2018), a semester-long program by UC Berkeley that covers open questions in Brain Science with computational components, research problems in Brain Science where computer scientists could take the lead in solving, and areas of computer science that neuroscience can help progress.
 
 ## About
 
-In this talk, Jeff proposes that cortical columns in the neocortex learn maps of objects, similar to how entorhinal cortex and hippocampus learn maps of environments. He proposes that cortical columns contain analogs of grid and analog head direction cells, which represent the location and orientation of the sensory patch relative to specific objects. Through movement, he explains how cortical columns pair sensory input and location to learn the structure of objects.
+In this talk, Jeff Hawkins proposes that cortical columns in the neocortex learn maps of objects, similar to how entorhinal cortex and hippocampus learn maps of environments. He proposes that cortical columns contain analogs of grid and analog head direction cells, which represent the location and orientation of the sensory patch relative to specific objects. Through movement, he explains how cortical columns pair sensory input and location to learn the structure of objects.
 
 ## Video
 
