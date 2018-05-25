@@ -12,7 +12,7 @@ import Section from 'numenta-web-shared-components/lib/Section'
 
 import Content from './research-publications.md'
 
-import MainSections, {getNextSection} from '../_MainSections'
+import MainSections, {getNextSection} from '../../_MainSections'
 import SectionPublications from './_Section'
 
 const Default = (<SectionPublications key="sectionPublications" />)

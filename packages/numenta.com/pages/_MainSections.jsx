@@ -22,7 +22,8 @@ import SectionNutshell
 import SectionOpensource from './resources/open-source-community/_Section'
 import SectionPapers from './resources/papers-videos-and-more/_Section'
 import SectionTechnology from './machine-intelligence-technology/_Section'
-import SectionPublications from './research-publications/_Section'
+import SectionPublications
+  from './neuroscience-research/research-publications/_Section'
 
 const mainSectionList = [
   {
@@ -48,7 +49,7 @@ const mainSectionList = [
   {
     component: <SectionPublications key="sectionPublications" />,
     title: 'Research Publications',
-    url: '/research-publications/',
+    url: '/neuroscience-research/research-publications/',
   },
   {
     component: <SectionTechnology key="sectionTechnology" />,
