@@ -9,7 +9,6 @@ import root from 'window-or-global'
 import {hasSessionStorage} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
-import SectionAnomaly from './applications/anomaly-detection-benchmark/_Section'
 import SectionNeuroscience
   from './neuroscience-research/_Section'
 import SectionBusiness
@@ -65,11 +64,6 @@ const mainSectionList = [
     component: <SectionBusiness key="sectionBusiness" />,
     title: 'Licensing & Partners',
     url: '/machine-intelligence-technology/licensing-and-partners/',
-  },
-  {
-    component: <SectionAnomaly key="sectionAnomaly" />,
-    title: 'Anomaly Detection Benchmark',
-    url: '/applications/anomaly-detection-benchmark/',
   },
   {
     component: <SectionPapers key="sectionResources" />,
