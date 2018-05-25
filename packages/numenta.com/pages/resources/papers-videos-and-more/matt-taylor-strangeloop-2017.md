@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-description: "At Strange Loop, Numenta's Matt Taylor gives a talk titled, "The Biological Path Toward Strong AI" , where he discusses details about our HTM technology, such as SDRs, Spatial Pooling, Temporal Memory, and Sensorimotor Inference."
+description: "At Strange Loop, Numenta's Matt Taylor gives a talk titled The Biological Path Toward Strong AI where he discusses details about our HTM technology, such as SDRs, Spatial Pooling, Temporal Memory, and Sensorimotor Inference."
 date: 2017/09/29
 image:
 link: https://youtu.be/-h-cz7yY-G8
