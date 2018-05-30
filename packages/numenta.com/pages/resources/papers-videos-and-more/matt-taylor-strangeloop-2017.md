@@ -11,7 +11,7 @@ sort: a
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory brain
 title: "Strange Loop: The Biological Path Toward Strong AI"
 header: "Strange Loop: The Biological Path Toward Strong AI"
-keyword: "Strange Loop Numenta"
+keywords: "Strange Loop Numenta"
 type: post
 ---
 

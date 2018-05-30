@@ -11,7 +11,7 @@ sort: d
 tags: numenta webinar machine intelligence streaming data real time anomaly detection
 title: "Machine Intelligence with Streaming Data Webinar"
 header: "Machine Intelligence with Streaming Data Webinar"
-keywords: "HTM webinar"
+keywords: "machine intelligence webinar"
 type: post
 ---
 

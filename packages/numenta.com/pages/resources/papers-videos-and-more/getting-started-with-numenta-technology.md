@@ -11,7 +11,7 @@ sort: a
 tags: numenta getting started hierarchical temporal memory htm technology nupic
 title: "Getting Started With Numenta Technology"
 header: "Getting Started With Numenta Technology"
-keywords: "licensing Numenta"
+keywords: "Intro to Numenta technology"
 type: post
 ---
 
