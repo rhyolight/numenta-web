@@ -8,7 +8,7 @@ event:
     begin: 2018/07/18
     end: 2018/07/18
   where:
-    desc: "Allen Institute & University of Washington"
+    desc: "Allen Institute and University of Washington"
     city: Seattle
     state: WA
     country: USA
