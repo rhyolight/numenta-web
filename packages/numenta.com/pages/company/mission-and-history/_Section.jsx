@@ -53,14 +53,14 @@ const SectionMission = (props, {config}) => {
             </TextLink> with the goal of documenting all of our discoveries in
             open access scientific journals.
           </Paragraph>
+          <Image
+            alt="Numenta Historical Timeline"
+            respond="mw"
+            shadow={false}
+            src={ImageTimeline}
+          />
         </div>
       </div>
-      <Image
-        alt="Numenta Historical Timeline"
-        respond="mw"
-        shadow={false}
-        src={ImageTimeline}
-      />
     </article>
   )
 }
