@@ -20,7 +20,7 @@ import SectionMission from './company/mission-and-history/_Section'
 import SectionNutshell
   from './machine-intelligence-technology/numenta-in-a-nutshell/_Section'
 import SectionOpensource from './resources/open-source-community/_Section'
-import SectionPapers from './resources/papers-videos-and-more/_Section'
+import SectionPapers from './resources/videos-podcasts-and-more/_Section'
 import SectionTechnology from './machine-intelligence-technology/_Section'
 import SectionPublications
   from './neuroscience-research/research-publications/_Section'
@@ -62,14 +62,14 @@ const mainSectionList = [
     url: '/resources/open-source-community/',
   },
   {
+    component: <SectionPapers key="sectionResources" />,
+    title: 'Videos, Podcasts and More',
+    url: '/resources/videos-podcasts-and-more/',
+  },
+  {
     component: <SectionBusiness key="sectionBusiness" />,
     title: 'Licensing & Partners',
     url: '/machine-intelligence-technology/licensing-and-partners/',
-  },
-  {
-    component: <SectionPapers key="sectionResources" />,
-    title: 'Papers, Videos & More',
-    url: '/resources/papers-videos-and-more/',
   },
   {
     component: <SectionCareers key="sectionCareers" />,

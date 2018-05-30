@@ -101,7 +101,19 @@ class MarkdownWrapper extends React.Component {
       parent = 'BAMI'
     }
     else if (url === links.in.papersvideos) {
-      parent = 'Papers, Videos and More'
+      parent = 'Videos, Podcasts and More'
+    }
+    else if (url === links.in.onintelligence) {
+      parent = 'Videos, Podcasts and More'
+      url = links.in.papersvideos
+    }
+    else if (url === links.in.businessprinciples) {
+      parent = 'Licensing & Partners'
+      url = links.in.partners
+    }
+    else if (url === links.in.licensingfaq) {
+      parent = 'Licensing & Partners'
+      url = links.in.partners
     }
     else if (url) {
       const labels = url.split('/')

@@ -2,7 +2,6 @@
 author: Chetan Surpur
 description: "This video talk on Applications of Hierarchical Temporal Memory (HTM) was delivered at an October 2014 Numenta workshop. In the talk, Chetan Surpur discusses the current implementations of our HTM technology, the future of data analytics, and examples of HTM applications."
 date: 2014/10/17
-image:
 link:
 media: video
 org: Software Engineer

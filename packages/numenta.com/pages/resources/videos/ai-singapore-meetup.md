@@ -3,7 +3,7 @@ author: Matthew Taylor
 description: "In this talk in an AI Singapore Meetup on HTM, Matt Taylor discusses why today’s weak AI will not produce intelligence. He talks about details of our Hierarchical Temporal Memory (HTM) technology, such as Sparse Distributed Representations (SDRs), Spatial Pooling, Temporal Memory, and Sensorimotor Inference Theory."
 date: 2018/05/17
 image:
-link: https://numenta.com/company/events/2018/05/17/ai-singapore-meetup-numenta
+link: /company/events/2018/05/17/ai-singapore-meetup-numenta
 media: video
 org: Open Source Community Manager
 section: overview

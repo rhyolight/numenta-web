@@ -1,4 +1,4 @@
 ---
-image: /applications/anomaly-detection-benchmark/images/benchmark.png
+image: /applications/numenta-anomaly-benchmark/images/anomaly-detection-image.png
 title: "Anomaly Detection Benchmark"
 ---

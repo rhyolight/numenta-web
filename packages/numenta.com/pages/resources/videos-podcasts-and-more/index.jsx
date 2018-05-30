@@ -15,7 +15,7 @@ import SectionResources from './_Section'
 import Metatags from './_metatags.md'
 
 const Default = (<SectionResources key="sectionResources" />)
-const title = 'Papers, Videos & More'
+const title = 'Videos, Podcasts and More'
 
 
 /**

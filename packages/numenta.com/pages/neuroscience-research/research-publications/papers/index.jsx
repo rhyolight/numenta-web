@@ -17,7 +17,7 @@ import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
-import Pagination from '../../../components/Pagination'
+import Pagination from '../../../../components/Pagination'
 import Metatags from './_metatags.md'
 
 import styles from './index.css'
@@ -222,6 +222,12 @@ export default class PapersPage extends React.Component {
         <Helmet title={Metatags.title}>
           {getMetadataTags(Metatags, config.baseUrl)}
         </Helmet>
+        <span>
+          <TextLink to={links.in.publications}>
+            Research Publications
+          </TextLink>
+        </span>
+
         <Title headline={true}>
           {title}
           <span className={styles.filter}>
