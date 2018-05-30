@@ -2,23 +2,16 @@
 author: David B. Yoffie, Liz Kind and David Ben Shimol
 description: "The question at the heart of this Harvard Business Case: could Numenta be successful in both creating fundamental technology and building a commercial business? This case offers a unique look at the history of Numenta and how we’ve tackled a dual mission over the years."
 date: 2017/05/31
-image:
-link: https://hbr.org/product/numenta-inventing-and-or-commercializing-ai/716469-PDF-ENG
-media: paper
+hideImage: false
+image: ../images/hbr-logo.png
 org: Harvard Business School
-section: overview
-sort: a
-tags: numenta jeff hawkins donna dubinsky
 title: "Numenta: Inventing and (or) Commercializing AI (Case Study)"
 header: "Numenta: Inventing and (or) Commercializing AI (Case Study)"
 keywords: "Harvard Business Case Numenta"
 type: post
 ---
 
-In spring of 2016, Harvard Business School Professor David B. Yoffie visited Numenta to begin the
-process of developing a case study for his International Business Administration classes. The question at the heart
-of the case: could Numenta be successful in both creating fundamental technology and building a
-commercial business? This case offers a unique look back at the history of Numenta and how we’ve tackled a dual mission over the years.
+In spring of 2016, Harvard Business School Professor David B. Yoffie visited Numenta to begin the process of developing a case study for his International Business Administration classes. The question at the heart of the case: could Numenta be successful in both creating fundamental technology and building a commercial business? This case offers a unique look back at the history of Numenta and how we’ve tackled a dual mission over the years.
 
 
 **Purchase the Case:** Because Numenta does not own the case, we cannot make it available for download on our site.
