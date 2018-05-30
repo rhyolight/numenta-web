@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'Subutai Ahmad and Scott Purdy of Numenta will be at CNS 2018 presenting three posters about active dendrites, sparse distributed representations, and grid cells. CNS 2018 will be held at the Allen Institute in Seattle, WA.'
+description: 'Numenta will be at CNS 2018 presenting two workshop talks and two posters about active dendrites, sparse distributed representations, and grid cells. CNS 2018 will be held at the Allen Institute and the University of Washington in Seattle, WA.'
 date: 2018/07/18
 event:
   what: "Active dendrites, sparse distributed representations, and grid cells"
@@ -8,15 +8,15 @@ event:
     begin: 2018/07/18
     end: 2018/07/18
   where:
-    desc: "Allen Institute"
+    desc: "Allen Institute and University of Washington"
     city: Seattle
     state: WA
     country: USA
     web: http://www.cnsorg.org/cns-2018-workshops
-  who: Subutai Ahmad and Scott Purdy
-  why: Poster Presentations
+  who: Research Team
+  why: Workshop Talks and Posters
 image: ../images/cns-2018-event.png
-org: Subutai Ahmad and Scott Purdy
+org: Numenta Research Team
 keywords: "Numenta CNS 2018"
 title: "CNS 2018"
 header: "CNS 2018"
@@ -24,7 +24,7 @@ type: post
 dropcap: false
 ---
 
-### Poster 1: The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex
+### Workshop talk 1: The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex
 
 **Author:** Subutai Ahmad
 
@@ -32,7 +32,15 @@ dropcap: false
 
 <hr>
 
-### Poster 2: Robust Dendritic Computations with Sparse Distributed Representations
+### Workshop talk 2: Locations in the Neocortex: A Theory of Sensorimotor Prediction Using Cortical Grid Cells
+
+**Author:** Subutai Ahmad
+
+**Abstract:** The neocortex is capable of modeling complex objects through sensorimotor interaction but the neural mechanisms are poorly understood. In the entorhinal cortex grid cells represent the location of an animal in its environment, and this location is updated through movement and path integration. In this talk, we propose that grid-like cells in the neocortex represent the location of sensors on an object. We describe a two-layer model that uses cortical grid cells and path integration to robustly learn and recognize objects through movement. In our model, a layer of grid-like cells provide a location signal such that features can be associated with a specific location in the reference frame of each object. Reciprocal feedback connections to a sensory layer invoke previously learned locations consistent with recent sensory input, and form predictions for future sensory input based on upcoming movements. Simulations show that the model can learn thousands of objects with high noise tolerance. We discuss the relationship to cortical circuitry, and suggest that the reciprocal connections between layers 4 and 6 fit the requirements of the model. We propose that the subgranular layers of cortical columns employ grid cell like mechanisms to represent object specific locations that are updated through movement.
+
+<hr>
+
+### Poster 1: Robust Dendritic Computations with Sparse Distributed Representations
 
 **Authors:** Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
 
@@ -40,7 +48,7 @@ dropcap: false
 
 <hr>
 
-### Poster 3: Unsupervised Learning of Relative Landmark Locations Using Grid Cells
+### Poster 2: Unsupervised Learning of Relative Landmark Locations Using Grid Cells
 
 **Authors:** Subutai Ahmad and Scott Purdy
 

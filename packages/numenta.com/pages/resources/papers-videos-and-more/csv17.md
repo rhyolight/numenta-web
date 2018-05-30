@@ -9,7 +9,9 @@ org: Jeff Hawkins and Subutai Ahmad
 section: overview
 sort: a
 tags: numenta hierarchical temporal memory htm technology nupic
-title: Reverse Engineering the Brain for Intelligent Machines
+title: "CSV17: Reverse Engineering the Brain for Intelligent Machines"
+header: "CSV17: Reverse Engineering the Brain for Intelligent Machines"
+keywords: "Jeff Hawkins Cornell keynote"
 type: post
 ---
 

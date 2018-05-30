@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: These two videos are similar, and provide an overview of HTM and associated topics by Numenta’s founder, Jeff Hawkins. The talks have slightly different emphasis. For instance, the first video has more details on SDRs.
+description: "These 2014 videos by Jeff Hawkins on what the brain says about machine intelligence and the foundations of machine intelligence provide an overview of HTM and associated topics. However, the comments on these subjects in the videos are out of date."
 date: 2014/11/22
 image:
 link:
@@ -9,7 +9,9 @@ org: Co-Founder
 section: overview
 sort: b
 tags: numenta htm videos heirarchical temporal memory brain machine intelligence jeff hawkins
-title: HTM Videos from Jeff Hawkins
+title: "HTM Videos from Jeff Hawkins"
+header: "HTM Videos from Jeff Hawkins"
+keywords: "HTM videos Jeff Hawkins"
 type: post
 ---
 
@@ -39,7 +41,7 @@ Link: [What the Brain says about Machine Intelligence](//www.slideshare.net/nume
 from [Numenta](//www.slideshare.net/numenta).
 
 <div class="video-container media-border">
-  <iframe src="//www.slideshare.net/slideshow/embed_code/44507410" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/44507410" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 </div>
 
 ---
@@ -53,13 +55,13 @@ Redwood City, CA.
 #### Talk
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/6ufPpZDmPKA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="//www.youtube.com/embed/6ufPpZDmPKA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 #### Q &amp; A Session
 
 <div class="video-container media-border">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/EU2Vm-VlfEk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="//www.youtube.com/embed/EU2Vm-VlfEk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 #### Slides
@@ -68,5 +70,5 @@ Link: [Principles of Hierarchical Temporal Memory](http://www.slideshare.net/num
 from [Numenta](//www.slideshare.net/numenta).
 
 <div class="video-container media-border">
-  <iframe src="//www.slideshare.net/slideshow/embed_code/45033943" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/2014-10-17-numenta-workshop" title="Principles of Hierarchical Temporal Memory - Foundations of Machine Intelligence" target="_blank">Principles of Hierarchical Temporal Memory - Foundations of Machine Intelligence</a> </strong> from <strong><a href="//www.slideshare.net/numenta" target="_blank">Numenta</a></strong> </div>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/45033943" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/2014-10-17-numenta-workshop" title="Principles of Hierarchical Temporal Memory - Foundations of Machine Intelligence" target="_blank">Principles of Hierarchical Temporal Memory - Foundations of Machine Intelligence</a> </strong> from <strong><a href="//www.slideshare.net/numenta" target="_blank">Numenta</a></strong> </div>
 </div>

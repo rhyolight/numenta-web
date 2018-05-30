@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: There have been changes in our thinking, in algorithm implementation, in terminology and in other areas since this paper was written, rendering part of this paper obsolete. Much of this paper has been replaced by BAMI and the current white papers, and we will continue to provide updated material in subsequent releases of BAMI.
+description: "There have been changes in our thinking, in algorithm implementation, in terminology and in other areas since the HTM whitepaper was written, rendering part of this paper obsolete. Much of this paper has been replaced by BAMI and the current white papers."
 date: 2011/09/12
 image:
 link: /assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf
@@ -9,7 +9,9 @@ org: Co-Founder
 section: archive
 sort: b
 tags: hierarchical temporal memory htm jeff hawkins whitepaper pdf
-title: Hierarchical Temporal Memory (HTM) Whitepaper
+title: "Hierarchical Temporal Memory (HTM) Whitepaper"
+header: "Hierarchical Temporal Memory (HTM) Whitepaper"
+keywords: "HTM whitepaper"
 type: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: This video is replaced by the Numenta License Guide
+description: "In this talk, Numenta VP of Engineering Celeste Baranski and Open Source Community Manager Matt Taylor give an introduction to our technology and provide information on licensing Numenta's IP. This video is replaced by the Numenta License Guide."
 date: 2014/10/17
 image:
 link:
@@ -9,7 +9,9 @@ org: Celeste Baranski & Matt Taylor
 section: archive
 sort: a
 tags: numenta getting started hierarchical temporal memory htm technology nupic
-title: Getting Started With Numenta Technology
+title: "Getting Started With Numenta Technology"
+header: "Getting Started With Numenta Technology"
+keywords: "Intro to Numenta technology"
 type: post
 ---
 
@@ -26,4 +28,4 @@ type: post
 
 ## Slides
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/45034781" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/getting-started-with-numenta-technology" title="Getting Started with Numenta Technology " target="\_blank">Getting Started with Numenta Technology </a> </strong> from <strong><a href="//www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/45034781" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/getting-started-with-numenta-technology" title="Getting Started with Numenta Technology " target="\_blank">Getting Started with Numenta Technology </a> </strong> from <strong><a href="//www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>

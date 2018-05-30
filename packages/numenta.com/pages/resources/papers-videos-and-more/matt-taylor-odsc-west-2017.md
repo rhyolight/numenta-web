@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-description: This video was recorded on November 3, 2017 at ODSC West.
+description: "In this ODSC West talk, Matt Taylor discusses the biological path toward strong AI and why today's AI won't lead to truly intelligent machines. ODSC is a data science conference that fosters the exchange of the latest advances in AI and data science and encourages the growth of open source applications."
 date: 2017/11/03
 image:
 link: https://youtu.be/odj7z0-Sa9o
@@ -9,7 +9,9 @@ org: Open Source Community Manager
 section: overview
 sort: a
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory brain
-title: ODSC West 2017 - The Biological Path Toward Strong AI
+title: "ODSC West 2017: The Biological Path Toward Strong AI"
+header: "ODSC West 2017: The Biological Path Toward Strong AI"
+keywords: "Numenta ODSC West"
 type: post
 ---
 

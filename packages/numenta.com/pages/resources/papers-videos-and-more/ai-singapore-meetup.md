@@ -9,8 +9,8 @@ org: Open Source Community Manager
 section: overview
 sort: a
 tags: htm hierarchical temporal memory
-header: "AI Singapore Meetup – The Biological Path Toward Strong AI"
-title: "AI Singapore Meetup – The Biological Path Toward Strong AI"
+header: "AI Singapore Meetup: The Biological Path Toward Strong AI"
+title: "AI Singapore Meetup: The Biological Path Toward Strong AI"
 keywords: "AI Singapore HTM"
 type: post
 dropcap: false

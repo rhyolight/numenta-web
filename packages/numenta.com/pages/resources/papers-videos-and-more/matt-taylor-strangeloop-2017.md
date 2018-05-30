@@ -1,6 +1,6 @@
 ---
 author: Matthew Taylor
-description: This video was recorded on September 29, 2017 at Strange Loop in St. Louis, MO.
+description: "At Strange Loop, Numenta's Matt Taylor gives a talk titled The Biological Path Toward Strong AI where he discusses details about our HTM technology, such as SDRs, Spatial Pooling, Temporal Memory, and Sensorimotor Inference."
 date: 2017/09/29
 image:
 link: https://youtu.be/-h-cz7yY-G8
@@ -9,7 +9,9 @@ org: Open Source Community Manager
 section: overview
 sort: a
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory brain
-title: Strange Loop - The Biological Path Toward Strong AI
+title: "Strange Loop: The Biological Path Toward Strong AI"
+header: "Strange Loop: The Biological Path Toward Strong AI"
+keywords: "Strange Loop Numenta"
 type: post
 ---
 
