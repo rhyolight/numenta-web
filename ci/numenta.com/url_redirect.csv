@@ -35,6 +35,7 @@ resources/papers-videos-and-more/resources/on-intelligence,resources/papers-vide
 resources/papers-videos-and-more/sparse-distributed-representations.html,resources/papers-videos-and-more/sparse-distributed-representations
 resources/papers-videos-and-more/principles-of-hierarchical-temporal-memory.html,resources/papers-videos-and-more/htm-videos-from-jeff-hawkins
 resources/papers-videos-and-more/hierarchical-memorywhite-paper.html,resources/papers-videos-and-more/hierarchical-temporal-memory-white-paper
+resources/papers-videos-and-more/numenta-HBS-case,blog/2017/05/31/numenta-HBS-case
 press/2015/05/22/numenta-and-ibm-to-build-biologically-inspired-intelligent-machines,press/releases
 press/2015/04/14/numenta-the-bruce-lee-of-ai-and-deep-learning,press/releases
 company/events/2017/12/14/boston-university,company/events/2017/12/13/boston-university
@@ -283,4 +284,3 @@ htm-it,https://numenta.com
 500.html,https://numenta.com
 index.php,https://numenta.com
 how_grok_works.html,https://grokstream.com
-resources/papers-videos-and-more/numenta-HBS-case,blog/2017/05/31/numenta-HBS-case
