@@ -1,13 +1,15 @@
 ---
 author: Numenta
-description: REDWOOD CITY, CA –April 12, 2016— How do our brains learn and understand the world? That question is of paramount importance to both neuroscientists and technologists who want to build intelligent machines.
+description: 'Numenta has published a new theory that represents a breakthrough in understanding how networks of neurons in the neocortex perform sequence learning. Their paper, "Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex", has been published in the Frontiers in Neural Circuits Journal.'
 date: 2016/04/12
 hideImage: true
 image: ../images/image.jpg
 link:
 org: Press Release
 tags: numenta neuron research paper published discover brain learns sequences key machine intelligence systems pattern theory
-title: Numenta Researchers Discover How The Brain Learns Sequences, A Key to Intelligent Systems
+header: Numenta Researchers Discover How The Brain Learns Sequences, A Key to Intelligent Systems
+title: Numenta Researchers Discover How The Brain Learns Sequences
+keywords: "neurons sequence learning"
 type: post
 ---
 
