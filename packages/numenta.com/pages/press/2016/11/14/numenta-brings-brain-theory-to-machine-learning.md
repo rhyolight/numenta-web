@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'Numenta's paper, "Continuous Online Sequence Learning with an Unsupervised Neural Network Model", looks at Numenta's HTM vs. other machine learning techniques, including RNNs like LSTM and echo-state networks. The paper was published in MIT Press' Neural Computation journal.'
+description: Numenta's paper, "Continuous Online Sequence Learning with an Unsupervised Neural Network Model", looks at Numenta's HTM vs. other machine learning techniques, including RNNs like LSTM and echo-state networks. The paper was published in MIT Press' Neural Computation journal.
 date: 2016/11/14
 image: ../images/image.png
 link:

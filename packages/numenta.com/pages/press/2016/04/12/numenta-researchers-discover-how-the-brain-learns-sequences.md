@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'Numenta has published a new theory that represents a breakthrough in understanding how networks of neurons in the neocortex perform sequence learning. Their paper, "Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex", has been published in the Frontiers in Neural Circuits Journal.'
+description: Numenta has published a new theory that represents a breakthrough in understanding how networks of neurons in the neocortex perform sequence learning. Their paper, "Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex", has been published in the Frontiers in Neural Circuits Journal.
 date: 2016/04/12
 hideImage: true
 image: ../images/image.jpg
