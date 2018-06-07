@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "I was asked to explore various questions, including what is machine intelligence technology based on neocortical theory, why is it important, how and why does it work, and where will it take us?"
+description: Numenta VP of Marketing Christy Maver wrote a guest post for insieBIGDATA titled, “The Importance of Brain Theory in True Machine Intelligence.” In the piece, she shares her thoughts on machine intelligence technology based on brain theory, why it's important, how and why it works, and where it will take us.
 date: 2016/11/03
 hideImage: false
 image: ../images/image.png
 org: Director of Marketing
 tags:  brain theory ai artificial intelligence inspiration direction machine neuroscience htm
-title: "Brain Theory in AI - Inspiration or Direction?"
+title: "Brain Theory in AI – Inspiration or Direction?"
+header: "Brain Theory in AI – Inspiration or Direction?"
+keywords: "Numenta insideBIGDATA"
 type: post
 ---
 

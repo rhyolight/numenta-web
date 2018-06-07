@@ -1,12 +1,14 @@
 ---
 author: Brev Patterson
-description: "Last year we felt that it was important to communicate our theories and engage in a dialog with the scientific community. As such, we decided to submit our research for peer-review, and to publish our work in major neuroscience-related"
+description: "The research process at Numenta follows four general steps– Writing, Submission, Review, and Acceptance. Having our research reviewed and published by our peers is a great accomplishment for us. It can be a long and difficult process, but we have found the results to be well worth the effort."
 date: 2016/11/07
 hideImage: true
 image: ../images/image.png
 org: "Engineering & Design"
 tags: numenta scientific research process publishing papers in peer review journals neuroscience machine intelligence htm
 title: "Research Process at Numenta: Peer-Review and Publishing"
+header: "Research Process at Numenta: Peer-Review and Publishing"
+keywords: Research process at Numenta
 type: post
 ---
 
