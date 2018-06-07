@@ -1,12 +1,14 @@
 ---
 author: "Yuwei Cui"
-description: "The mission of Numenta is to discover the computational principles of the neocortex, the seat of intelligence in our brain. We believe this endeavor requires a detailed understanding of experimental neuroscience"
+description: "Numenta researcher Yuwei Cui recounts his visits with our VP of Research Subutai Ahmad to the neuroscience labs at the Max Planck Florida Institute of Neuroscience and the University of North Carolina, where they had fruitful discussions with experimental neuroscientists and researchers."
 date: 2016/12/09
 hideImage: false
 image: ../images/image.png
 org: "Research Engineer"
 tags: neuroscience lab mpfi unc numenta research engineer brain neocortex active dendrite machine intelligence
-title: "Visit to Neuroscience Labs at MPFI and UNC"
+title: "Numenta's Visit to Neuroscience Labs at MPFI and UNC"
+header: "Visit to Neuroscience Labs at MPFI and UNC"
+keywords: Numenta Max Planck Florida Institute
 type: post
 ---
 

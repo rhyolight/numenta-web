@@ -1,12 +1,14 @@
 ---
 author: "Donna Dubinsky"
-description: "Tom Stoppard’s new play, The Hard Problem, poses the following question: are brains just collections of cells that can be explained in a scientific fashion, or is there something separate called the “mind” that explains consciousness?"
+description: Numenta CEO Donna Dubinsky reviews Tom Stoppard's play, The Hard Problem, which poses the question– are brains just collections of cells that can be explained in a scientific fashion, or is there something separate called the “mind” that explains consciousness?
 date: 2016/11/10
 hideImage: false
 image: ../images/image.png
 org: "CEO & Co-Founder"
 tags: theatre review hard problem brain consciousness science religion philosophy
 title: "Theatre Review — The Hard Problem"
+header: "Theatre Review — The Hard Problem"
+keywords: Theatre Review The Hard Problem
 type: post
 ---
 
