@@ -6,10 +6,10 @@ hideImage: true
 image: ../images/htm-whitepaper.png
 link: /assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf
 media: paper
-org: Co-Founder
+org: Whitepaper
 section: archive
 category: neuroscience
-sort: b
+sort: z
 tags: hierarchical temporal memory htm jeff hawkins whitepaper pdf
 title: "Hierarchical Temporal Memory (HTM) Whitepaper"
 header: "Hierarchical Temporal Memory (HTM) Whitepaper"
