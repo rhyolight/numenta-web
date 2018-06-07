@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: Numenta VP of Marketing Christy Maver wrote a guest post for insieBIGDATA titled, “The Importance of Brain Theory in True Machine Intelligence.” In the piece, she shares her thoughts on machine intelligence technology based on brain theory, why it's important, how and why it works, and where it will take us.
+description: Numenta VP of Marketing Christy Maver wrote a guest post for insideBIGDATA titled, “The Importance of Brain Theory in True Machine Intelligence.” In the piece, she shares her thoughts on machine intelligence technology based on brain theory, why it's important, how and why it works, and where it will take us.
 date: 2016/11/03
 hideImage: false
 image: ../images/image.png
