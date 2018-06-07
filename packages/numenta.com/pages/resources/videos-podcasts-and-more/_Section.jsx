@@ -4,6 +4,8 @@
 
 import React from 'react'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
+import List from 'numenta-web-shared-components/lib/List'
+import ListItem from 'numenta-web-shared-components/lib/ListItem'
 import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Video from 'numenta-web-shared-components/lib/Video'
@@ -37,48 +39,47 @@ const SectionResources = (props, {config}) => {
             designed for anyone who wants to learn more about our cortical
             theory and HTM technology.
           </Paragraph>
-
-          <br />
-          <br />
-
-          <Paragraph>
-            <TextLink to={links.in.videos}>Videos</TextLink><Spacer />From
-            keynote presentations to invited talks to cortical animations,
-            view our library of videos to see our research developments
-            firsthand.
-          </Paragraph>
-          <Paragraph>
-            <TextLink to={links.in.podcasts}>Podcasts</TextLink><Spacer />
-            Occasionally, our co-founder Jeff Hawkins appears as a guest on
-            podcasts to discuss a variety of neuroscience topics.
-          </Paragraph>
-          <Paragraph>
-            <TextLink to={links.out.htmschool.channel}>HTM School</TextLink>
-            <Spacer />This YouTube series is designed to educate the general
-            public about Hierarchical Temporal Memory (HTM). Each 10-15 minute
-            episode dives into a particular topic of HTM theory.
-          </Paragraph>
-          <Paragraph>
-            <TextLink to={links.in.opensource}>Open Source Community</TextLink>
-            <Spacer />If you’re interested in discussing our theories, or
+          <List marker="disc">
+            <ListItem>
+              <TextLink to={links.in.videos}>Videos</TextLink><Spacer />From
+                keynote presentations to invited talks to cortical animations,
+                view our library of videos to see our research developments
+                firsthand.
+            </ListItem>
+            <ListItem>
+              <TextLink to={links.in.podcasts}>Podcasts</TextLink><Spacer />
+              Occasionally, our co-founder Jeff Hawkins appears as a guest on
+              podcasts to discuss a variety of neuroscience topics.
+            </ListItem>
+            <ListItem>
+              <TextLink to={links.out.htmschool.channel}>HTM School</TextLink>
+              <Spacer />This YouTube series is designed to educate the general
+              public about Hierarchical Temporal Memory (HTM). Each 10-15 minute
+              episode dives into a particular topic of HTM theory.
+            </ListItem>
+            <ListItem>
+              <TextLink to={links.in.opensource}>Open Source Community
+              </TextLink>
+              <Spacer />If you’re interested in discussing our theories, or
               developing and implementing our technology, join our growing
               community of brain theory enthusiasts.
-          </Paragraph>
-          <Paragraph>
-            <TextLink to={links.in.bami}>
-              Biological and Machine Intelligence (BAMI)
-            </TextLink><Spacer />This living book (Biological And Machine
-            Intelligence) documents our framework for both biological and
-            machine intelligence.
-          </Paragraph>
-          <Paragraph>
-            <TextLink to={links.in.onintelligence}>On Intelligence</TextLink>
-            <Spacer />Read the book where Jeff first shared many of the core
-            concepts of our theories.  Intended for a lay scientific audience,
-            On Intelligence provides a nice introduction to anyone interested in
-            understanding how the human brain works and what intelligence is.
-          </Paragraph>
-
+            </ListItem>
+            <ListItem>
+              <TextLink to={links.in.bami}>
+                Biological and Machine Intelligence (BAMI)
+              </TextLink><Spacer />This living book (Biological And Machine
+              Intelligence) documents our framework for both biological and
+              machine intelligence.
+            </ListItem>
+            <ListItem>
+              <TextLink to={links.in.onintelligence}>On Intelligence</TextLink>
+              <Spacer />Read the book where Jeff first shared many of the core
+                concepts of our theories.  Intended for a lay scientific
+                audience, On Intelligence provides a nice introduction to anyone
+                interested in understanding how the human brain works and what
+                intelligence is.
+            </ListItem>
+          </List>
         </div>
       </div>
     </article>
