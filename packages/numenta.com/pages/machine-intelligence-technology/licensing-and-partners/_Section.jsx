@@ -70,7 +70,7 @@ const SectionBusiness = (props, {config}) => {
           </ListOrder>
           <Paragraph>
             Learn more about <TextLink to={links.in.businessprinciples}>
-            Numenta’s business principles.</TextLink>
+            Numenta’s business principles</TextLink>.
           </Paragraph>
         </div>
       </div>
@@ -154,7 +154,7 @@ const SectionBusiness = (props, {config}) => {
           <Paragraph>If you have any questions about our licenses, visit
             our <TextLink to={links.in.licensingfaq}>FAQ page</TextLink> or
             contact us at <TextLink to="mailto:licenses@numenta.com">
-            licenses@numenta.com.</TextLink></Paragraph>
+            licenses@numenta.com</TextLink>.</Paragraph>
         </div>
       </div>
 
@@ -180,12 +180,12 @@ const SectionBusiness = (props, {config}) => {
             that works for both parties. If you are interested in becoming
             a partner, please {' '}
             <TextLink to={links.in.license}>
-              review our license guide,
-            </TextLink> {' '}
+              review our license guide
+            </TextLink>, {' '}
             and email us at {' '}
             <TextLink to={`mailto:${contact.email.sales}`}>
-              {contact.email.sales}.
-            </TextLink>
+              {contact.email.sales}
+            </TextLink>.
           </Paragraph>
         </div>
       </div>
