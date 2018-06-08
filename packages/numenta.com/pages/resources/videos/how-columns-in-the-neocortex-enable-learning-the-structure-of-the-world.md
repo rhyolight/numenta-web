@@ -2,7 +2,8 @@
 author: Numenta
 description: This video accompanies the paper titled “A Theory of How Columns in the Neocortex Enable Learning the Structure of the World” by Jeff Hawkins, Subutai Ahmad, and Yuwei Cui.
 date: 2017/10/25
-image:
+image: https://img.youtube.com/vi/BvJJn9VS4rk/sddefault.jpg
+hideImage: true
 link:
 media: video
 org: Jeff Hawkins, Subutai Ahmad, and Yuwei Cui

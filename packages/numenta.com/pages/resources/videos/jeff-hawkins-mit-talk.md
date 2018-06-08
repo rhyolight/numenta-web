@@ -2,7 +2,8 @@
 author: Jeff Hawkins
 description: "In Jeff Hawkins' MIT talk, he describes a theory that sensory regions of the neocortex process two inputs. One input is the well-known sensory data, and he proposes that the other is a representation of allocentric location. He discusses material from our March 2016 neuron paper and our October 2017 columns paper."
 date: 2017/12/15
-image:
+image: https://img.youtube.com/vi/yVT7dO_Tf4E/sddefault.jpg
+hideImage: true
 link: https://cbmm.mit.edu/video/have-we-missed-half-what-neocortex-does-allocentric-location-basis-perception
 media: video
 org: Co-founder

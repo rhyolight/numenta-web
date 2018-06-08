@@ -2,7 +2,8 @@
 author: Jeff Hawkins
 description: "These 2014 videos by Jeff Hawkins on what the brain says about machine intelligence and the foundations of machine intelligence provide an overview of HTM and associated topics. However, the comments on these subjects in the videos are out of date."
 date: 2014/11/22
-image:
+image: https://img.youtube.com/vi/izO2_mCvFaw/sddefault.jpg
+hideImage: true
 link:
 media: video
 org: Co-Founder

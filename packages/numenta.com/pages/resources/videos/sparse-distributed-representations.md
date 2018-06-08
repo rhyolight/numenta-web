@@ -2,7 +2,8 @@
 author: Subutai Ahmad
 description: "This video talk on Sparse Distributed Representations (SDRs) by Numenta VP of Research, Subutai Ahmad, was given at an October 2014 Numenta workshop and covers a subset of the topics in the BAMI chapter on SDRs."
 date: 2014/10/17
-image:
+image: https://img.youtube.com/vi/LbZtc_zWBS4/sddefault.jpg
+hideImage: true
 link:
 media: video
 org: VP Research

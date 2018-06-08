@@ -2,7 +2,8 @@
 author: Numenta
 description: "This webinar provides an overview of the current state of our HTM technology, with an emphasis on the software implementation and example applications. The Q&A session at the end of the webinar answers some popular user questions."
 date: 2016/04/26
-image:
+image: https://i.vimeocdn.com/video/567892669.jpg?mw=600
+hideImage: true
 link:
 media: video
 org: Christy Maver & Scott Purdy

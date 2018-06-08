@@ -2,7 +2,8 @@
 author: Rahul Agarwal
 description: "This video tutorial about HTM algorithm basics by Rahul Agarwal follows the 2011 HTM whitepaper and is largely obsolete. The content of this tutorial is replaced by HTM School."
 date: 2013/08/03
-image:
+image: https://img.youtube.com/vi/z6r3ekreRzY/sddefault.jpg
+hideImage: true
 link:
 media: video
 org: Software Engineer

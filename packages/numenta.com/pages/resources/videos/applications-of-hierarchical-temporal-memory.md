@@ -4,6 +4,8 @@ description: "This video talk on Applications of Hierarchical Temporal Memory (H
 date: 2014/10/17
 link:
 media: video
+image: https://img.youtube.com/vi/900nFOfzp2E/sddefault.jpg
+hideImage: true
 org: Software Engineer
 section: detail
 sort: e

@@ -2,7 +2,8 @@
 author: Numenta
 description: "HTM Chat with Jeff Hawkins is a video series in which our Open Source Community Manager, Matt Taylor, interviews Jeff Hawkins about a variety of HTM topics. Matt asks Jeff to talk about sensorimotor inference and seven other areas of interest to the HTM community."
 date: 2017/03/22
-image:
+image: https://img.youtube.com/vi/fNc73-tHHgY/sddefault.jpg
+hideImage: true
 link:
 media: video
 org: Jeff Hawkins & Matt Taylor

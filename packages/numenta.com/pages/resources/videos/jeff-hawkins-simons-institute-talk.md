@@ -2,7 +2,8 @@
 author: Jeff Hawkins
 description: "Jeff Hawkins’ Simons Institute talk is part of the Computational Theories of the Brain Workshop held on April 17, 2018. In his talk, he proposes that the neocortex learns models of objects using the same methods that the entorhinal cortex uses to map environments."
 date: 2018/04/17
-image:
+image: https://img.youtube.com/vi/zVGQeFFjhEk/sddefault.jpg
+hideImage: true
 link: https://numenta.com/company/events/2018/04/16/simons-institute-berkeley/
 media: video
 org: Co-founder

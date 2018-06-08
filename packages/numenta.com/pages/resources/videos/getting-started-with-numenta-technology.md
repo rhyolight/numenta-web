@@ -2,7 +2,8 @@
 author: Numenta
 description: "In this talk, Numenta VP of Engineering Celeste Baranski and Open Source Community Manager Matt Taylor give an introduction to our technology and provide information on licensing Numenta's IP. This video is replaced by the Numenta License Guide."
 date: 2014/10/17
-image:
+image: https://img.youtube.com/vi/5HD9NnXpRus/sddefault.jpg
+hideImage: true
 link:
 media: video
 org: Celeste Baranski & Matt Taylor
