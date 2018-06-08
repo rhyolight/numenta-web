@@ -1,8 +1,8 @@
 ---
 author: Doug Clinton
-description: Listen in as host Loup Ventures' Braintech Series host Doug Clinton interview Numenta Co-founder Jeff Hawkins about intelligence and how the company's approach differs from deep learning techniques. 
+description: Listen in as host Loup Ventures' Braintech Series host Doug Clinton interview Numenta Co-founder Jeff Hawkins about intelligence and how the company's approach differs from deep learning techniques.
 date: 2018/01/05
-image:
+image: ../images/loup-ventures.png
 link: http://loupventures.com/002-jeff-hawkins/
 media: podcast
 org: Loup Ventures

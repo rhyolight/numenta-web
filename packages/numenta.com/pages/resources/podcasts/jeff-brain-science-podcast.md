@@ -2,7 +2,7 @@
 author: Ginger Campbell, MD
 description: "Listen in as Brain Science podcast host Ginger Campbell interviews Numenta Co-founder Jeff Hawkins about his latest developments in brain theory."
 date: 2017/11/27
-image:
+image: ../images/brain-science-podcast.png
 link: http://brainsciencepodcast.com/bsp/2017/139-hawkins
 media: podcast
 org: Brain Science Podcast

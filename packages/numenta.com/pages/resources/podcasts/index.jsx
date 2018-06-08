@@ -115,7 +115,7 @@ export default class PodcastsPage extends React.Component {
         </Helmet>
         <span>
           <TextLink to={links.in.papersvideos}>
-            Videos Podcasts and More
+            Videos, Podcasts and More
           </TextLink>
         </span>
 
