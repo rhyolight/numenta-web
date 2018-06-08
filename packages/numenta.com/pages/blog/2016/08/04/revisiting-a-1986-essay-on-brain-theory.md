@@ -1,12 +1,14 @@
 ---
 author: Jeff Hawkins
-description: This week I received an email from a gentleman in Japan. He was creating materials for a course and asked permission to include an extensive passage
+description: In this blog, our co-founder Jeff Hawkins revisits an essay he wrote while he was a graduate student at UC Berkeley. The paper is titled “An Investigation of Adaptive Behavior Towards a Theory of Neocortical Function”, and it gives a nice historical perspective on Numenta.
 date: 2016/08/04
 hideImage: false
 image: ../images/image.png
 org: Co-Founder
 tags: jeff hawkins numenta blog revisiting 1986 essay brain theory
 title: Revisiting a 1986 Essay on Brain Theory
+header: Revisiting a 1986 Essay on Brain Theory
+keywords: Jeff Hawkins essay
 type: post
 ---
 
