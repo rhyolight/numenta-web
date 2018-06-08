@@ -6,8 +6,8 @@ hideImage: true
 image: ../images/image.png
 org: Algorithms Intern
 tags: numenta anomaly benchmark nab competiton 2016 winners htm hierarchical temporal memory
-title: NAB Competition 2016 Winners
-header: NAB Competition 2016 Winners
+title: Numenta Anomaly Benchmark (NAB) Competition 2016 Winners
+header: Numenta Anomaly Benchmark (NAB) Competition 2016 Winners
 keywords: Numenta Anomaly Benchmark competition
 type: post
 ---
