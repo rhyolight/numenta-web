@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "If you’ve been to numenta.com before you may notice that something looks a little – or perhaps more than a little – different. After months of behind the scenes remodeling, we’ve launched our newly designed website."
+description: "If you've been to numenta.com before, you may notice that something looks a little – or perhaps more than a little – different. After months of behind the scenes remodeling, we've launched our newly designed website inspired by Wikipedia."
 date: 2016/09/02
 hideImage: false
 image: ../images/image.png
 org: Director of Marketing
 tags: numenta website redesign story new look jeff hawkins wikipedia
-title: "Why Did We Completely Change Our Website Design? The Story Behind Our New Look"
+header: "Why Did We Completely Change Our Website Design? The Story Behind Our New Look"
+title: "Why Did We Completely Change Our Website Design?"
+keywords: Numenta website design
 type: post
 ---
 

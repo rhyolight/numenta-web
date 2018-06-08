@@ -1,12 +1,14 @@
 ---
 author: Christy Maver
-description: "MLconf Technical Chair Nick Vasiloglou recently interviewed one of our engineers, Austin Marshall, about HTM and our approach in this space.  In their conversation, Nick asks Austin about a variety of topics - from AI to"
+description: "MLconf Technical Chair, Nick Vasiloglou, recently interviewed Numenta engineer, Austin Marshall, about HTM and our approach in machine learning. In their conversation, Nick asks Austin about a variety of topics – from AI to reinforcement learning to how HTM differs from deep learning."
 date: 2016/10/31
 hideImage: false
 image: ../images/image.png
 org: Director of Marketing
 tags: mlconf machine learning conference interview austin marshall numenta intelligence htm
 title: "MLconf Interview with Austin Marshall"
+header: "MLconf Interview with Austin Marshall"
+keywords: MLConf Numenta
 type: post
 ---
 
