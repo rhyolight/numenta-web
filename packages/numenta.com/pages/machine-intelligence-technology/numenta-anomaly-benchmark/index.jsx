@@ -47,6 +47,11 @@ const NabPage = (props, {config}) => {
     <Helmet title={title}>
       {getMetadataTags(Metatags, baseUrl)}
     </Helmet>
+    <span>
+      <TextLink to="/machine-intelligence-technology/">
+        Machine Intelligence Technology
+      </TextLink>
+    </span>
     <Section headline={true} open={true} title={title}>
       <div className={styles.columns}>
         <div className={styles.aside}>

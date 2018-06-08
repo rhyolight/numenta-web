@@ -15,4 +15,4 @@ Studio. To troubleshoot, try the following:
 
 -   Once HTM Studio installation is complete, enable your antivirus
 
-◄ [Back to HTM Studio](/applications/htm-studio/)
+◄ [Back to HTM Studio](/machine-intelligence-technology/htm-studio/)

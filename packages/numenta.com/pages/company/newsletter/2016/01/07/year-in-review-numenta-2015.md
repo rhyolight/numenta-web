@@ -43,7 +43,7 @@ I hope to share news of additional partnerships with you in the coming year.
 ### Highlight #2
 
 We also released the
-[Numenta Anomaly Benchmark (NAB)](/applications/numenta-anomaly-benchmark/),
+[Numenta Anomaly Benchmark (NAB)](/machine-intelligence-technology/numenta-anomaly-benchmark/),
 which was two years in the making.  We believe NAB offers the definitive way
 to assess the performance of algorithms for detecting anomalies in streaming
 data.  We presented NAB v1.0 at two conferences and continue to get positive

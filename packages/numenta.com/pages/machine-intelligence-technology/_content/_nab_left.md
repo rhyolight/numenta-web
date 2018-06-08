@@ -17,4 +17,4 @@ We created the Numenta Anomaly Benchmark (NAB) in order to be able to measure an
 *	A dataset with real-world, labeled data files
 *	A scoring mechanism that rewards early detection and on-line learning
 
-Learn more about the [Numenta Anomaly Benchmark](/applications/numenta-anomaly-benchmark/).
+Learn more about the [Numenta Anomaly Benchmark](/machine-intelligence-technology/numenta-anomaly-benchmark/).

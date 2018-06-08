@@ -86,10 +86,10 @@ logo = "/assets/img/logo.png"
     onintelligence = '/resources/on-intelligence/'
     resources = '/resources/'
 
-    anomaly = '/applications/anomaly-detection-benchmark/'
-    htmstudio = '/applications/htm-studio/'
-    nab = '/applications/numenta-anomaly-benchmark/'
-    applications = '/applications/'
+    anomaly = '/machine-intelligence-technology/numenta-anomaly-benchmark/'
+    htmstudio = '/machine-intelligence-technology/htm-studio/'
+    nab = '/machine-intelligence-technology/numenta-anomaly-benchmark/'
+    applications = '/machine-intelligence-technology/applications/'
 
     contact = '/contact/'
     blog = '/blog/'

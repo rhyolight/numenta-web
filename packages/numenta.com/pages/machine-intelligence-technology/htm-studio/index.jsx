@@ -177,6 +177,11 @@ class HtmStudioPage extends React.Component {
         <Helmet title={Metatags.title}>
           {getMetadataTags(Metatags, baseUrl)}
         </Helmet>
+        <span>
+          <TextLink to="/machine-intelligence-technology/">
+            Machine Intelligence Technology
+          </TextLink>
+        </span>
         <Section
           headline={true}
           open={true}
