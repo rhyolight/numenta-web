@@ -19,4 +19,4 @@ HTM works best with data that meets the following characteristics:
 *	Subtle patterns that can’t always be seen by humans
 *	Data for which simple techniques such as thresholds yield substantial false positives and false negatives
 
-Our technology has been tested and implemented in software, all of which is developed with best practices and suitable for deploying in commercial applications.
+Our technology has been [tested and implemented in software](/machine-intelligence-technology/applications/), all of which is developed with best practices and suitable for deploying in commercial applications.
