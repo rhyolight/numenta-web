@@ -1,12 +1,12 @@
 ---
 author: Matthew Taylor
 description:
-date: 2017/08/09
+date: 2018/08/09
 event:
   what: "The Biological Path Towards Strong AI"
   when:
-    begin: 2017/08/09 13:00
-    end: 2017/08/09 13:45
+    begin: 2018/08/09 13:00
+    end: 2018/08/09 13:45
   where:
     desc:
     city: San Francisco
