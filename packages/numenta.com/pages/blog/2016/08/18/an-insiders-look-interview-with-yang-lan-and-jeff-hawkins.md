@@ -1,12 +1,14 @@
 ---
 author: Taylor Wirfs
-description: But it did come as a surprise to hear that the interview was with Yang Lan, a prominent broadcast journalist and figure who has been referred to as the Oprah of China. She hosts several TV talk shows, is the cofounder and
+description: A prominent figure known as the Oprah of China, Yang Lan, interviewed our co-founder, Jeff Hawkins for an upcoming documentary series on AI. She travelled across the globe to talk to knowledgeable researchers, technologists and leaders about their findings. In this blog, you'll get an insider's look at their interview.
 date: 2016/08/18
 hideImage: true
 image: ../images/image.png
 org: Marketing
 tags: insiders look interview yang lan oprah of china jeff hawkins numenta machine intelligence htm
 title: "An Insider’s Look: Interview with Yang Lan and Jeff Hawkins"
+header: "An Insider’s Look: Interview with Yang Lan and Jeff Hawkins"
+keywords: Yang Lan Jeff Hawkins
 type: post
 ---
 

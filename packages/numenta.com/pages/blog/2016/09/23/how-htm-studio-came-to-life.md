@@ -1,12 +1,13 @@
 ---
 author: Numenta
-description: "It’s been a few months since we first launched HTM Studio and things have calmed down from a development perspective. I sat down with Marion Le Borgne, project manager and lead engineer for HTM Studio, to get her thoughts on the process and efforts it took to build the application."
+description: "To get a better understanding of the efforts that went into the development of HTM Studio, Taylor Wirfs from our marketing team sat down with HTM Studio lead engineer and project manager, Marion Le Borgne, to talk about the process  – from the initial research stage to testing the UX – of developing the application."
 date: 2016/09/23
 hideImage: true
 image: ../images/image.png
 org: "Marion Le Borgne & Taylor Wirfs"
 tags: numenta hierarchical temporal memory htm studio came to life machine intelligence anomaly detection
 title: "How HTM Studio Came to Life"
+keywords: development HTM Studio
 type: post
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: Welcome to numenta.com. Here you’ll find information about the company Numenta.
-title: numenta.com
+description: "Numenta is tackling one of the most important scientific challenges of all time: reverse engineering the neocortex. We're at the beginning of an era of computing that will unfold over the coming decades, and we invite you to learn about how we are helping to advance the state of brain theory and machine intelligence."
+title: "Numenta | Leading the New Era of Machine Intelligence"
+keywords: machine intelligence
+
 ---
 
 Welcome to **Numenta**.**com**. Here you’ll find information about the company Numenta.

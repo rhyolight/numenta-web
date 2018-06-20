@@ -1,12 +1,14 @@
 ---
 author: Zuha Agha
-description: The wait is over! We are proud to announce the winners of the 2016 Numenta Anomaly Benchmark (NAB) Competition, held in conjunction with IEEE World Congress on Computational Intelligence.
+description: The wait is over! We are proud to announce the winners of the 2016 Numenta Anomaly Benchmark (NAB) Competition, held in conjunction with IEEE World Congress on Computational Intelligence. This was the first ever publicly held contest for NAB.
 date: 2016/08/10
 hideImage: true
 image: ../images/image.png
 org: Algorithms Intern
 tags: numenta anomaly benchmark nab competiton 2016 winners htm hierarchical temporal memory
-title: NAB Competition 2016 Winners
+title: Numenta Anomaly Benchmark (NAB) Competition 2016 Winners
+header: Numenta Anomaly Benchmark (NAB) Competition 2016 Winners
+keywords: Numenta Anomaly Benchmark competition
 type: post
 ---
 

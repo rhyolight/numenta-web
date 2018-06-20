@@ -1,12 +1,14 @@
 ---
 author: Numenta
-description: "REDWOOD CITY, CA — November 14, 2016 — Numerous proposals have been offered for how intelligent machines might learn sequences of patterns, which is believed to be an essential component of any intelligent system."
+description: Numenta's paper, "Continuous Online Sequence Learning with an Unsupervised Neural Network Model", looks at Numenta's HTM vs. other machine learning techniques, including RNNs like LSTM and echo-state networks. The paper was published in MIT Press' Neural Computation journal.
 date: 2016/11/14
 image: ../images/image.png
 link:
 org: Press Release
 tags:  numenta brain theory machine learning techniques htm hierarchical temporal memory paper
-title: "Numenta Brings Brain Theory to Machine Learning, Compares HTM to Machine Learning Techniques in New Paper"
+header: "Numenta Brings Brain Theory to Machine Learning, Compares HTM to Machine Learning Techniques in New Paper"
+title: "New Numenta Paper Compares HTM to Machine Learning Techniques"
+keywords: "Numenta HTM vs machine learning techniques"
 type: post
 ---
 

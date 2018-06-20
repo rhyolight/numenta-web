@@ -1,6 +1,7 @@
 ---
-title: Open Source Community
-description: "If you are interested in seeing, developing or working with our technology, we invite you to participate at http://numenta.org/"
+title: "Numenta | Open Source Community"
+keywords: "NuPIC"
+description: "Numenta has a strong, active open source community interested in building HTM systems. Here you'll find our algorithms, daily research code and an active discussion forum, as well as our implementation of HTM theory, called NuPIC (Numenta Platform for Intelligent Computing)."
 ---
 
 [business]: /machine-intelligence-technology/business-strategy-and-ip/

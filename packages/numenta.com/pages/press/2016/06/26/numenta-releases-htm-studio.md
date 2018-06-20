@@ -1,12 +1,14 @@
 ---
 author: Numenta
-description: REDWOOD CITY, Calif. --(BUSINESS WIRE)-- Numenta, Inc., a leader in machine intelligence, today announced the release of HTM Studio for anomaly detection, a desktop tool that makes it easy for businesses to experiment with advanced machine intelligence algorithms to uncover anomalies in their streaming data.
+description: "Numenta has released HTM Studio for anomaly detection, a desktop tool that makes it easy for businesses to experiment with advanced machine intelligence algorithms to uncover anomalies in their streaming data."
 date: 2016/06/26
 image: ../images/htm-studio.png
 link:
 org: Press Release
 tags: numenta releases htm studio business wire machine intelligence find anomalies streaming data
-title: Numenta Releases HTM Studio
+title: Numenta Releases HTM Studio for Anomaly Detection
+header: Numenta Releases HTM Studio for Anomaly Detection
+keywords: "HTM studio anomaly detection"
 type: post
 ---
 
