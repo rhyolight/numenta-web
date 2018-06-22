@@ -8,7 +8,7 @@ event:
     begin: 2018/10/31
     end: 2018/11/03
   where:
-    desc:
+    desc: Hyatt Regency SFO
     city: San Francisco
     state: CA
     country: USA
