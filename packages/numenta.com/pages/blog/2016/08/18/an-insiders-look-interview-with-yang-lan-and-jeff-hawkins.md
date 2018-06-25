@@ -21,8 +21,8 @@ an interview with our co-founder, Jeff Hawkins, at our office. But it did come
 as a surprise to hear that the interview was with Yang Lan, a prominent
 broadcast journalist and figure who has been referred to as
 [the Oprah of China][1]. She hosts several TV talk shows, is the cofounder and
-chairperson of [Sun Media Group][2] and Sun Culture Foundation, and was listed
-by Forbes as one of the [top 100 most powerful women][3].  
+chairperson of Sun Media Group and Sun Culture Foundation, and was listed
+by Forbes as one of the [top 100 most powerful women][2].  
 
 The interview with Jeff is to be featured as part of Yang Lan’s upcoming
 documentary series on Artificial Intelligence. Yang Lan and her team travelled
@@ -60,7 +60,7 @@ and her production crew. After a few introductions, sound checks and lighting
 adjustments, the cameras began rolling.  
 
 Her first few questions focused on Jeff’s background and how he arrived at
-Numenta’s mission today - [reverse-engineering the neocortex][4]. Jeff
+Numenta’s mission today - [reverse-engineering the neocortex][3]. Jeff
 referenced his prior work as “computers were fun to work on, but my real passion
 was brains.” He described solving brains as a difficult problem, but also as one
 of the most important problems in the world.  
@@ -95,6 +95,5 @@ will look like and how the producers plan to include Numenta, but it was
 exciting to be a part of this documentary series.
 
 [1]: http://time.com/2907444/yang-lan-the-oprah-of-china-expands-her-reach/
-[2]: http://www.chinasunmedia.com/en/?page_id=2468
-[3]: http://www.forbes.com/pictures/fjed45ed/yang-lan/#66b8dfc972ef
-[4]: /
+[2]: http://www.forbes.com/pictures/fjed45ed/yang-lan/#66b8dfc972ef
+[3]: /

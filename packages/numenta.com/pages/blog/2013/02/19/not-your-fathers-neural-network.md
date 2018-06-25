@@ -33,7 +33,7 @@ resurfaced in a big way in the 1980s.  This was partly due to the rediscovery of
 [back propagation](http://en.wikipedia.org/wiki/Backpropagation), which is a
 method of training simple neural networks, and it was partly due to a two volume
 book called
-*[Parallel Distributed Processing](http://mitpress.mit.edu/books/parallel-distributed-processing).*
+*Parallel Distributed Processing.*
 The PDP books ignited interest in the field.  At this time I was already
 convinced that the path to machine intelligence required understanding how the
 brain works so I welcomed the new interest in neural networks.  Up to that
