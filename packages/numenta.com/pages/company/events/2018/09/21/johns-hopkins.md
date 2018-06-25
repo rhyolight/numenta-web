@@ -18,8 +18,8 @@ event:
 image: ../images/johns-hopkins.jpg
 org: Co-Founder
 keywords: "Jeff Hawkins APL Colloquium"
-title: "The APL Colloquium"
-header: "The APL Colloquium"
+title: "Johns Hopkins University APL Colloquium"
+header: "Johns Hopkins University APL Colloquium"
 type: post
 ---
 
