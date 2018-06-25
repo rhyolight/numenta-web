@@ -1,26 +1,26 @@
 ---
 author: Matthew Taylor
-description: Matthew Taylor, Open Source Community Manager of Numenta, has been invited to speak at an ODSC Webinar. He will discuss the biological path toward strong AI and why he believes today's AI won't lead to truly intelligent machines.
-date: 2018/08/09
+description: Numenta's Matthew Taylor has been invited to speak at ODSC West 2018 in San Francisco, where he will be giving a talk, titled "The Biological Path Towards Strong AI." ODSC is a data science conference that fosters the exchange of the latest advances in AI and data science and encourages the growth of open source applications.
+date: 2018/11/02
 event:
   what: "The Biological Path Towards Strong AI"
   when:
-    begin: 2018/08/09 13:00
-    end: 2018/08/09 13:45
+    begin: 2018/10/31
+    end: 2018/11/03
   where:
-    desc:
+    desc: Hyatt Regency SFO
     city: San Francisco
     state: CA
     country: USA
-    web: https://odsc.com/
+    web: https://odsc.com/california
   who: Matthew Taylor
   why: Speaking
-image: ../images/ODSC.png
+image: ../images/odsc.png
 org: Open Source Community Manager
 tags: strong ai artificial intelligence biological htm hierarchical temporal memory computing strangeloop brain
-title: "ODSC (Open Data Science Conference) Webinar"
-header: "ODSC (Open Data Science Conference) Webinar"
-keywords: Numenta ODSC webinar
+title: "ODSC (Open Data Science Conference) West 2018"
+header: "ODSC (Open Data Science Conference) West 2018"
+keywords: "Numenta ODSC West 2018"
 type: post
 ---
 
