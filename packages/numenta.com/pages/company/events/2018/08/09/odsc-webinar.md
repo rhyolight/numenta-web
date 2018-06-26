@@ -12,7 +12,7 @@ event:
     city: San Francisco
     state: CA
     country: USA
-    web: https://odsc.com/
+    web: https://www.meetup.com/San-Francisco-ODSC/events/251961570/
   who: Matthew Taylor
   why: Speaking
 image: ../images/ODSC.png
@@ -21,8 +21,11 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "ODSC (Open Data Science Conference) Webinar"
 header: "ODSC (Open Data Science Conference) Webinar"
 keywords: Numenta ODSC webinar
+dropcap: false
 type: post
 ---
+
+To RSVP to the webinar, click [here](https://register.gotowebinar.com/register/3222058743596006657).
 
 ## Abstract:
 
