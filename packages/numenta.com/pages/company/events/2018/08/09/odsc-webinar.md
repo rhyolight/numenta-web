@@ -21,6 +21,7 @@ tags: strong ai artificial intelligence biological htm hierarchical temporal mem
 title: "ODSC (Open Data Science Conference) Webinar"
 header: "ODSC (Open Data Science Conference) Webinar"
 keywords: Numenta ODSC webinar
+dropcap: false
 type: post
 ---
 
