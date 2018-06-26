@@ -24,7 +24,7 @@ keywords: Numenta ODSC webinar
 type: post
 ---
 
-To RSVP to the event, click [here](https://register.gotowebinar.com/register/3222058743596006657).
+To RSVP to the webinar, click [here](https://register.gotowebinar.com/register/3222058743596006657).
 
 ## Abstract:
 
