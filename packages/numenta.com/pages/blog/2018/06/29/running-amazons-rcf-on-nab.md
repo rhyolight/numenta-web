@@ -63,7 +63,7 @@ In order to get a better understanding on how Luiz evaluated RCF on NAB, I sat d
 There are <a href="https://github.com/numenta/NAB/wiki/NAB-Entry-Points">3 different ways</a> to test custom algorithms on NAB: <br>
 <b>1.</b> Create a custom detector using NAB API <br>
 <b>2.</b> Give NAB anomaly scores before the threshold optimization phase<br>
-<b>3.</b> Give NAB the anomaly detections<br><br></p>
+<b>3.</b> Give NAB the anomaly detections<br></p>
 
 <p style="margin-left: 30px">Because the algorithm was already implemented in AWS Kinesis Data Analytics, I chose option 2 where I would just stream NAB data directly to AWS Kinesis and calculate the anomaly scores using the built-in <a href="https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html">RANDOM_CUT_FOREST</a> function. </p>
 
