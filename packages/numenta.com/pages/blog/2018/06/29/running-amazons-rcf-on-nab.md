@@ -68,13 +68,13 @@ There are <a href="https://github.com/numenta/NAB/wiki/NAB-Entry-Points">3 diffe
 <p style="margin-left: 30px">Because the algorithm was already implemented in AWS Kinesis Data Analytics, I chose option 2 where I would just stream NAB data directly to AWS Kinesis and calculate the anomaly scores using the built-in <a href="https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html">RANDOM_CUT_FOREST</a> function. </p>
 
 <p style="margin-left: 30px"><font size="4"><b>How much tweaking did you have to do to the algorithm to get these results?</b></font> <br>
-I used the AWS Kinesis Data Analytics [default template for anomaly detection](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/app-anom-score-create-app.html) as is; the only tweak was to normalize the anomaly score.</p>
+I used the AWS Kinesis Data Analytics <a href="https://docs.aws.amazon.com/kinesisanalytics/latest/dev/app-anom-score-create-app.html">default template for anomaly detection</a> as is; the only tweak was to normalize the anomaly score.</p>
 
 <p style="margin-left: 30px"><font size="4"><b>Have you tried changing the algorithm parameters to see if you would get different results?</b></font> <br>
 I've tried using different values for the “shingleSize” and “numberOfTrees” parameters and published the results yielding the best scores I found, which were actually the default values for the <a href="https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html">RANDOM_CUT_FOREST</a> function. The results are easy to replicate and the parameters are easy to change, so it would be great if anyone in the Open Source community could try different parameters and let me know if that improves the scores. </p>
 
 <p style="margin-left: 30px"><font size="4"><b>How can somebody else replicate these results?</b></font> <br>
-I’ve outlined how you can do so in seven steps. You can also find these instructions in our [NAB Random Cut Forest repository](https://github.com/numenta/NAB/tree/master/nab/detectors/random_cut_forest). </p>
+I’ve outlined how you can do so in seven steps. You can also find these instructions in our <a href="https://github.com/numenta/NAB/tree/master/nab/detectors/random_cut_forest">NAB Random Cut Forest repository</a>. </p>
 
 <p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>This command will close the repository:<br>
 <code>git clone https://github.com/numenta/NAB.git</code>
