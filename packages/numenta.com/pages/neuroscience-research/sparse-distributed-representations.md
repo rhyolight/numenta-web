@@ -51,4 +51,4 @@ Through active dendrites, a neural property that is a key underpinning of HTM th
 *	[SDR Sets & Unions (HTM School, Episode 4)](https://www.youtube.com/watch?v=8WIzIBaLXIs)
 
 ### Posters
-*	[Cosyne 2018: Sparse Distributed Representations](/resources/papers-videos-and-more/cosyne-2018-sparse-distributed-representations/)
+*	[Cosyne 2018: Sparse Distributed Representations](/neuroscience-research/research-publications/posters/cosyne-2018-sparse-distributed-representations/)
