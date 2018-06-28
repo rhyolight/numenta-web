@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: "After AWS announced its Random Cut Forest algorithm (RCF) for anomaly detection, we were curious to see how it would score on the Numenta Anomaly Benchmark (NAB), a benchmark we designed to test anomaly detection algorithms. We share the results in this blog and ask one of our engineers to walk us through the process"
+description: "After AWS announced its Random Cut Forest algorithm (RCF) for anomaly detection, we were curious to see how it would score on the Numenta Anomaly Benchmark (NAB), a benchmark we designed to test anomaly detection algorithms. We share the results in this blog and ask one of our engineers to walk us through the process."
 date: 2018/06/29
 hideImage: false
 org: Joanne Cua & Luiz Scheinkman
