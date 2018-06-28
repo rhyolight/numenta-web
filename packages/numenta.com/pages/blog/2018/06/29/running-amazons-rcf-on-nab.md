@@ -63,9 +63,9 @@ In order to get a better understanding on how Luiz evaluated RCF on NAB, I sat d
 There are <a href="https://github.com/numenta/NAB/wiki/NAB-Entry-Points">3 different ways</a> to test custom algorithms on NAB: <br>
 <b>1.</b> Create a custom detector using NAB API <br>
 <b>2.</b> Give NAB anomaly scores before the threshold optimization phase<br>
-<b>3.</b> Give NAB the anomaly detections<br><br>
+<b>3.</b> Give NAB the anomaly detections<br><br></p>
 
-Because the algorithm was already implemented in AWS Kinesis Data Analytics, I chose option 2 where I would just stream NAB data directly to AWS Kinesis and calculate the anomaly scores using the built-in <a href="https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html">RANDOM_CUT_FOREST</a> function. </p>
+<p style="margin-left: 30px">Because the algorithm was already implemented in AWS Kinesis Data Analytics, I chose option 2 where I would just stream NAB data directly to AWS Kinesis and calculate the anomaly scores using the built-in <a href="https://docs.aws.amazon.com/kinesisanalytics/latest/sqlref/sqlrf-random-cut-forest.html">RANDOM_CUT_FOREST</a> function. </p>
 
 <p style="margin-left: 30px"><font size="4"><b>How much tweaking did you have to do to the algorithm to get these results?</b></font> <br>
 I used the AWS Kinesis Data Analytics [default template for anomaly detection](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/app-anom-score-create-app.html) as is; the only tweak was to normalize the anomaly score.</p>
@@ -76,7 +76,7 @@ I've tried using different values for the “shingleSize” and “numberOfTrees
 <p style="margin-left: 30px"><font size="4"><b>How can somebody else replicate these results?</b></font> <br>
 I’ve outlined how you can do so in seven steps. You can also find these instructions in our [NAB Random Cut Forest repository](https://github.com/numenta/NAB/tree/master/nab/detectors/random_cut_forest). </p>
 
-<p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>
+<p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>This command will close the repository:<br>
 <code>git clone https://github.com/numenta/NAB.git</code>
 </p>
 
