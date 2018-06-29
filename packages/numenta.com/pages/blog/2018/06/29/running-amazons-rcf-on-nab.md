@@ -76,7 +76,7 @@ I've tried using different values for the “shingleSize” and “numberOfTrees
 <p style="margin-left: 30px"><font size="4"><b>How can somebody else replicate these results?</b></font> <br>
 I’ve outlined how you can do so in seven steps. You can also find these instructions in our <a href="https://github.com/numenta/NAB/tree/master/nab/detectors/random_cut_forest">NAB Random Cut Forest repository</a>. </p>
 
-<p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>This command will close the repository:<br>
+<p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>This command will clone the repository:<br>
 <code>git clone https://github.com/numenta/NAB.git</code>
 </p>
 
