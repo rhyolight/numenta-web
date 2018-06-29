@@ -76,38 +76,38 @@ I've tried using different values for the “shingleSize” and “numberOfTrees
 <p style="margin-left: 30px"><font size="4"><b>How can somebody else replicate these results?</b></font> <br>
 I’ve outlined how you can do so in seven steps. You can also find these instructions in our <a href="https://github.com/numenta/NAB/tree/master/nab/detectors/random_cut_forest">NAB Random Cut Forest repository</a>. </p>
 
-<p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>This command will close the repository:<br>
-<code>git clone https://github.com/numenta/NAB.git</code>
+<p style="margin-left: 50px"><font size="3"><b>1. Clone the NAB repository</b></font> <br>This command will clone the repository:<br>
+<code><span style="background-color: #f4f6f6">git clone https://github.com/numenta/NAB.git</code></span>
 </p>
 
 <p style="margin-left: 50px"><font size="3"><b>2. Configure your AWS credentials</b></font> <br>
 Use the <a href="https://aws.amazon.com/cli/">AWS Command Line Interface (CLI) tool</a>, and enter this command:<br>
-<code>aws configure</code>
+<code><span style="background-color: #f4f6f6">aws configure</code></span>
 </p>
 
 <p style="margin-left: 50px"><font size="3"><b>3. Create NAB results folder structure</b></font> <br>
 This command will create the necessary <a href="https://github.com/numenta/NAB/blob/master/results/randomCutForest">directories</a> and entries in the <a href="https://github.com/numenta/NAB/blob/master/config/thresholds.json">config/thresholds.json</a> file:<br>
-<code>python scripts/create_new_detector.py --detector randomCutForest</code>
+<code><span style="background-color: #f4f6f6">python scripts/create_new_detector.py --detector randomCutForest</code></span>
 </p>
 
 <p style="margin-left: 50px"><font size="3"><b>4. Create AWS Kinesis Analytics Application</b></font> <br>
 This command will create and configure a new AWS Kinesis Analytics Application ready to receive NAB data from the input stream and output anomaly scores suitable for NAB to the output stream:<br>
-<code>python nab/detectors/random_cut_forest/random_cut_forest.py --create</code>
+<code><span style="background-color: #f4f6f6">python nab/detectors/random_cut_forest/random_cut_forest.py --create</code></span>
 </p>
 
 <p style="margin-left: 50px"><font size="3"><b>5. Stream all files</b></font> <br>
 To stream all NAB data files use the following command: <br>
-<code>python nab/detectors/random_cut_forest/random_cut_forest.py --stream</code>
+<code><span style="background-color: #f4f6f6">python nab/detectors/random_cut_forest/random_cut_forest.py --stream</code></span>
 </p>
 
 <p style="margin-left: 50px"><font size="3"><b>6. Clean up</b></font> <br>
 At the end of the evaluation, it is recommended you delete all resources used to compute the anomaly scores. Use the following command to delete all AWS resources created by this script: <br>
-<code>python nab/detectors/random_cut_forest/random_cut_forest.py --delete</code>
+<code><span style="background-color: #f4f6f6">python nab/detectors/random_cut_forest/random_cut_forest.py --delete</code></span>
 </p>
 
 <p style="margin-left: 50px"><font size="3"><b>7. Compute NAB scores</b></font> <br>
 Once you have calculated anomaly scores for all NAB data, you can use NAB's standard commands to compute NAB scores. For example, use the following command from NAB's root directory to optimize the anomaly score threshold for your algorithm's detections, run the scoring algorithm, and normalize the raw scores to yield your final NAB scores. <br>
-<code>python run.py -d randomCutForest --optimize --score --normalize</code>
+<code><span style="background-color: #f4f6f6">python run.py -d randomCutForest --optimize --score --normalize</code></span>
 </p>
 
 <hr>
