@@ -118,8 +118,9 @@ const SectionCareers = (props, {route, config}) => {
               </Paragraph>
               <Paragraph>
                 Donna earned a B.A. from Yale University, and an M.B.A. from
-                Harvard Business School. She is currently on the board of Yale
-                University.
+                Harvard Business School. She served on the board of Yale
+                University from 2006-2018, including two years as Senior
+                Fellow.
               </Paragraph>
             </div>
           </div>
