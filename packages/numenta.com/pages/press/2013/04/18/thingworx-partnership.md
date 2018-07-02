@@ -24,7 +24,7 @@ The proliferation of devices and sensors creating machine-generated data yield
 enormous opportunity for automated predictive maintenance solutions. According
 to leading device and network companies such as Ericsson and Cisco, the number
 of connected devices and machines is expected to reach
-[50 billion devices by 2020](https://www.ericsson.com/openarticle/mwc-connected-devices_1686565587_c);
+[50 billion devices by 2020](https://www.cisco.com/c/dam/en_us/about/ac79/docs/innov/IoT_IBSG_0411FINAL.pdf);
 ARC Research estimates that Predictive Maintenance is a global $20 billion
 opportunity.
 
