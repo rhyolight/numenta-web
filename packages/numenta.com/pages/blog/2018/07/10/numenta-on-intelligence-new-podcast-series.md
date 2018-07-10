@@ -1,9 +1,9 @@
 ---
-author: Numenta
+author: Christy Maver
 description: "Numenta has launched a new podcast series called Numenta On Intelligence-a monthly podcast about how intelligence works in the brain, how to implement it in non-biological systems and how to think about the implications. VP of Marketing Christy Maver describes the new podcast and how to subscribe to it in this blog post."
 date: 2018/07/10
 hideImage: false
-org: Christy Maver
+org: VP of Marketing
 image: ../images/numenta-on-intelligence-logo.png
 keywords: "Numenta launches podcast"
 title: "Numenta On Intelligence–Our New Podcast Series"
