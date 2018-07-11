@@ -29,7 +29,7 @@ import SectionTechnology from './machine-intelligence-technology/_Section'
 const mainSectionList = [
   {
     component: <SectionHome key="sectionHome" />,
-    title: 'Leading the New Era of Machine Intelligence',
+    title: 'Where Neuroscience Meets Machine Intelligence',
     url: '/',
   },
   {
