@@ -4,7 +4,7 @@ keywords: "NuPIC"
 description: "Numenta has a strong, active open source community interested in building HTM systems. Here you'll find our algorithms, daily research code and an active discussion forum, as well as our implementation of HTM theory, called NuPIC (Numenta Platform for Intelligent Computing)."
 ---
 
-[business]: /machine-intelligence-technology/business-strategy-and-ip/
+[business]: /machine-intelligence-technology/licensing-and-partners/
 [license]:  /assets/pdf/apps/licensing-guide.pdf
 [trial]:    http://numenta.org/licenses/trial/
 
@@ -25,4 +25,4 @@ Anyone is welcome to use our technology for free, under
 the [AGPLv3 open source license][license]. In addition, we have created a
 separate, [trial license without commercial rights][trial] for those individuals
 or organizations who are unable to use the AGPLv3 license. For more on our
-licenses, see the [Business Strategy & IP][business] section.
+licenses, see the [Licensing & Partners section][business] section.
