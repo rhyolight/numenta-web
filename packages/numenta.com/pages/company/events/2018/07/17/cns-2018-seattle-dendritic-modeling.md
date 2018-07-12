@@ -5,7 +5,7 @@ date: 2018/07/18
 event:
   what: "Active dendrites, sparse distributed representations, and grid cells"
   when:
-    begin: 2018/07/18
+    begin: 2018/07/13
     end: 2018/07/18
   where:
     desc: "Allen Institute and University of Washington"
