@@ -29,7 +29,7 @@ class HomePage extends React.Component {
         <Section
           headline={true}
           open={true}
-          title="Leading the New Era of Machine Intelligence"
+          title="Where Neuroscience Meets Machine Intelligence"
         >
           {Default}
           <NextSection {...next} />
