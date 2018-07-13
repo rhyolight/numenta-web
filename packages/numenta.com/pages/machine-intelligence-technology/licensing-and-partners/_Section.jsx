@@ -183,8 +183,8 @@ const SectionBusiness = (props, {config}) => {
               review our license guide
             </TextLink>, {' '}
             and email us at {' '}
-            <TextLink to={`mailto:${contact.email.sales}`}>
-              {contact.email.sales}
+            <TextLink to={`mailto:${contact.email.licenses}`}>
+              {contact.email.licenses}
             </TextLink>.
           </Paragraph>
         </div>
