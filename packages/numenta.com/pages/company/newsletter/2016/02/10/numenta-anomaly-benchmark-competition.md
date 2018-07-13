@@ -21,7 +21,7 @@ This month, I am pleased to announce the
 offered in conjunction with the
 [IEEE WCCI (World Congress on Computational Intelligence)](http://www.wcci2016.org/programs.php?id=home).
 This contest follows the release last fall of our
-[Numenta Anomaly Benchmark](/applications/numenta-anomaly-benchmark/),
+[Numenta Anomaly Benchmark](/machine-intelligence-technology/numenta-anomaly-benchmark/),
 which is designed to test algorithms that detect anomalies in
 streaming data and reward early detection.
 

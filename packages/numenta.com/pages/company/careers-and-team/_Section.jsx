@@ -23,6 +23,7 @@ import ImageJeff from './images/team/jeff-hawkins.png'
 import ImageMike from './images/team/mike-farmwald.jpg'
 import ImageSubutai from './images/team/subutai-ahmad.png'
 import ImageChristy from './images/team/christy-maver.png'
+import ImageExecTeam from './images/team/numenta-exec-staff.png'
 import styles from './index.css'
 
 
@@ -56,6 +57,12 @@ const SectionCareers = (props, {route, config}) => {
             border={true}
             respond="mw"
             src={ImageCareers}
+          />
+          <Image
+            alt="Numenta Careers and Team – Management Team"
+            border={true}
+            respond="mw"
+            src={ImageExecTeam}
           />
         </div>
         <div className={styles.content}>

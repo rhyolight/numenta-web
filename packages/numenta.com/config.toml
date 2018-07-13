@@ -6,7 +6,7 @@ baseUrl = 'https://numenta.com'
 
 siteHost = 'Numenta.com'
 siteTitle = ''
-description = 'Leading the New Era of Machine Intelligence'
+description = 'Where Neuroscience Meets Machine Intelligence'
 company = 'Numenta'
 logo = "/assets/img/logo.png"
 [contact]
@@ -41,7 +41,7 @@ logo = "/assets/img/logo.png"
     # Org
     org = 'http://numenta.org'
     # social
-    facebook = 'https://www.facebook.com/OfficialNumenta'
+    facebook = 'https://www.facebook.com/officialnumenta'
     linkedin = 'https://www.linkedin.com/company/numenta'
     map = 'http://maps.google.com/maps?q=791+Middlefield+Road,+Redwood+City,+CA+94063'
     twitter = 'https://twitter.com/numenta'
@@ -56,41 +56,57 @@ logo = "/assets/img/logo.png"
 
   [links.in]  # internal paths
     # main/home pseudo-single page
-    home = '/'
-    nutshell = '/machine-intelligence-technology/numenta-in-a-nutshell/'
-    mission = '/company/mission-and-history/'
+    papers = '/neuroscience-research/research-publications/papers/'
+    sppaper = '/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/'
+    posters = '/neuroscience-research/research-publications/posters/'
+    publications = '/neuroscience-research/research-publications/'
     neuro = '/neuroscience-research/'
-    technology = '/machine-intelligence-technology/'
-    opensource = '/resources/open-source-community/'
-    applications = '/applications/'
-    partners = '/partners/'
+
+    businessprinciples = '/machine-intelligence-technology/licensing-and-partners/business-principles/'
+    licensingfaq = '/machine-intelligence-technology/licensing-and-partners/licensing-faq/'
+    partners = '/machine-intelligence-technology/licensing-and-partners/'
+    nutshell = '/machine-intelligence-technology/numenta-in-a-nutshell/'
     business = '/machine-intelligence-technology/business-strategy-and-ip/'
-    anomaly = '/applications/anomaly-detection-benchmark/'
-    resources = '/resources/papers-videos-and-more/'
-    careers = '/company/careers-and-team/'
+    technology = '/machine-intelligence-technology/'
+
     visitingscholar = '/company/careers-and-team/careers/visiting-scholar-program/'
-    contact = '/contact/'
-    # other site pages
-    bami = '/resources/biological-and-machine-intelligence/'
-    spweb = '/resources/biological-and-machine-intelligence/spatial-pooling-algorithm/'
-    sppdf = '/assets/pdf/spatial-pooling-algorithm/Spatial-Pooling-Algorithm-Details.pdf'
-    tm = '/resources/biological-and-machine-intelligence/temporal-memory-algorithm/'
-    blog = '/blog/'
+    mission = '/company/mission-and-history/'
+    careers = '/company/careers-and-team/'
     events = '/company/events/'
-    htmstudio = '/applications/htm-studio/'
-    nab = '/applications/numenta-anomaly-benchmark/'
     newsletter = '/company/newsletter/'
-    papers = '/resources/papers/'
-    sppaper = '/resources/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/'
-    papersvideos = '/resources/papers-videos-and-more/'
-    press = '/press/'
-    pressreleases = '/press/releases/'
-    presslinks = '/press/links/'
-    privacy = '/legal/privacy/'
+
+    spweb = '/resources/biological-and-machine-intelligence/spatial-pooling-algorithm/'
+    tm = '/resources/biological-and-machine-intelligence/temporal-memory-algorithm/'
+    bami = '/resources/biological-and-machine-intelligence/'
+
+    opensource = '/resources/open-source-community/'
+    papersvideos = '/resources/videos-podcasts-and-more/'
+    videos = '/resources/videos/'
+    podcasts = '/resources/podcasts/'
+    onintelligence = '/resources/on-intelligence/'
+    resources = '/resources/'
+
+    anomaly = '/machine-intelligence-technology/numenta-anomaly-benchmark/'
+    htmstudio = '/machine-intelligence-technology/htm-studio/'
+    nab = '/machine-intelligence-technology/numenta-anomaly-benchmark/'
+    applications = '/machine-intelligence-technology/applications/'
+
+    contact = '/contact/'
+    blog = '/blog/'
     sitemap = '/sitemap/'
-    terms = '/legal/terms/'
+
     license = '/assets/pdf/apps/licensing-guide.pdf'
     htmforstocks = '/assets/pdf/apps/htmforstocks.pdf'
+    sppdf = '/assets/pdf/spatial-pooling-algorithm/Spatial-Pooling-Algorithm-Details.pdf'
+
+    pressreleases = '/press/releases/'
+    presslinks = '/press/links/'
+    press = '/press/'
+
+    privacy = '/legal/privacy/'
+    terms = '/legal/terms/'
+
+    home = '/'
     [links.in.slides]
       sptalk = '/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf'
 

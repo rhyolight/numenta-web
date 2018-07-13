@@ -250,7 +250,7 @@ which will serve as a good channel to establish new connections and foster
 everlasting friendship among fellow counterparts.
 
 [email]: mailto:nab@numenta.org
-[nab]: /applications/numenta-anomaly-benchmark/
+[nab]: /machine-intelligence-technology/numenta-anomaly-benchmark/
 [nta]: /
 [wcci]: http://www.wcci2016.org/programs.php?id=home
 [win]: /blog/2016/08/10/numenta-anomaly-benchmark-nab-competition-2016-winners/

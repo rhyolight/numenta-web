@@ -11,7 +11,7 @@ keywords: development HTM Studio
 type: post
 ---
 
-It’s been a few months since we first launched [HTM Studio](/applications/htm-studio/) and
+It’s been a few months since we first launched [HTM Studio](/machine-intelligence-technology/htm-studio/) and
 things have calmed down from a development perspective. I sat down with Marion
 Le Borgne, project manager and lead engineer for HTM Studio, to get her thoughts
 on the process and efforts it took to build the application.   
@@ -69,7 +69,7 @@ but the new param finder skips this step and quickly finds the optimal
 parameters. Then, we spent about a month on the accuracy of the algorithm
 results. It was important that the app (and especially the new param finder)
 provided accurate results on various datasets. We added compatibility tests with
-[NAB](/applications/numenta-anomaly-benchmark/) to test the results.
+[NAB](/machine-intelligence-technology/numenta-anomaly-benchmark/) to test the results.
 
 #### Testing the UX
 

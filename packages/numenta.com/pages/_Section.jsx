@@ -96,7 +96,7 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="/resources/papers-videos-and-more/jeff-hawkins-simons-institute-talk/">
+            <TextLink to="/resources/videos/jeff-hawkins-simons-institute-talk/">
             Jeff Hawkins’ UC Berkeley Simons Institute Talk
               {' '} <Tag>New</Tag>
             </TextLink>

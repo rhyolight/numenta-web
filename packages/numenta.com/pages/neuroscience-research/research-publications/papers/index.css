@@ -1,0 +1,70 @@
+/**
+ * Numenta Web Platform and Sites source code
+ * MIT License (see LICENSE.txt)
+ * Copyright © 2005—2017 Numenta <http://numenta.com>
+ */
+
+.papers {
+  composes: center from 'tachyons';
+}
+
+.paper {
+  composes: b--black-10 from 'tachyons';
+  composes: bt from 'tachyons';
+  composes: pb1 from 'tachyons';
+  composes: pt3 from 'tachyons';
+}
+
+.title {
+  composes: f4 from 'tachyons';
+  composes: fw4 from 'tachyons';
+  composes: lh-title from 'tachyons';
+  composes: mb1 from 'tachyons';
+}
+
+.meta {
+  composes: lh-title from 'tachyons';
+  composes: mb1 from 'tachyons';
+}
+
+.remarks {
+  composes: silver from 'tachyons';
+  composes: i from 'tachyons';
+  composes: f6 from 'tachyons';
+}
+
+.columns {
+  composes: layout-columns from '../../../../static/assets/css/theme.css';
+}
+
+.content {
+  composes: layout-content from '../../../../static/assets/css/theme.css';
+}
+
+.category {
+  composes: ttc from 'tachyons';
+}
+
+.aside {
+  composes: mt1 from 'tachyons';
+  composes: tc from 'tachyons';
+  composes: layout-aside from '../../../../static/assets/css/theme.css';
+}
+
+.filter {
+  composes: f5 from 'tachyons';
+}
+
+.select {
+  composes: mr2 from 'tachyons';
+  composes: ba from 'tachyons';
+  composes: b--black-20 from 'tachyons';
+  composes: br2 from 'tachyons';
+  background-color: inherit;
+}
+@media screen and (min-width: 768px) {
+  .filter {
+    float: right;
+    text-align: right;
+  }
+}

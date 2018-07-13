@@ -101,7 +101,19 @@ class MarkdownWrapper extends React.Component {
       parent = 'BAMI'
     }
     else if (url === links.in.papersvideos) {
-      parent = 'Papers, Videos and More'
+      parent = 'Videos, Podcasts and More'
+    }
+    else if (url === links.in.onintelligence) {
+      parent = 'Videos, Podcasts and More'
+      url = links.in.papersvideos
+    }
+    else if (url === links.in.businessprinciples) {
+      parent = 'Licensing & Partners'
+      url = links.in.partners
+    }
+    else if (url === links.in.licensingfaq) {
+      parent = 'Licensing & Partners'
+      url = links.in.partners
     }
     else if (url) {
       const labels = url.split('/')
@@ -255,12 +267,16 @@ class MarkdownWrapper extends React.Component {
     }
 
     if (data.image && !data.hideImage) {
+      let image = data.image
+      if (!image.match(/^https?:\/\//)) {
+        image = `${path}${image}`
+      }
       if (data.video) {
         // media video
         media = (
           <Video
             border={true}
-            image={`${path}${data.image}`}
+            image={image}
             respond="mw"
             shadow={true}
             title={data.title}
@@ -274,7 +290,7 @@ class MarkdownWrapper extends React.Component {
         media = (
           <Sound
             border={true}
-            image={`${path}${data.image}`}
+            image={image}
             respond="mw"
             shadow={true}
             title={data.title}
@@ -291,7 +307,7 @@ class MarkdownWrapper extends React.Component {
             border={true}
             respond="mw"
             shadow={true}
-            src={`${path}${data.image}`}
+            src={image}
           />
         )
       }
