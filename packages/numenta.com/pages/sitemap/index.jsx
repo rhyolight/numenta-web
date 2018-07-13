@@ -17,8 +17,6 @@ import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import {MAIN_SECTION_LIST} from '../_MainSections'
 
-import styles from './index.css'
-
 const title = 'Sitemap'
 
 
@@ -72,144 +70,66 @@ const SitemapPage = (props, {config, route}) => {
     )
   const items = zipObject(categories, posts)
 
-  const sections = MAIN_SECTION_LIST.map((section) => (
-    <ListItem>
+  const sections = MAIN_SECTION_LIST.map((section) => {
+    let titleText = section.title
+    if (section.component.key === 'sectionHome') {
+      titleText = 'Home'
+    }
+    return (<ListItem>
       <TextLink to={section.url}>
-        {section.title}
+        {titleText}
       </TextLink>
-    </ListItem>
-
-  ))
+    </ListItem>)
+  })
   return (
     <article>
       <Helmet title={title} />
       <Section headline={true} open={true} title={title}>
+        <Anchor name="main" />
+        <SubTitle>Main</SubTitle>
+        <ListOrder marker="disc">
+          {sections}
+        </ListOrder>
 
-        <div className={styles.columns}>
-          <div className={styles.content}>
+        <Anchor name="blog" />
+        <SubTitle>
+          <TextLink to={links.in.blog}>
+            Blog
+          </TextLink>
+        </SubTitle>
+        <ListOrder marker="disc">
+          {items.blog}
+        </ListOrder>
 
-            <Anchor name="main" />
-            <SubTitle>Main</SubTitle>
-            <ListOrder marker="disc">
-              {sections}
-            </ListOrder>
-            <Anchor name="other" />
-            <SubTitle>Other</SubTitle>
-            <ListOrder marker="disc">
-              <ListItem>
-                <TextLink to={links.in.privacy}>
-                  Privacy Policy
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.terms}>
-                  Terms of Service
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.sitemap}>
-                  Sitemap
-                </TextLink>
-              </ListItem>
-            </ListOrder>
+        <Anchor name="events" />
+        <SubTitle>
+          <TextLink to={links.in.events}>
+            Events
+          </TextLink>
+        </SubTitle>
+        <ListOrder marker="disc">
+          {items.events}
+        </ListOrder>
 
-          </div>
-          <div className={styles.aside}>
+        <Anchor name="newsletter" />
+        <SubTitle>
+          <TextLink to={links.in.newsletter}>
+            Newsletter
+          </TextLink>
+        </SubTitle>
+        <ListOrder marker="disc">
+          {items.newsletter}
+        </ListOrder>
 
-            <Anchor name="our-work" />
-            <SubTitle>Our Work</SubTitle>
-            <ListOrder marker="disc">
-              <ListItem>
-                <TextLink to={links.in.bami}>
-                  Biological and Machine Intelligence
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.htmstudio}>
-                  HTM Studio
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.nab}>
-                  Numenta Anomaly Benchmark
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.papers}>
-                  Research Papers
-                </TextLink>
-              </ListItem>
-            </ListOrder>
-
-            <Anchor name="resources" />
-            <SubTitle>
-              <TextLink to={links.in.resources}>
-                Resources
-              </TextLink>
-            </SubTitle>
-            <ListOrder marker="disc">
-              {items.resources}
-            </ListOrder>
-
-          </div>
-        </div>
-        <div className={styles.columns}>
-          <div className={styles.content}>
-
-            <Anchor name="newsletter" />
-            <SubTitle>
-              <TextLink to={links.in.newsletter}>
-                Newsletter
-              </TextLink>
-            </SubTitle>
-            <ListOrder marker="disc">
-              {items.newsletter}
-            </ListOrder>
-
-          </div>
-          <div className={styles.aside}>
-
-            <Anchor name="press" />
-            <SubTitle>
-              <TextLink to={links.in.press}>
-                Press Releases
-              </TextLink>
-            </SubTitle>
-            <ListOrder marker="disc">
-              {items.press}
-            </ListOrder>
-
-          </div>
-        </div>
-        <div className={styles.columns}>
-          <div className={styles.content}>
-
-            <Anchor name="events" />
-            <SubTitle>
-              <TextLink to={links.in.events}>
-                Events
-              </TextLink>
-            </SubTitle>
-            <ListOrder marker="disc">
-              {items.events}
-            </ListOrder>
-
-          </div>
-          <div className={styles.aside}>
-
-            <Anchor name="blog" />
-            <SubTitle>
-              <TextLink to={links.in.blog}>
-                Blog
-              </TextLink>
-            </SubTitle>
-            <ListOrder marker="disc">
-              {items.blog}
-            </ListOrder>
-
-          </div>
-        </div>
-
+        <Anchor name="press" />
+        <SubTitle>
+          <TextLink to={links.in.press}>
+            Press Releases
+          </TextLink>
+        </SubTitle>
+        <ListOrder marker="disc">
+          {items.press}
+        </ListOrder>
       </Section>
     </article>
   )
