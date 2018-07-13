@@ -4,13 +4,8 @@
 
 import React from 'react'
 
-import Anchor from 'numenta-web-shared-components/lib/Anchor'
 import Image from 'numenta-web-shared-components/lib/Image'
-import ListItem from 'numenta-web-shared-components/lib/ListItem'
-import ListOrder from 'numenta-web-shared-components/lib/ListOrder'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
-import Strong from 'numenta-web-shared-components/lib/Strong'
-import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Video from 'numenta-web-shared-components/lib/Video'
 
@@ -27,8 +22,6 @@ const SectionMission = (props, {config}) => {
 
   return (
     <article>
-      <Anchor name="mission" />
-      <SubTitle>Mission</SubTitle>
       <div className={styles.columns}>
         <div className={styles.aside}>
           <Video
@@ -42,69 +35,32 @@ const SectionMission = (props, {config}) => {
         </div>
         <div className={styles.content}>
           <Paragraph lead={true}>
-            Numenta’s mission is to be a leader in the new era of machine
-            intelligence.  We believe the brain is the best example of an
-            intelligent system, providing a roadmap for building intelligent
-            machines. The brain’s center of intelligence, the neocortex,
-            controls a wide range of functions using a common set of
-            principles.
+            Numenta was founded with a dual mission: to reverse-engineer the
+            neocortex and apply that knowledge to the creation of machine
+            intelligence. Over the years, we’ve had periods where we’ve focused
+            more on commercial efforts, but our primary mission has always been
+            a scientific one. As a result, our focus has reverted back to
+            progressing our <TextLink to={links.in.neuro}>neuroscience research
+            </TextLink>.
           </Paragraph>
           <Paragraph>
-            Because today’s computers are programmed, they can only do
-            exactly as they are told. In stark contrast, intelligent
-            machines continuously and automatically learn patterns in their
-            environment without being programmed, enabling them to tackle
-            problems in entirely new ways. Intelligent machines that learn will
-            have an enormous beneficial impact in the coming decades.
+            We have made significant progress in understanding the neocortex and
+            building software based on those principles. In 2013 we decided we
+            wanted to be transparent and make our work available to the broader
+            community. We put all of our research and software implementations
+            into <TextLink to={links.out.org}>open source</TextLink>, and we
+            began publishing <TextLink to={links.in.papers}>peer-reviewed papers
+            </TextLink> with the goal of documenting all of our discoveries in
+            open access scientific journals.
           </Paragraph>
-          <Paragraph>
-            We have made significant progress in understanding the neocortex
-            and building software based on those principles. We put all of our
-            research and software implementations into open source and encourage
-            others to join us in building a community. From a commercial point
-            of view, we {' '}
-            <TextLink to={links.in.license}>
-              license our technology and intellectual property.
-            </TextLink>
-          </Paragraph>
+          <Image
+            alt="Numenta Historical Timeline"
+            respond="mw"
+            shadow={false}
+            src={ImageTimeline}
+          />
         </div>
       </div>
-
-      <Anchor name="history" />
-      <SubTitle>History</SubTitle>
-      <Image
-        alt="Numenta Historical Timeline"
-        respond="mw"
-        shadow={false}
-        src={ImageTimeline}
-      />
-      <Paragraph>
-        Numenta was established in 2005 in Redwood City, CA.  Our progress
-        can be categorized by three distinct phases:
-      </Paragraph>
-      <ListOrder marker="decimal">
-        <ListItem>
-          <Strong>
-            Testing the HTM theory and developing first generation
-            algorithms.
-          </Strong> {' '}
-          During this phase, vision was a main application focus area.
-        </ListItem>
-        <ListItem>
-          <Strong>
-            Developing a second generation of HTM Learning algorithms with
-            stronger biological correlation and a roadmap for future work.
-          </Strong> {' '}
-          During this phase, we continued to explore applications, built a
-          prediction engine, and started our open source project.
-        </ListItem>
-        <ListItem>
-          <Strong>
-            Researching the third generation of HTM Learning algorithms.
-          </Strong> {' '}
-          We are currently focusing on sensorimotor integration.
-        </ListItem>
-      </ListOrder>
     </article>
   )
 }

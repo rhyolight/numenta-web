@@ -36,7 +36,7 @@ Sequence learning continues to be an active area of research at Numenta. We are 
 
 Although primarily a biological model, our sequence learning framework has practical applications in temporal prediction and anomaly detection. In [4] we show how our sequence learning algorithm is applied to temporal prediction with streaming data. We compare the algorithm against a number of common machine learning techniques. Our model achieves static performance on par with state of the art techniques, while displaying improved performance on several important properties like continuous online learning, the ability to handle multiple predictions, robustness to sensor noise and fault tolerance, and good performance without the need for task-specific tuning.
 
-Our sequence learning framework is also applicable to [anomaly detection for real-time streaming data](/applications/numenta-anomaly-benchmark/). Most approaches to anomaly detection process data in batches, whereas streaming applications require processing and learning with each data point. In [5] we compared our model against a number of anomaly detection techniques on a comprehensive benchmark dataset, where it achieved the top score.
+Our sequence learning framework is also applicable to [anomaly detection for real-time streaming data](/machine-intelligence-technology/numenta-anomaly-benchmark/). Most approaches to anomaly detection process data in batches, whereas streaming applications require processing and learning with each data point. In [5] we compared our model against a number of anomaly detection techniques on a comprehensive benchmark dataset, where it achieved the top score.
 
 </section>
 

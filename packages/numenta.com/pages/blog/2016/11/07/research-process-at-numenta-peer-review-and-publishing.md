@@ -132,10 +132,10 @@ that you’ll join us in our progress. Thanks for reading about research at
 [Numenta][14].
 
 [1]: /machine-intelligence-technology/
-[2]: /applications/numenta-anomaly-benchmark/
+[2]: /machine-intelligence-technology/numenta-anomaly-benchmark/
 [3]: https://github.com/numenta/nupic
-[4]: /applications/
-[5]: /applications/htm-studio/
+[4]: /machine-intelligence-technology/applications/
+[5]: /machine-intelligence-technology/htm-studio/
 [6]: /resources/papers/
 [7]: https://en.wikipedia.org/wiki/Preprint
 [8]: https://arxiv.org/help/general

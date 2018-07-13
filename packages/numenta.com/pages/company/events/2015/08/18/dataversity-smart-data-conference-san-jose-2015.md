@@ -86,7 +86,7 @@ Open Hours:
 ### Application Demos
 
 * [Grok](http://grokstream.com)
-* [HTM for Stocks](/applications/)
+* [HTM for Stocks](/machine-intelligence-technology/applications/)
 * Rogue Behavior detection:
   [Whitepaper](/assets/pdf/whitepapers/Rogue%20Behavior%20Detection%20White%20Paper.pdf) (PDF),
   [Source Code](https://github.com/numenta/nupic.rogue)

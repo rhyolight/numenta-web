@@ -21,7 +21,11 @@ const PostListRow = ({post}) => {
   const {data, path} = post
   const target = (data.type === 'link') ? data.link : path
   let media
-  if (data.image) {
+  let image = data.image
+  if (image) {
+    if (!image.match(/^https?:\/\//)) {
+      image = `${path}${image}`
+    }
     media = (  // media image (default)
       <ImageLink to={target}>
         <Image
@@ -29,7 +33,7 @@ const PostListRow = ({post}) => {
           border={true}
           respond="mw"
           shadow={true}
-          src={`${path}${data.image}`}
+          src={image}
         />
       </ImageLink>
     )
@@ -40,7 +44,7 @@ const PostListRow = ({post}) => {
     media = (
       <Video
         border={true}
-        image={`${path}${data.image}`}
+        image={image}
         respond="mw"
         shadow={true}
         title={data.title}
@@ -54,7 +58,7 @@ const PostListRow = ({post}) => {
     media = (
       <Sound
         border={true}
-        image={`${path}${data.image}`}
+        image={image}
         respond="mw"
         shadow={true}
         title={data.title}

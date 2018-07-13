@@ -51,7 +51,7 @@ During the past two years, Numenta has created a series of example applications
 to illustrate the capabilities of HTM, beginning with Grok for IT Analytics on
 AWS. The HTM technology also has been applied to anomaly detection in stock
 prices and volumes
-([HTM for Stocks](/applications/)),
+([HTM for Stocks](/machine-intelligence-technology/applications/)),
 human behavior, geo-spatial tracking data, and to the predication and
 classification of natural language. For the latter application, Numenta recently
 announced a partnership and licensing agreement with

@@ -48,7 +48,7 @@ As a company with a scientific mission to understand how the brain learns, it’
 been hard for us to make this technology accessible, which is why we are so
 proud of this release. If you’d like to try it, you can download the Windows or
 Mac version, view our tutorials and give us feedback at
-[https://numenta.com/htm-studio/](/applications/htm-studio/). Feel free to write us about
+[https://numenta.com/htm-studio/](/machine-intelligence-technology/htm-studio/). Feel free to write us about
 interesting anomalies that you find – we hope to share guest blog posts of the
 best ones.
 
@@ -89,7 +89,7 @@ competition. This [short video][19] explains how easy it is to win up to $5,000.
 
 [1]: /machine-intelligence-technology/
 [2]: http://www.businesswire.com/news/home/20160627005453/en/Numenta-Releases-HTM-Studio
-[3]: /applications/htm-studio/
+[3]: /machine-intelligence-technology/htm-studio/
 [4]: http://youtu.be/f80ewxLvgks
 [5]: mailto:ycui@numenta.com
 [6]: /company/events/2016/06/18/dendritic-anatomy-molecules-and-function-heraklion-crete/

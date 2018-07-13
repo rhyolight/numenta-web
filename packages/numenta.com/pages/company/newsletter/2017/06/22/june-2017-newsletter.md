@@ -47,7 +47,7 @@ HTM, excels at finding anomalies in streaming, time-series data because
 it displays the characteristics of an ideal detector: it can process
 data in real time, learn continuously and is fully automated. Second, it
 presents the results of running selected algorithms, including HTM, on
-the [Numenta Anomaly Benchmark(NAB)](/applications/numenta-anomaly-benchmark/).
+the [Numenta Anomaly Benchmark(NAB)](/machine-intelligence-technology/numenta-anomaly-benchmark/).
 First released in late 2015, NAB is an open source benchmark that contains
 real-world data streams with known, labeled anomalies. It was created to
 provide a controlled yet open source tool that allows anyone to test anomaly
