@@ -25,7 +25,7 @@ import SectionTechnology from './machine-intelligence-technology/_Section'
 import SectionPublications
   from './neuroscience-research/research-publications/_Section'
 
-const mainSectionList = [
+const MAIN_SECTION_LIST = [
   {
     component: <SectionHome key="sectionHome" />,
     title: 'Where Neuroscience Meets Machine Intelligence',
@@ -90,12 +90,12 @@ const mainSectionList = [
  * @returns {Object} - Next MainSection in order after `current`.
  */
 function getNextSection(current) {
-  const nextIndex = findIndex(mainSectionList, (item) => (
+  const nextIndex = findIndex(MAIN_SECTION_LIST, (item) => (
     current.key === item.component.key
   ))
 
   if (nextIndex >= 0) {
-    return mainSectionList[nextIndex + 1]
+    return MAIN_SECTION_LIST[nextIndex + 1]
   }
   return null
 }
@@ -108,7 +108,7 @@ function getNextSection(current) {
  */
 const MainSections = ({current}) => {
   const details = {}
-  const mainComponents = mainSectionList.map(({component, title, url}) => {
+  const mainComponents = MAIN_SECTION_LIST.map(({component, title, url}) => {
     const {key} = component
     details[key] = {title, url}
     return component
@@ -148,4 +148,4 @@ MainSections.propTypes = {
   current: React.PropTypes.element.isRequired,
 }
 
-export {getNextSection, MainSections as default}
+export {getNextSection, MAIN_SECTION_LIST, MainSections as default}

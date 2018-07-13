@@ -15,6 +15,7 @@ import Spacer from 'numenta-web-shared-components/lib/Spacer'
 import SubTitle from 'numenta-web-shared-components/lib/SubTitle'
 import Subtle from 'numenta-web-shared-components/lib/Subtle'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
+import {MAIN_SECTION_LIST} from '../_MainSections'
 
 import styles from './index.css'
 
@@ -71,6 +72,14 @@ const SitemapPage = (props, {config, route}) => {
     )
   const items = zipObject(categories, posts)
 
+  const sections = MAIN_SECTION_LIST.map((section) => (
+    <ListItem>
+      <TextLink to={section.url}>
+        {section.title}
+      </TextLink>
+    </ListItem>
+
+  ))
   return (
     <article>
       <Helmet title={title} />
@@ -82,83 +91,8 @@ const SitemapPage = (props, {config, route}) => {
             <Anchor name="main" />
             <SubTitle>Main</SubTitle>
             <ListOrder marker="disc">
-              <ListItem>
-                <TextLink to={links.in.home}>
-                  Home
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.nutshell}>
-                  Numenta in a Nutshell
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.mission}>
-                  Mission &amp; History
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.neuro}>
-                  Neuroscience Research
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.technology}>
-                  Machine Intelligence Technology
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.opensource}>
-                  Open Source Community
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.applications}>
-                  Applications
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.partners}>
-                  Partners
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.business}>
-                  Business Strategy &amp; IP
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.anomaly}>
-                  Anomaly Detection Benchmark
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.resources}>
-                  Papers, Videos &amp; More
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.careers}>
-                  Careers &amp; Team
-                </TextLink>
-              </ListItem>
-              <ListItem>
-                <TextLink to={links.in.contact}>
-                  Contact
-                </TextLink>
-              </ListItem>
+              {sections}
             </ListOrder>
-
-            <Anchor name="careers" />
-            <SubTitle>
-              <TextLink to={links.in.careers}>
-                Careers
-              </TextLink>
-            </SubTitle>
-            <ListOrder marker="disc">
-              {items.careers}
-            </ListOrder>
-
             <Anchor name="other" />
             <SubTitle>Other</SubTitle>
             <ListOrder marker="disc">
