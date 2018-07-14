@@ -61,4 +61,4 @@ Distributed Representations (SDRs), sequence memory and adaptive learning. For
 further reading: the basic principles of intelligence are described in Jeff
 Hawkins' book, *On Intelligence*. His theories of sparse distributed
 representations were developed after the book was published, and are described
-further in our [resources section](/resources/papers-videos-and-more/).
+further in our resources section.

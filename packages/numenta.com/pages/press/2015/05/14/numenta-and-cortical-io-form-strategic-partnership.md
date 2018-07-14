@@ -61,7 +61,7 @@ machine intelligence. Numenta builds technology that helps companies
 automatically and intelligently act on machine generated data.  Its biologically
 inspired machine learning technology is based on a theory of the neocortex first
 described in co-founder Jeff Hawkins’ book,
-[On Intelligence](/resources/papers-videos-and-more/). Its first commercial product,
+[On Intelligence](/resources/on-intelligence/). Its first commercial product,
 called [Grok](http://grokstream.com), offers a breakthrough solution for
 anomaly detection for IT Operations. In addition, Numenta has created
 [NuPIC](http://numenta.org) (Numenta Platform for Intelligent Computing) as an
