@@ -13,7 +13,7 @@ type: post
 
 There are some pretty interesting conversations that take place within the walls of Numenta on a regular basis - from visiting neuroscientists exploring connections between their work and our theories to Numenta employees drawing up examples of a recent discovery in action. These conversations are an important part of our research process.
 
-And now we want to bring these conversations to you. That’s why we’re launching a new podcast series called *Numenta On Intelligence* that I’m co-hosting with our Open Source Community Manager, Matt Taylor.
+And now we want to bring these conversations to you. That’s why we’re launching a new podcast series called *[Numenta On Intelligence](https://www.buzzsprout.com/188368)* that I’m co-hosting with our Open Source Community Manager, Matt Taylor.
 
 Just like it sounds, *Numenta On Intelligence* is a podcast about intelligence - specifically, how it works in the brain and how understanding the biological principles may be the most efficient path to machine intelligence.  
 
