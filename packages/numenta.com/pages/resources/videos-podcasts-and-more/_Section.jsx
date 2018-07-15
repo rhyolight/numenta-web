@@ -47,7 +47,7 @@ const SectionResources = (props, {config}) => {
                 firsthand.
             </ListItem>
             <ListItem>
-              <TextLink to={links.in.podcasts}>Podcasts</TextLink><Spacer />
+              <TextLink to={links.in.podcasts}>Guest Podcasts</TextLink><Spacer />
               Occasionally, our co-founder Jeff Hawkins appears as a guest on
               podcasts to discuss a variety of neuroscience topics.
             </ListItem>
