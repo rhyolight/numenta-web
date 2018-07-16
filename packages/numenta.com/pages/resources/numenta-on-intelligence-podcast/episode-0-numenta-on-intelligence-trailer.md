@@ -16,6 +16,8 @@ type: post
 
 <script src="https://www.buzzsprout.com/188368/742108-episode-0-numenta-on-intelligence-trailer.js?player=small" type="text/javascript" charset="utf-8"></script>
 
+In this episode, Numenta's Matthew Taylor and Christy Maver introduce the Numenta On Intelligence podcast. Whether you’re an algorithms expert, brain science enthusiast, or simply curious about how your brain works, this podcast is for you! Tune in to the Numenta On Intelligence podcast.
+
 **Transcript - Episode 0**
 
 Matt: Hi, I’m Matt Taylor
