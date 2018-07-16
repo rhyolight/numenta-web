@@ -82,33 +82,10 @@ logo = "/assets/img/logo.png"
     opensource = '/resources/open-source-community/'
     papersvideos = '/resources/videos-podcasts-and-more/'
     videos = '/resources/videos/'
+    numentaonintelligencepodcast = '/resources/numenta-on-intelligence-podcast/'
     podcasts = '/resources/podcasts/'
     onintelligence = '/resources/on-intelligence/'
     resources = '/resources/'
-
-    anomaly = '/machine-intelligence-technology/numenta-anomaly-benchmark/'
-    htmstudio = '/machine-intelligence-technology/htm-studio/'
-    nab = '/machine-intelligence-technology/numenta-anomaly-benchmark/'
-    applications = '/machine-intelligence-technology/applications/'
-
-    contact = '/contact/'
-    blog = '/blog/'
-    sitemap = '/sitemap/'
-
-    license = '/assets/pdf/apps/licensing-guide.pdf'
-    htmforstocks = '/assets/pdf/apps/htmforstocks.pdf'
-    sppdf = '/assets/pdf/spatial-pooling-algorithm/Spatial-Pooling-Algorithm-Details.pdf'
-
-    pressreleases = '/press/releases/'
-    presslinks = '/press/links/'
-    press = '/press/'
-
-    privacy = '/legal/privacy/'
-    terms = '/legal/terms/'
-
-    home = '/'
-    [links.in.slides]
-      sptalk = '/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf'
 
 [moments]
   post = 'YYYY/MM/DD'
