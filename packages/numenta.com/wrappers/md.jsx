@@ -60,7 +60,6 @@ class MarkdownWrapper extends React.Component {
     // add clientside disqus comments below posts
     const postTypes = [
       links.in.blog,
-      links.in.careers,
       links.in.events,
       links.in.newsletter,
       links.in.press,
