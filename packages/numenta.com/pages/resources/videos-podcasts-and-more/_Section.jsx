@@ -51,7 +51,7 @@ const SectionResources = (props, {config}) => {
               Intelligence Podcast</TextLink><Spacer />
               Our monthly podcast is about intelligence – how it works in the
               brain, what the key principles are, and how understanding those
-              principles may be the fastest path to machine intelligence. 
+              principles may be the fastest path to machine intelligence.
             </ListItem>
             <ListItem>
               <TextLink to={links.in.podcasts}>Other
