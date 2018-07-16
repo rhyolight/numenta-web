@@ -9,7 +9,7 @@ org: Christy Maver & Matt Taylor
 section: overview
 sort: a
 tags: Numenta On Intelligence, Numenta podcast
-title: Episode 0: Numenta On Intelligence Trailer
+title: "Episode 0: Numenta On Intelligence Trailer"
 keywords: Numenta On Intelligence, Numenta podcast
 type: post
 ---
