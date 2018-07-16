@@ -18,7 +18,7 @@ import Pagination from '../../../components/Pagination'
 import styles from './index.css'
 import Metatags from './_metatags.md'
 
-const title = 'Podcasts'
+const title = 'Numenta On Intelligence Podcast'
 const ITEMS_PER_PAGE = 5
 
 /**
@@ -75,7 +75,7 @@ export default class PodcastsPage extends React.Component {
     const to = from + ITEMS_PER_PAGE
 
     // Filter all markdown files below the current location
-    const pathname = links.in.podcasts.substr(1)
+    const pathname = links.in.numentaonintelligencepodcast.substr(1)
     const filter = new RegExp(`^${pathname}.*\\.md`)
     const allPosts = pages.filter(({file}) => file.path.match(filter))
 
