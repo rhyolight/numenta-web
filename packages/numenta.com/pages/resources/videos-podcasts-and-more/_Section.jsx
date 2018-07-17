@@ -47,7 +47,15 @@ const SectionResources = (props, {config}) => {
                 firsthand.
             </ListItem>
             <ListItem>
-              <TextLink to={links.in.podcasts}>Podcasts</TextLink><Spacer />
+              <TextLink to={links.in.numentaonintelligencepodcast}>Numenta On
+              Intelligence Podcast</TextLink><Spacer />
+              Our monthly podcast is about intelligence – how it works in the
+              brain, what the key principles are, and how understanding those
+              principles may be the fastest path to machine intelligence.
+            </ListItem>
+            <ListItem>
+              <TextLink to={links.in.podcasts}>Other
+              Podcasts</TextLink><Spacer />
               Occasionally, our co-founder Jeff Hawkins appears as a guest on
               podcasts to discuss a variety of neuroscience topics.
             </ListItem>
@@ -55,7 +63,7 @@ const SectionResources = (props, {config}) => {
               <TextLink to={links.out.htmschool.channel}>HTM School</TextLink>
               <Spacer />This YouTube series is designed to educate the general
               public about Hierarchical Temporal Memory (HTM). Each 10-15 minute
-              episode dives into a particular topic of HTM theory.
+              episode dives into a particular topic.
             </ListItem>
             <ListItem>
               <TextLink to={links.in.opensource}>Open Source Community

@@ -81,6 +81,7 @@ logo = "/assets/img/logo.png"
     opensource = '/resources/open-source-community/'
     papersvideos = '/resources/videos-podcasts-and-more/'
     videos = '/resources/videos/'
+    numentaonintelligencepodcast = '/resources/numenta-on-intelligence-podcast/'
     podcasts = '/resources/podcasts/'
     onintelligence = '/resources/on-intelligence/'
     resources = '/resources/'
@@ -108,7 +109,7 @@ logo = "/assets/img/logo.png"
     home = '/'
     [links.in.slides]
       sptalk = '/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf'
-
+      
 [moments]
   post = 'YYYY/MM/DD'
   human = 'ddd, MMM DD, YYYY'
