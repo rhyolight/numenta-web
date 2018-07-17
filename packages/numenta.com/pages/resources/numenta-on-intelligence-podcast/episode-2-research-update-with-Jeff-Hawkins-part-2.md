@@ -2,14 +2,14 @@
 author: Numenta
 description: In this in-depth interview with Numenta founder Jeff Hawkins, host Matt Taylor discussed with Numenta Co-founder Jeff Hawkins how HTM sequence memory builds object representations in space through movement.
 date: 2018/07/18
-image: ../images/episode-2-part-2.png
+image: ../images/episode-2-part-2.jpg
 link: https://www.buzzsprout.com/188368/742108-episode-0-numenta-on-intelligence-trailer
 media: podcast
 org: Matt Taylor & Jeff Hawkins
 section: overview
 sort: c
 tags: Numenta On Intelligence, Numenta podcast
-title: "Episode 1: Research Update with Jeff Hawkins - Part 1"
+title: "Episode 2: Research Update with Jeff Hawkins - Part 2"
 keywords: object representation, Numenta research update
 type: post
 ---
