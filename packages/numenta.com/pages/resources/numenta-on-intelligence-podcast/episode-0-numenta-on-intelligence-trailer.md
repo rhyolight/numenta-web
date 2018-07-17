@@ -39,3 +39,5 @@ In this episode, Numenta's Matthew Taylor and Christy Maver introduce the Nument
 **Christy:** We have lots of great guests lined up, from neuroscientists to Numenta researchers, and maybe some surprise guests along the way, too.
 
 **Matt:** Tune in to the Numenta On Intelligence Podcast coming soon to a podcast provider near you.
+
+**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
