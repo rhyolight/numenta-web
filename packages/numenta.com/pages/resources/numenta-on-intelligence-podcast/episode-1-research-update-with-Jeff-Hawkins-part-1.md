@@ -7,7 +7,7 @@ link: https://www.buzzsprout.com/188368/742108-episode-0-numenta-on-intelligence
 media: podcast
 org: Matt Taylor & Jeff Hawkins
 section: overview
-sort: b
+sort: y
 tags: Numenta On Intelligence, Numenta podcast
 title: "Episode 1: Research Update with Jeff Hawkins - Part 1"
 keywords: object compositionality, behavior

@@ -7,7 +7,7 @@ link: https://www.buzzsprout.com/188368/742108-episode-0-numenta-on-intelligence
 media: podcast
 org: Matt Taylor & Jeff Hawkins
 section: overview
-sort: c
+sort: x
 tags: Numenta On Intelligence, Numenta podcast
 title: "Episode 2: Research Update with Jeff Hawkins - Part 2"
 keywords: object representation, Numenta research update

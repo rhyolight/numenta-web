@@ -7,7 +7,7 @@ link: https://www.buzzsprout.com/188368/742108-episode-0-numenta-on-intelligence
 media: podcast
 org: Christy Maver & Matt Taylor
 section: overview
-sort: a
+sort: z
 tags: Numenta On Intelligence, Numenta podcast
 title: "Episode 0: Numenta On Intelligence Trailer"
 keywords: Numenta On Intelligence, Numenta podcast
