@@ -2,7 +2,7 @@
 author: Numenta
 description: In this in-depth interview with Numenta Co-founder Jeff Hawkins, host Matt Taylor dives deeply into concepts of location and object representation in the neocortex. In Part 1 of this 2-part interview, they discuss location, unique spaces, object compositionality & behavior, movement and learning, sequence memory, and the definition of “space” itself.
 date: 2018/07/18
-image: ../images/episode-1-part-1.jpg
+image: ../images/episode-1-part-1.png
 link: https://www.buzzsprout.com/188368/742108-episode-0-numenta-on-intelligence-trailer
 media: podcast
 org: Matt Taylor & Jeff Hawkins
