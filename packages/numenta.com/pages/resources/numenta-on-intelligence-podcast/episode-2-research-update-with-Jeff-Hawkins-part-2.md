@@ -18,9 +18,10 @@ type: post
 
 In the conclusion of our two-part interview with Numenta Co-founder Jeff Hawkins, host Matt Taylor asks Jeff about how HTM sequence memory builds object representations in space through movement. If you missed it, you can [listen to Part 1 here](/resources/numenta-on-intelligence-podcast/episode-1-research-update-with-Jeff-Hawkins-part-1/).
 
+## Show Notes
+
 For educational material regarding the topics discussed in this podcast episode, you have a few options. If you want to be fed the theory, watch [HTM School](https://numenta.org/htm-school/). If you need more details, there are [many papers to explore](/neuroscience-research/research-publications/papers/). If you want to talk to others about HTM theory, get involved in our [community](https://discourse.numenta.org/). For a primer on grid cells, have a look at this [interactive blog post](/blog/2018/05/25/how-grid-cells-map-space/). For more on how we think grid cells work within the neocortex, watch Jeff’s recent talk, [Does the Neocortex Use Grid Cell-Like Mechanisms to Learn the Structure of Objects?](/resources/videos/jeff-hawkins-simons-institute-talk/)
 
-## Show Notes
 *	[1:16] Different types of grid cells and orientation – what do we need to know?
 *	[5:17] Border cells
 *	[6:36] Object representation
