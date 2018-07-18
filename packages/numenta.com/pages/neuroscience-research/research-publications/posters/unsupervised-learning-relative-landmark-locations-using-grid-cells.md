@@ -1,7 +1,7 @@
 ---
 author: Scott Purdy, Subutai Ahmad
-title: "Unsupervised Learning of Relative Landmark Locations Using Grid Cells"
-header: "Robust Dendritic Computations With Sparse Distributed Representations"
+title: "CNS 2018: Learning Relative Landmark Locations"
+header: "Unsupervised Learning of Relative Landmark Locations Using Grid Cells"
 description: "This poster introduces a proposal that the brain uses grid cells to perform unsupervised learning of landmark locations. It shows the results of a network model trained on 1000 environments, compared to a bag-of-features model. It also lays out discussion topics for future extensions of this work."
 keywords: "CNS 2018 grid cells poster"
 date: 2018/07/18
