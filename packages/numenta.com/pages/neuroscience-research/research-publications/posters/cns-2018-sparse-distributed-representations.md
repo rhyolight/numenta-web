@@ -16,7 +16,7 @@ type: post
 
 Cortex encodes information with sparse distributed patterns. How accurately can neurons recognize sparse patterns?
 
-**This poster is very similar to a [poster we presented at Cosyne 2018](/research-publications/posters/cosyne-2018-sparse-distributed-representations/) in March on the same topic of sparse distributed representations. It examines how accurately neurons can recognize these sparse patterns by showing:**
+**This poster is very similar to a [poster we presented at Cosyne 2018](/neuroscience-research/research-publications/posters/cosyne-2018-sparse-distributed-representations/) in March on the same topic of sparse distributed representations. It examines how accurately neurons can recognize these sparse patterns by showing:**
 
 1.	Scaling laws for computing error probabilities.
 2.	High dimensional sparse patterns can be classified extremely reliably, even with large amounts of noise.

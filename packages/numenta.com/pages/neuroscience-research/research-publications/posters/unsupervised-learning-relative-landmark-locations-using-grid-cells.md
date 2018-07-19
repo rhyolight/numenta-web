@@ -16,11 +16,11 @@ type: post
 
 This poster walks through a proposal of how the brain uses grid cells to perform unsupervised learning of landmark locations. It shows results of a network model trained on 1000 environments, each with 16 locations containing random landmarks from a pool of 5 unique landmarks.  The network is able to distinguish between environments with substantial noise, while a bag-of-features model is not.
 
-**Background
+**Background**
 * Grid cells provide location codes, spatially related through path integration
 * Multiple grid cell modules provide unique location codes for many large environments
 * We have shown that displacement modules encode spatial relationships between grid cell reference frames
 
-**Contributions
+**Contributions**
 * We propose that displacement cells encode the relative position of pairs of landmarks and that sets of displacement cells provide robust representations of environments
 * Simulations show the model’s ability to learn and distinguish among many complex environments with high noise tolerance
