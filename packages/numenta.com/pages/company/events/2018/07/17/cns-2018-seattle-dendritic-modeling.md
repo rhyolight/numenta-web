@@ -32,7 +32,7 @@ dropcap: false
 
 ## Slides:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ILfcRYOKiR0HiP" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/the-predictive-neuron-how-active-dendrites-enable-spatiotemporal-computation-in-the-neocortex" title="The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex by Subutai Ahmad (07/18/18)" target="\_blank">The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation in the Neocortex by Subutai Ahmad (07/18/18)</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/a4v2JrE6vM8mTo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/the-predictive-neuron-how-active-dendrites-enable-spatiotemporal-computation-in-the-neocortex" title="The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation In The Neocortex" target="_blank">The Predictive Neuron: How Active Dendrites Enable Spatiotemporal Computation In The Neocortex</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="_blank">Numenta</a></strong> </div>
 <hr>
 
 ### Workshop talk 2: Locations in the Neocortex: A Theory of Sensorimotor Prediction Using Cortical Grid Cells
@@ -43,7 +43,7 @@ dropcap: false
 
 ## Slides:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ILfcRYOKiR0HiP" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/locations-in-the-neocortex-a-theory-of-sensorimotor-prediction-using-cortical-grid-cells" title="Locations in the Neocortex: A Theory of Sensorimotor Prediction Using Cortical Grid Cells by Subutai Ahmad (07/18/18)" target="\_blank">Locations in the Neocortex: A Theory of Sensorimotor Prediction Using Cortical Grid Cells by Subutai Ahmad (07/18/18)</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2gZvUHaSh5JlmQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/locations-in-the-neocortex-a-theory-of-sensorimotor-prediction-using-cortical-grid-cells" title="Locations in the Neocortex: A Theory of Sensorimotor Prediction Using Cortical Grid Cells" target="_blank">Locations in the Neocortex: A Theory of Sensorimotor Prediction Using Cortical Grid Cells</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="_blank">Numenta</a></strong> </div>
 <hr>
 
 ### Poster 1: Robust Dendritic Computations with Sparse Distributed Representations
