@@ -17,8 +17,8 @@ event:
 image: ../images/human-brain-project-summit.png
 org: Co-Founder
 keywords: "Jeff Hawkins Human Brain Project Summit"
-title: "Human Brain Project Summit"
-header: "Human Brain Project Summit"
+title: "Human Brain Project Summit - Open Day"
+header: "Human Brain Project Summit - Open Day"
 type: post
 ---
 
