@@ -378,6 +378,9 @@ biological-and-machine-intelligence,resources/biological-and-machine-intelligenc
 biological-and-,resources/biological-and-machine-intelligence
 library,neuroscience-research/research-publications/papers
 nab,machine-intelligence-technology/numenta-anomaly-benchmark
+resources/papers,neuroscience-research/research-publications/papers
+resources/papers/,neuroscience-research/research-publications/papers
+papers,neuroscience-research/research-publications/papers
 privacy,legal/privacy
 support,contact
 terms,legal/terms
@@ -408,6 +411,3 @@ anomaly-detection-benchmark,machine-intelligence-technology/numenta-anomaly-benc
 machine-intelligence-technology/business-strategy-and-ip,machine-intelligence-technology/licensing-and-partners
 partners,machine-intelligence-technology/licensing-and-partners
 applications/numenta-anomaly-benchmark,machine-intelligence-technology/numenta-anomaly-benchmark
-resources/papers/,neuroscience-research/research-publications/papers
-resources/papers,neuroscience-research/research-publications/papers
-papers,neuroscience-research/research-publications/papers
