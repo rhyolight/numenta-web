@@ -1,7 +1,7 @@
 ---
 author: Numenta
 description: "Lately we have received questions about our publishing strategy and why we share articles that have not yet been published in a scientific journal.  Our co-founder, Jeff Hawkins responded to a recent thread on this topic on our HTM Forum. His response is posted here in this blog post."
-date: 2018/07/10
+date: 2018/07/31
 hideImage: false
 org: Christy Maver & Jeff Hawkins
 image: ../images/journal_papers.png
