@@ -13,6 +13,13 @@ type: post
 
 *Lately we have received questions about our publishing strategy and why we share articles that have not yet been published in a scientific journal.  Our co-founder, Jeff Hawkins responded to a [recent thread on this topic on our HTM Forum](https://discourse.numenta.org/t/why-are-only-a-few-numenta-papers-published-in-scientific-journals/4217), but for those of you who are not active there, you can read his response below.*
 
+**HTM Forum response**
+----------------------
+Originally posted July 17, 2018
+![enter image description here](https://discourse-cdn-sjc2.com/standard14/user_avatar/discourse.numenta.org/jhawkins/120/278_1.png)
+**jhawkins**
+**Numenta Co-Founder**
+
 Peer reviewed papers have been the standard and preferred form of publication for many years. They are essential for career advancement in academia, so as others pointed out, academic scientists are under a lot of pressure to publish a large quantity papers. This leads to many papers that are of questionable value in terms of scientific advancement. But overall the system works ok.
 
 Industrial research labs have less of this pressure and it is common for them to publish non-peer reviewed research notes and post them on their websites. No one looks down upon this. Most people appreciate being able to get access to these even though they are not peer-reviewed. Major advances from industrial labs will typically be published in journals, but not always. Sometimes they are considered trade secrets and the scientists get upset if they cannot publish their results.
