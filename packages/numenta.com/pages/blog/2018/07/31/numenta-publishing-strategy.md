@@ -17,8 +17,7 @@ type: post
 ----------------------
 
 ![Jeff Hawkins profile pic](https://discourse-cdn-sjc2.com/standard14/user_avatar/discourse.numenta.org/jhawkins/120/278_1.png)
-Jeff Hawkins, Numenta Co-Founder
-*Originally posted July 17, 2018*
+Jeff Hawkins, Numenta Co-Founder (Originally posted July 17, 2018)
 
 
 Peer reviewed papers have been the standard and preferred form of publication for many years. They are essential for career advancement in academia, so as others pointed out, academic scientists are under a lot of pressure to publish a large quantity papers. This leads to many papers that are of questionable value in terms of scientific advancement. But overall the system works ok.
