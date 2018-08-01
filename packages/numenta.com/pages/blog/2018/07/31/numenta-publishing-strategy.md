@@ -16,7 +16,7 @@ type: post
 **HTM Forum response**
 ----------------------
 
-<div class="align-left">![Jeff Hawkins profil pic](https://discourse-cdn-sjc2.com/standard14/user_avatar/discourse.numenta.org/jhawkins/120/278_1.png)</div>
+<div class="align-left">![Jeff Hawkins profile pic](https://discourse-cdn-sjc2.com/standard14/user_avatar/discourse.numenta.org/jhawkins/120/278_1.png)</div>
 **jhawkins, Numenta Co-Founder**
 *Originally posted July 17, 2018*
 
