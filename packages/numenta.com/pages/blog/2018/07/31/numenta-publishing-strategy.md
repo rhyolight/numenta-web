@@ -11,13 +11,13 @@ header: "Publishing, Peer-review and Pre-prints: Numenta's Strategy for Sharing 
 type: post
 ---
 
-*Lately we have received questions about our publishing strategy and why we share articles that have not yet been published in a scientific journal.  Our co-founder, Jeff Hawkins responded to a [recent thread on this topic on our HTM Forum](https://discourse.numenta.org/t/why-are-only-a-few-numenta-papers-published-in-scientific-journals/4217), but for those of you who are not active there, you can read his response below.*
+*Lately we have received questions about our publishing strategy and why we share articles that have not yet been published in a scientific journal.  Our co-founder, Jeff Hawkins responded to a [recent thread on this topic on our HTM Forum](https://discourse.numenta.org/t/why-are-only-a-few-numenta-papers-published-in-scientific-journals/4217). For those of you who are not active there, you can read a slightly modified version of his post below.*
 
-**HTM Forum response**
+**Jeff Hawkins, Numenta Co-Founder**
 ----------------------
 
 ![Jeff Hawkins profile pic](https://discourse-cdn-sjc2.com/standard14/user_avatar/discourse.numenta.org/jhawkins/120/278_1.png)
-Jeff Hawkins, Numenta Co-Founder (Originally posted July 17, 2018)
+*Modified version of a July 17, 2018 post*
 
 
 Peer reviewed papers have been the standard and preferred form of publication for many years. They are essential for career advancement in academia, so as others pointed out, academic scientists are under a lot of pressure to publish a large quantity papers. This leads to many papers that are of questionable value in terms of scientific advancement. But overall the system works ok.
