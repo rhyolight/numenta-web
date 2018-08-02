@@ -6,8 +6,8 @@ hideImage: false
 org: Co-Founder
 image: ../images/journal_papers.png
 keywords: "Numenta scientific papers"
-title: "Publishing, Peer-review and Pre-prints: Numenta's Strategy for Sharing Science"
-header: "Publishing, Peer-review and Pre-prints: Numenta's Strategy for Sharing Science"
+title: "Publishing, Peer review and Preprints: Numenta's Strategy for Sharing Science"
+header: "Publishing, Peer review and Preprints: Numenta's Strategy for Sharing Science"
 type: post
 ---
 
