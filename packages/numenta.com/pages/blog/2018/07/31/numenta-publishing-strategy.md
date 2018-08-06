@@ -1,7 +1,7 @@
 ---
 author: Jeff Hawkins
 description: "Lately we have received questions about our publishing strategy and why we share articles that have not yet been published in a scientific journal.  Our co-founder, Jeff Hawkins responded to a recent thread on this topic on our HTM Forum. His response is posted here in this blog post."
-date: 2018/07/31
+date: 2018/08/07
 hideImage: false
 org: Co-Founder
 image: ../images/journal_papers.png
@@ -11,7 +11,7 @@ header: "Publishing, Peer Review and Preprints: Numenta's Strategy for Sharing S
 type: post
 ---
 
-*We have received lots of questions about our publishing strategy, why we share papers that have not yet been published in a scientific journal, and our overall stance on open science. Our co-founder, Jeff Hawkins has responded in various posts on our [HTM Forum](https://discourse.numenta.org). For those of you who are not active there, you can read a consolidated version of Jeff’s thoughts below.*
+<p style="margin-left: 0pt; display: inline"><i>We have received lots of questions about our publishing strategy, why we share papers that have not yet been published in a scientific journal, and our overall stance on open science. Our co-founder, Jeff Hawkins has responded in various posts on our [HTM Forum](https://discourse.numenta.org). For those of you who are not active there, you can read a consolidated version of Jeff’s thoughts below.</i>
 
 **Jeff Hawkins, Numenta Co-Founder**
 ----------------------
