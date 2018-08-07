@@ -19,5 +19,6 @@ We have a growing collection of published peer-reviewed papers, supplemental whi
 
 - [Research posters](/neuroscience-research/research-publications/posters/) <span style="color:#999">•</span> View and download the posters that we present on our research at academic events throughout the year.
 
+- [Outside research](/neuroscience-research/research-publications/outside-research/) <span style="color:#999">•</span> A number of researchers have written about our work in their papers. Some are not open access, but we have provided links to demonstrate how our research is analyzed by other scientists. 
 
 </section>
