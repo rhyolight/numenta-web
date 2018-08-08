@@ -1,7 +1,7 @@
 ---
 author: "Jan Homann, Sue Ann Koay, Alistair M. Glidden, David W. Tank, Michael J. Berry II"
-description: "The experimental paper explores theories of predictive coding by presenting mice with repeated sequences of images where novel images are sparsely substituted.  Many of the findings have strong relationships to the characteristics of HTM Sequence Memory. The discussion section of this paper explores this relationship and includes a paragraph on one of our papers, “Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex.”"
-category: "Hardware implementations of HTM"
+description: "The experimental paper explores theories of predictive coding by presenting mice with repeated sequences of images where novel images are occasionally substituted. Many of the findings have strong relationships to the characteristics of HTM Sequence Memory. The discussion section of this paper explores this relationship and includes a paragraph on one of our papers, “Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex.”"
+category: "Sequence Learning"
 date: 2017/10/03
 hideImage: false
 image: ../images/predictive-coding-of-novel-versus-familiar-stimuli-in-the-primary-visual-cortex.png
