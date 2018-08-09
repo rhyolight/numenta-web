@@ -57,6 +57,7 @@ logo = "/assets/img/logo.png"
   [links.in]  # internal paths
     # main/home pseudo-single page
     papers = '/neuroscience-research/research-publications/papers/'
+    outsideresearch = '/neuroscience-research/research-publications/outside-research/'
     sppaper = '/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/'
     posters = '/neuroscience-research/research-publications/posters/'
     publications = '/neuroscience-research/research-publications/'
@@ -109,7 +110,7 @@ logo = "/assets/img/logo.png"
     home = '/'
     [links.in.slides]
       sptalk = '/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf'
-      
+
 [moments]
   post = 'YYYY/MM/DD'
   human = 'ddd, MMM DD, YYYY'
