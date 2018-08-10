@@ -151,7 +151,7 @@ const NabPage = (props, {config}) => {
       <SubTitle>Resources</SubTitle>
       <div className={styles.columns}>
         <div className={styles.aside}>
-          <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
+          <TextLink to="/neuroscience-research/research-publications/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
             <Image
               alt="Numenta Anomaly Detection Benchmark – Anomaly Detection Image"
               border={true}
@@ -171,7 +171,7 @@ const NabPage = (props, {config}) => {
             NAB.
           </Paragraph>
           <IconMarker icon={<IconPdf />}>
-            <TextLink to="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
+            <TextLink to="/neuroscience-research/research-publications/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/">
               Read Research Paper
             </TextLink>
           </IconMarker>
