@@ -70,7 +70,7 @@ table, th,  td {
 <br>
 <li>Compares HTM to statistical and Deep Learning techniques</li></ul>
 <br>
-<b>SDRs:</b><br><i><a href="http://bit.ly/theHTMSP">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a></i>
+<b>SDRs:</b><br><i><a href="/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a></i>
 <ul>
 <li>Introduces Spatial Pooler and explains how it models how neurons learn feedforward connections<br><li>Shows how the Spatial Pooler creates SDRs and supports essential neural computations such as sequence learning and memory</li><br></ul>
 <a href="http://arxiv.org/abs/1601.00720"><i>How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites</i></a><ul>
