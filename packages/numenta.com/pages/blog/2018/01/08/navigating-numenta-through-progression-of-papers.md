@@ -29,14 +29,14 @@ Coincidentally, early 2016 brought milestones on the publishing front as well as
 If you had to summarize our research hypothesis in one high-level statement it would be, “How does the brain learn predictive models of the world?”  Our progress to date can be summarized by two important discoveries, each one marked by a fundamental paper:
 
 1.	**How the brain learns predictive models of extrinsic sequences**  
-*[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](/resources/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)* (Frontiers in Neural Circuits, 2016)
+*[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)* (Frontiers in Neural Circuits, 2016)
 
 2.	**How the brain learns predictive models of sensorimotor sequences**  
-*[A Theory of How Columns in the Neocortex Learn the Structure of the World](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)* (Frontiers in Neural Circuits, 2017)
+*[A Theory of How Columns in the Neocortex Learn the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)* (Frontiers in Neural Circuits, 2017)
 
 Extrinsic sequences are those where sensory inputs change due to external factors. For example, when you hear a song, the melody changes regardless of where you are or what you’re doing as you listen.  Sensorimotor sequences are those where inputs change due to your own behavior.  When you turn your head, for example, you see an entirely different view of the world, but not because the world is moving. Your movement changes the input to your retina.
 
-As you can see in the diagram below, most of our existing papers relate to the first discovery.  In addition to the keystone “*[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](/resources/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)*,” we’ve produced papers that focus on one particular aspect of the theory or related applications.  Going forward, we plan to do the same for the sensorimotor work.  “*[A Theory of How Columns in the Neocortex Learn the Structure of the World](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)*” is the first of many we hope to publish on the new research.
+As you can see in the diagram below, most of our existing papers relate to the first discovery.  In addition to the keystone “*[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex](/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)*,” we’ve produced papers that focus on one particular aspect of the theory or related applications.  Going forward, we plan to do the same for the sensorimotor work.  “*[A Theory of How Columns in the Neocortex Learn the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)*” is the first of many we hope to publish on the new research.
 
 ### Numenta Research Papers
 
@@ -58,19 +58,19 @@ table, th,  td {
 </thead>
 <tbody>
 <tr>
-<td><b><font size="3">Key Paper:</font><br><br></b><i><a href="/resources/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/">Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex</a></i>
+<td><b><font size="3">Key Paper:</font><br><br></b><i><a href="/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/">Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in the Neocortex</a></i>
 <ul><li><b>New pyramidal neuron model</b> – how most of a neuron’s activity is dedicated to predicting</li><li><b>Sequence memory model</b> – how a layer of neurons learns sequences of patterns</li>
 <li><b>Sparse distributed representations (SDRS)</b> – how the brain represents uncertainty</li></ul>
 <br>
 <b><u>Supporting Papers:</b></u>
 <br><br>
-<b>Sequence memory model:</b><br><a href="/resources/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/"><i>Continuous Online Sequence Learning with an Unsupervised Neural Network Model</i></a>
+<b>Sequence memory model:</b><br><a href="/neuroscience-research/research-publications/papers/continuous-online-sequence-learning-with-an-unsupervised-neural-network-model/"><i>Continuous Online Sequence Learning with an Unsupervised Neural Network Model</i></a>
 <ul>
 <li>Analysis of HTM sequence memory applied to various sequence learning and prediction problems
 <br>
 <li>Compares HTM to statistical and Deep Learning techniques</li></ul>
 <br>
-<b>SDRs:</b><br><i><a href="http://bit.ly/theHTMSP">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a></i>
+<b>SDRs:</b><br><i><a href="/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/">The HTM Spatial Pooler: A Neocortical Algorithm for Online Sparse Distributed Coding</a></i>
 <ul>
 <li>Introduces Spatial Pooler and explains how it models how neurons learn feedforward connections<br><li>Shows how the Spatial Pooler creates SDRs and supports essential neural computations such as sequence learning and memory</li><br></ul>
 <a href="http://arxiv.org/abs/1601.00720"><i>How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites</i></a><ul>
@@ -83,7 +83,7 @@ table, th,  td {
 <br><br>
 Machine Learning Applications</b>
 <br>
-<a href="/resources/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/"><i>Unsupervised Real-Time Anomaly Detection for Streaming Data</i></a><ul><li>Demonstrates how HTM meets the requirements necessary for real-time anomaly detection in streaming data<br><li>Presents results using the Numenta Anomaly Benchmark (NAB), the first open-source benchmark designed for testing anomaly detection algorithms on streaming data </li></ul><br>
+<a href="/neuroscience-research/research-publications/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/"><i>Unsupervised Real-Time Anomaly Detection for Streaming Data</i></a><ul><li>Demonstrates how HTM meets the requirements necessary for real-time anomaly detection in streaming data<br><li>Presents results using the Numenta Anomaly Benchmark (NAB), the first open-source benchmark designed for testing anomaly detection algorithms on streaming data </li></ul><br>
 <a href="http://arxiv.org/abs/1510.03336"><i>Evaluating Real-time Anomaly Detection Algorithms-the Numenta Anomaly Benchmark</i></a><ul><li>Discusses how we should think about anomaly detection for streaming applications</li><li>Introduces a new open-source benchmark for detecting anomalies in real-time, time-series data</ul><br>
 <a href="http://arxiv.org/abs/1602.05925"><i>Encoding Data for HTM Systems</i></a><br><ul><li>Describes how to encode data as Sparse Distributed Representations (SDRs) for use in HTM systems<br><li>Explains several existing encoders and discusses requirements for creating encoders for new types of data</li></ul>
 <br>
@@ -112,7 +112,7 @@ table, th,  td {
 <tbody>
 <tr>
 <td><b><font size="3">Key Paper:</font></b><br><br>
-<i><a href="/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">A Theory of How Columns in the Neocortex Learn the Structure of the World</a></i><ul><li><b>Extension of sequence memory model</b> – how multiple layers of neurons learn to recognize objects through movement</li><li><b>Location signal</b> – key feature of cortical function that every column computes for all input</li><li><b>Every column can learn complete objects</b> – through movement</li></ul>
+<i><a href="/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">A Theory of How Columns in the Neocortex Learn the Structure of the World</a></i><ul><li><b>Extension of sequence memory model</b> – how multiple layers of neurons learn to recognize objects through movement</li><li><b>Location signal</b> – key feature of cortical function that every column computes for all input</li><li><b>Every column can learn complete objects</b> – through movement</li></ul>
 <br>
 <b><u>Supporting Paper:</b></u><br><br>
   <a href="https://doi.org/10.1101/190678"><i>Untangling Sequences: Behavior vs. External Causes</a></i><ul><li>Describes a cortical model for untangling sensorimotor from external sequences<br><li>Shows how a single neural mechanism can learn and recognize these two types of sequences</li></ul></td>
