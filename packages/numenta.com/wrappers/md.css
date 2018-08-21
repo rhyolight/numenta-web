@@ -93,3 +93,7 @@ dropcap {
   composes: mt4 from 'tachyons';
   composes: ttc from 'tachyons';
 }
+.subtitle {
+  composes: b from 'tachyons';
+  composes: f3 from 'tachyons';
+}

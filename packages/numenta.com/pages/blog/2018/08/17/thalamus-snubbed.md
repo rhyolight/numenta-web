@@ -7,7 +7,8 @@ org: VP of Research
 image: ../images/thalamus.gif
 keywords: "thalamus"
 title: "Thalamus Snubbed"
-header: "Thalamus Snubbed: How an overlooked part of the brain may be essential to understanding intelligence"
+header: "Thalamus Snubbed"
+subtitle: "How an overlooked part of the brain may be essential to understanding intelligence"
 type: post
 dropcap: false
 ---
