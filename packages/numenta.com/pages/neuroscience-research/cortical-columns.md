@@ -40,7 +40,7 @@ Under this proposal, cortical columns have far more powerful recognition and mod
 *	[Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception](/resources/videos/jeff-hawkins-mit-talk/)
 
 ### Posters
-* [Grid Cell Meeting 2018: Using Grid Cells for Coordinate Transforms](/resources/papers-videos-and-more/grid-cell-meeting/)
+* [Grid Cell Meeting 2018: Using Grid Cells for Coordinate Transforms](/neuroscience-research/research-publications/posters/grid-cell-meeting/)
 *	[Cosyne 2018: Determining Allocentric Locations of Sensed Features](/neuroscience-research/research-publications/posters/cosyne-2018-allocentric-locations-of-sensed-features/)
 *	[NCM 2017: A Cortical Circuit for Sensorimotor Learning and Recognition](/neuroscience-research/research-publications/posters/ncm-2017a-cortical-circuit-for-learning-sensorimotor-representations/)
 *	[Cosyne 2017: How Do Cortical Columns Learn 3D Sensorimotor Models?](/neuroscience-research/research-publications/posters/cosyne-2017-how-do-cortical-columns-learn-3d-sensorimotor-models/)
