@@ -40,12 +40,12 @@ Through active dendrites, a neural property that is a key underpinning of HTM th
 
 ### Papers
 
-<span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/resources/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/">Cui, Y., Ahmad, S., & Hawkins, J. (2017) The HTM Spatial Pooler – a neocortical algorithm for online <br>sparse distributed coding. <i>Front. Comput. Neurosci.</i>, <b>11</b>, 111.</a></span>
+<span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/">Cui, Y., Ahmad, S., & Hawkins, J. (2017) The HTM Spatial Pooler – a neocortical algorithm for online <br>sparse distributed coding. <i>Front. Comput. Neurosci.</i>, <b>11</b>, 111.</a></span>
 <span style="margin-left: 10pt; display:block"><b>[2]</b> <a href="http://arxiv.org/abs/1601.00720">Ahmad, S. & Hawkins, J. (2016) How do neurons operate on sparse distributed representations? <br>A mathematical theory of sparsity, neurons and active dendrites. <i>arXiv</i>, arXiv:1601.00720.</a></span>
 <span style="margin-left: 10pt; display:block"><b>[3]</b> <a href="https://numenta.com/resources/biological-and-machine-intelligence/">Hawkins, J. et al. (2016) Biological and Machine Intelligence. Sparse Distributed Representations chapter.</a></span>
 
 ### Videos
-*	[Sparse Distributed Representations - Our Brain's Data Structure](/resources/papers-videos-and-more/sparse-distributed-representations/)
+*	[Sparse Distributed Representations - Our Brain's Data Structure](/resources/videos/sparse-distributed-representations/)
 *	[SDR Capacity & Comparison (HTM School, Episode 2)](https://www.youtube.com/watch?v=ZDgCdWTuIzc)
 *	[SDR Overlap Sets and Subsampling (HTM School, Episode 3)](https://www.youtube.com/watch?v=vU2OZdgBXAQ)
 *	[SDR Sets & Unions (HTM School, Episode 4)](https://www.youtube.com/watch?v=8WIzIBaLXIs)
