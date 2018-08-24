@@ -1,174 +1,125 @@
 ---
-date: 2017/03/03
+date: 2018/08/24
 title: Numenta Privacy Policy
 ---
+## Revised August 24, 2018
 
-Numenta, Inc. provides this Privacy Policy to inform you of our policies
-and procedures regarding the collection, use, and disclosure of personal
-information we might receive from visitors and registered users of the
-websites located at [www.numenta.com](/) and
-[www.numenta.org](http://www.numenta.org) through their use of the
-website and its features. The websites and their features are
-collectively referred to herein as the “Sites.” This Privacy Policy
-applies only to information that you provide to us through the Sites.
+Numenta, Inc. is deeply committed to protecting the information you share with us and privacy is extremely important to us. We have prepared this Privacy Policy to explain how we collect information when you interact with us, when you use our websites and their features at [www.numenta.com](/) and [www.numenta.org](http://www.numenta.org) (the “Sites”). This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information (defined below) and how you can contact us. This Privacy Policy applies to all users of the Sites.
 
-## Information Collection
+This website applies globally. Some sections only apply if you are based in the European Economic Area (indicated by the label “EU ONLY”).  Some sections of this Privacy Policy apply only to US citizens/when you are located in the US (indicated by the label “US ONLY”).
 
-**Personal Information**. When you sign up via the Sites to receive our
-newsletter or subscribe to our blog, complete an application to apply
-for a job, scholarship or license, register to provide feedback or
-contact us for any other purpose, you may choose to give us certain
-personal information that can be used to identify you, such as your
-name, email address, mailing address, phone number, company name,
-website URL and social media handles (“Personally Identifiable
-Information” or “PII”). The decision to provide this information is
-optional. However, if you choose not to provide the requested
-information, you may not be able to use some or all of the features of
-the Sites. You may also choose to provide us with additional information
-that cannot be used by itself to identify you, such as asking how you
-heard about Numenta, but that we may combine with your PII to associate
-with you.
+## 1. Managing Your Information Preferences
 
-**Information Related to Use of the Sites.** Our servers automatically
-record certain information about how a person uses our Sites (we refer
-to this information as “Log Data”). Log Data may include information
-such as your Internet Protocol (IP) address, browser type, operating
-system, the web page that you were visiting before accessing our Sites,
-the pages or features of our Sites to which you browsed, and the time
-spent on those pages or features, search terms, the links on our Sites
-that you click on, and other statistics. We use this information to
-administer the Sites and we analyze (and may engage third parties to
-analyze) this information to improve and enhance the Sites by expanding
-its features and functionality and tailoring them to our users’
-preferences. We may use a person’s IP address to fight spam, malware,
-and identity theft. We also use the IP Address to generate aggregate,
-non-identifying information about how our Sites are used.
+If you would like to change your Personal Information in our records or remove your name from our mailing list, please contact us by:
+- sending an email to: info@numenta.com
+- calling: 650-369-8282
+- writing: Numenta – Personal Information Records, 791 Middlefield Rd, Redwood City, CA 94063
 
-We use Google Analytics to collect, monitor, and analyze Log Data in
-order to increase our Sites’ functionality and user-friendliness, and to
-better tailor our Sites to our visitors’ needs. We also use this
-information to verify that visitors to the Sites meet the criteria
-required to process their requests. Accordingly, Log Data is shared with
-Google, which has [its own privacy policy](http://www.google.com/policies/privacy/)
-addressing how it uses such information.
+In order to effectively process your request please include your name, mailing or email address, or telephone number which you registered with us. We may need this information to verify your identity for your security.  
 
-## Information Use
+In addition, you are able to opt out of receiving our email Newsletter and certain other emails from us by using the “unsubscribe” link at the bottom of the emails, however, you cannot opt out of receiving all e-mails from us, such as emails about your orders or account.  
 
-Our primary goals in collecting information are to provide and improve
-our Sites, to administer your use of the Sites, to enable users to
-easily navigate our Sites and to respond to user inquiries and requests.
+Finally, although we would appreciate if you contacted us first to find a solution for your concern, if you are in the European Economic Area, you always have the right to lodge a complaint with your competent data protection authority.
 
-## Information Sharing
 
-We will not share any PII that we have collected from you except as
-described below:
+## 2. Information We Collect
 
-**Information Shared with Our Service Providers.** We may engage third
-party service providers to work with us to administer the Sites and
-provide other services. These third-party service providers have access
-to your PII and other information we collect from you only for the
-purpose of performing services on our behalf and are expressly obligated
-not to disclose or use your PII for any other purpose.
+**Personal Information Collected Through our Website**
 
-**Information Shared with Third Parties.** We may share aggregated
-information and non-identifying information with third parties for
-industry analysis, demographic profiling, and other similar purposes.
+We may collect Personal Data when you use our Sites. In order to register an account on our open source discussion forum (Forum), contribute to our open source project, or contact us through our Sites, you provide information that personally identifies you, such as your name, address, phone number, mobile phone number, e-mail, payment information, company name and other personally identifiable information that you choose to provide us with or that you choose to include in your account.  You may be asked to provide us with Personal Data when you register with the Sites, when you communicate with us, and at other times.  
 
-**Information Disclosed in Connection with Business Transactions.**
-Information that we collect from our users, including PII, is considered
-to be a business asset. As a result, if we go out of business or enter
-bankruptcy or if we are acquired as a result of a transaction such as a
-merger, acquisition, or asset sale, your PII may be disclosed or
-transferred to the third-party acquirer in connection with the
-transaction.
+- **Registration details.** Using registration forms in our contributors license, discussion forum (Forum), newsletter sign-up, contact and feedback forms, we may collect from you your name, surname, email address, mailing address, country of residence, telephone number, whether or not you are a student.
+- **Feedback data and user-generated content.** We may collect relevant information that you share when you provide feedback to us through our Sites or post to our Forum.
+- **Social media account credentials.** When you ask us to post content from our websites or apps to a social network, we may collect your social media account credentials and other information contained in your public post including about our brand.
 
-**Information Disclosed for Our Protection and the Protection of
-Others.** It is our policy to protect you from having your privacy
-violated through abuse of the legal system, whether by individuals,
-entities, or government, and to contest claims that we believe to be
-invalid under applicable law. However, it is also our policy to
-cooperate with government and law enforcement officials and private
-parties, as appropriate. Accordingly, we reserve the right to disclose
-any information about you to government or law enforcement officials or
-private parties as we, in our sole discretion, believe necessary: (i) to
-satisfy or comply with any applicable law, regulation, or legal process
-or to respond to lawful requests, including subpoenas, warrants, or
-court orders; (ii) to protect our property, rights, and safety and the
-rights, property, and safety of third parties or the public in general;
-and (iii) to prevent or stop activity we consider to be illegal or
-unethical.
+Collectively we refer to all of this information as **“Personal Information.”**
 
-## Security
+**Cookies and Anonymous Identifiers**
 
-We take reasonable measures to protect the information that we collect
-from or about you (including your PII) from unauthorized access, use, or
-disclosure. Please be aware, however, that no method of transmitting
-information over the Internet or storing information is completely
-secure. Accordingly, we cannot guarantee the absolute security of any
-information.
+We use cookies (a small text file placed on your computer to identify your computer and web browser) and may use anonymous identifiers (a random string of characters that is used for the same purposes as a cookie).  The following types of cookies are set through our site:  
 
-## Third Party Links
+- **Essential cookies** are necessary for the functioning of services and features on our websites, such as for authentication purposes (to keep track of the fact that you have logged in), and for forms and navigation.
+- **Performance or analytics cookies** collect data that is used in aggregate form to help us understand how the website is being used or how effective our marketing campaigns are, or is used to help us customize the website for you.  We use Google Analytics on the Sites to collect Usage Data, to analyze how users use the Sites.  Google Analytics collects an anonymous cookie identifier and your IP address (“Usage Data”) information that is not linked to your identifying information. For more information about how to opt out of having your information used by Google Analytics, visit https://tools.google.com/dlpage/gaoptout/.
+- **Managing Cookies.**  You do not have to accept cookies and you may set your browser to restrict their use, and you may delete them after they have been placed on your hard drive or device.  If you do not accept cookies, some areas of our Sites may take more time to work, or may not function properly.  If you delete cookies set by our Site, our Site will not remember your settings and you may have to log in again.  To find out more about cookies, including how to see what cookies have been set, visit [www.aboutcookies.org](https://www.aboutcookies.org) or [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
-Our Sites may contain links to other websites and services and may allow
-you to create accounts with third parties. Any information that you
-provide on or to a third-party website or service is provided directly
-to the owner of that website or service and is subject to that party's
-privacy policy. Our Privacy Policy does not apply to such websites or
-services and we are not responsible for the content, privacy, or
-security practices and policies of those websites or services. To
-protect your information we recommend that you carefully review the
-privacy policies of other websites and services that you access.
+## 3. How and Why We Use Personal Information
 
-## Modifying and Deleting Information
+We use Personal Information if it is necessary to for providing a service or product you have requested, or to take steps to provide products or services, or based on our legitimate interests, including to:
+- Respond to your comments, feedback, and inquiries;
+- Enable interaction through the Forum.
+- Enable you to contribute to our open source code (become a Contributor) while protecting Contributors’ rights
+- In order to comply with our legal obligations and security of our website, we may also use some of your personal information to detect and prevent illegal uses, abuse, spam, security incidents and other harmful activity or to respond to government, policy inquiries or court orders.
 
-If you want us to delete or modify your PII, please contact us at
-info@numenta.com with your request. We’ll take steps to delete or modify
-your information as soon as is practicable, but some information may
-remain in archived/backup copies for our records or as otherwise
-required by law. Please note that some user content that appears on or
-is collected from our Sites is stored and controlled by third party
-providers, thus, complete and comprehensive removal of the contact may
-not be possible.
+Based on your voluntary consent, we also use your Personal Information to:
+- Send our eNewsletters.  You can opt-out of these communications at any time using the “unsubscribe” link at the bottom of the emails.
+- Collect information about the usage of our HTM Studio tool, if you choose to send us feedback or ask a question through the tool.
 
-To delete your name from our email contact lists, you may follow the
-“unsubscribe” instructions contained in our communications to you.
+## 4. When We May Share Your Personal Information and With Whom
 
-## Be Careful When You Share Information with Others
+We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except in the following circumstances.
 
-Please be aware that whenever you share information on a publicly
-available area of our Sites, such as in a comment section, that
-information may be accessed, passed along or made public by others. This
-means that anyone with access to such information can potentially use it
-for any purpose, including sending unsolicited communications.
+- **Service Providers.** From time to time, we may utilize other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours and this Privacy Policy in order to help us complete our tasks (“Service Providers”). We only share Personal Information to the extent it is necessary. For example, we use a marketing automation platform to distribute our newsletters.  We may also contract with Service Providers to provide services such as website hosting and maintenance, data storage and management, and marketing and promotions. We may also provide Personal Information to transport and shipping companies. We only provide our Service Providers with the information necessary for them to perform these services on our behalf, and Service Providers are prohibited from using Personal Information other than as specified by us.  Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use, or disclosure.
+- **Aggregate Data.** We may disclose to third parties, certain statistics regarding usage of the Sites.  However, the information we share is aggregated and does not identify you individually.
+- **Compliance with Laws and Law Enforcement.** We cooperate with government and law enforcement officials and private parties to enforce and comply with the law.  We may disclose personal data and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property, or rights of our organization or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+- **Other Transfers.** We may share Personal Information and Usage Data with businesses controlling, controlled by, or under common control with our Company.  If our Company is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction.  You will have the opportunity to opt out of any such transfer if, in our discretion, it will result in the handling of your Personal Information in a way that differs materially from this Privacy Policy.
 
-## International Transfer
+## 5.	Personal Information You Make Available to Others
 
-Your PII and communications may be transferred to, and maintained on,
-computers located outside of your state, province, country, or other
-governmental jurisdiction where the privacy laws may not be as
-protective as those in your jurisdiction. If you are located outside the
-United States and choose to provide your PII or other information to us,
-we may transfer such information to the United States and process it
-there.
+By using the Sites you may make certain of your Personal Information available to others.  For example, when you post a comment or a photo on our Sites or Forum other users may see your name (first name and last name initial), the city you live in and other information that you choose to make available to others.  This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
 
-## Our Policy Toward Children
+## 6.	How Long We Keep Your Personal Data
 
-Our Sites are not directed to persons under 18. In addition, we do not
-knowingly collect PII from children under 13. If we learn that we have
-collected PII of a child under 13 we will take steps to delete such
-information from our files as soon as possible.
+We will store your information until you choose to close and delete your account. If you choose to leave the Forum, you can delete your account. We may keep some other records for an extended period of time, including financial and accounting records.  In general, we will endeavour to keep data only for as long as is necessary or required by applicable laws.  This means that we may delete it when it is no longer needed.
 
-## Changes to Privacy Policy
+## 7.	Use of MailChimp for our Email Newsletter
 
-Any information that we collect is subject to the privacy policy in
-effect at the time such information is collected. We may, however,
-modify and revise this Privacy Policy from time to time. If we make any
-material changes to this Privacy Policy, we’ll notify you of such
-changes by posting them on the Sites or by sending you an email or other
-notification, and we’ll indicate when such changes will become
-effective.
+We use a company called MailChimp to distribute our email Newsletter.  If you sign up for the Newsletter, your email address and record of consent are stored and processed by MailChimp in their servers in the United States.  Please see the MailChimp privacy policy at https://mailchimp.com/legal/terms/.  MailChimp is certified under the EU-US Privacy Shield, which is an agreement between the EU and the US to ensure compliance with European privacy standards in the United States.
 
-## Contacting Numenta
+In certain cases, clicking the links in Newsletter will direct you through MailChimp’s websites and servers in order to reach content.  For example, the Newsletter contains links to our website, and links that allows newsletter recipients to retrieve newsletters online.  Following these links will direct you through MailChimp’s servers.  MailChimp requires this for compliance reasons and we are unable to disable this functionality.  However, please be aware that MailChimp’s websites use cookies, and MailChimp and their service providers and others may collect and process personal data. We have no influence on this data collection. For more information, see the MailChimp privacy policy at https://mailchimp.com/legal/terms/.  
 
-Please contact us at info@numenta.com if you have any questions about
-our Privacy Policy.
+## 8.	Notice to California Residents / Your California Privacy Rights
+
+We do not share your Personal Information with third parties for their direct marketing purposes.
+
+## 9.	EU ONLY: Additional Information for Individuals in the European Union or European Economic Area
+
+Numenta, Inc. 791 Middlefield Rd, Redwood City, CA 94063 is the data controller for your personal data under the EU General Data Protection Regulation 2016/679 (“GDPR”).
+You have the following rights with respect to your personal data:
+- Access your Personal Information and information regarding the processing of that information.
+- Request to correct and update the Personal Information we hold on you in case it is inaccurate or incomplete.
+- Ask for your Personal Information to be deleted (a) if it is no longer necessary for the purposes described in this Privacy Policy, (b) when you withdraw your previously given consent, (c) if you object to its processing for direct marketing purposes, (d) if it has been unlawfully processed; or (e) if we are under an obligation to erase it under EU, national laws of an EU country unless we are under a legal obligation to keep it.
+- Object to the processing of your Personal Information for direct marketing purposes or to any processing based on our legitimate interest.
+- Withdraw your consent at any time where the processing of Personal Information is based on consent.
+- Restrict the processing of your Personal Information (a) if you contest its accuracy; (b) if the processing is unlawful and you oppose the erasure of your Personal Information; (c) if it is no longer needed for the purposes set out in this Privacy Policy but we require it for the establishment, exercise, or defense of a legal claim, (d) if you object to profiling or direct marketing. We can still store Personal Information if processing is restricted, but may not use it otherwise.
+- Receive Personal Information which you provided to us in a structured, commonly used and machine-readable format and to transmit those to another provider provided these are processed based on your consent or our contract.
+- Submit a complaint with your relevant data protection authority.
+
+To exercise any of your rights, please contact us as explained in Section 1.
+
+## 10. Security
+
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us.  However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.  As a result, while we strive to protect information transmitted on or through the Sites, we cannot and do not guarantee the security of any information you transmit on or through the Sites, and you do so at your own risk.
+
+## 11. Links
+
+Our Sites may contain links to other websites or allow others to send you such links.  A link to a third party’s website does not mean that we endorse it or that we are affiliated with it.  We do not exercise control over third-party websites.  You access such third-party websites or content at your own risk.  You should always read the privacy policy of a third-party website before providing any information to the website.
+
+## 12. Children's Privacy
+
+The Sites are intended for users who are 16 years old or older.  We do not knowingly collect Personal Information from children under the age of 16.  If we become aware that we have inadvertently received Personal Information from a child under the age of 16, we will delete such information from our records.  
+
+US ONLY: California users under the age of 18 may request the removal of their content or information publicly posted on the Sites by e-mailing us at info@numenta.com.  Please note that most of the user content that appears on our Sites is stored and controlled by third party providers; thus, complete and comprehensive removal of the content may not be possible.
+
+## 13. Processing in the United States / International Transfers
+
+We do not transfer data internationally.
+
+Please be aware that NUMENTA, INC. is located in the United States and we process and store all information in the United States.  When you provide personal data to us, you transmit that information to the United States. Thus, your Personal Information and communications may be maintained on servers or databases located outside your state, province, or country.  The laws in the United States may not be as protective of your privacy as those in your location.  If you are outside the European Union or European Economic Area, by using the Sites, you are agreeing to the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
+
+## 14. Privacy Policy Changes
+
+Our business practices evolve and the law changes over time. We may change this Privacy Policy at any time to reflect these developments and will post a revised Privacy Policy on our website. Those changes will go into effect on the “Revised” date shown in the revised Privacy Policy.  We strongly advise you to visit our Privacy Policy every time you visit our website.  
+
+US ONLY: By continuing to use our Sites, you are consenting to the revised Privacy Policy.
+
+**PLEASE PRINT A COPY OF THIS PRIVACY POLICY FOR YOU RECORDS AND PLEASE CHECK THE SITE FREQUENTLY FOR ANY CHANGES.**
