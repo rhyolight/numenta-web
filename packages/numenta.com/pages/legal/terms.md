@@ -1,11 +1,11 @@
 ---
-date: 2017/03/03
+date: 2018/08/24
 title: Terms of Service
 ---
 
 These terms of service (these “**Terms**”) apply to the use of Numenta’s
 websites, [www.numenta.com](/) and [www.numenta.org](http://www.numenta.org)
-(collectively, “**Numenta Websites**”) which are owned and operated by
+(collectively, “**the “Sites**”) which are owned and operated by
 Numenta, Inc. (“**Numenta**,” “**we**,” or “**us**”).
 
 Please read these Terms carefully before accessing or using the Numenta
@@ -452,7 +452,7 @@ to be unenforceable or invalid, that provision will be limited or
 eliminated to the minimum extent necessary so that these Terms will
 otherwise remain in full force and effect and enforceable.
 
-**Effective Date of Agreement**: 3/3/2017
+**Effective Date of Agreement**: 08/24/2018
 
 ## VIOLATIONS OF TERMS
 
