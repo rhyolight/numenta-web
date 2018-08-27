@@ -56,4 +56,4 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 **[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-3-Top-5-Things-You-Need-to-Know-About-Numenta-transcript.pdf)**
 
 </center>
-**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Buzzsprout](https://www.buzzsprout.com/188368),  [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
+**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
