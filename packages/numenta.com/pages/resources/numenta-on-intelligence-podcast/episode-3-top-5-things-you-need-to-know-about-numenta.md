@@ -29,7 +29,7 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 [NuPIC](https://github.com/numenta/nupic) – NuPIC stands for Numenta Platform for Intelligent Computing. It’s our implementation of HTM, available in an open source project where you can find all of our core algorithms and sample application code.  
 
 **Top 5 things you need to know about Numenta**
-<br>[1:58] **#1 Our Mission** - to understand how the brain works</br>
+<br>[1:58] **#1 Our Mission**</br>
 <br>[4:31] **#2 What We've Learned so Far**</br>
 * [4:42] Our first area of discovery: [Sequence Memory](/neuroscience-research/sequence-learning/) – how your brain memorizes spatial patterns over time
 * [5:46] Matt conducts a thought experiment: Invoking sequences with Beethoven
