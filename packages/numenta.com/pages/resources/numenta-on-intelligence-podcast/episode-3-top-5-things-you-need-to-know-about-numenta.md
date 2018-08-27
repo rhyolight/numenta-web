@@ -16,7 +16,7 @@ type: post
 
 <audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/787021-new-to-numenta-top-5-things-you-need-to-know" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
-New to Numenta? Bit of a beginner in brains? Then this episode is for you. In their 20 minute conversation, hosts Christy Maver and Matt Taylor break down the top 5 things you need to know about Numenta, including key resources for all levels of interest - from AI enthusiasts to neuroscientists - and how you can get involved.
+New to Numenta? Bit of a beginner in brain theory? Then this episode is for you. In their 20 minute conversation, hosts Christy Maver and Matt Taylor break down the top 5 things you need to know about Numenta, including key resources for all levels of interest - from AI enthusiasts to neuroscientists - and how you can get involved.
 
 This episode is designed for beginners. It does not require any previous knowledge about Numenta, brains, or brain theory. If you’re looking for more detailed conversations about our neuroscience research, listen to our [first two episodes](/resources/numenta-on-intelligence-podcast/episode-1-research-update-with-Jeff-Hawkins-part-1/), where host Matt Taylor interviews Numenta Co-founder Jeff Hawkins to describe the latest research developments.
 
@@ -59,4 +59,4 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 **[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-3-Top-5-Things-You-Need-to-Know-About-Numenta-transcript.pdf)**
 
 </center>
-**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Buzzsprout]( https://www.buzzsprout.com/188368),  [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
+**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Buzzsprout](https://www.buzzsprout.com/188368),  [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
