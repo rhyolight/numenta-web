@@ -29,32 +29,29 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 [NuPIC](https://github.com/numenta/nupic) – NuPIC stands for Numenta Platform for Intelligent Computing. It’s our implementation of HTM, available in an open source project where you can find all of our core algorithms and sample application code.  
 
 **Top 5 things you need to know about Numenta**
-*	[1:58] **#1 Our Mission** - to understand how the brain works
-*	[4:31] **#2 What We've Learned so Far**
-*   [4:42] Our first area of discovery: [Sequence Memory](/neuroscience-research/sequence-learning/) – how your brain memorizes spatial patterns over time
-*   [5:46] Matt conducts a thought experiment: Invoking sequences with Beethoven
-*	  [6:40] The "Neuron Paper" - [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)
-*   [6:49] Our second area of discovery: how your brain learns objects over time through movement, object recognition
-*   [9:11] Research paper documenting this discovery: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
-*   [9:17] For additional resources on this area of our research, visit our [Cortical columns](/neuroscience-research/cortical-columns/) page.
-* [9:21] **#3 Applications of our Technology**
-*   [HTM Applications](/machine-intelligence-technology/applications/)
-*   [HTM Studio](/machine-intelligence-technology/htm-studio/) - our free tool that allows you to test our technology (HTM) on your data with one click and no coding
-* [12:55] **#4 Our Commitment to Open Science and Research Transparency**
-*   [Increasing Research Transparency](/blog/2014/09/17/increasing-research-transparency/) (blog by VP of Research Subutai Ahmad)
-*	  [Subutai on Twitter](https://twitter.com/SubutaiAhmad)
-*	  [Numenta Research Papers](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
-*	  [Numenta Events page](/company/events/)
-*	  [HTM School](https://numenta.org/htm-school/)
-* [15:24] **#5 How You Can Get Involved**
-*   For non-scientists: Learn more about us with these 30,000 foot view pieces by Jeff Hawkins:
-*     [Thousand Brains Model of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/)
-*     [Secret to Strong AI](/blog/2017/11/14/secret-to-strong-ai/)
-*     [What Intelligent Machines Need to Learn From the Neocortex](https://spectrum.ieee.org/computing/software/what-intelligent-machines-need-to-learn-from-the-neocortex) (IEEE Spectrum article)
-
-*   For scientists: Read our peer-reviewed papers and posters, and preprint journal papers
-*     [Research Publications](https://numenta.com/neuroscience-research/research-publications/)
-*   Join the HTM Community
-      [HTM Forum](https://discourse.numenta.org/)
+[1:58] **#1 Our Mission** - to understand how the brain works
+[4:31] **#2 What We've Learned so Far**
+* [4:42] Our first area of discovery: [Sequence Memory](/neuroscience-research/sequence-learning/) – how your brain memorizes spatial patterns over time
+* [5:46] Matt conducts a thought experiment: Invoking sequences with Beethoven
+*	[6:40] The "Neuron Paper" - [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)
+* [6:49] Our second area of discovery: how your brain learns objects over time through movement, object recognition
+* [9:11] Research paper documenting this discovery: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
+* [9:17] For additional resources on this area of our research, visit our [Cortical columns](/neuroscience-research/cortical-columns/) page.
+[9:21] **#3 Applications of our Technology**
+* [HTM Applications](/machine-intelligence-technology/applications/)
+* [HTM Studio](/machine-intelligence-technology/htm-studio/) - our free tool that allows you to test our technology (HTM) on your data with one click and no coding
+[12:55] **#4 Our Commitment to Open Science and Research Transparency**
+* [Increasing Research Transparency](/blog/2014/09/17/increasing-research-transparency/) (blog by VP of Research Subutai Ahmad)
+*	[Subutai on Twitter](https://twitter.com/SubutaiAhmad)
+*	[Numenta Research Papers](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
+*	[Numenta Events page](/company/events/)
+*	[HTM School](https://numenta.org/htm-school/)
+[15:24] **#5 How You Can Get Involved**
+* For non-scientists: Learn more about us with these 30,000 foot view pieces by Jeff Hawkins:
+* [Thousand Brains Model of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/)
+* [Secret to Strong AI](/blog/2017/11/14/secret-to-strong-ai/)
+* [What Intelligent Machines Need to Learn From the Neocortex](https://spectrum.ieee.org/computing/software/what-intelligent-machines-need-to-learn-from-the-neocortex) (IEEE Spectrum article)
+* For scientists: Read our [peer-reviewed papers, posters, and preprint journal papers](/neuroscience-research/research-publications)
+* Join the [HTM Forum](https://discourse.numenta.org/)
 
 **Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Buzzsprout]( https://www.buzzsprout.com/188368),  [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
