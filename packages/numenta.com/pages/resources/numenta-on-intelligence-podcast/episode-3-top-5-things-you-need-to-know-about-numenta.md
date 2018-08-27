@@ -29,24 +29,28 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 [NuPIC](https://github.com/numenta/nupic) – NuPIC stands for Numenta Platform for Intelligent Computing. It’s our implementation of HTM, available in an open source project where you can find all of our core algorithms and sample application code.  
 
 **Top 5 things you need to know about Numenta**
-<br>[1:58] **#1 Our Mission**</br>
-<br>[4:31] **#2 What We've Learned so Far**</br>
+<br>[1:58] **#1 Our Mission**
+
+<br>[4:31] **#2 What We've Learned so Far**
 * [4:42] Our first area of discovery: [Sequence Memory](/neuroscience-research/sequence-learning/) – how your brain memorizes spatial patterns over time
 * [5:46] Matt conducts a thought experiment: Invoking sequences with Beethoven
 *	[6:40] The "Neuron Paper" - [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/)
 * [6:49] Our second area of discovery: how your brain learns objects over time through movement, object recognition
 * [9:11] Research paper documenting this discovery: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
 * [9:17] For additional resources on this area of our research, visit our [Cortical columns](/neuroscience-research/cortical-columns/) page.
-<br>[9:21] **#3 Applications of our Technology**</br>
+
+<br>[9:21] **#3 Applications of our Technology**
 * [9:42] [HTM Applications](/machine-intelligence-technology/applications/)
 * [11:11] [HTM Studio](/machine-intelligence-technology/htm-studio/) - our free tool that allows you to test our technology (HTM) on your data with one click and no coding
+
 <br>[12:55] **#4 Our Commitment to Open Science and Research Transparency**</br>
 * [13:01] [Increasing Research Transparency](/blog/2014/09/17/increasing-research-transparency/) (blog by VP of Research Subutai Ahmad)
 *	[13:07] [Subutai on Twitter](https://twitter.com/SubutaiAhmad)
 *	[13:41] [Numenta Research Papers](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
 *	[13:55] [Numenta Events page](/company/events/)
 *	[14:13] [HTM School](https://numenta.org/htm-school/)
-<br>[15:24] **#5 How You Can Get Involved**</br>
+
+<br>[15:24] **#5 How You Can Get Involved**
 * [15:44] For non-scientists: Learn more about us with these 30,000 foot view pieces by Jeff Hawkins: [Thousand Brains Model of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/), [Secret to Strong AI](/blog/2017/11/14/secret-to-strong-ai/), [What Intelligent Machines Need to Learn From the Neocortex](https://spectrum.ieee.org/computing/software/what-intelligent-machines-need-to-learn-from-the-neocortex) (IEEE Spectrum article)
 * [16:36] For scientists: Read our [peer-reviewed papers, posters, and preprint journal papers](/neuroscience-research/research-publications)
 * [17:00] Join the [HTM Forum](https://discourse.numenta.org/)
