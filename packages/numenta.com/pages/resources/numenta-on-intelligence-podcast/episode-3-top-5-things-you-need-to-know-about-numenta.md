@@ -2,7 +2,7 @@
 author: Numenta
 description: New to Numenta? Bit of a beginner in brains? Then tune in to this 20 minute conversation with Numenta On Intelligence Podcast hosts Christy Maver and Matt Taylor. They break down the top 5 things you need to know about Numenta, including key resources to learn more and how you can get involved.
 date: 2018/08/28
-image: ../images/episode-3-top-5.jpg
+image: ../images/episode-3-top-5.png
 link: https://www.buzzsprout.com/188368/787021-new-to-numenta-top-5-things-you-need-to-know
 media: podcast
 org: Christy Maver & Matt Taylor
@@ -54,4 +54,9 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 * For scientists: Read our [peer-reviewed papers, posters, and preprint journal papers](/neuroscience-research/research-publications)
 * Join the [HTM Forum](https://discourse.numenta.org/)
 
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-3-Top-5-Things-You-Need-to-Know-About-Numenta-transcript.pdf)**
+
+</center>
 **Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Buzzsprout]( https://www.buzzsprout.com/188368),  [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
