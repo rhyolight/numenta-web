@@ -43,7 +43,7 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 * [9:42] [HTM Applications](/machine-intelligence-technology/applications/)
 * [11:11] [HTM Studio](/machine-intelligence-technology/htm-studio/) - our free tool that allows you to test our technology (HTM) on your data with one click and no coding
 
-<br>[12:55] **#4 Our Commitment to Open Science and Research Transparency**</br>
+<br>[12:55] **#4 Our Commitment to Open Science and Research Transparency**
 * [13:01] [Increasing Research Transparency](/blog/2014/09/17/increasing-research-transparency/) (blog by VP of Research Subutai Ahmad)
 *	[13:07] [Subutai on Twitter](https://twitter.com/SubutaiAhmad)
 *	[13:41] [Numenta Research Papers](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/)
@@ -56,8 +56,9 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 * [17:00] Join the [HTM Forum](https://discourse.numenta.org/)
 
 <center>
+
 **[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-3-Top-5-Things-You-Need-to-Know-About-Numenta-transcript.pdf)**
 
 </center>
-<br>
-**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
+
+<br>**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
