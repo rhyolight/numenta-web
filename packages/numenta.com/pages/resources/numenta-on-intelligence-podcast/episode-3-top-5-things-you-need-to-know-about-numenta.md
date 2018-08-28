@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: New to Numenta? Bit of a beginner in brains? Then tune in to this 20 minute conversation with Numenta On Intelligence Podcast hosts Christy Maver and Matt Taylor. They break down the top 5 things you need to know about Numenta, including key resources to learn more and how you can get involved.
+description: New to Numenta? Bit of a beginner in brain theory? Then tune in to this 20 minute conversation with Numenta On Intelligence Podcast hosts Christy Maver and Matt Taylor. They break down the top 5 things you need to know about Numenta, including key resources to learn more and how you can get involved.
 date: 2018/08/28
 image: ../images/episode-3-top-5.png
 link: https://www.buzzsprout.com/188368/787021-new-to-numenta-top-5-things-you-need-to-know
