@@ -14,7 +14,7 @@ keywords: new to Numenta
 type: post
 ---
 
-<audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/787021-new-to-numenta-top-5-things-you-need-to-know" type="audio/mpeg">Your browser does not support the audio element. </audio>
+<audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/787021-new-to-numenta-top-5-things-you-need-to-know.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
 New to Numenta? Bit of a beginner in brain theory? Then this episode is for you. In their 20 minute conversation, hosts Christy Maver and Matt Taylor break down the top 5 things you need to know about Numenta, including key resources for all levels of interest - from AI enthusiasts to neuroscientists - and how you can get involved.
 
@@ -32,7 +32,7 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 <br>[1:58] **#1 Our Mission**
 
 * [2:35] Our primary scientific mission and secondary machine intelligence mission
-  
+
 <br>[4:31] **#2 What We've Learned so Far**
 * [4:42] Our first area of discovery: [Sequence Memory](/neuroscience-research/sequence-learning/) – how your brain memorizes spatial patterns over time
 * [5:46] Matt conducts a thought experiment: Invoking sequences with Beethoven
