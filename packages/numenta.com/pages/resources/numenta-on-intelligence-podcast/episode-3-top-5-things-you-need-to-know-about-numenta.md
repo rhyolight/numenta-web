@@ -31,6 +31,8 @@ You’ll hear a couple repeated terms in this episode that are core to Numenta. 
 **Top 5 things you need to know about Numenta**
 <br>[1:58] **#1 Our Mission**
 
+* [2:35] Our primary scientific mission and secondary machine intelligence mission
+  
 <br>[4:31] **#2 What We've Learned so Far**
 * [4:42] Our first area of discovery: [Sequence Memory](/neuroscience-research/sequence-learning/) – how your brain memorizes spatial patterns over time
 * [5:46] Matt conducts a thought experiment: Invoking sequences with Beethoven
