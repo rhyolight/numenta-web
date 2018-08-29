@@ -97,3 +97,13 @@ dropcap {
   composes: b from 'tachyons';
   composes: f3 from 'tachyons';
 }
+
+sup a[href*="://"]::after {
+  background-image: none;
+  background-size: 0 0;
+  height: 0;
+  width: 0;
+  top: 0;
+  left: 0;
+  margin: 0;
+}
