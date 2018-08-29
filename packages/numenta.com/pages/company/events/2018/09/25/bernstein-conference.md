@@ -15,7 +15,7 @@ event:
     web: http://www.bernstein-conference.de/
   who: Mirko Klukas
   why: Poster Presentation
-image: ../images/bernstein.jpg
+image: ../images/bernstein2.png
 org: Numenta Research Scholar
 keywords: "Numenta Bernstein conference"
 title: "Bernstein Conference"
