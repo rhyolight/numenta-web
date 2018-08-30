@@ -53,6 +53,6 @@ We realized that everywhere in the neocortex, there is a location signal. Some o
 
 When you understand that a cortical column can create complete models, it forces you to rethink how the neocortex works as a whole. We have more to do, but have made great progress and are moving closer to having a complete framework for how a cortical column works.
 
-You can follow our progress by subscribing to our newsletter. We also document our work in many forms, including peer-reviewed journal papers, and strive to be as open as possible.
+You can follow our progress by subscribing to our [newsletter](company/newsletter/). We also [document our work](/neuroscience-research/research-publications/) in many forms, including peer-reviewed journal papers, and strive to be as open as possible.
 
 Visit [numenta.com](/) to learn more about these discoveries and our current research.
