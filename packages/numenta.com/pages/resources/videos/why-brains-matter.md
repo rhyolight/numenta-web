@@ -19,7 +19,7 @@ type: post
 ## Video
 
 <div class="video-container media-border">
-  <iframe width="504" height="284" src="https://www.youtube.com/watch?v=rLTrUn7UYpQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="504" height="284" src="https://www.youtube.com/embed/rLTrUn7UYpQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Voiceover
