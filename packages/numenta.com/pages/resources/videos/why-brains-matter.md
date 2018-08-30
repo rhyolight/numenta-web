@@ -11,7 +11,7 @@ section: overview
 sort: a
 tags: Numenta, brain theory, neuroscience, cortical theory, cortical columns, dendritic spikes, neurons
 title: "Numenta: Why Brains Matter"
-header: "Numenta: why brains matter"
+header: "Numenta: Why Brains Matter"
 keywords: "why brains matter"
 type: post
 ---
