@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: Numenta is on a mission to solve a grand scientific challenge: figure out how the brain works. Through a focus on cortical theory, Numenta researchers have made some important discoveries that lay the foundation for a new framework for intelligence. This video explains two of those discoveries, both documented in peer-reviewed papers.
+description: Numenta is on a mission to solve the grand scientific challenge of figuring out how the brain works. Through a focus on cortical theory, Numenta researchers have made some important discoveries that lay the foundation for a new framework for intelligence. This video explains two of those discoveries, both documented in peer-reviewed papers.
 date: 2018/08/30
 image: https://img.youtube.com/vi/X50GY0mdHlw/sddefault.jpg
 hideImage: true
