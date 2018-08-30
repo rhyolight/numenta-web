@@ -6,7 +6,7 @@ image: https://img.youtube.com/vi/X50GY0mdHlw/sddefault.jpg
 hideImage: true
 link:
 media: video
-org:
+org: Research
 section: overview
 sort: a
 tags: Numenta, brain theory, neuroscience, cortical theory, cortical columns, dendritic spikes, neurons
