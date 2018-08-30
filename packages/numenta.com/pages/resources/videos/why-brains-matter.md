@@ -22,7 +22,7 @@ type: post
   <iframe width="504" height="284" src="https://www.youtube.com/embed/rLTrUn7UYpQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Voiceover
+## Transcript
 At Numenta, we are tackling one of the most important scientific problems of all time: figuring out how the brain works.
 
 This fascinating organ has incredible functionality. It makes predictions, models objects, and generates behavior.

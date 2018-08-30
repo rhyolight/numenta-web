@@ -22,7 +22,7 @@ type: post
   <iframe width="504" height="284" src="https://www.youtube.com/embed/X50GY0mdHlw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Voiceover
+## Transcript
 This is your brain. More specifically, it’s your neocortex, one of the most fascinating parts of a mammalian brain. In humans, it makes up about 70% of the brain’s volume.
 
 This wrinkly sheet of cells, about the size of a dinner napkin, and 2.5 mm thick, is responsible for intelligence.
