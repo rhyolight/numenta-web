@@ -380,6 +380,7 @@ biological-and-machine-intelligence,resources/biological-and-machine-intelligenc
 biological-and-,resources/biological-and-machine-intelligence
 library,neuroscience-research/research-publications/papers
 nab,machine-intelligence-technology/numenta-anomaly-benchmark
+resources/papers-videos-and-more,resources/videos-podcasts-and-more
 resources/papers,neuroscience-research/research-publications/papers
 resources/papers/,neuroscience-research/research-publications/papers
 papers,neuroscience-research/research-publications/papers
@@ -406,7 +407,6 @@ how_grok_works.html,https://grokstream.com
 resources/papers-videos-and-more/numenta-HBS-case,blog/2017/05/31/numenta-HBS-case
 resources/papers-videos-and-more/numenta-HBS-case/,blog/2017/05/31/numenta-HBS-case/
 machine-intelligence-technology/neuroscience-research,neuroscience-research
-resources/papers-videos-and-more,resources/videos-podcasts-and-more
 machine-intelligence-technology/numenta-in-a-nutshell,company/numenta-in-a-nutshell
 applications/anomaly-detection-benchmark,machine-intelligence-technology/numenta-anomaly-benchmark
 anomaly-detection-benchmark,machine-intelligence-technology/numenta-anomaly-benchmark
