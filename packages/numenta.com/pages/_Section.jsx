@@ -97,8 +97,7 @@ const SectionHome = (props, {config}) => {
           <DefineItem>
             {/* eslint-disable max-len */}
             <TextLink to="https://www.youtube.com/watch?v=X50GY0mdHlw&t=4s">
-            Numenta Research: Key Discoveries in Understanding How the Brain
-            Works
+            Key Discoveries in Understanding How the Brain Works
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
