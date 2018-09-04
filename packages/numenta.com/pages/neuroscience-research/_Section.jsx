@@ -33,7 +33,8 @@ const SectionNeuroscience = (props, {config}) => (
           image={ImageOurGoal}
           respond="mw"
           shadow={true}
-          title="Key Discoveries in Understanding How the Brain Works"
+          title={(<span>Key Discoveries in Understanding <br />
+                 How the Brain Works (4:33)</span>)}
           type="youtube"
           videoId="X50GY0mdHlw"
         />
