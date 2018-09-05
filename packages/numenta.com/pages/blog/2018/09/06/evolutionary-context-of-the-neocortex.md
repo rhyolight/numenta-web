@@ -1,6 +1,6 @@
 ---
 author: Scott Purdy
-description: "xxx"
+description: "The neocortex evolved and rapidly expanded in a very short amount of time, yet it has an incredibly complex structure. So much so, that an understanding of the functionality of the full circuit eludes researchers to this day. How did this massive part of the brain, the part that is responsible for intelligence, develop so quickly? Numenta Researcher Scott Purdy ponders that question in this blog post."
 date: 2018/09/06    
 hideImage: false
 org: Research Staff Member
