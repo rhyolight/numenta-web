@@ -11,7 +11,7 @@ header: "What’s Old is New Again: The Evolutionary Context of the Neocortex"
 type: post
 ---
 
-Our primary [research](/neuroscience-research) interest at Numenta is the neocortex in mammals. We are on a mission to understand how the neocortex works, in order to understand intelligence in the brain. While we often talk about the essential principles of the neocortex, we don’t talk much about how it came to be.
+Our primary [research](/neuroscience-research/) interest at Numenta is the neocortex in mammals. We are on a mission to understand how the neocortex works, in order to understand intelligence in the brain. While we often talk about the essential principles of the neocortex, we don’t talk much about how it came to be.
 
 The neocortex evolved and rapidly expanded in a very short amount of time (on evolutionary scales, at least). Yet it has an incredibly complex structure. So much so, that an understanding of the functionality of the full circuit eludes researchers to this day. How did this massive part of the brain, which accounts for 70% of the brain’s volume and is responsible for intelligence, develop so quickly?
 
