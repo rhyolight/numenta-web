@@ -20,7 +20,7 @@ In partner news, Cortical.io [announced a partnership with PwC Germany](http://w
 
 To learn more about Cortical.io and their unique approach to natural language solutions, check out our latest [Numenta On Intelligence podcast episode](/resources/numenta-on-intelligence-podcast/episode-4-natural-language-understanding-with-Francisco-Webber/), where I interviewed CEO and Co-Founder Francisco Webber. We chat about what makes them different, the many use cases where they’re seeing success, and the YouTube video of Jeff Hawkins that started it all.
 
-Lastly, we have a new [blog post](https://numenta.com/blog/2018/09/06/evolutionary-context-of-the-neocortex/) that introduces an idea born out of our latest research. Numenta Researcher Scott Purdy sheds some light on how a location-based framework may help explain how the neocortex evolved and expanded so quickly.
+Lastly, we have a new [blog post](/blog/2018/09/06/evolutionary-context-of-the-neocortex/) that introduces an idea born out of our latest research. Numenta Researcher Scott Purdy sheds some light on how a location-based framework may help explain how the neocortex evolved and expanded so quickly.
 Thank you for continuing to follow Numenta.
 
 Christy Maver
