@@ -3,7 +3,7 @@ author: Christy Maver
 description: "Numenta co-founder Jeff Hawkins will present new research at two upcoming events: the Human Brain Project Summit Open Day in Maastricht, Netherlands and the Johns Hopkins University APL Colloquium in Baltimore, Maryland. These presentations mark the first public presentations of Numenta’s framework for understanding how the neocortex works. The framework ties together major new pieces of our work, and suggests a new way of thinking about intelligence."
 date: 2018/09/19
 hideImage: false
-image: ../images/numenta-newsletter-july-2018.png
+image: ../images/numenta-newsletter-september-2018.png
 org: VP of Marketing
 keywords: "Numenta new podcast"
 title: "Jeff Hawkins Presents New Research | Numenta News - September 2018"
