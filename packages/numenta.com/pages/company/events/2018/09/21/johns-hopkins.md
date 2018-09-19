@@ -8,8 +8,8 @@ event:
     begin: 2018/09/21 14:00
     end: 2018/09/21 15:00
   where:
-    desc: "Parsons Auditorium at Johns Hopkins University"
-    city: Baltimore
+    desc: "Parsons Auditorium at Johns Hopkins University Applied Physics Laboratory"
+    city: Laurel
     state: MD
     country: USA
     web: http://www.jhuapl.edu/colloquium/Archive/Detail?colloqid=733
