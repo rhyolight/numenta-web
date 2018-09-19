@@ -22,6 +22,3 @@ To learn more about Cortical.io and their unique approach to natural language so
 
 Lastly, we have a new [blog post](/blog/2018/09/06/evolutionary-context-of-the-neocortex/) that introduces an idea born out of our latest research. Numenta Researcher Scott Purdy sheds some light on how a location-based framework may help explain how the neocortex evolved and expanded so quickly.
 Thank you for continuing to follow Numenta.
-
-Christy Maver
-VP of Marketing
