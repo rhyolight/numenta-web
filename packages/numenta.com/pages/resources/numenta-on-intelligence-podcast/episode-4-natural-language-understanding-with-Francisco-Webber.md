@@ -16,7 +16,7 @@ type: post
 
 <audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/802224-episode-4-natural-language-understanding-with-cortical-io-s-francisco-webber.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
-Podcast host Christy Maver interviews Francisco Weber, CEO and Co-founder of Cortical.io. Cortical io is a strategic partner of Numenta that specializes in natural language understanding. In this episode, Francisco talks about the spark that started it all for him while watching a YouTube video of our Co-founder, Jeff Hawkins, the advantages of their patented semantic folding methodology over other machine learning, statistical-based approaches, and the many natural language use cases the company addresses.
+Podcast host Christy Maver interviews Francisco Webber, CEO and Co-founder of Cortical.io. Cortical io is a strategic partner of Numenta that specializes in natural language understanding. In this episode, Francisco talks about the spark that started it all for him while watching a YouTube video of our Co-founder, Jeff Hawkins, the advantages of their patented semantic folding methodology over other machine learning, statistical-based approaches, and the many natural language use cases the company addresses.
 
 ## Show Notes
 
