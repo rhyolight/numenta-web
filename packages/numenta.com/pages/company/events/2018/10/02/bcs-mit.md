@@ -7,8 +7,8 @@ event:
   when:
     begin: 2018/10/02 10:00
     end: 2018/10/02 11:30
-  where: McGovern Boardroom, 46-3160Q 43 Vassar St.
-    desc: "MIT Department of Brain and Cognitive Sciences"
+  where:
+    desc: McGovern Boardroom, 46-3160Q 43 Vassar St.
     city: Cambridge
     state: MA
     country: USA
