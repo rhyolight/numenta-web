@@ -8,7 +8,7 @@ event:
     begin: 2018/10/02 15:30
     end: 2018/10/02 16:30
   where:
-    desc: "University of Waterloo Engineering 5, room 6127"
+    desc: "University of Waterloo: Engineering 5, Room 6127"
     city: Waterloo
     country: Ontario
     web: https://uwaterloo.ca/centre-for-theoretical-neuroscience/
