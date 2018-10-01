@@ -5,10 +5,10 @@ date: 2018/10/02
 event:
   what: "Have We Missed Half of What the Neocortex Does? A New Predictive Framework Based on Cortical Grid Cells"
   when:
-    begin: 2018/10/02
-    end: 2018/10/02
+    begin: 2018/10/02 15:30
+    end: 2018/10/02 16:30
   where:
-    desc: "University of Waterloo"
+    desc: "University of Waterloo: Engineering 5, Room 6127"
     city: Waterloo
     country: Ontario
     web: https://uwaterloo.ca/centre-for-theoretical-neuroscience/
