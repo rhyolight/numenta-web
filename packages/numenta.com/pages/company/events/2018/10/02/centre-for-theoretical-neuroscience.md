@@ -28,3 +28,8 @@ How the neocortex works is a mystery. Traditional feed forward models of percept
 ## About the Centre for Theoretical Neuroscience:
 
 Recently established at the University of Waterloo, the Centre for Theoretical Neuroscience is a growing research initiative comprising multiple labs that focus on theoretical, or computational, neuroscience. The Centre runs a regular academic colloquium series, and Numenta VP Research Subutai Ahmad will be the speaker for the October session.
+
+## Slides:
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/44OUlax2JLYFLO" width="504" height="411" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/have-we-missed-half-of-what-the-neocortex-does-a-new-predictive-framework-based-on-cortical-grid-cells"
+title="Have We Missed Half of What the Neocortex Does? A New Predictive Framework Based on Cortical Grid Cells by Subutai Ahmad (10/02/18)</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="\_blank">Numenta</a></strong> </div>
