@@ -22,5 +22,5 @@ ___
 In October 2018 we released a major new paper that describes a framework for
 how the cortical column works.
 * Read the paper
-* Read a companion paper
-* Watch the video 
+* Read the companion paper
+* Watch the video
