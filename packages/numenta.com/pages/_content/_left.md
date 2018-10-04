@@ -13,14 +13,11 @@ same principles. We believe that understanding how the neocortex works is the
 fastest path to machine intelligence, and creating intelligent machines is
 important for the continued success of humankind.
 
-We are at the beginning of a thrilling new era of computing that will unfold
-over the coming decades, and we invite you to learn about how our approach is
-helping to advance the state of brain theory and machine intelligence.
-
 ___
 
-In October 2018 we released a major new paper that describes a framework for
-how the cortical column works.
+**A New Theory for Intelligence and Cortical Function**
+In October 2018 we released a major new theory for intelligence and cortical
+computation. We have several resources available for you to learn more.
 * Read the paper
 * Read the companion paper
 * Watch the video
