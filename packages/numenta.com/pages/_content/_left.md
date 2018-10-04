@@ -6,13 +6,7 @@ keywords: machine intelligence
 
 ---
 
-Welcome to **Numenta**.**com**. Here you’ll find information about the company Numenta.
-If you would like to learn about Numenta’s HTM community and open source
-project, visit [**Numenta.org**](https://numenta.org).
-
-___
-
-**Numenta** is tackling one of the most important scientific challenges of all
+Numenta is tackling one of the most important scientific challenges of all
 time: reverse engineering the neocortex. Studying how the brain works helps us
 understand the principles of intelligence and build machines that work on the
 same principles. We believe that understanding how the neocortex works is the
@@ -22,3 +16,11 @@ important for the continued success of humankind.
 We are at the beginning of a thrilling new era of computing that will unfold
 over the coming decades, and we invite you to learn about how our approach is
 helping to advance the state of brain theory and machine intelligence.
+
+___
+
+In October 2018 we released a major new paper that describes a framework for
+how the cortical column works.
+* Read the paper
+* Read a companion paper
+* Watch the video 
