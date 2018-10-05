@@ -15,8 +15,8 @@ important for the continued success of humankind.
 
 ___
 
-**A New Theory for Intelligence and Cortical Function**<br/>
-In October 2018 we released a major new theory for how the neocortex works. We have several resources available for you to learn more.
+**Thousand Brains Theory of Intelligence**<br/>
+In October 2018 we released a major new theory intelligence and cortical computation. We have several resources available for you to learn more.
 * Research paper introducing the theory: [A Framework for Intelligence and Cortical Function Based on Grid Cells
 in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells/)
 * Companion paper that describes the theory in non-scientific terms: [Companion paper](/neuroscience-research/research-publications/papers/framework-companion-paper)
