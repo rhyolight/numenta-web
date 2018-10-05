@@ -1,7 +1,7 @@
 ---
 author: "Marcus Lewis, Scott Purdy, Subutai Ahmad, and Jeff Hawkins"
-description: "This paper proposes a network model composed of columns and layers that performs robust object learning and recognition. The model introduces a new feature to cortical columns, location information, which is represented relative to the object being sensed."
-keywords: sensorimotor inference, object recognition
+description: "This paper explains how location signals can be generated with a location layer that utilizes grid-cell-like neurons. It builds on our previous paper, "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
+keywords: location signals in the neocortex
 category: neuroscience, sensorimotor
 date: 2018/10/05
 hideImage: true
