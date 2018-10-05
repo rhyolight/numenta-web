@@ -5,7 +5,7 @@ keywords: sensorimotor inference, object recognition
 category: neuroscience, sensorimotor
 date: 2018/10/05
 hideImage: true
-image: ../images/.png
+image: ../images/network-diagram.svg
 link:
 org: "Preprint of journal submission"
 sort: a
@@ -28,8 +28,8 @@ Our October 2017 paper, “[A Theory of How Columns in the Neocortex Enable Lear
 3.	Simulations showing the model’s convergence and capacity scaling as the number of objects increases and the parameters of the models are varied.
 
 
-![Real, HTM, and Deep Learning neurons](../images/why-neurons-have-thousands.png)
-> *The HTM neuron models biological neurons unlike most artificial neural networks*
+![Network diagram](../images/network-diagram.svg)
+> *Two-layer network diagram showing a sensory and location layer*
 
 ## Frequently asked questions about this research
 
@@ -76,4 +76,4 @@ In addition to this paper, we are publishing a higher level paper on the locatio
 
 As mentioned in the paper, there are numerous avenues for further research. We are still trying to understand how locations are encoded in the neocortex. We need to extend the model to recognize learned objects at novel orientations to the sensor and to efficiently handle 3D objects. And we need to figure out how multiple cortical columns collaborate to learn and recognize objects.
 
-[1]: 
+[1]:
