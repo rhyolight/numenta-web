@@ -1,6 +1,6 @@
 ---
 author: "Donna Dubinsky and Christy Maver"
-description: "This companion piece explains the Thousand Brains Theory of Intelligence, one of the big ideas introduced in the October 2018 research paper A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex by Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, and Subutai Ahmad.  Written by non-neuroscientists, it can be read as a standalone piece or as a primer for the full research paper.  
+description: "This companion piece explains the Thousand Brains Theory of Intelligence, one of the big ideas introduced in the October 2018 research paper A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex by Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, and Subutai Ahmad.  Written by non-neuroscientists, it can be read as a standalone piece or as a primer for the full research paper."
 keywords: thousand brains theory of intelligence
 category: neuroscience, sensorimotor
 date: 2018/10/10
