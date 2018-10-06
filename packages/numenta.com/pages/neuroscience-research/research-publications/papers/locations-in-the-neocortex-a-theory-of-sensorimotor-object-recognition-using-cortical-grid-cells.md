@@ -6,7 +6,7 @@ category: neuroscience, sensorimotor
 date: 2018/10/05
 hideImage: true
 image: ../images/network-diagram.svg
-link:
+link: https://www.biorxiv.org/content/early/2018/10/05/436352
 org: "Preprint of journal submission"
 sort: b
 title: " Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells"
@@ -76,4 +76,4 @@ In addition to this paper, we are publishing a higher level paper on the locatio
 
 As mentioned in the paper, there are numerous avenues for further research. We are still trying to understand how locations are encoded in the neocortex. We need to extend the model to recognize learned objects at novel orientations to the sensor and to efficiently handle 3D objects. And we need to figure out how multiple cortical columns collaborate to learn and recognize objects.
 
-[1]:
+[1]: https://www.biorxiv.org/content/early/2018/10/05/436352
