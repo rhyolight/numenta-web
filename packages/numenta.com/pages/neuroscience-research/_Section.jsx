@@ -5,10 +5,8 @@
 import React from 'react'
 import Markdown from 'numenta-web-shared-components/lib/Markdown'
 import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
-import Helmet from 'react-helmet'
 import Video from 'numenta-web-shared-components/lib/Video'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
-import {getMetadataTags} from 'numenta-web-shared-utils/lib/client'
 import Content from './neuroscience-research.md'
 import styles from './index.css'
 import ImageOurGoal from './images/our-goal.jpg'
@@ -17,11 +15,8 @@ import ImageOurGoal from './images/our-goal.jpg'
 /**
  * Neuroscience Research MainSection and page content - React view component.
  */
-const SectionNeuroscience = (props, {config}) => (
+const SectionNeuroscience = () => (
   <article className={styles.columns}>
-    <Helmet title={Content.title}>
-      {getMetadataTags(Content, config.baseUrl, Content.description)}
-    </Helmet>
     <h2>
       Our Goal
     </h2>

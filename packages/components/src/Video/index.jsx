@@ -24,7 +24,10 @@ class Video extends React.Component {
     image: React.PropTypes.string.isRequired,
     respond: React.PropTypes.oneOf(['mw', 'w']),
     time: React.PropTypes.string,
-    title: React.PropTypes.string.isRequired,
+    title: React.PropTypes.oneOfType([
+      React.PropTypes.string,
+      React.PropTypes.object,
+    ]).isRequired,
     type: React.PropTypes.oneOf(['youtube']).isRequired,
     videoId: React.PropTypes.string.isRequired,
   }
