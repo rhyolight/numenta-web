@@ -8,7 +8,7 @@ hideImage: true
 image: ../images/network-diagram.svg
 link:
 org: "Preprint of journal submission"
-sort: a
+sort: b
 title: " Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells"
 type: post
 
