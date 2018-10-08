@@ -35,7 +35,7 @@ Our October 2017 paper, “[A Theory of How Columns in the Neocortex Enable Lear
 
 ### Q. What was the purpose of this study?
 
-This work explores methods for deriving object-specific location signals from sensory and motor inputs. Our [October 2017 paper](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/) proposed that this type of representation was necessary for recognizing objects and we can now show how to generate them through integration of sensory and motor inputs over time. The simulations show that many complex objects can be learned and distinguished in a single cortical columns.
+This work explores methods for deriving object-specific location signals from sensory and motor inputs. Our [October 2017 paper](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/) proposed that this type of representation was necessary for recognizing objects and we can now show how to generate them through integration of sensory and motor inputs over time. The simulations show that many complex objects can be learned and distinguished in a single cortical column.
 
 ### Q. What are the key takeaways?
 
