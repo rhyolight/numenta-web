@@ -32,7 +32,7 @@ We document our research in several ways, including [peer-reviewed journal paper
 
 </aside>
 
-Although there is much to do, we have made significant progress on several key aspects of cortical theory. We are filling in the pieces of the common cortical circuit that underlines all of intelligence. We have made discoveries on how neurons make predictions, the role of dendritic spikes in cortical processing, how cortical layers learn sequences, and how cortical columns learn to model objects through movement.
+Although there is much to do, we have made significant progress on filling in the pieces of the common cortical circuit that underlines all of intelligence. We have proposed a novel theory and broad framework for understanding what the neocortex does and how it does it. We have made discoveries on how neurons make predictions, the role of dendritic spikes in cortical processing, how cortical layers learn sequences, and how cortical columns learn to model objects through movement.
 
 </section>
 
@@ -47,7 +47,7 @@ ___
 
 ### Cortical columns
 
-Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing, and how a cortical column works. As part of this research, we have proposed a detailed model, consistent with anatomical and physiological evidence, that shows how cortical columns learn sensorimotor models of the world by combining sensory inputs with a movement-updated allocentric location signal.
+Building on Mountcastle’s proposal that the neocortex is made up of identical cortical columns, we are working on filling in the pieces of the cortical circuit – understanding each layer, what the neurons are doing, and how a cortical column works. As part of this research, we have proposed a framework, consistent with anatomical and physiological evidence, that explains how cortical columns function. The framework is based on how cortical columns learn sensorimotor models of the world by combining sensory inputs with location signals.
 
 Find more information on [cortical columns](/neuroscience-research/cortical-columns/).
 
