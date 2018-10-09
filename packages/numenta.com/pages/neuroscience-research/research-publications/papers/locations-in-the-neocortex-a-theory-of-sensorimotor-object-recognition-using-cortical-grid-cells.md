@@ -21,12 +21,13 @@ type: post
 | **Online** | [Read or Download the Preprint][1] |
 | **Published** | October 5, 2018 |
 
-Our October 2017 paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/),” proposed a model for learning objects by using object-specific location signals. This new paper explains how these signals can be generated with a location layer that utilizes grid-cell-like neurons. This paper includes:
+The neocortex aggregates information obtained via sensation and movement, but the underlying neural mechanisms are poorly understood. Our October 2017 paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/),” proposed that the cortex processes a sensorimotor sequence by converting it into a sequence of sensory features at object-centric locations. It then learns objects by learning sets of sensory features at locations. However that paper did not provide a neural mechanism for computing object-centric locations. This new paper provides such a neural mechanism. With this missing piece filled in, we present a neural network model that learns to recognize static objects, receiving only a sensorimotor sequence as input.
 
-1.	A location layer implementation that has multiple grid-like modules that can uniquely encode locations on many complex objects. The layer uses sensory-derived and motor signals to infer the object and location over several sensations and movements.
-2.	A model that includes the location layer and an input layer that combines sensory inputs and the location signal to determine an object-specific representation for the current sensory input.
-3.	Simulations showing the model’s convergence and capacity scaling as the number of objects increases and the parameters of the models are varied.
+This mechanism relies on grid-cell-like neurons that represent the location of sensor patches (for example, the tip of a finger) relative to objects. Similar to entorhinal grid cells, these cortical grid cells are arranged into multiple modules. Each module independently uses motor input to update its active grid cells, and the population activity across modules can represent an enormous number of possible locations. By activating random cells in each module and then updating activity with movement, the network can generate a set of object-specific location representations. It learns objects by associating these representations with sensory features. It can then recognize objects by using sensory input to recall locations, using movement to update this set of possible locations, and using subsequent sensory input to disambiguate. Receiving contextual input from these cortical grid cells, a second population of cells represents a conjunctive sensory feature at location. The network learns by forming reciprocal connections between these two populations.
 
+We show how this network operates by using sensory input to invoke dense cell activity, then using subsequent movement and sensation to narrow the activity until it converges to a sparse code. Using simulations, we characterize how the network's performance scales as it learns more objects.
+
+Building on the theoretical framework of the October 2017 paper, we map this neural network model to cell populations in Layer 4 and Layer 6 of the neocortex.
 
 ![Network diagram](../images/network-diagram.svg)
 > *Two-layer network diagram showing a sensory and location layer*
@@ -35,15 +36,15 @@ Our October 2017 paper, “[A Theory of How Columns in the Neocortex Enable Lear
 
 ### Q. What was the purpose of this study?
 
-This work explores methods for deriving object-specific location signals from sensory and motor inputs. Our [October 2017 paper](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/) proposed that this type of representation was necessary for recognizing objects and we can now show how to generate them through integration of sensory and motor inputs over time. The simulations show that many complex objects can be learned and distinguished in a single cortical column.
+One of our main areas of research is how the brain processes input over time. We first focused on purely sensory sequences, studying how the neocortex learns extrinsic sequences through passive observation. We then shifted our focus to sensorimotor sequences, studying how the neocortex uses sensory and motor sequences to learn about the outside world. In the [October 2017 paper](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/), we hypothesized that the neocortex learns and recognizes objects via sensations and movement by computing an object-centric location and associating sensory inputs with those locations. This study provides a neural network model that does exactly this.
 
-### Q. What are the key takeaways?
+  ## Q. What are the key takeaways?
 
-* A location layer with multiple grid modules with varying scales and orientations can uniquely encode locations over very large areas.
-* Choosing a random initial location in each module when learning objects provides object-specific location codes.
-* Combining the location layer with an input layer provides a model that can learn and distinguish many complex objects.
-* The number of objects that can be learned scales with the number of cells per location module and the distribution of unique sensory features across objects.
-
+* We propose that the neocortex processes input from moving sensors using a location-based framework. It associates sensory features with locations relative to various objects.
+* We propose that the neocortex represents these locations using grid-cell-like neurons which we call "cortical grid cells".
+* Cortical grid cells are arranged into multiple modules with different grid spacings and orientations. The population activity of multiple modules can uniquely encode locations over very large areas. Choosing a random initial location in each module when learning objects provides object-specific location representations.
+* In this model, the neocortex recognizes familiar objects by using its sensory input to recall a set of locations, using motor input to update that set of locations, then using subsequent sensory input to decide which of those locations are correct. After it has received enough information to disambiguate the object, it activates a single object-specific location. Using this strategy, the neocortex approximates the ideal computational algorithm for identifying an object by observing the relative locations of the object's features.
+* The model's ability to quickly recognize objects depends on how many locations each sensory input causes the network to recall. The model needs a sufficiently large number of cells per grid cell module to represent these "unions" of locations. The size of these unions depends on the statistics of the learned objects, and we can tune the model to handle arbitrarily large unions by giving it more cells per module.
 
 ### Q. How does this research differ from other studies?
 
@@ -51,7 +52,7 @@ The standard view of object recognition in the neocortex involves a passive proc
 
 ### Q. How were the simulations conducted?
 
-Simulations were implemented in Python and leverage the reference HTM implementation in our open source project [NuPIC]( https://www.numenta.org/). The simulations use a new implementation for the location layer. The input layer is the same Temporal Memory algorithm described in our March 2016 paper, “[Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/).”  
+We implemented the simulations in Python and used data structures from our open source project [NuPIC]( https://www.numenta.org/). The input layer is the same implementation used in our October 2017 paper. The location layer implementation is new. We've posted all of this code to our [htmresearch](https://github.com/numenta/htmresearch) repository on Github, and you can view the simulations in our [htmpapers](https://github.com/numenta/htmpapers) repository.  
 
 ### Q. Can I replicate these simulations?
 
@@ -59,21 +60,21 @@ Yes! In keeping with Numenta’s [open research philosophy](/blog/2014/09/17/inc
 
 ### Q. How will this paper make contributions in neuroscience?
 
-This paper proposes a circuit between layers 4 and 6a in the neocortex and several testable hypotheses. We hope these will help direct neuroscience experiments that shed more light on the neural circuits that underlie object learning and inference in the neocortex.
+The paper advances the theory of the neocortex as a location processing machine. It offers an explanation for recent neuroscience results, and it provides a set of testable predictions. It proposes a specific circuit involving layers 4 and 6 of the neocortex. We hope that this theory will help neuroscientists interpret existing data, and we hope that it it will help direct experiments that shed more light on the neural circuits that underlie object learning and recognition in the neocortex.
 
 ### Q. How does this paper make contributions in machine learning?
 
-This paper provides a complete implementation for learning and recognizing objects. Our [October 2017 paper](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/) proposed the need for object-specific location signals and this new paper shows how these signals can be generated through the integration of sensory and motor inputs. The algorithm can be used to learn complex objects through movement.
+This paper provides a neural implementation for learning and recognizing objects. Our [October 2017 paper](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/) proposed the need for object-centric location signals and this new paper shows how these signals can be generated through the integration of sensory and motor inputs. The algorithm can be used to learn complex objects through movement.
 
 ### Q. Where can I find out more?
 
 The [HTM Forum](https://discourse.numenta.org/) is a great resource for further questions and discussion on HTM theory. The authors of this paper are active participants in the forum.
 
-In addition to this paper, we are publishing a higher level paper on the location-based framework for understanding the neocortex (LINK NEEDED) that will cover the relationship between learning environments and learning objects as well as emerging topics like object compositionality.
+In addition to this paper, we are publishing a higher level paper on the location-based framework for understanding the neocortex (LINK NEEDED). It discusses the idea of locations representations throughout the neocortex, and it proposes a mechanism for object compositionality by calculating "displacements" between grid cell representations.
 
 
 ### Q. What is next for this research?
 
-As mentioned in the paper, there are numerous avenues for further research. We are still trying to understand how locations are encoded in the neocortex. We need to extend the model to recognize learned objects at novel orientations to the sensor and to efficiently handle 3D objects. And we need to figure out how multiple cortical columns collaborate to learn and recognize objects.
+As mentioned in the paper, there are numerous avenues for further research. We are still trying to understand how locations are encoded in the neocortex. We need to extend the model to recognize learned objects at novel orientations to the sensor and to handle 3D objects in a way that is consistent with the biology. We're also considering how the neocortex combines these learned objects into novel compositional objects, and how the brain integrates input from multiple independent moving sensors.
 
 [1]: https://www.biorxiv.org/content/early/2018/10/05/436352
