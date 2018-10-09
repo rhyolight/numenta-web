@@ -37,7 +37,7 @@ const SectionNeuroscience = () => (
       <div className={styles.content}>
         <Paragraph>
           <TextLink
-          to="https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle"
+            to="https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle"
           >Vernon Mountcastle</TextLink> proposed that because every part of
           the neocortex has the same complex circuitry, then every part is doing
           the same thing. Therefore, if we can understand a cortical column,
