@@ -24,6 +24,7 @@ Under this proposal, cortical columns have far more powerful recognition and mod
 ![Cortical Columns - Multiple Columns Diagram](../images/cortical-columns-2.png)
 
 </aside>
+
 In October 2018 we released a paper that proposes a broad framework [1] for how a single cortical column works, which we believe is a framework for understanding how the entire neocortex works. The framework explains how individual columns learn models of objects, how columns learn new objects as compositions of previously learned objects, and how behaviors of objects are represented and learned. It has significant implications for how we think about biological and machine intelligence, a subject of our blog post, [The Thousand Brains Theory of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/).
 
 The framework was the result of a surprising idea that we proposed in October 2017 [2]: that a single cortical column can learn models of complete objects through movement. We proposed there is a key feature common to all cortical columns: a signal representing location. This location signal represents a location relative to the object being sensed, not relative to the sensor. In other words, a column knows not only what feature is being sensed, but where that feature is on the object. As we move our sensors, the “features at locations” input is integrated over time so that a single column can learn and recognize complete objects.
