@@ -36,15 +36,15 @@ const SectionNeuroscience = () => (
       </div>
       <div className={styles.content}>
         <Paragraph>
-        <TextLink
+          <TextLink
           to="https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle"
-        >Vernon Mountcastle</TextLink> proposed that because every part of
-        the neocortex the same complex circuitry, then every part is doing
-        the same thing. Therefore, if we can understand a cortical column,
-        we will understand the neocortex.
+          >Vernon Mountcastle</TextLink> proposed that because every part of
+          the neocortex the same complex circuitry, then every part is doing
+          the same thing. Therefore, if we can understand a cortical column,
+          we will understand the neocortex.
         </Paragraph>
         <Paragraph>
-        Through our focus on cortical theory, we seek to understand the
+          Through our focus on cortical theory, we seek to understand the
           complex circuitry of a cortical column. We want to understand the
           function and operation of the laminar circuits in the brain,
           including what the neurons are doing, what the layers are doing, how
