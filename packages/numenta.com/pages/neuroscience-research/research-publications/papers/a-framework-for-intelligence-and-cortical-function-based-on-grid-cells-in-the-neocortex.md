@@ -5,7 +5,7 @@ keywords: location-based framework, cortical grid cells
 category: neuroscience, sensorimotor
 date: 2018/10/10
 hideImage: true
-image: ../images/thousand-brains-theory-of-intelligence.jpg
+image: ../images/frameworks-paper-grid-cell-mechanisms.png
 link:
 org: "Preprint of journal submission"
 sort: a
