@@ -31,16 +31,14 @@ This paper is a companion piece to our research paper, “[A Framework for Intel
 ### Q. What was the purpose of this paper?
 How the brain works is a mystery that scientists have been trying to solve for more than a hundred years.  Despite the details that scientists have amassed about the brain, there is still no accepted theory as to how it works and how the brain produces intelligence.  The research paper proposes such a theoretical framework, which we believe can have significant implications across neuroscience, disease, education, and AI.  
 
-We felt that the ideas and implications in the paper are significant, and we wanted to make them accessible to everyone-not just neuroscientists, so we created this companion piece.
+We felt that the ideas and implications in the paper are significant, and we wanted to make them accessible to everyone, so we created this companion piece.
 
 ### Q. Who should read this paper?
-We wrote this paper specifically for non-neuroscientists, though we invite anyone to read it.  Those who want to understand the ideas introduced in the research paper may want to read this companion piece first.
+We wrote this paper specifically for non-neuroscientists, though we invite anyone to read it. We've simplified some of the explanations to focus on the big ideas. Those looking for detailed explanations will want to read the research paper.  Some may want to read this companion piece before reading the research paper, to get an overview of the main ideas in the theory.  Others may decide to read the companion piece alone.
 
-### Q. What are the key takeaways?
-Figuring out how the brain works requires explaining how neurons represent the morphology, composition and behaviors of objects – something that simply hasn’t been tackled before.  We have come up with a proposal that explains it.
+### Q. What is the key takeaway?
 Our paper proposes a basic explanation, or “framework”, for why cortical columns are complex and how they function. In brief, we propose that every cortical column learns models of complete objects through movement.  We call this idea the **Thousand Brains Theory of Intelligence** because if every individual column is learning complete models, then our brain is not building one mega-model of an object, but rather thousands of models of the object in parallel.
 
-### Q. Where did the Thousand Brains Theory of Intelligence come from?
 The idea of a column learning a model of a complete object is novel.  Generally accepted wisdom in neuroscience describes objects being learned in a hierarchical system, but the hierarchical model has always been incomplete.
 
 In October 2017 we uncovered a missing ingredient: all cortical columns have a signal representing **location.** This location signal represents a location relative to the object being sensed, not relative to the person sensing the object. We then figured out how the neocortex generates location signals through integration of sensory and motor inputs over time.
