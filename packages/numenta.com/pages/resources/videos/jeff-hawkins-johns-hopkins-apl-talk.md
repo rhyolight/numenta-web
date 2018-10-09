@@ -20,4 +20,4 @@ This video of Jeff Hawkins presenting at the [Johns Hopkins University APL Collo
 
 ## Video
 
-<iframe width="504" height="284" src="https://youtu.be/pmIs9Eh08gA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="504" height="284" src="https://youtu.be/embed/pmIs9Eh08gA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
