@@ -41,6 +41,7 @@ We then showed how the cortex generates location signals through integration of 
 <span style="margin-left: 10pt; display:block"><b>[3]</b> <a href="https://numenta.com/neuroscience-research/research-publications/papers/locations-in-the-neocortex-a-theory-of-sensorimotor-object-recognition-using-cortical-grid-cells/"> Lewis, M., Purdy, S., Ahmad, S., & Hawkins, J. Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells. <i>Submitted</i></a></span>
 
 ### Videos
+* [Location, Location, Location: A Framework for Intelligence and Cortical Computation](/resources/videos/jeff-hawkins-johns-hopkins-apl-talk/)
 *	[Does the neocortex use grid cell-like mechanisms to learn the structure of objects?](/resources/videos/jeff-hawkins-simons-institute-talk/)
 *	[Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception](/resources/videos/jeff-hawkins-mit-talk/)
 
