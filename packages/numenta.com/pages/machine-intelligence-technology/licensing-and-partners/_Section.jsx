@@ -170,7 +170,7 @@ const SectionBusiness = (props, {config}) => {
         </div>
         <div className={styles.content}>
           <Paragraph>
-            Numenta works with strategic partners to bring the power of HTM
+            Numenta works with partners to bring the power of HTM
             to the market. While we focus on the science and the
             core technology, we select application partners who have deep
             domain knowledge and are able to add an application layer tuned to
