@@ -13,9 +13,10 @@ dropcap: false
 
 </aside>
 
-The neocortex is complex. It contains dozens of cell types, numerous layers, and intricate connectivity patterns. The connections between cells suggest a columnar flow of information across layers as well as a laminar flow within some layers. Fortunately, this complex circuitry is remarkably preserved in all regions. [Vernon Mountcastle](https://en.wikipedia.org/wiki/Vernon_Benjamin_Mountcastle) was the first to propose that a canonical circuit consisting of cortical columns underlies everything the neocortex does. The way we see, feel, hear, move, and even do high level planning runs on the same circuitry.
+The neocortex is complex. It contains dozens of cell types, numerous layers, and intricate connectivity patterns. The connections between cells suggest a columnar flow of information across layers as well as a laminar flow within some layers. Fortunately, this complex circuitry is remarkably preserved in all regions. Vernon Mountcastle was the first to propose that a canonical circuit consisting of cortical columns underlies everything the neocortex does. The way we see, feel, hear, move, and even do high level planning runs on the same circuitry.
 
-Under this proposal, cortical columns have far more powerful recognition and modeling capabilities than previously assumed. It is consistent with Mountcastle’s original idea, and the concept that if the neocortex is doing a function somewhere, it must be doing it everywhere. Understanding the function of cortical columns is a central goal of our research program.
+If we can understand how a single cortical column works, we will have a framework for understanding how the entire neocortex works. Understanding the function of cortical columns is a central goal of our research program.
+
 
 </section>
 <section>
@@ -25,11 +26,14 @@ Under this proposal, cortical columns have far more powerful recognition and mod
 
 </aside>
 
-In October 2018 we released a paper that proposes a broad framework [1] for how a single cortical column works, which we believe is a framework for understanding how the entire neocortex works. The framework explains how individual columns learn models of objects, how columns learn new objects as compositions of previously learned objects, and how behaviors of objects are represented and learned. It has significant implications for how we think about biological and machine intelligence, a subject of our blog post, [The Thousand Brains Theory of Intelligence](/blog/2018/03/19/thousand-brains-model-of-intelligence/).
+In October 2018 we released a paper that proposes a broad framework [1] for how a single cortical column works, which we believe is a framework for understanding how the entire neocortex works. The framework explains how individual columns learn models of objects, how columns learn new objects as compositions of previously learned objects, and how behaviors of objects are represented and learned. It has significant implications for how we think about biological and machine intelligence and about the hierarchy, a subject of our blog post, The Thousand Brains Theory of Intelligence.
 
-The framework was the result of a surprising idea that we proposed in October 2017 [2]: that a single cortical column can learn models of complete objects through movement. We proposed there is a key feature common to all cortical columns: a signal representing location. This location signal represents a location relative to the object being sensed, not relative to the sensor. In other words, a column knows not only what feature is being sensed, but where that feature is on the object. As we move our sensors, the “features at locations” input is integrated over time so that a single column can learn and recognize complete objects.
+The framework was the result of a surprising idea that we proposed in October 2017 [2]: that a single cortical column can learn models of complete objects through movement. We proposed there is a key feature common to all cortical columns: a signal representing location. This location signal represents a location relative to the object being sensed, not relative to the sensor. In other words, a column knows not only what feature is being sensed, but where that feature is on the object. As we move our sensors, the “features at locations” input is integrated over time so that a single column can learn and recognize complete objects. We showed how numerous complex objects can be learned and distinguished in a single cortical column, and how multiple cortical columns can speed up the recognition process.
 
-We then showed how the cortex generates location signals through integration of sensory and motor inputs over time, and how numerous complex objects can be learned and distinguished in a single cortical column [3].
+In [3] we showed how the cortex generates location signals through integration of sensory and motor inputs over time. This paper uses the properties of grid cells to show how the location signal can be derived from our movement using a network of neurons.
+
+In this overall framework, cortical columns have far more powerful recognition and modeling capabilities than previously assumed. It is consistent with Mountcastle’s original idea, and the concept that if the neocortex is doing a function somewhere, it must be doing it everywhere.
+
 
 </section>
 
