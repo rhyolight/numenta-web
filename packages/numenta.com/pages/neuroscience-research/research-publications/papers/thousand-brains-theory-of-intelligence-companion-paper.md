@@ -16,7 +16,7 @@ type: post
 
 | | |
 |-|-|
-| **Authors** | Donna Dubinsky and Christy Maver |
+| **Authors** | Numenta |
 | **Online** | [Read or Download] |
 | **Written** | October 10, 2018 |
 
