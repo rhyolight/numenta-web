@@ -8,7 +8,7 @@ event:
     begin: 2018/10/15 11:00
     end: 2018/10/15 12:00
   where:
-    desc: "Maastricht University"
+    desc: "MECC Maastricht"
     city: Maastricht
     country: Netherlands
     web: https://www.hbpopendaysummit-2018.org/en
