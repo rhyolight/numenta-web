@@ -23,6 +23,7 @@ import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import ImageCortical from './images/cortical.png'
 import ImageGrokstream from './images/grokstream.png'
 import ImageBusiness from './images/business.png'
+import ImageIts from './images/its.png'
 import styles from './index.css'
 
 
@@ -275,6 +276,51 @@ const SectionBusiness = (props, {config}) => {
             </ListItem>
             <ListItem>
               <TextLink to="/company/newsletter/2015/09/01/partnership-between-numenta-and-avik-partners-on-grok-for-it-analytics/">
+                Newsletter
+              </TextLink>
+            </ListItem>
+          </List>
+          {/* eslint-enable max-len */}
+        </div>
+      </div>
+
+      <Anchor name="its" />
+      <SubTitle level={3}>
+        <Strong>Intelletic Trading Systems (ITS)</Strong>
+      </SubTitle>
+      <div className={styles.columns}>
+        <div className={styles.aside}>
+          <ImageLink to={links.out.its}>
+            <Image
+              alt="Intelletic Trading Systems (ITS) logo"
+              respond="mw"
+              shadow={false}
+              src={ImageIts}
+            />
+          </ImageLink>
+        </div>
+        <div className={styles.content}>
+          <Paragraph>
+            Intelletic Trading Systems (ITS) has developed an artificial
+            intelligence platform using HTM for autonomous trading of futures
+            and other financial assets. The company’s unique cortical learning
+            approach is designed to generate greater profit and incur less risk
+            than a human discretionary trader.
+          </Paragraph>
+          {/* eslint-disable max-len */}
+          <List marker="disc">
+            <ListItem>
+              <TextLink to={links.out.its}>
+                Intelletic Trading Systems (ITS)
+              </TextLink>
+            </ListItem>
+            <ListItem>
+              <TextLink to="/blog/2018/10/08/intelletic_trading_systems/">
+                Blog Post: Q&amp;A with Bill Zemlak, CEO
+              </TextLink>
+            </ListItem>
+            <ListItem>
+              <TextLink to="/company/newsletter/2018/05/23/may-newsletter-2018/">
                 Newsletter
               </TextLink>
             </ListItem>
