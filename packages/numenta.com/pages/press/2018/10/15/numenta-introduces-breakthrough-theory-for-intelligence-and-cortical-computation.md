@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'In a new research paper titled "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex," Numenta researchers propose a broad framework for understanding what the neocortex does and how it works. Numenta's "Thousand Brains Theory of Intelligence" offers significant implications for the fields of neuroscience and artificial intelligence.'
+description: 'In a new research paper titled A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Numenta researchers propose a broad framework for understanding what the neocortex does and how it works. Numenta's "Thousand Brains Theory of Intelligence" offers significant implications for the fields of neuroscience and artificial intelligence.'
 date: 2018/10/15
 org: Press Release
 tags: numenta brain theory frameowrk for intelligence
