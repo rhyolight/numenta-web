@@ -7,7 +7,7 @@ date: 2017/10/25
 hideImage: true
 image: ../images/sensorimotor.png
 link: https://doi.org/10.3389/fncir.2017.00081
-org: "Published in Frontiers in Neural Circuits Journal"
+org: "Published in Frontiers in Neural Circuits Journal (Peer-reviewed)"
 sort: c
 title: "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
 type: post
