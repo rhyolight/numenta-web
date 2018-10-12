@@ -5,13 +5,13 @@ date: 2018/10/15
 org: Press Release
 tags: numenta brain theory frameowrk for intelligence
 image: ../images/Jeff-and-Subutai.png
-title: "Numenta Introduces a Breakthrough Theory for Intelligence and Cortical Computation"
-header: "Numenta Introduces a Breakthrough Theory for Intelligence and Cortical Computation"
+title: "Numenta Introduces Breakthrough Theory for Intelligence and Cortical Computation"
+header: "Numenta Introduces Breakthrough Theory for Intelligence and Cortical Computation"
+subtitle: "'The Thousand Brains Theory of Intelligence' offers significant implications for the fields of neuroscience and artificial intelligence"
 keywords: "Numenta framework for intelligence and cortical computation"
 type: post
 
 ---
-"The Thousand Brains Theory of Intelligence" offers significant implications for the fields of neuroscience and artificial intelligence.
 
 ## Media Alert
 
