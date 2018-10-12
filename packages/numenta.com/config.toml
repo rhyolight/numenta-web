@@ -38,6 +38,7 @@ logo = "/assets/img/logo.png"
     # partners
     cortical = 'http://cortical.io'
     grok = 'http://grokstream.com'
+    its = 'http://www.intelletic.com'
     # Org
     org = 'http://numenta.org'
     # social
