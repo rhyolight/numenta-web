@@ -8,7 +8,7 @@ hideImage: true
 image: ../images/thousand-brains-theory-of-intelligence.jpg
 link:
 org: "Companion paper"
-sort: b
+sort: ab
 title: "Companion paper to A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex"
 type: post
 
