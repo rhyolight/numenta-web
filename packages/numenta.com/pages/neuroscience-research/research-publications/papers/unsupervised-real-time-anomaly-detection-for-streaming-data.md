@@ -7,7 +7,7 @@ date: 2017/06/02
 hideImage: true
 image: ../images/anomaly-detection-image.png
 link: http://www.sciencedirect.com/science/article/pii/S0925231217309864
-org: "Published in Neurocomputing, June 2017"
+org: "Published in Neurocomputing (Peer-reviewed)"
 sort: f
 title: "Unsupervised Real-Time Anomaly Detection for Streaming Data"
 type: post
