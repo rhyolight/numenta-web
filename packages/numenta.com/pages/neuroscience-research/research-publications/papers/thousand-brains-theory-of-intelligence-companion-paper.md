@@ -27,10 +27,10 @@ This paper is a companion piece to our research paper, “[A Framework for Intel
 ### Q. What was the purpose of this paper?
 How the brain works is a mystery that scientists have been trying to solve for more than a hundred years.  Despite the details that scientists have amassed about the brain, there is still no accepted theory as to how it works and how the brain produces intelligence.  The research paper proposes such a theoretical framework, which we believe can have significant implications across neuroscience, disease, education, and AI.  
 
-We felt that the ideas and implications in the paper are significant, and we wanted to make them accessible to everyone, so we created this companion piece.
+We felt that the ideas and implications in the research paper are significant, and we wanted to make them accessible to everyone, so we created this companion piece.
 
 ### Q. Who should read this companion piece?
-We wrote this paper specifically for non-neuroscientists, though we invite anyone to read it. We've simplified some of the explanations to focus on the big ideas. Those looking for detailed explanations will want to read the research paper.  Some may want to read this companion piece before reading the research paper, to get an overview of the main ideas in the theory.  Others may decide to read the companion piece alone.
+We created this piece specifically for non-neuroscientists, though we invite anyone to read it. We've simplified some of the explanations to focus on the big ideas. Those looking for detailed explanations will want to read the research paper. 
 
 ### Q. What is the key takeaway?
 The research paper proposes a basic explanation, or “framework”, for why cortical columns are complex and how they function. In brief, we propose that every cortical column learns models of complete objects through movement.  We call this idea the **Thousand Brains Theory of Intelligence** because if every individual column is learning complete models, then our brain is not building one mega-model of an object, but rather thousands of models of the object in parallel. This hypothesis leads to a rethinking of hierarchy in the brain. If every cortical column is capable of learning complete models, then object recognition does not occur solely at the top of the hierarchy. It occurs in every column, at all levels.  
