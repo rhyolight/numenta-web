@@ -14,7 +14,6 @@ type: post
 
 ---
 
-{code:html}
 
 <div style="display:grid">
 
@@ -26,7 +25,6 @@ type: post
 
 </div>
 
-{code}
 
 
 This paper is a companion piece to our research paper, “[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/),” which introduces a new theory for how the brain works.  It is designed to explain in plain language The Thousand Brains Theory of Intelligence and the discoveries detailed in the research paper.  Some may choose to read this companion piece alone, while others may use it as an entry point or guide to understanding the details in the research paper.
