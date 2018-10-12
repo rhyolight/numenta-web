@@ -20,7 +20,7 @@ type: post
 |             |                    |
 |-------------|--------------------|
 | **Authors** | Numenta            |
-| **Online**  | [Read or Download] |
+| **Online**  | [Read or Download]((/assets/pdf/research-publications/papers/Companion-paper-to-A-Framework-for-Intelligence-and-Cortical-Function-Based-on-Grid-Cells-in-the-Neocortex)) |
 | **Written** | October 10, 2018   |
 
 </div>
