@@ -17,7 +17,7 @@ type: post
 
 This paper is a companion piece to our research paper, “[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/),” which introduces a new theory for how the brain works.  It is designed to explain in plain language The Thousand Brains Theory of Intelligence and the discoveries detailed in the research paper.  Some may choose to read this companion piece alone, while others may use it as an entry point or guide to understanding the details in the research paper.
 
-> **[Read or download the companion paper]**(/assets/pdf/research-publications/papers/Companion-paper-to-A-Framework-for-Intelligence-and-Cortical-Function-Based-on-Grid-Cells-in-the-Neocortex)
+> **[Read or download the companion paper]**(/assets/pdf/research-publications/papers/Companion-paper-to-A-Framework-for-Intelligence-and-Cortical-Function-Based-on-Grid-Cells-in-the-Neocortex.pdf)
 ![Thousand Brains Theory of Intelligence](../images/thousand-brains-theory-of-intelligence.jpg)
 
 > *Thousand Brains Theory of Intelligence – Rather than creating one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left), the Thousand Brains Theory (as illustrated on the right) suggests that every level and every column learns complete models of objects.*
@@ -30,7 +30,7 @@ How the brain works is a mystery that scientists have been trying to solve for m
 We felt that the ideas and implications in the research paper are significant, and we wanted to make them accessible to everyone, so we created this companion piece.
 
 ### Q. Who should read this companion piece?
-We created this piece specifically for non-neuroscientists, though we invite anyone to read it. We've simplified some of the explanations to focus on the big ideas. Those looking for detailed explanations will want to read the research paper. 
+We created this piece specifically for non-neuroscientists, though we invite anyone to read it. We've simplified some of the explanations to focus on the big ideas. Those looking for detailed explanations will want to read the research paper.
 
 ### Q. What is the key takeaway?
 The research paper proposes a basic explanation, or “framework”, for why cortical columns are complex and how they function. In brief, we propose that every cortical column learns models of complete objects through movement.  We call this idea the **Thousand Brains Theory of Intelligence** because if every individual column is learning complete models, then our brain is not building one mega-model of an object, but rather thousands of models of the object in parallel. This hypothesis leads to a rethinking of hierarchy in the brain. If every cortical column is capable of learning complete models, then object recognition does not occur solely at the top of the hierarchy. It occurs in every column, at all levels.  
