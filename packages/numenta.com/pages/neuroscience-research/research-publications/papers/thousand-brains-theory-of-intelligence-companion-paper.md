@@ -27,7 +27,7 @@ This paper is a companion to our research paper, “[A Framework for Intelligenc
 ### Q. What was the purpose of this paper?
 How the brain works is a mystery that scientists have been trying to solve for more than a hundred years.  Despite the details that scientists have amassed about the brain, there is still no accepted theory as to how it works and how the brain produces intelligence.  The research paper proposes such a theoretical framework, which we believe can have significant implications across neuroscience, disease, education, and AI.  
 
-We felt that the ideas and implications in the research paper are significant, and we wanted to make them accessible to everyone, so we created this companion piece.
+We felt that the ideas and implications in the research paper are significant, and we wanted to make them broadly accessible, so we created this companion piece.
 
 ### Q. Who should read this companion piece?
 We created this piece specifically for non-neuroscientists, though we invite anyone to read it. We've simplified some of the explanations to focus on the big ideas. Those looking for detailed explanations will want to read the research paper.
