@@ -51,6 +51,7 @@ In this overall framework, cortical columns have far more powerful recognition a
 *	[Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception](/resources/videos/jeff-hawkins-mit-talk/)
 
 ### Posters
+* [Bernstein 2018: Representing N-dimensional cognitive variables with grid cells](/neuroscience-research/research-publications/posters/bernstein-2018-representing-n-dimensions-with-grid-cells/)
 * [Grid Cell Meeting 2018: Using Grid Cells for Coordinate Transforms](/neuroscience-research/research-publications/posters/grid-cell-meeting/)
 *	[Cosyne 2018: Determining Allocentric Locations of Sensed Features](/neuroscience-research/research-publications/posters/cosyne-2018-allocentric-locations-of-sensed-features/)
 *	[NCM 2017: A Cortical Circuit for Sensorimotor Learning and Recognition](/neuroscience-research/research-publications/posters/ncm-2017a-cortical-circuit-for-learning-sensorimotor-representations/)
