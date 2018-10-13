@@ -6,7 +6,7 @@ category: neuroscience, sensorimotor
 date: 2018/10/12
 hideImage: true
 image: ../images/frameworks-paper-grid-cell-mechanisms.png
-link:
+link: http://biorxiv.org/cgi/content/short/442418v1
 org: "Preprint of journal submission"
 sort: a
 title: "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex"
@@ -80,4 +80,4 @@ We have several additional resources for people who want to learn more:
 ### Q. What is next for this research?
 We are currently focused on filling in some of the pieces of the framework, like attention.  We will continue to publish papers on various components of the framework with more details as well.
 
-[1]:
+[1]: http://biorxiv.org/cgi/content/short/442418v1
