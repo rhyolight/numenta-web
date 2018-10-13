@@ -19,7 +19,7 @@ type: post
 | **Authors** | Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, and Subutai Ahmad |
 | **Journal** | Submitted |
 | **Online** | [Read or Download the Preprint][1] |
-| **Published** | October 10, 2018 |
+| **Published** | October 13, 2018 |
 
 
 Despite the massive amount of detail neuroscientists have amassed about the neocortex, how it works is still a mystery.  In this paper, we propose a **novel theoretical framework for understanding what the neocortex does and how it does it.**
