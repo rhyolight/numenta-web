@@ -22,7 +22,7 @@ This paper is a companion to our research paper, “[A Framework for Intelligenc
 
 > *Thousand Brains Theory of Intelligence – Rather than creating one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left), the Thousand Brains Theory (as illustrated on the right) suggests that every level and every column learns complete models of objects.*
 
-## Frequently asked questions about this paper
+## Frequently asked questions
 
 ### Q. What was the purpose of this paper?
 How the brain works is a mystery that scientists have been trying to solve for more than a hundred years.  Despite the details that scientists have amassed about the brain, there is still no accepted theory as to how it works and how the brain produces intelligence.  The research paper proposes such a theoretical framework, which we believe can have significant implications across neuroscience, disease, education, and AI.  
