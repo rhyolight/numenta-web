@@ -18,9 +18,9 @@ type: post
 This paper is a companion to our research paper, “[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/),” which introduces a new theory for how the brain works.  It is designed to explain in plain language The Thousand Brains Theory of Intelligence and the discoveries detailed in the research paper.  Some may choose to read this companion piece alone, while others may use it as an entry point or guide to understanding the details in the research paper.
 
 > **[Read or download the companion paper](/assets/pdf/research-publications/papers/Companion-paper-to-A-Framework-for-Intelligence-and-Cortical-Function-Based-on-Grid-Cells-in-the-Neocortex.pdf)**
-<br>![Thousand Brains Theory of Intelligence](../images/thousand-brains-theory-of-intelligence.jpg)</br>
 
-> *Thousand Brains Theory of Intelligence – Rather than creating one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left), the Thousand Brains Theory (as illustrated on the right) suggests that every level and every column learns complete models of objects.*
+<br>![Thousand Brains Theory of Intelligence](../images/thousand-brains-theory-of-intelligence.jpg)</br>
+> *Rather than creating one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left), the Thousand Brains Theory (as illustrated on the right) suggests that every level and every column learns complete models of objects.*
 
 ## Frequently asked questions
 

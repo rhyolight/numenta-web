@@ -29,7 +29,7 @@ Our proposal is based upon grid cells. The [study of grid cells](https://en.wiki
 The framework suggests mechanisms for how the cortex represents object compositionality, object behaviors and even high-level concepts.  It leads to the hypothesis that every part of the neocortex learns complete models of objects. Unlike traditional hierarchical ideas where objects are learned only at the top, the paper proposes that there are many models of each object distributed throughout the neocortex. We call this hypothesis the **Thousand Brains Theory of Intelligence.**
 
 ![Thousand Brains Theory of Intelligence](../images/thousand-brains-theory-of-intelligence.jpg)
-> *Thousand Brains Theory of Intelligence – Rather than creating one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left), the Thousand Brains Theory (as illustrated on the right) suggests that every level and every column learns complete models of objects.*
+> *Rather than learning one model of the world, the Thousand Brains Theory of Intelligence states that every part of the neocortex learns complete models of objects and concepts. Long range connections in the neocortex allow the models to work together to create your perception of the world.*
 
 ## Frequently asked questions about this research
 
