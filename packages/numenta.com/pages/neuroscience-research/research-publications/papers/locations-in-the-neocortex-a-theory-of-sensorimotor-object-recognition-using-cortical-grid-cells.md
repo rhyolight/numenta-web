@@ -70,7 +70,7 @@ This paper provides a neural implementation for learning and recognizing objects
 
 The [HTM Forum](https://discourse.numenta.org/) is a great resource for further questions and discussion on HTM theory. The authors of this paper are active participants in the forum.
 
-In addition to this paper, we are publishing a higher level paper on the location-based framework for understanding the neocortex (LINK NEEDED). It discusses the idea of locations representations throughout the neocortex, and it proposes a mechanism for object compositionality by calculating "displacements" between grid cell representations.
+In addition to this paper, we are publishing a higher level paper on the [location-based framework for understanding the neocortex](/neuroscience-research/research-publications/papers/thousand-brains-theory-of-intelligence-companion-paper/). It discusses the idea of locations representations throughout the neocortex, and it proposes a mechanism for object compositionality by calculating "displacements" between grid cell representations.
 
 
 ### Q. What is next for this research?
