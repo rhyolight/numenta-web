@@ -20,7 +20,7 @@ This paper is a companion to our research paper, “[A Framework for Intelligenc
 > **[Read or download the companion paper](/assets/pdf/research-publications/papers/Companion-paper-to-A-Framework-for-Intelligence-and-Cortical-Function-Based-on-Grid-Cells-in-the-Neocortex.pdf)**
 
 <br>![Thousand Brains Theory of Intelligence](../images/thousand-brains-theory-of-intelligence.jpg)</br>
-> *Rather than creating one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left), the Thousand Brains Theory (as illustrated on the right) suggests that every level and every column learns complete models of objects.*
+> *Rather than learning one model of the world, where complete objects are recognized only at the top of the hierarchy (as illustrated on the left),the Thousand Brains Theory of Intelligence (as illustrated on the right) proposes that every part of the neocortex learns complete models of objects and concepts.*
 
 ## Frequently asked questions
 
