@@ -23,3 +23,4 @@ In October 2018 we released a major new theory for intelligence and cortical com
 * An educational video that walks through some of the main ideas: [HTM School Episode 15: Framework for Intelligence](https://www.youtube.com/watch?v=LNRZD9YJCdI)
 * A video presentation of a talk that covered much of the theory: [Jeff Hawkins at Johns Hopkins APL Colloquium Series](/resources/videos/jeff-hawkins-johns-hopkins-apl-talk/)
 * Our press release announcing the theory: [Numenta Introduces Breakthrough Theory for Intelligence and Cortical Computation](/press/2018/10/15/numenta-introduces-breakthrough-theory-for-intelligence-and-cortical-computation/)
+* New York Times story on co-founder Jeff Hawkins and our work: [Jeff Hawkins Is Finally Ready to Explain His Brain Research](https://www.nytimes.com/2018/10/14/technology/jeff-hawkins-brain-research.html)
