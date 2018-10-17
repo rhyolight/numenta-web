@@ -21,3 +21,7 @@ This video of Jeff Hawkins presenting at the [Johns Hopkins University APL Collo
 ## Video
 
 <iframe width="504" height="284" src="https://www.youtube.com/embed/pmIs9Eh08gA?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Slides
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DWVVGOiZdFZMh8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/numenta/location-location-location-a-framework-for-intelligence-and-cortical-computation" title="Location, Location, Location - A Framework for Intelligence and Cortical Computation" target="_blank">Location, Location, Location - A Framework for Intelligence and Cortical Computation</a> </strong> from <strong><a href="https://www.slideshare.net/numenta" target="_blank">Numenta</a></strong> </div>
