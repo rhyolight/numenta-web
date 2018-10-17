@@ -1,6 +1,6 @@
 ---
 author: Jeff Hawkins
-description: "Jeff Hawkins’ Simons Institute talk is part of the Computational Theories of the Brain Workshop held on April 17, 2018. In his talk, he proposes that the neocortex learns models of objects using the same methods that the entorhinal cortex uses to map environments."
+description: "Jeff Hawkins gave a presentation at the Johns Hopkins Applied Physics Lab Colloquium Series where he previewed a framework for understanding how the neocortex works. Watch the video to see him introduce the framework and discuss its implications."
 date: 2018/09/21
 image: https://img.youtube.com/vi/pmIs9Eh08gA/sddefault.jpg
 hideImage: true
