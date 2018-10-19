@@ -1,6 +1,6 @@
 ---
 author: Subutai Ahmad
-description: "Following a recent New York Times story on Numenta and co-founder Jeff Hawkins, VP of Research Subutai Ahmad lays out Numenta's framework for Open Science and collaboration that the company has been developing over the last five years. Read the blog to learn about their practices, some of which are standard practices at Universities and some of which are highly unusual:"
+description: "Following a recent New York Times story on Numenta and co-founder Jeff Hawkins, VP of Research Subutai Ahmad lays out Numenta's framework for Open Science and collaboration that the company has been developing over the last five years. Read the blog to learn about Numenta's practices, some of which are standard practices at Universities and some of which are highly unusual."
 date: 2018/10/22   
 hideImage: false
 org: VP of Research
