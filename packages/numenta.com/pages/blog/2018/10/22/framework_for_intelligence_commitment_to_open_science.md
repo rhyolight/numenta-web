@@ -4,7 +4,7 @@ description: "Following a recent New York Times story on Numenta and co-founder 
 date: 2018/10/22   
 hideImage: false
 org: VP of Research
-image: ../images/brain_science.png
+image: ../images/numenta_open_science.jpg
 keywords: "Numenta open science"
 title: "A Framework for Intelligence, A Commitment to Open Science"
 header: "A Framework for Intelligence, A Commitment to Open Science"
