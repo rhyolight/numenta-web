@@ -15,6 +15,7 @@ As some of you know, we recently posted a major new paper titled “[A Framework
 
 However, the article left some scientists with the impression that we were a closed door research lab, isolated from the rest of the scientific world. Here are some quotes from the article that stood out:  "Still, some wonder if his self-funded operation, isolated from the rigors of academic interaction, is a quixotic adventure", and, "For the science to advance, what Mr. Hawkins has been working on can’t stay in a silo", and, "Mr. Hawkins will have to open his work to rigorous scrutiny and find a way to interact with researchers."
 
+### A Commitment to Open Science
 While it is true that Numenta is different, the notion that we are secretive and detached could not be further from the truth. I wanted to take this opportunity to lay out the framework for Open Science and collaboration that we have been developing over the last five years. Some of these are standard practices at Universities, but some are highly unusual:
 
 * We have published several [peer reviewed journal publications](/neuroscience-research/research-publications/papers/), with more underway. We are committed to open access journal publications, and ensure that all our peer reviewed papers are freely available. We also publish non-peer reviewed papers on arXiv and bioRxiv.
