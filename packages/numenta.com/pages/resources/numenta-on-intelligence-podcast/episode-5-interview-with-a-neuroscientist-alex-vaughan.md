@@ -2,7 +2,7 @@
 author: Numenta
 description: Continuing his Interview with a Neuroscientist series, host Matt Taylor sits down with Alex Vaughan, scientist, entrepreneur, and founder of MapNeuro, Inc. Alex talks about how all fields of science are connected, and how business and science can be used together to better understand the brain and intelligence.
 date: 2018/10/24
-image: ../images/episode-5-alex-vaughan.jpg
+image: ../images/episode-5-alex-vaughan.jpeg
 link: https://www.buzzsprout.com/188368/837251-episode-5-interview-with-a-neuroscientist-alex-vaughan
 media: podcast
 org: Matt Taylor and Alex Vaughan
