@@ -1,6 +1,6 @@
 ---
 author: Christy Maver
-description: ""
+description: "Numenta released a major new theory for intelligence and cortical computation in October 2018.  Read about the theory and the resources available to learn more, from the scientific paper to the companion piece written in layperson's terms. The Numenta research team will be at Neuroscience 2018, hosted by SfN, to discuss the new theory and additional research."
 date: 2018/10/25
 hideImage: false
 image: ../images/numenta-october-2018.png
