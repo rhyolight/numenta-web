@@ -30,5 +30,10 @@ Links:
 * [Brainbow](http://cbs.fas.harvard.edu/science/connectome-project/brainbow)
 * [Categorical Representations Of Decision-Variables In Orbitofrontal Cortex](https://www.biorxiv.org/content/early/2017/05/09/135707)
 
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-5-Interview-With-a-Neuroscientist-Alex-Vaughan.pdf)**
+
+</center>
 
 <br>**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
