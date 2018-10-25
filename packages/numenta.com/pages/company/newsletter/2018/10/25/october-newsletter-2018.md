@@ -25,3 +25,6 @@ Our Research team will travel to San Diego next month to present three posters a
 In partner news, we have an update from [Intelletic Trading Systems LLC (ITS)](http://www.intelletic.com/). I mentioned in our [May newsletter](/company/newsletter/2018/05/23/may-newsletter-2018/) that ITS became a commercial licensee of Numenta, and that they were using HTM to develop a fully autonomous trading platform for futures and other financial instruments. I recently interviewed Bill Zemlak, CEO of ITS, and we’ve [posted that interview on our blog](/blog/2018/10/08/intelletic_trading_systems/). I think you’ll find ITS’s application of HTM, their results, and their thoughts about its broader use, intriguing.
 
 Thank you for continuing to follow Numenta.
+
+## Subscribe to our newsletter
+Want to ensure the latest Numenta news gets delivered straight to your inbox?  [Subscribe here](https://numenta.us2.list-manage.com/subscribe/post?u=b838879da2baa539870afd320&id=23e65d3407). 
