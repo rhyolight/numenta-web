@@ -20,4 +20,4 @@ On October 15, 2018 Jeff Hawkins gave a keynote presentation at the Human Brain 
 ## Video
 <iframe width="504" height="284" src="https://www.youtube.com/embed/upXsle3yB6A?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-To see an earlier version of this talk that Jeff presented at Johns Hopkins University, [click here](/resources/videos/jeff-hawkins-johns-hopkins-apl-talk/).
+To see an earlier version of this talk that Jeff presented at the Johns Hopkins University APL Colloquium Series, [click here](/resources/videos/jeff-hawkins-johns-hopkins-apl-talk/).
