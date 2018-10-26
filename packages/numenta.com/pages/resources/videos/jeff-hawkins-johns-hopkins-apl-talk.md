@@ -16,7 +16,9 @@ keywords: "Jeff Hawkins Johns Hopkins APL"
 type: post
 ---
 
-This video of Jeff Hawkins presenting at the [Johns Hopkins University APL Colloquium Series](/company/events/2018/09/21/johns-hopkins/) was the first time presenting our framework for intelligence and cortical computation, formally introduced in the paper, [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/). The talk was given as a trial run, before the paper was released, as we were figuring out how to present the materials.  We are sharing it in the hopes that it may help people understand some of the details of the framework.
+This video is an earlier version of content Jeff Hawkins presented at the Human Brain Project Summit Open Day. You can [view the Human Brain Project keynote here](/resources/videos/jeff-hawkins-human-brain-project-screencast/).
+
+The [Johns Hopkins University APL Colloquium Series](/company/events/2018/09/21/johns-hopkins/) was the first time presenting our framework for intelligence and cortical computation, formally introduced in the paper, [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/). The talk was given as a trial run, before the paper was released, as we were figuring out how to present the materials. We shared it in the hopes that it may help people understand some of the details of the framework, but we recommend watching the [Human Brain Project keynote screencast](/resources/videos/jeff-hawkins-human-brain-project-screencast/) for more recent content.
 
 ## Video
 
