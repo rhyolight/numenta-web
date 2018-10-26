@@ -15,7 +15,7 @@ title: "Screencast: Jeff Hawkins presents his Human Brain Project Open Day Keyno
 keywords: "Jeff Hawkins screencast Human Brain Project Summit"
 type: post
 ---
-On October 15, 2018 Jeff Hawkins gave a keynote presentation at the Human Brain Project Summit Open Day in Maastricht, the Netherlands.  Because we were not able to get a recording of that talk, we created a screencast of Jeff presenting the material in our office. The material covers our research paper that was released two days prior to the Human Brain Project Summit, [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/).
+On October 15, 2018 Jeff Hawkins gave a keynote presentation at the Human Brain Project Summit Open Day in Maastricht, the Netherlands.  Because we were not able to get a recording of that talk, we created a screencast of Jeff presenting the material in our office. The talk covers the theory for intelligence and cortical computation that we introduced in a [recent research paper](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/).
 
 ## Video
 <iframe width="504" height="284" src="https://www.youtube.com/embed/upXsle3yB6A?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
