@@ -10,7 +10,7 @@ org: Co-founder
 section: overview
 sort: a
 tags: new theory for intelligence, human brain project, jeff Hawkins, neocortex, brain theory
-header: "Location, Location, Location: A Framework for Intelligence and Cortical Computation"
+header: "Screencast: Jeff Hawkins - Human Brain Project Keynote"
 title: "Screencast: Jeff Hawkins presents his Human Brain Project Open Day Keynote"
 keywords: "Jeff Hawkins screencast Human Brain Project Summit"
 type: post

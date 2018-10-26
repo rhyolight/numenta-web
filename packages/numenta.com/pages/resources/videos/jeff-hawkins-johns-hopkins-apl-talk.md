@@ -10,8 +10,8 @@ org: Co-founder
 section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory
-header: "Location, Location, Location: A Framework for Intelligence and Cortical Computation"
-title: "Jeff Hawkins at the Johns Hopkins University APL Colloquium - Location, Location, Location: A Framework for Intelligence and Cortical Computation"
+header: "Jeff Hawkins at the Johns Hopkins University APL Colloquium"
+title: "Jeff Hawkins at the Johns Hopkins University APL Colloquium"
 keywords: "Jeff Hawkins Johns Hopkins APL"
 type: post
 ---
