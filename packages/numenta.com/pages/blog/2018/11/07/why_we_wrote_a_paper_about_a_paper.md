@@ -4,7 +4,7 @@ description: "Last month, Numenta released a major new theory for intelligence a
 date: 2018/11/07   
 hideImage: false
 org: Numenta
-image: ../images/why-we-wrote-a-paper-about-a-paper.jpg
+image: ../images/why-we-wrote-a-paper-about-a-paper.png
 keywords: "Numenta companion paper"
 title: "Why We Wrote a Paper About a Paper"
 header: "Why We Wrote a Paper About a Paper"
