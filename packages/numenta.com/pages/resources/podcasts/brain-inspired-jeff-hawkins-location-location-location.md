@@ -16,6 +16,6 @@ type: post
 
 <audio controls preload="metadata" style=" width:500px;"> <source src="https://episodes.castos.com/braininspired/BI-017-Jeff-Hawkins-Location-Location-Location.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
-[Brain Inspired](https://braininspired.co/) is a podcast hosted by Paul Middlebrooks, who "talks with the best minds who work at the interface of neuroscience and AI, or have a vision about how these two fields might connect. You’ll learn about cutting edge research, the newest theories about brains and AI, and hear first-hand from the experts how their scientific path led them to this exciting field."
+[Brain Inspired](https://braininspired.co/) is a podcast hosted by Paul Middlebrooks, who "talks with the best minds who work at the interface of neuroscience and AI, or have a vision about how these two fields might connect. You’ll learn about cutting edge research, the newest theories about brains and AI, and hear first-hand from the experts how their scientific path led them to this exciting field." -*Paul Middlebrooks, braininspired.co*
 
-In this episode of Brain Inspired, Paul and Jeff discuss our most recent paper, [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/).
+In this episode, Paul and Jeff discuss our most recent paper, [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/).
