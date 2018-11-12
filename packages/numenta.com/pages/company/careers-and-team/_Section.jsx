@@ -112,22 +112,21 @@ const SectionCareers = (props, {route, config}) => {
             </div>
             <div className={styles.content}>
               <Paragraph>
-                Donna first partnered with Jeff Hawkins at Palm, Inc. in 1992,
-                where she served as president and CEO. She held this position
-                throughout Palm's acquisition by U.S Robotics and subsequently
-                3Com Corporation. In 1998, Donna and Jeff co-founded Handspring,
-                creator of the category-defining Treo smartphone. Handspring
-                merged with Palm in 2003, and Donna continued to serve on Palm's
-                board until 2009. Previously, Donna spent 10 years at Apple Inc.
-                in a multitude of sales, sales support, and logistics
-                functions—both at Apple and at Claris, an Apple software
-                subsidiary.
+                Donna is a serial entrepreneur best known for her work as CEO
+                of Palm Computing and then Handspring, pioneers of the first
+                successful handheld computers and smartphones. Previously,
+                Donna spent 10 years in a multitude of sales, sales support,
+                and logistics functions—both at Apple and at Claris, an Apple
+                software subsidiary.  She founded Numenta with her long-time
+                business partner, Jeff Hawkins, in 2005.
               </Paragraph>
               <Paragraph>
                 Donna earned a B.A. from Yale University, and an M.B.A. from
-                Harvard Business School. She served on the board of Yale
-                University from 2006-2018, including two years as Senior
-                Fellow.
+                Harvard Business School.  In addition to chairing Numenta’s
+                board, she currently serves on the boards of Twilio (NYSE: TWLO)
+                and Cortical.io (Vienna, Austria).  Donna also served on the
+                board of Yale University from 2006-2018, including two years
+                as Senior Fellow.
               </Paragraph>
             </div>
           </div>
