@@ -1,7 +1,7 @@
 ---
 author: Numenta
 description: Continuing his Interview with a Neuroscientist series, host Matt Taylor talks to Blake Richards, Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR). They discuss segregated dendrites, persistence of memory, loss functions, and more.
-date: 2018/11/27
+date: 2018/11/28
 image: ../images/episode-6-blake-richards.png
 link: xxx
 media: podcast
