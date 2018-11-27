@@ -2,7 +2,7 @@
 author: Numenta
 description: Continuing his Interview with a Neuroscientist series, host Matt Taylor talks to Blake Richards, Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR). They discuss segregated dendrites, persistence of memory, loss functions, and more.
 date: 2018/11/27
-image: ../images/episode-5-blake-richards.png
+image: ../images/episode-6-blake-richards.png
 link: xxx
 media: podcast
 org: Matt Taylor and Blake Richards
@@ -18,7 +18,7 @@ type: post
 
 ## Show Notes
 
-[Blake Richards](https://twitter.com/ @tyrell_turing) is Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR).  Author of the papers, “[Toward deep learning with segregated dendrites](https://elifesciences.org/articles/22901)” and “[The Persistence and Transience of Memory](https://www.cell.com/neuron/fulltext/S0896-6273(17)30365-3),” Blake answers questions about how deep learning models can incorporate segregated dendrites, whether loss functions pertain to the neocortex and what it means to identify as a theoretical neuroscientist.
+[Blake Richards](https://twitter.com/tyrell_turing) is Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR).  Author of the papers, “[Toward deep learning with segregated dendrites](https://elifesciences.org/articles/22901)” and “[The Persistence and Transience of Memory](https://www.cell.com/neuron/fulltext/S0896-6273(17)30365-3),” Blake answers questions about how deep learning models can incorporate segregated dendrites, whether loss functions pertain to the neocortex and what it means to identify as a theoretical neuroscientist.
 
 Links:
 * Previous episodes of [Interview with a Neuroscientist](https://www.youtube.com/playlist?list=PL3yXMgtrZmDrzFUcO01dM_5bdej3NYK0G)
