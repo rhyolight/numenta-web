@@ -7,7 +7,7 @@ link: https://www.buzzsprout.com/188368/872613-episode-6-interview-with-a-neuros
 media: podcast
 org: Matt Taylor and Blake Richards
 section: overview
-sort: x
+sort: a
 tags: Numenta On Intelligence, Numenta podcast
 title: "Episode 6: Interview with a Neuroscientist – Blake Richards"
 keywords: Blake Richards numenta
@@ -31,4 +31,5 @@ Links:
 **[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-6-Interview-With-a-Neuroscientist-Dr-Blake-Richards.pdf)**
 
 </center>
+
 <br>**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
