@@ -9,7 +9,7 @@ org: Matt Taylor and Blake Richards
 section: overview
 sort: a
 tags: Numenta On Intelligence, Numenta podcast
-title: "Episode 6: Interview with a Neuroscientist – Blake Richards"
+title: "Episode 6: Interview with a Neuroscientist – Dr. Blake Richards"
 keywords: Blake Richards numenta
 type: post
 ---
