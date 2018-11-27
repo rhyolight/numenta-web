@@ -21,6 +21,10 @@ type: post
 [Blake Richards](https://twitter.com/tyrell_turing) is Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR).  Author of the papers, “[Toward deep learning with segregated dendrites](https://elifesciences.org/articles/22901)” and “[The Persistence and Transience of Memory](https://www.cell.com/neuron/fulltext/S0896-6273(17)30365-3),” Blake answers questions about how deep learning models can incorporate segregated dendrites, whether loss functions pertain to the neocortex and what it means to identify as a theoretical neuroscientist.
 
 Links:
+* [Principles of Neural Science](https://en.wikipedia.org/wiki/Principles_of_Neural_Science) (textbook)
+- [Daniel Wolpert](https://en.wikipedia.org/wiki/Daniel_Wolpert)
+- [Konrad Kording](http://koerding.com/) 
+
 * Previous episodes of [Interview with a Neuroscientist](https://www.youtube.com/playlist?list=PL3yXMgtrZmDrzFUcO01dM_5bdej3NYK0G)
 
 
