@@ -37,4 +37,10 @@ For educational material regarding the topics discussed in this podcast episode,
 *	[23.30] How grid cells interplay with minicolumns, with HTM systems
 *	[29.06] How grid cells in sensory input coordinate
 
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-1-Research-Update-with-Jeff-Hawkins-Part-1.pdf)**
+
+</center>
+
 **Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
