@@ -1,35 +1,24 @@
 ---
 author: Numenta
-description: Continuing his Interview with a Neuroscientist series, host Matt Taylor talks to Blake Richards, Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR). They discuss segregated dendrites, persistence of memory, loss functions, and more.
-date: 2018/11/28
-image: ../images/episode-6-blake-richards.png
-link: https://www.buzzsprout.com/188368/872613-episode-6-interview-with-a-neuroscientist-dr-blake-richards
+description: After a couple episodes of deep neuroscience, co-host Christy Maver takes us back to the business side of things in an interview with Numenta CEO Donna Dubinsky. They discuss the challenge of navigating a dual mission, why she believes it’s important even for non-neuroscientists to understand how the brain works, and where she believes the company is going.
+date: 2018/12/31
+image: ../images/
+link: https://www.buzzsprout.com/188368/897605-episode-7-conversation-with-numenta-ceo-donna-dubinsky
 media: podcast
-org: Matt Taylor and Blake Richards
+org: Christy Maver and Donna Dubinsky
 section: overview
 sort: a
 tags: Numenta On Intelligence, Numenta podcast
-title: "Episode 6: Interview with a Neuroscientist – Dr. Blake Richards"
-keywords: Blake Richards numenta
+title: "Episode 7: Conversation with Numenta CEO Donna Dubinsky"
+keywords: Donna Dubinsky podcast numenta
 type: post
 ---
 
-<audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/872613-episode-6-interview-with-a-neuroscientist-dr-blake-richards.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
+<audio controls preload="metadata" style=" width:500px;"> <source src=" https://www.buzzsprout.com/188368/897605-episode-7-conversation-with-numenta-ceo-donna-dubinsky" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
 ## Show Notes
 
-[Blake Richards, PhD](https://twitter.com/tyrell_turing) is Assistant Professor and Associate Fellow of the Canadian Institute for Advanced Research (CIFAR).  Author of the papers, “[Toward deep learning with segregated dendrites](https://elifesciences.org/articles/22901)” and “[The Persistence and Transience of Memory](https://www.cell.com/neuron/fulltext/S0896-6273(17)30365-3),” Blake answers questions about how deep learning models can incorporate segregated dendrites, whether loss functions pertain to the neocortex and what it means to identify as a theoretical neuroscientist.
+After a couple episodes that have gone deep into neuroscience topics for our neuroscience listeners, this episode goes is intended for those with no science background.  Co-host Christy Maver interviews Numenta CEO Donna Dubinsky about what it has been like to steer the ship of a company with both a scientific and machine intelligence mission.  She explains why she felt it was important to commercialize our efforts – and the answer might surprise you!  She also discusses why she believe it’s important to understand how the brain works, and where she sees Numenta going.  As Donna explains, “It’s never obvious when you’re in it,” but the vision is clear.  At the end of the episode, she shares some pointers to our more accessible, non-scientific resources and how companies can get started with our anomaly detection technology today.
 
-Links:
-- [Principles of Neural Science](https://en.wikipedia.org/wiki/Principles_of_Neural_Science) (textbook)
-- [Daniel Wolpert](https://en.wikipedia.org/wiki/Daniel_Wolpert)
-- [Konrad Kording](http://koerding.com/)
-- Previous episodes of [Interview with a Neuroscientist](https://www.youtube.com/playlist?list=PL3yXMgtrZmDrzFUcO01dM_5bdej3NYK0G)
-
-<center>
-
-**[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-6-Interview-With-a-Neuroscientist-Dr-Blake-Richards.pdf)**
-
-</center>
 
 <br>**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
