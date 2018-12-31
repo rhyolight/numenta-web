@@ -205,41 +205,6 @@ const SectionCareers = (props, {route, config}) => {
         </ListItem>
         <ListItem>
 
-          <SubTitle level={4}>Celeste Baranski</SubTitle>
-          <SubTitle level={5}>VP of Engineering</SubTitle>
-          <div className={styles.columns}>
-            <div className={styles.aside}>
-              <Image
-                alt="Numenta Careers and Team – Celeste Baranski"
-                border={true}
-                respond="mw"
-                src={ImageCeleste}
-              />
-            </div>
-            <div className={styles.content}>
-              <Paragraph>
-                Celeste has vast experience in high tech engineering, design and
-                management. Previously, Celeste was SVP Engineering & Operations
-                at Panasas, a Big Data storage provider. She was CEO and
-                Co-Founder of Vitamin D, one of the first developers to use the
-                NuPIC platform. Celeste also served in VP Engineering roles at
-                Palm and at Handspring, where she led the companies’ engineering
-                efforts for handheld computers and smartphones. Celeste has
-                built effective engineering teams, starting from a few to over
-                500 and has delivered numerous successful and award-winning
-                products.
-              </Paragraph>
-              <Paragraph>
-                Celeste holds both a B.S. and M.S. in electrical engineering
-                from Stanford University.
-              </Paragraph>
-            </div>
-          </div>
-
-        </ListItem>
-
-        <ListItem>
-
           <SubTitle level={4}>Christy Maver</SubTitle>
           <SubTitle level={5}>VP of Marketing</SubTitle>
           <div className={styles.columns}>
