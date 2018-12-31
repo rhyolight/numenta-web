@@ -15,7 +15,6 @@ import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
 
 import ImageCareers from './images/Numenta-Careers-and-Team-photo.png'
-import ImageCeleste from './images/team/celeste-baranski.png'
 import ImageDonna from './images/team/donna-dubinsky.png'
 import ImageEd from './images/team/ed-colligan.jpg'
 import ImageHarry from './images/team/harry-saal.png'
