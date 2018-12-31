@@ -2,7 +2,7 @@
 author: Numenta
 description: After a couple episodes of deep neuroscience, co-host Christy Maver takes us back to the business side of things in an interview with Numenta CEO Donna Dubinsky. They discuss the challenge of navigating a dual mission, why she believes it’s important even for non-neuroscientists to understand how the brain works, and where she believes the company is going.
 date: 2018/12/31
-image: ../images/episode-7-donna-dubinsky
+image: ../images/episode-7-donna-dubinsky.png
 link: https://www.buzzsprout.com/188368/897605-episode-7-conversation-with-numenta-ceo-donna-dubinsky
 media: podcast
 org: Christy Maver and Donna Dubinsky
