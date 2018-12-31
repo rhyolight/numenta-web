@@ -14,7 +14,7 @@ keywords: Donna Dubinsky podcast numenta
 type: post
 ---
 
-<audio controls preload="metadata" style=" width:500px;"> <source src=" https://www.buzzsprout.com/188368/897605-episode-7-conversation-with-numenta-ceo-donna-dubinsky.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
+<audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/897605-episode-7-conversation-with-numenta-ceo-donna-dubinsky.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
 ## Show Notes
 
