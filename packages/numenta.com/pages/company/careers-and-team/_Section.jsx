@@ -122,10 +122,10 @@ const SectionCareers = (props, {route, config}) => {
               <Paragraph>
                 Donna earned a B.A. from Yale University, and an M.B.A. from
                 Harvard Business School.  In addition to chairing Numenta’s
-                board, she currently serves on the boards of Twilio (NYSE: TWLO)
-                and Cortical.io (Vienna, Austria).  Donna also served on the
-                board of Yale University from 2006-2018, including two years
-                as Senior Fellow.
+                board, she currently serves on the boards of Cortical.io
+                (Vienna, Austria), Stanford Health Care (Palo Alto, CA), and
+                Twilio (NYSE: TWLO). Donna also served on the board of Yale
+                University from 2006-2018, including two years as Senior Fellow.
               </Paragraph>
             </div>
           </div>
