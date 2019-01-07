@@ -44,7 +44,7 @@ Grok 1.6 in action at Booth #648.
 
 I’m also happy to announce that the videos from our Numenta Training Workshop
 held Friday, October 17th, are now available on our web site.  You can access
-these videos on the [Resources section](/resources/papers-videos-and-more/)
+these videos on the [Videos section](/resources/videos/)
 of our website. This new material offers a great way to get up to speed on
 our work. Please check back on this page over the coming months as we plan to
 add more content shortly.

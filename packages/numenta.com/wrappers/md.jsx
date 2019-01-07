@@ -60,7 +60,6 @@ class MarkdownWrapper extends React.Component {
     // add clientside disqus comments below posts
     const postTypes = [
       links.in.blog,
-      links.in.careers,
       links.in.events,
       links.in.newsletter,
       links.in.press,
@@ -90,7 +89,8 @@ class MarkdownWrapper extends React.Component {
     const occur = datetime.format(config.moments.human)
     let url = Object.values(links.in)
                       .filter((p) => p.length > 1 && path.startsWith(p))[0]
-    let author, back, event, media, header, parent, breadcrumb, scripts
+    let author, back, event, media, header, parent, breadcrumb, scripts,
+      subtitle
     let description = data.description
 
     // Fix breadcrumb text
@@ -101,7 +101,19 @@ class MarkdownWrapper extends React.Component {
       parent = 'BAMI'
     }
     else if (url === links.in.papersvideos) {
-      parent = 'Papers, Videos and More'
+      parent = 'Videos, Podcasts and More'
+    }
+    else if (url === links.in.onintelligence) {
+      parent = 'Videos, Podcasts and More'
+      url = links.in.papersvideos
+    }
+    else if (url === links.in.businessprinciples) {
+      parent = 'Licensing & Partners'
+      url = links.in.partners
+    }
+    else if (url === links.in.licensingfaq) {
+      parent = 'Licensing & Partners'
+      url = links.in.partners
     }
     else if (url) {
       const labels = url.split('/')
@@ -255,12 +267,16 @@ class MarkdownWrapper extends React.Component {
     }
 
     if (data.image && !data.hideImage) {
+      let image = data.image
+      if (!image.match(/^https?:\/\//)) {
+        image = `${path}${image}`
+      }
       if (data.video) {
         // media video
         media = (
           <Video
             border={true}
-            image={`${path}${data.image}`}
+            image={image}
             respond="mw"
             shadow={true}
             title={data.title}
@@ -274,7 +290,7 @@ class MarkdownWrapper extends React.Component {
         media = (
           <Sound
             border={true}
-            image={`${path}${data.image}`}
+            image={image}
             respond="mw"
             shadow={true}
             title={data.title}
@@ -291,7 +307,7 @@ class MarkdownWrapper extends React.Component {
             border={true}
             respond="mw"
             shadow={true}
-            src={`${path}${data.image}`}
+            src={image}
           />
         )
       }
@@ -320,6 +336,9 @@ class MarkdownWrapper extends React.Component {
     if ('scripts' in data) {
       scripts = data.scripts.map((src) => (<script src={src} async="true" />))
     }
+    if ('subtitle' in data) {
+      subtitle = (<p className={styles.subtitle}>{data.subtitle}</p>)
+    }
 
     return (
       <article className={data.columns ? styles.mdCol : styles.md}>
@@ -333,6 +352,7 @@ class MarkdownWrapper extends React.Component {
           open={true}
           title={data.header || data.title}
         >
+          {subtitle}
           {author}
           {media}
           {event}

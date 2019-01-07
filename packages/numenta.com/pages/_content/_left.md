@@ -1,6 +1,7 @@
 ---
 description: "Numenta is tackling one of the most important scientific challenges of all time: reverse engineering the neocortex. We're at the beginning of an era of computing that will unfold over the coming decades, and we invite you to learn about how we are helping to advance the state of brain theory and machine intelligence."
-title: "Numenta | Leading the New Era of Machine Intelligence"
+title: "Numenta | Where Neuroscience Meets Machine Intelligence"
+header: "Numenta | Where Neuroscience Meets Machine Intelligence"
 keywords: machine intelligence
 
 ---

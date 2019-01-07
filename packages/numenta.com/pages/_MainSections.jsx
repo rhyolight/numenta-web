@@ -9,12 +9,10 @@ import root from 'window-or-global'
 import {hasSessionStorage} from 'numenta-web-shared-utils/lib/client'
 import Section from 'numenta-web-shared-components/lib/Section'
 
-import SectionAnomaly from './applications/anomaly-detection-benchmark/_Section'
-import SectionApplications from './applications/_Section'
 import SectionNeuroscience
   from './neuroscience-research/_Section'
 import SectionBusiness
-  from './machine-intelligence-technology/business-strategy-and-ip/_Section'
+  from './machine-intelligence-technology/licensing-and-partners/_Section'
 import SectionCareers from './company/careers-and-team/_Section'
 import SectionContact from './contact/_Section'
 import SectionHome from './_Section'
@@ -22,14 +20,15 @@ import SectionMission from './company/mission-and-history/_Section'
 import SectionNutshell
   from './machine-intelligence-technology/numenta-in-a-nutshell/_Section'
 import SectionOpensource from './resources/open-source-community/_Section'
-import SectionPapers from './resources/papers-videos-and-more/_Section'
-import SectionPartners from './partners/_Section'
+import SectionPapers from './resources/videos-podcasts-and-more/_Section'
 import SectionTechnology from './machine-intelligence-technology/_Section'
+import SectionPublications
+  from './neuroscience-research/research-publications/_Section'
 
-const mainSectionList = [
+const MAIN_SECTION_LIST = [
   {
     component: <SectionHome key="sectionHome" />,
-    title: 'Leading the New Era of Machine Intelligence',
+    title: 'Where Neuroscience Meets Machine Intelligence',
     url: '/',
   },
   {
@@ -48,6 +47,11 @@ const mainSectionList = [
     url: '/neuroscience-research/',
   },
   {
+    component: <SectionPublications key="sectionPublications" />,
+    title: 'Research Publications',
+    url: '/neuroscience-research/research-publications/',
+  },
+  {
     component: <SectionTechnology key="sectionTechnology" />,
     title: 'Machine Intelligence Technology',
     url: '/machine-intelligence-technology/',
@@ -58,29 +62,14 @@ const mainSectionList = [
     url: '/resources/open-source-community/',
   },
   {
-    component: <SectionApplications key="sectionApplications" />,
-    title: '     HTM Applications',
-    url: '/applications/',
-  },
-  {
-    component: <SectionPartners key="sectionPartners" />,
-    title: 'Partners',
-    url: '/partners/',
+    component: <SectionPapers key="sectionResources" />,
+    title: 'Videos, Podcasts and More',
+    url: '/resources/videos-podcasts-and-more/',
   },
   {
     component: <SectionBusiness key="sectionBusiness" />,
-    title: 'Business Strategy & IP',
-    url: '/machine-intelligence-technology/business-strategy-and-ip/',
-  },
-  {
-    component: <SectionAnomaly key="sectionAnomaly" />,
-    title: 'Anomaly Detection Benchmark',
-    url: '/applications/anomaly-detection-benchmark/',
-  },
-  {
-    component: <SectionPapers key="sectionResources" />,
-    title: 'Papers, Videos & More',
-    url: '/resources/papers-videos-and-more/',
+    title: 'Licensing & Partners',
+    url: '/machine-intelligence-technology/licensing-and-partners/',
   },
   {
     component: <SectionCareers key="sectionCareers" />,
@@ -101,12 +90,12 @@ const mainSectionList = [
  * @returns {Object} - Next MainSection in order after `current`.
  */
 function getNextSection(current) {
-  const nextIndex = findIndex(mainSectionList, (item) => (
+  const nextIndex = findIndex(MAIN_SECTION_LIST, (item) => (
     current.key === item.component.key
   ))
 
   if (nextIndex >= 0) {
-    return mainSectionList[nextIndex + 1]
+    return MAIN_SECTION_LIST[nextIndex + 1]
   }
   return null
 }
@@ -119,7 +108,7 @@ function getNextSection(current) {
  */
 const MainSections = ({current}) => {
   const details = {}
-  const mainComponents = mainSectionList.map(({component, title, url}) => {
+  const mainComponents = MAIN_SECTION_LIST.map(({component, title, url}) => {
     const {key} = component
     details[key] = {title, url}
     return component
@@ -159,4 +148,4 @@ MainSections.propTypes = {
   current: React.PropTypes.element.isRequired,
 }
 
-export {getNextSection, MainSections as default}
+export {getNextSection, MAIN_SECTION_LIST, MainSections as default}

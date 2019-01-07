@@ -52,8 +52,8 @@ each neuron. Thus neurons need thousands of synapses to learn the many temporal
 patterns in sensory stimuli and motor sequences.
 
 Related links:
-* [More Resources](/resources/papers-videos-and-more/)
-* [PDF Whitepaper](/resources/papers/)
+* [More Resources](/neuroscience-research/sequence-learning/)
+* [PDF Whitepaper](neuroscience-research/research-publications/papers/)
 
 ## About Cosyne
 

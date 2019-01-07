@@ -1,14 +1,13 @@
 ---
 author: Numenta
 anchor: visiting-scholar-program
-date: 2017/01/09
 email: scholars@numenta.com
 org: Careers
 sort: 10
-title: "Numenta Visiting Scholar Program"
 header: "Visiting Scholar Program"
-description: "If you're interested in exchanging ideas, actively participating in internal research discussions at Numenta, and starting research collaborations, then apply for our Visiting Scholar Program! You'll get a chance to learn about Hierarchical Temporal Memory (HTM) and continue your normal research during the visit."
+title: "Numenta Visiting Scholar Program"
 keywords: "Numenta Visiting Scholar Program"
+description: "If you're interested in exchanging ideas, actively participating in internal research discussions at Numenta, and starting research collaborations, then apply for our Visiting Scholar Program! You'll get a chance to learn about Hierarchical Temporal Memory (HTM) and continue your normal research during the visit."
 type: post
 ---
 
@@ -66,7 +65,7 @@ interest:
 
 -   Representations of action and movement in motor cortex
 
-Our recent publications can be seen at [https://numenta.com/papers](/resources/papers/)
+Our recent publications can be seen at [Research papers](/neuroscience-research/research-publications/papers/)
 
 ### How To Apply
 

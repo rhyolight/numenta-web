@@ -33,14 +33,14 @@ Under this proposal, cortical columns have far more powerful recognition and mod
 
 ### Papers
 
-<span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">Hawkins, J., Ahmad, S., & Cui, Y. (2017) A Theory of How Columns in the Neocortex Enable Learning <br>the Structure of the World. <i>Front. Neural Circuits</i>, <b>11</b>, 81.</a></span>
+<span style="margin-left: 10pt; display:block"><b>[1]</b> <a href="https://numenta.com/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/">Hawkins, J., Ahmad, S., & Cui, Y. (2017) A Theory of How Columns in the Neocortex Enable Learning <br>the Structure of the World. <i>Front. Neural Circuits</i>, <b>11</b>, 81.</a></span>
 
 ### Videos
-*	[Does the neocortex use grid cell-like mechanisms to learn the structure of objects?](/resources/papers-videos-and-more/jeff-hawkins-simons-institute-talk/)
-*	[Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception](/resources/papers-videos-and-more/jeff-hawkins-mit-talk/)
+*	[Does the neocortex use grid cell-like mechanisms to learn the structure of objects?](/resources/videos/jeff-hawkins-simons-institute-talk/)
+*	[Have We Missed Half of What the Neocortex Does? Allocentric Location as the Basis of Perception](/resources/videos/jeff-hawkins-mit-talk/)
 
 ### Posters
-* [Grid Cell Meeting 2018: Using Grid Cells for Coordinate Transforms](/resources/papers-videos-and-more/grid-cell-meeting/)
-*	[Cosyne 2018: Determining Allocentric Locations of Sensed Features](/resources/papers-videos-and-more/cosyne-2018-allocentric-locations-of-sensed-features/)
-*	[NCM 2017: A Cortical Circuit for Sensorimotor Learning and Recognition](/resources/papers-videos-and-more/ncm-2017a-cortical-circuit-for-learning-sensorimotor-representations/)
-*	[Cosyne 2017: How Do Cortical Columns Learn 3D Sensorimotor Models?](/resources/papers-videos-and-more/cosyne-2017-how-do-cortical-columns-learn-3d-sensorimotor-models/)
+* [Grid Cell Meeting 2018: Using Grid Cells for Coordinate Transforms](/neuroscience-research/research-publications/posters/grid-cell-meeting/)
+*	[Cosyne 2018: Determining Allocentric Locations of Sensed Features](/neuroscience-research/research-publications/posters/cosyne-2018-allocentric-locations-of-sensed-features/)
+*	[NCM 2017: A Cortical Circuit for Sensorimotor Learning and Recognition](/neuroscience-research/research-publications/posters/ncm-2017a-cortical-circuit-for-learning-sensorimotor-representations/)
+*	[Cosyne 2017: How Do Cortical Columns Learn 3D Sensorimotor Models?](/neuroscience-research/research-publications/posters/cosyne-2017-how-do-cortical-columns-learn-3d-sensorimotor-models/)

@@ -50,8 +50,8 @@ news with you in 2017.  Have a wonderful holiday season and Happy New Year.
 
 [1]: /resources/papers/
 [2]: /blog/2016/12/09/visit-to-neuroscience-labs-at-mpfi-and-unc/
-[3]: /applications/numenta-anomaly-benchmark/
-[4]: /applications/htm-studio/
+[3]: /machine-intelligence-technology/numenta-anomaly-benchmark/
+[4]: /machine-intelligence-technology/htm-studio/
 [5]: http://grokstream.com/
 [6]: https://blog.grokstream.com/grok-anything-and-take-action-everywhere-f16579d36cf6#.mg3ms3dut
 [7]: http://cortical.io/

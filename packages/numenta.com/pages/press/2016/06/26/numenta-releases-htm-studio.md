@@ -54,7 +54,7 @@ use cases: IoT sensors, preventative maintenance, tracking vehicles and network
 servers.
 
 The tool is available at no charge for Mac and Windows desktop systems. Go to
-[https://numenta.com/htm-studio/](/applications/htm-studio/) for details and to get started
+[https://numenta.com/htm-studio/](/machine-intelligence-technology/htm-studio/) for details and to get started
 with HTM Studio.
 
 To learn more about HTM go to [https://numenta.com](/).
