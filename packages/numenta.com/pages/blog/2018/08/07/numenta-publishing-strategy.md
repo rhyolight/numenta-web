@@ -16,7 +16,7 @@ type: post
 **Jeff Hawkins, Numenta Co-Founder**
 ----------------------
 
-![Jeff Hawkins profile pic](https://discourse-cdn-sjc2.com/standard14/user_avatar/discourse.numenta.org/jhawkins/120/278_1.png)
+![Jeff Hawkins profile pic](../images/jeff-headshot.png)
 
 Peer-reviewed papers have been the standard and preferred form of publication for many years. They are essential for career advancement in academia, and academic scientists are often under pressure to publish many papers. Sometimes this leads to papers that are of questionable value, but overall the system works well.
 
