@@ -7,7 +7,7 @@ hideImage: true
 image: ../images/untangling-sequences-behavior-vs-external-causes.png
 link: https://doi.org/10.1101/190678
 org: "Preprint of journal submission"
-sort: c
+sort: f
 title: "Untangling Sequences: Behavior vs. External Causes"
 type: link
 ---

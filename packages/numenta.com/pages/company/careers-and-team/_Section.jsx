@@ -15,7 +15,6 @@ import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import {sortOrderAscend} from 'numenta-web-shared-utils/lib/universal'
 
 import ImageCareers from './images/Numenta-Careers-and-Team-photo.png'
-import ImageCeleste from './images/team/celeste-baranski.png'
 import ImageDonna from './images/team/donna-dubinsky.png'
 import ImageEd from './images/team/ed-colligan.jpg'
 import ImageHarry from './images/team/harry-saal.png'
@@ -112,22 +111,21 @@ const SectionCareers = (props, {route, config}) => {
             </div>
             <div className={styles.content}>
               <Paragraph>
-                Donna first partnered with Jeff Hawkins at Palm, Inc. in 1992,
-                where she served as president and CEO. She held this position
-                throughout Palm's acquisition by U.S Robotics and subsequently
-                3Com Corporation. In 1998, Donna and Jeff co-founded Handspring,
-                creator of the category-defining Treo smartphone. Handspring
-                merged with Palm in 2003, and Donna continued to serve on Palm's
-                board until 2009. Previously, Donna spent 10 years at Apple Inc.
-                in a multitude of sales, sales support, and logistics
-                functions—both at Apple and at Claris, an Apple software
-                subsidiary.
+                Donna is a serial entrepreneur best known for her work as CEO
+                of Palm Computing and then Handspring, pioneers of the first
+                successful handheld computers and smartphones. Previously,
+                Donna spent 10 years in a multitude of sales, sales support,
+                and logistics functions—both at Apple and at Claris, an Apple
+                software subsidiary.  She founded Numenta with her long-time
+                business partner, Jeff Hawkins, in 2005.
               </Paragraph>
               <Paragraph>
                 Donna earned a B.A. from Yale University, and an M.B.A. from
-                Harvard Business School. She served on the board of Yale
-                University from 2006-2018, including two years as Senior
-                Fellow.
+                Harvard Business School. In addition to chairing Numenta’s
+                board, she currently serves on the boards of Cortical.io
+                (Vienna, Austria), Stanford Health Care (Palo Alto, CA), and
+                Twilio (NYSE: TWLO). Donna also served on the board of Yale
+                University from 2006-2018, including two years as Senior Fellow.
               </Paragraph>
             </div>
           </div>
@@ -204,41 +202,6 @@ const SectionCareers = (props, {route, config}) => {
           </div>
 
         </ListItem>
-        <ListItem>
-
-          <SubTitle level={4}>Celeste Baranski</SubTitle>
-          <SubTitle level={5}>VP of Engineering</SubTitle>
-          <div className={styles.columns}>
-            <div className={styles.aside}>
-              <Image
-                alt="Numenta Careers and Team – Celeste Baranski"
-                border={true}
-                respond="mw"
-                src={ImageCeleste}
-              />
-            </div>
-            <div className={styles.content}>
-              <Paragraph>
-                Celeste has vast experience in high tech engineering, design and
-                management. Previously, Celeste was SVP Engineering & Operations
-                at Panasas, a Big Data storage provider. She was CEO and
-                Co-Founder of Vitamin D, one of the first developers to use the
-                NuPIC platform. Celeste also served in VP Engineering roles at
-                Palm and at Handspring, where she led the companies’ engineering
-                efforts for handheld computers and smartphones. Celeste has
-                built effective engineering teams, starting from a few to over
-                500 and has delivered numerous successful and award-winning
-                products.
-              </Paragraph>
-              <Paragraph>
-                Celeste holds both a B.S. and M.S. in electrical engineering
-                from Stanford University.
-              </Paragraph>
-            </div>
-          </div>
-
-        </ListItem>
-
         <ListItem>
 
           <SubTitle level={4}>Christy Maver</SubTitle>
@@ -334,21 +297,21 @@ const SectionCareers = (props, {route, config}) => {
             </div>
             <div className={styles.content}>
               <Paragraph>
-                Donna first partnered with Jeff Hawkins at Palm, Inc. in 1992,
-                where she served as president and CEO. She held this position
-                throughout Palm's acquisition by U.S Robotics and subsequently
-                3Com Corporation. In 1998, Donna and Jeff co-founded Handspring,
-                creator of the category-defining Treo smartphone. Handspring
-                merged with Palm in 2003, and Donna continued to serve on Palm's
-                board until 2009. Previously, Donna spent 10 years at Apple Inc.
-                in a multitude of sales, sales support, and logistics
-                functions—both at Apple and at Claris, an Apple software
-                subsidiary.
+                Donna is a serial entrepreneur best known for her work as CEO
+                of Palm Computing and then Handspring, pioneers of the first
+                successful handheld computers and smartphones. Previously,
+                Donna spent 10 years in a multitude of sales, sales support,
+                and logistics functions—both at Apple and at Claris, an Apple
+                software subsidiary.  She founded Numenta with her long-time
+                business partner, Jeff Hawkins, in 2005.
               </Paragraph>
               <Paragraph>
                 Donna earned a B.A. from Yale University, and an M.B.A. from
-                Harvard Business School. She is currently on the board of Yale
-                University.
+                Harvard Business School.  In addition to chairing Numenta’s
+                board, she currently serves on the boards of Twilio (NYSE: TWLO)
+                and Cortical.io (Vienna, Austria).  Donna also served on the
+                board of Yale University from 2006-2018, including two years
+                as Senior Fellow.
               </Paragraph>
             </div>
           </div>

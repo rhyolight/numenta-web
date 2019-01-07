@@ -8,7 +8,7 @@ event:
     begin: 2018/10/15 11:00
     end: 2018/10/15 12:00
   where:
-    desc: "Maastricht University"
+    desc: "MECC Maastricht"
     city: Maastricht
     country: Netherlands
     web: https://www.hbpopendaysummit-2018.org/en
@@ -21,6 +21,9 @@ title: "Human Brain Project Summit - Open Day"
 header: "Human Brain Project Summit - Open Day"
 type: post
 ---
+
+## Video:
+<iframe width="504" height="283.5" src="https://www.youtube.com/embed/upXsle3yB6A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Abstract
 The human neocortex is the organ of intelligence, responsible for perception, language, and high-level thought. How the neocortex works is considered one of the greatest unsolved scientific challenges. Progress on this problem is expected to lead to advances in AI, disease, education, and robotics.

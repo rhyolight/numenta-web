@@ -29,6 +29,11 @@ For educational material regarding the topics discussed in this podcast episode,
 * [11:20] Difference between Cartesian coordinates and grid cells in the brain. Objects are defined by different locations and the only way to get between those locations is through movement.
 * [13.38] Displacement transform using grid cells– given two points, how can I establish a vector that says how far apart they are?  
 * [16.16] Mechanism for movement between locations, different locations in different reference frames
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-2-Research-Update-with-Jeff-Hawkins-Part-2.pdf)**
+
+</center>
 
 
 **Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
