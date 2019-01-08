@@ -56,8 +56,8 @@ const SectionResources = (props, {config}) => {
             <ListItem>
               <TextLink to={links.in.podcasts}>Other
               Podcasts</TextLink><Spacer />
-              Occasionally, our co-founder Jeff Hawkins appears as a guest on
-              podcasts to discuss a variety of neuroscience topics.
+              Occasionally, our CEO Donna Dubinsky and Co-Founder Jeff Hawkins
+              appear as guests on other podcasts.
             </ListItem>
             <ListItem>
               <TextLink to={links.out.htmschool.channel}>HTM School</TextLink>
