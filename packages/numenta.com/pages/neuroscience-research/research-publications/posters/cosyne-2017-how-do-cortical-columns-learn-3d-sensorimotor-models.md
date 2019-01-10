@@ -1,5 +1,5 @@
 ---
-author: Jeff Hawkins, Yuwei Cui, Subutai Ahmad, Nathanael Romano, and Marcus Lewis
+author: Numenta
 title: "Cosyne 2017: How Do Cortical Columns Learn 3D Sensorimotor Models?"
 header: "How Do Cortical Columns Learn 3D Sensorimotor Models of The World?"
 description: "We propose that cortical columns learn 3D sensorimotor models of the world by combining sensory inputs with allocentric location. We found that a simulated robot hand can grasp and recognize any object, and that each cortical column can store more objects, and recognize them faster, by using cross-column connections."
@@ -8,7 +8,7 @@ date: 2017/02/24
 image: ../images/CosynePoster_2017.png
 link: /assets/pdf/posters/CosynePoster_2017.pdf
 media: poster
-org: Numenta
+org: Jeff Hawkins, Yuwei Cui, Subutai Ahmad, Nathanael Romano, Marcus Lewis
 section: archive
 sort: b
 type: post

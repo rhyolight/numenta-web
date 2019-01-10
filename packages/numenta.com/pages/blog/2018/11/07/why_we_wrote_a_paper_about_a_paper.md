@@ -1,9 +1,9 @@
 ---
-author: Donna Dubinsky and Christy Maver
+author: Numenta
 description: "Last month, Numenta released a major new theory for intelligence and cortical computation, documenting the theory in a research paper and making it available on a preprint server while it undergoes peer-review. We also created a “companion piece” to the research paper. What’s a companion piece and why did we write it?  How did two non-neuroscientists write a paper about a neuroscience paper?  In this blog post, we’ll take you behind the scenes to show you how and why it happened."
 date: 2018/11/07   
 hideImage: false
-org: Numenta
+org: Donna Dubinsky & Christy Maver
 image: ../images/why-we-wrote-a-paper-about-a-paper.png
 keywords: "Numenta companion paper"
 title: "Why We Wrote a Paper About a Paper"

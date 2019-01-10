@@ -1,5 +1,5 @@
 ---
-author: Scott Purdy, Subutai Ahmad
+author: Numenta
 title: "CNS 2018: Learning Relative Landmark Locations"
 header: "Unsupervised Learning of Relative Landmark Locations Using Grid Cells"
 description: "This poster introduces a proposal that the brain uses grid cells to perform unsupervised learning of landmark locations. It shows the results of a network model trained on 1000 environments, compared to a bag-of-features model. It also lays out discussion topics for future extensions of this work."
@@ -8,7 +8,7 @@ date: 2018/07/18
 image: ../images/CNS_2018_Landmark_Locations_Using_Grid_Cells.png
 link: /assets/pdf/posters/CNS_2018_Landmark_Locations_Using_Grid_Cells_Poster.pdf
 media: poster
-org: Numenta
+org: Scott Purdy, Subutai Ahmad
 section: archive
 sort: a
 type: post

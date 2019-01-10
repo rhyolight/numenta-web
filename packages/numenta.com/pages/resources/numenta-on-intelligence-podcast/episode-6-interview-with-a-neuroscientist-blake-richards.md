@@ -5,7 +5,7 @@ date: 2018/11/28
 image: ../images/episode-6-blake-richards.png
 link: https://www.buzzsprout.com/188368/872613-episode-6-interview-with-a-neuroscientist-dr-blake-richards
 media: podcast
-org: Matt Taylor and Blake Richards
+org: Matt Taylor & Blake Richards
 section: overview
 sort: a
 tags: Numenta On Intelligence, Numenta podcast

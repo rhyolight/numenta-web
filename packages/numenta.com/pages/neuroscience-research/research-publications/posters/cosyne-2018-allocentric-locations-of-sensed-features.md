@@ -1,5 +1,5 @@
 ---
-author: Marcus Lewis, Jeff Hawkins
+author: Numenta
 title: "Cosyne 2018: Determining Allocentric Locations of Sensed Features"
 header: "Determining Allocentric Locations of Sensed Features"
 description: "In this poster, we propose a neural mechanism for determining allocentric locations of sensed features. We show how cortical columns can use multiple independent moving sensors to identify and locate objects. We lay out a model inspired by grid cell modules that describes how the brain computes and represents locations."
@@ -8,7 +8,7 @@ date: 2018/03/01
 image: ../images/Cosyne2018-Allocentric-Locations.png
 link: /assets/pdf/posters/Cosyne2018-Allocentric-Locations.pdf
 media: poster
-org: Numenta
+org: Marcus Lewis, Jeff Hawkins
 section: archive
 sort: b
 type: post

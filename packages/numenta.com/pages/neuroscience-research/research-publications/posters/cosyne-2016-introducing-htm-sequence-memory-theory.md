@@ -1,5 +1,5 @@
 ---
-author: Yuwei Cui, Subutai Ahmad, Jeff Hawkins, Chetan Surpur
+author: Numenta
 title: "Cosyne 2016: Introducing HTM Sequence Memory"
 header: "Introducing HTM Sequence Memory"
 description: "This poster introduces a theory of sequence memory in the neocortex called HTM Sequence Memory. The three characteristics of HTM Sequence Memory are: 1) Neurons learn to recognize hundreds of patters; 2) Pattern recognition acts as predictions; and 3) a network of neurons forms a powerful sequence memory."
@@ -8,7 +8,7 @@ date: 2016/02/25
 image: ../images/CosynePoster_TM-Final-print.png
 link: /assets/pdf/posters/CosynePoster_TM-Final-print.pdf
 media: poster
-org: Numenta
+org: Yuwei Cui, Subutai Ahmad, Jeff Hawkins, Chetan Surpur
 section: archive
 sort: b
 type: post

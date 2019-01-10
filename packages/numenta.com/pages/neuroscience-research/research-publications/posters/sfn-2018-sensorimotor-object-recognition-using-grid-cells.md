@@ -1,5 +1,5 @@
 ---
-author: Marcus Lewis, Scott Purdy, Subutai Ahmad, Mirko Klukas, Jeff Hawkins
+author: Numenta
 title: "SfN 2018: A mechanism for sensorimotor object recognition using cortical grid cells"
 header: "A mechanism for sensorimotor object recognition using cortical grid cells"
 description: "This poster describes a two-layer network model that uses cortical grid cells and path integration to learn and recognize objects through movement. In our model, one layer contains several grid cell-like modules and provides a location signal for each learned object such that features can be associated with a specific location in the reference frame of that object. A second layer, a sensory input layer, receives the location representation as context, and uses it to encode the sensory input in the context of a location in the object’s reference frame."
@@ -8,7 +8,7 @@ date: 2018/11/07
 image: ../images/sfn-2018-sensorimotor-object-recognition-using-grid-cells.png
 link: /assets/pdf/posters/sfn-2018-sensorimotor-object-recognition-using-grid-cells.pdf
 media: poster
-org: Numenta
+org: Marcus Lewis, Scott Purdy, Subutai Ahmad, Mirko Klukas, Jeff Hawkins
 section: archive
 sort: b
 type: post
