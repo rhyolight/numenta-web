@@ -1,5 +1,5 @@
 ---
-author: Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
+author: Numenta
 title: "CNS 2018: Sparse Distributed Representations"
 header: "Robust Dendritic Computations With Sparse Distributed Representations"
 description: "This poster highlights one of the foundational topics of Numenta research: sparse distributed representations, or SDRs for short.  SDRs are how the brain represents information. The mathematical properties of SDRs are essential components of biological intelligence. This poster examines how accurately neurons can recognize sparse patterns."
@@ -8,7 +8,7 @@ date: 2018/07/18
 image: ../images/CNS_2018_SDRs.png
 link: /assets/pdf/posters/CNS_2018_SDR_Poster_v2.pdf
 media: poster
-org: Numenta
+org: Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
 section: archive
 sort: b
 type: post

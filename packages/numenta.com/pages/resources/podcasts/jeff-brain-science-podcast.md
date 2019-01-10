@@ -1,11 +1,11 @@
 ---
-author: Ginger Campbell, MD
+author: Numenta
 description: "Listen in as Brain Science podcast host Ginger Campbell interviews Numenta Co-founder Jeff Hawkins about his latest developments in brain theory."
 date: 2017/11/27
 image: ../images/brain-science-podcast.png
 link: http://brainsciencepodcast.com/bsp/2017/139-hawkins
 media: podcast
-org: Brain Science Podcast
+org: Ginger Campbell, MD • Brain Science Podcast
 section: overview
 sort: a
 tags: on intelligence jeff hawkins htm hierarchical temporal memory

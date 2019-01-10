@@ -5,7 +5,7 @@ date: 2018/10/24
 image: ../images/episode-5-alex-vaughan.png
 link: https://www.buzzsprout.com/188368/837251-episode-5-interview-with-a-neuroscientist-alex-vaughan
 media: podcast
-org: Matt Taylor and Alex Vaughan
+org: Matt Taylor & Alex Vaughan
 section: overview
 sort: x
 tags: Numenta On Intelligence, Numenta podcast

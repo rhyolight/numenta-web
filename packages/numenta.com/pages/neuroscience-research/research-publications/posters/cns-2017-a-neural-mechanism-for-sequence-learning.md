@@ -1,5 +1,5 @@
 ---
-author: Subutai Ahmad, Yuwei Cui, Jeff Hawkins
+author: Numenta
 title: "CNS 2017: A Neural Mechanism for Sequence Learning – HTM Sequence Memory"
 header: "A Neural Mechanism for Sequence Learning – HTM Sequence Memory"
 description: "In this poster, we propose a neural mechanism for sequence learning– HTM Sequence Memory, where 1) neurons learn to recognize hundreds of patterns; 2) recognition of patterns act as predictions; 3) a network of neurons forms a powerful sequence memory; and 4) sparse representations lead to highly robust recognition."
@@ -8,7 +8,7 @@ date: 2017/07/24
 image: ../images/CNS_Poster_2017_v2.png
 link: /assets/pdf/posters/CNS_Poster_2017_v2.pdf
 media: poster
-org: Numenta
+org: Subutai Ahmad, Yuwei Cui, Jeff Hawkins
 section: archive
 sort: b
 type: post

@@ -1,12 +1,12 @@
 ---
-author: Jeff Hawkins, Subutai Ahmad, and Christy Maver
+author: Numenta
 description: "Continuing a yearly December tradition, our VP of Marketing Christy Maver interviews Co-founder Jeff Hawkins and VP of Research Subutai Ahmad, to reflect on the past twelve months and look ahead to our goals and priorities for the coming year."  
 date: 2018/12/18
 image: https://img.youtube.com/vi/Kkm28DrqXMk/sddefault.jpg
 hideImage: true
 link: https://numenta.com/company/newsletter
 media: video
-org: Numenta
+org: Jeff Hawkins, Subutai Ahmad, Christy Maver
 section: overview
 sort: a
 tags: new theory for intelligence, thousand brains theory, machine intelligence, jeff Hawkins, neocortex, brain theory

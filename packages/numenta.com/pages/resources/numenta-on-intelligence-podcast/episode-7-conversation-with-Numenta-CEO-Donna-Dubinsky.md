@@ -5,7 +5,7 @@ date: 2018/12/31
 image: ../images/episode-7-donna-dubinsky.png
 link: https://www.buzzsprout.com/188368/897605-episode-7-conversation-with-numenta-ceo-donna-dubinsky
 media: podcast
-org: Christy Maver and Donna Dubinsky
+org: Christy Maver & Donna Dubinsky
 section: overview
 sort: a
 tags: Numenta On Intelligence, Numenta podcast

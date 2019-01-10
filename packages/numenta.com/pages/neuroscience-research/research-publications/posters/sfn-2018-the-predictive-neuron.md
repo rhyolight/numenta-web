@@ -1,5 +1,5 @@
 ---
-author: Subutai Ahmad, Jeff Hawkins
+author: Numenta
 title: "SfN 2018: The predictive neuron, how active dendrites enable spatiotemporal computation in the neocortex"
 header: "The predictive neuron, how active dendrites enable spatiotemporal computation in the neocortex"
 description: "This poster shows a model where patterns detected on active basal dendrites act as predictions by slightly depolarizing the soma without generating an action potential. A single neuron can then predict its activation in hundreds of independent contexts. The predictive network mechanism can learn both pure external temporal sequences as well as sensorimotor sequences. When the contextual input includes information derived from efference motor copies, the cells learn sensorimotor sequences. If the contextual input consists of nearby cellular activity, the cells learn temporal sequences."
@@ -8,7 +8,7 @@ date: 2018/11/07
 image: ../images/sfn-2018-the-predictive-neuron.png
 link: /assets/pdf/posters/sfn-2018-the-predictive-neuron.pdf
 media: poster
-org: Numenta
+org: Subutai Ahmad, Jeff Hawkins
 section: archive
 sort: c
 type: post

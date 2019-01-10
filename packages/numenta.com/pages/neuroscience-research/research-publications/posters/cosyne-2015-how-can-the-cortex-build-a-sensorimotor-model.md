@@ -1,5 +1,5 @@
 ---
-author: Yuwei Cui, Subutai Ahmad, Jeff Hawkins, Chetan Surpur
+author: Numenta
 title: "Cosyne 2015: How The Cortex Builds a Sensorimotor Model of The World"
 header: "How The Cortex Builds a Sensorimotor Model of The World"
 description: "How can the cortex build a sensorimotor model of the world? First, we propose a biologically detailed model of sensorimotor inference. Then, we build a model with a premise that predictable transitions lead to invariant representations. We then tested the model, measuring neuron activations over time."
@@ -8,7 +8,7 @@ date: 2015/03/05
 image: ../images/CosynePoster_2015_Numenta.png
 link: /assets/pdf/posters/CosynePoster_2015_Numenta.pdf
 media: poster
-org: Numenta
+org: Yuwei Cui, Subutai Ahmad, Jeff Hawkins, Chetan Surpur
 section: archive
 sort: b
 type: post

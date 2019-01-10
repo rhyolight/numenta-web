@@ -1,5 +1,5 @@
 ---
-author: Subutai Ahmad, Jeff Hawkins, Yuwei Cui
+author: Numenta
 title: "Bernstein Conference 2016: HTM Sequence Memory for Sequence Learning"
 header: "A Neural Mechanism for Sequence Learning – HTM Sequence Memory"
 description: "This poster explains HTM Sequence Memory, a neural mechanism for sequence learning, which is ubiquitous in the cortex and has the following characteristics: 1) neurons learn to recognize patterns; 2) pattern recognition acts as predictions; 3) a neuron network forms a sequence memory, and 4) sparse presentations lead to robust recognition."
@@ -8,7 +8,7 @@ date: 2016/09/21
 image: ../images/BernsteinPoster_V1_narrow.png
 link: /assets/pdf/posters/BernsteinPoster_V1_narrow.pdf
 media: poster
-org: Numenta
+org: Subutai Ahmad, Jeff Hawkins, Yuwei Cui
 section: archive
 sort: b
 type: post

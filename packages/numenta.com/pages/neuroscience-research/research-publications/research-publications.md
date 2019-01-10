@@ -2,7 +2,7 @@
 title: "Research Publications"
 header: "Research Publications"
 keywords: "neuroscience research publications"
-description: "We have a growing collection of published peer-reviewed papers, supplemental white papers and research manuscripts. You can search our publications by category or by year. Some are currently under review at journals/conferences, but we have made all manuscripts freely available on preprint sites, such as arXiv or bioRxiv.  Our goal is to document all of our discoveries in scientific journals."
+description: "We have a growing collection of published peer-reviewed papers, supplemental white papers and research manuscripts. You can search our publications by category or by year. Some are currently under review at journals/conferences, but we have made all manuscripts freely available on preprint sites, such as arXiv or bioRxiv. Our goal is to document all of our discoveries in scientific journals."
 dropcap: true
 columns: true
 ---

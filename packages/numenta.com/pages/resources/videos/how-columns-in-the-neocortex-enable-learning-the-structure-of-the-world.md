@@ -6,7 +6,7 @@ image: https://img.youtube.com/vi/BvJJn9VS4rk/sddefault.jpg
 hideImage: true
 link:
 media: video
-org: Jeff Hawkins, Subutai Ahmad, and Yuwei Cui
+org: Jeff Hawkins, Subutai Ahmad, Yuwei Cui
 section: overview
 sort: a
 tags: sensorimotor integration numenta hierarchical temporal memory htm technology nupic

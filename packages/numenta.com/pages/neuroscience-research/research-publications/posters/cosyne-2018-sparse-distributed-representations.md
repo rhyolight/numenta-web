@@ -1,5 +1,5 @@
 ---
-author: Subutai Ahmad, Max Schwarzer, and Jeff Hawkins
+author: Numenta
 title: "Cosyne 2018: Sparse Distributed Representations"
 header: "Robust Dendritic Computations With Sparse Distributed Representations"
 description: "This poster highlights sparse distributed representations, a method the brain uses to represent information.  Sparse distributed representations and their mathematical properties are essential components of biological intelligence.  This poster examines the robust dendritic computations in the neocortex with sparse distributed representations."
@@ -8,7 +8,7 @@ date: 2018/03/01
 image: ../images/Cosyne2018-SDRs.png
 link: /assets/pdf/posters/Cosyne2018-SDRs.pdf
 media: poster
-org: Numenta
+org: Subutai Ahmad, Max Schwarzer, Jeff Hawkins
 section: archive
 sort: b
 type: post

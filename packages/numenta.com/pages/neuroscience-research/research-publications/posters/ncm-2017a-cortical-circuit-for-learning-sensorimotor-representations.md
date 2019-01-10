@@ -1,5 +1,5 @@
 ---
-author: Subutai Ahmad, Jeff Hawkins, Yuwei Cui
+author: Numenta
 title: "NCM 2017: A Cortical Circuit for Sensorimotor Learning and Recognition"
 header: "A Network Model of a Cortical Circuit that Learns Sensorimotor Representations of Objects"
 description: "In this poster, we describe a network model of cortical circuits that learns sensorimotor representations of objects. Extending previous work, the cortical circuit network integrates motor representations and feed-forward sensory information to build predictive models of objects."
@@ -8,7 +8,7 @@ date: 2017/05/01
 image: ../images/NCM_Poster_2017_s.png
 link: /assets/pdf/posters/NCM_Poster_2017_s.pdf
 media: poster
-org: Numenta
+org: Subutai Ahmad, Jeff Hawkins, Yuwei Cui
 section: archive
 sort: b
 type: post

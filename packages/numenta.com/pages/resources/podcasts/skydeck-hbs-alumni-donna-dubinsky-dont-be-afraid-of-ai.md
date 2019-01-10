@@ -1,11 +1,11 @@
 ---
-author: Daniel Morrell
+author: Numenta
 description: In this episode of Skydeck, Harvard Business School's alumni podcast series, Donna Dubinksy shares her thoughts about AI - why we shouldn't fear it and how it can be used for positive impact.
 date: 2018/11/15
 image: ../images/skydeck-hbs-alumni.jpg
 link: https://www.alumni.hbs.edu/stories/Pages/story-bulletin.aspx?num=6837
 media: podcast
-org: Skydeck | Harvard Business School Alumni
+org: Daniel Morrell • Skydeck | Harvard Business School Alumni
 section: overview
 sort: a
 tags: donna dubinsky, numenta, ai
