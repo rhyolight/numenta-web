@@ -1,5 +1,5 @@
 ---
-author: Numenta
+author: Jeff Hawkins
 description: Brain Inspired podcast host Paul Middlebrooks interviews Jeff Hawkins about Numenta's new framework for intelligence and cortical computation. They also talk about Jeff's book On Intelligence, and Paul gets Jeff's take on a number of other brain-related topics.
 date: 2018/11/08
 image: ../images/brain-inspired-podcast.jpg
