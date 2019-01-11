@@ -3,11 +3,11 @@ author: "Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, and Subutai Ahma
 description: "In this research paper, Numenta proposes a novel theoretical framework for understanding what the neocortex does and how it does it. The framework is based on grid cells and has significant implications for neuroscience and machine intelligence."
 keywords: location-based framework, cortical grid cells
 category: neuroscience, sensorimotor
-date: 2018/10/12
+date: 2019/01/10
 hideImage: true
 image: ../images/frameworks-paper-grid-cell-mechanisms.png
-link: http://biorxiv.org/cgi/content/short/442418v1
-org: "Preprint of journal submission"
+link: https://doi.org/10.3389/fncir.2018.00121
+org: "Published in Frontiers in Neural Circuits Journal (Peer-reviewed)"
 sort: a
 title: "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex"
 type: post
@@ -17,9 +17,9 @@ type: post
 | | |
 |-|-|
 | **Authors** | Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, and Subutai Ahmad |
-| **Journal** | Submitted |
-| **Online** | [Read or Download the Preprint][1] |
-| **Published** | October 13, 2018 |
+| **Journal** | Frontiers in Neural Circuits 12, 121. `doi:10.3389/FNCIR.2018.00121` |
+| **Online** | [Read or Download this Paper][1] |
+| **Published** | January 10, 2019 |
 
 
 Despite the massive amount of detail neuroscientists have amassed about the neocortex, how it works is still a mystery.  In this paper, we propose a **novel theoretical framework for understanding what the neocortex does and how it does it.**
@@ -80,4 +80,4 @@ We have several additional resources for people who want to learn more:
 ### Q. What is next for this research?
 We are currently focused on filling in some of the pieces of the framework, like attention.  We will continue to publish papers on various components of the framework with more details as well.
 
-[1]: http://biorxiv.org/cgi/content/short/442418v1
+[1]: https://doi.org/10.3389/fncir.2018.00121

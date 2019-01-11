@@ -96,8 +96,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/">
-            A Framework for Intelligence and Cortical Function
+            <TextLink to="/press/2019/01/14/numenta-publishes-breakthrough-theory-for-intelligence-and-cortical-computation/">
+            New Paper Published in Frontiers in Neural Circuits
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
