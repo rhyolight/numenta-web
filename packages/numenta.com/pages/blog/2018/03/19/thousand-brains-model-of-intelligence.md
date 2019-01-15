@@ -11,6 +11,8 @@ header: "The Thousand Brains Model of Intelligence"
 type: post
 ---
 
+*An updated version of this blog has been published on January 2019 and is available [here](/blog/2019/01/16/the-thousand-brains-theory-of-intelligence).*
+
 In our most recent peer-reviewed paper, [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/), we proposed a surprising and big idea. We said that cortical columns have more powerful recognition and modeling capabilities than previously assumed and that a single cortical column can learn models of complete objects through movement. This idea has large implications for how we think about biological and machine intelligence, which we will expand on in this post.
 
 To understand these implications, we first need to revisit what we proposed in the paper. We said that there is a key feature common to all cortical columns: a signal representing **location**. This location signal represents a location relative to the object being sensed, not relative to the person sensing the object. Every column combines its sensory input with the location signal. In other words, a column knows not only what feature is being sensed, but where that feature is on the object. As we move our sensors, the “features at locations” input is integrated over time so that a single column can learn and recognize complete objects.
