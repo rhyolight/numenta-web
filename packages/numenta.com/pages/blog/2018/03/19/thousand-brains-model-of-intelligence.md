@@ -9,7 +9,10 @@ keywords: "thousand brains model"
 title: "The Thousand Brains Model of Intelligence"
 header: "The Thousand Brains Model of Intelligence"
 type: post
+dropcap: false
 ---
+
+*An updated version of this blog was published in January 2019 and is available [here](/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/).*
 
 In our most recent peer-reviewed paper, [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/resources/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/), we proposed a surprising and big idea. We said that cortical columns have more powerful recognition and modeling capabilities than previously assumed and that a single cortical column can learn models of complete objects through movement. This idea has large implications for how we think about biological and machine intelligence, which we will expand on in this post.
 
