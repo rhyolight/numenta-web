@@ -9,6 +9,7 @@ keywords: "thousand brains model"
 title: "The Thousand Brains Model of Intelligence"
 header: "The Thousand Brains Model of Intelligence"
 type: post
+dropcap: false
 ---
 
 *An updated version of this blog has been published on January 2019 and is available [here](/blog/2019/01/16/the-thousand-brains-theory-of-intelligence).*
