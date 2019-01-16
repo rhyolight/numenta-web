@@ -1,7 +1,7 @@
 ---
 author: Christy Maver
 description: "Our latest paper on the Thousand Brains Theory of Intelligence was published this month in the journal Frontiers in Neural Circuits. The preprint version of this paper, which we shared in October 2018, was one of the most downloaded papers of bioRxiv in 2018. Jeff Hawkins and Christy Maver wrote a blog on the key insights of the paper and its implications for AI. The new paper was also highlighted in Quanta Magazine this month."
-date: 2019/01/16
+date: 2019/01/17
 hideImage: false
 image: ../images/january2019.png
 org: VP of Marketing
