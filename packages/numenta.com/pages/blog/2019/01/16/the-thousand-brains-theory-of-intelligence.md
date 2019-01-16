@@ -3,8 +3,9 @@ author: Numenta
 description: "In our most recent peer-reviewed paper published in Frontiers in Neural Circuits, A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, we put forward a novel theory for how the neocortex works. In this updated blog about the Thousand Brains Theory of Intelligence originally published in March 2018, Jeff Hawkins and Christy Maver describe the key insights of our theory and how it compares to the classic view of the hierarchy, as well as its implications for AI."
 date: 2019/01/16   
 hideImage: true
+dropcap: false
 org: Jeff Hawkins & Christy Maver
-image: ../images/classic-view-vs-thousand-brains.png
+image: ../images/classic-view-vs-thousand-brains.jpg
 keywords: "thousand brains theory of intelligence"
 title: The “Thousand Brains Theory of Intelligence”
 header: The “Thousand Brains Theory of Intelligence”
@@ -27,7 +28,7 @@ Now imagine the same mug, but this time you grasp it with multiple fingers at th
 
 So, an individual column can recognize objects through movement (one finger touching the mug multiple times) or through long-range connections between columns that share information to agree on what the object is (grasping and looking at a mug). Here is a cartoon illustration showing the classic hierarchy and our proposed alternate model. Notice that we are not suggesting that the cortex is not organized as a hierarchy of regions; it is, and the hierarchy is important. But complete models of objects exist at each level of the hierarchy.
 
-![Classic Hierarchy View vs. Thousand Brains](../images/classic-view-vs-thousand-brains.png)
+![Classic Hierarchy View vs. Thousand Brains](../images/classic-view-vs-thousand-brains.jpg)
 
 #### Implications for AI
 
