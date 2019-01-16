@@ -11,6 +11,7 @@ header: "2018 Year in Review & More"
 keywords: "Numenta 2018 year in review"
 type: post
 video: https://youtu.be/Kkm28DrqXMk
+dropcap: false
 ---
 
 As 2018 comes to a close, I’m pleased to share several exciting updates with you.
