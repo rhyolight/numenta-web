@@ -7,7 +7,7 @@ image: ../images/numenta-october-2018.png
 org: VP of Marketing
 keywords: "Numenta introduces new theory for intelligence"
 title: "New Theory for Intelligence and Cortical Computation | Numenta News - October 2018"
-header: "New Research Paper, Companion Piece, and More"
+header: "New Research Paper, Companion Piece & More"
 type: post
 sound: https://soundcloud.com/numenta/october-2018-numenta-news
 ---
@@ -27,4 +27,4 @@ In partner news, we have an update from [Intelletic Trading Systems LLC (ITS)](h
 Thank you for continuing to follow Numenta.
 
 ## Subscribe to our newsletter
-Want to ensure the latest Numenta news gets delivered straight to your inbox?  [Subscribe here](https://numenta.us2.list-manage.com/subscribe/post?u=b838879da2baa539870afd320&id=23e65d3407). 
+Want to ensure the latest Numenta news gets delivered straight to your inbox?  [Subscribe here](https://numenta.us2.list-manage.com/subscribe/post?u=b838879da2baa539870afd320&id=23e65d3407).
