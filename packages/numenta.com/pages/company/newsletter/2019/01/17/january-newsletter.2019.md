@@ -19,8 +19,10 @@ I’m pleased to share some exciting news to kick off the New Year.
 **New Peer-reviewed Paper** <br>
 Our research paper **A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex** was published this month in the journal *[Frontiers in Neural Circuits](https://doi.org/10.3389/fncir.2018.00121)*. The preprint version of this paper, which we shared in October 2018, was [one of the most downloaded papers of bioRxiv in 2018](https://www.rxivist.org/top/2018). The paper proposes “The Thousand Brains Theory of Intelligence,” a novel theory for intelligence and cortical computation.
 
-**Thousand Brains blog** <br>
+**Thousand Brains Blog and Hangout** <br>
 For a high level overview of the Thousand Brains Theory of Intelligence, I encourage you to [read this new blog post](/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/) that our Co-founder Jeff Hawkins and I wrote. The Thousand Brains Theory is a new way of thinking about intelligence and how the cortex works, based on our proposal that instead of building one model of an object or concept, the brain builds many models of each object simultaneously. We think this theory has far-reaching implications in neuroscience and AI, and we’re excited to see how it can be applied to building intelligent machines.
+
+On January 23 at 9am PST, our Open Source Community Manager Matt Taylor will host a “[Thousand Brains Hangout](https://youtu.be/UpupNS6aF7o)” with Jeff and our VP of Research Subutai Ahmad. They’ll discuss the theory and answer questions.  If you have questions on the theory, our papers, or how our research can apply to machine intelligence, you can submit them ahead of time on our [open source forum](https://discourse.numenta.org/t/thousand-brains-hangout-with-jeff-subutai/5077). If you can’t attend live, we’ll share the recording after the event.
 
 In addition to the blog, we have several resources available for you to learn more about our latest research and breakthrough theory, including a [companion piece](/neuroscience-research/research-publications/papers/thousand-brains-theory-of-intelligence-companion-paper/) intended for a lay audience, and a [screencast](/resources/videos/jeff-hawkins-human-brain-project-screencast/) recording of Jeff’s keynote presentation from the Human Brain Project Summit.
 
