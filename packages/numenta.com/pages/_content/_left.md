@@ -15,7 +15,7 @@ important for the continued success of humankind.
 
 ___
 
-### Thousand Brains Theory of Intelligence<br/>
+### [Thousand Brains Theory of Intelligence](/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/)<br/>
 In October 2018 we released a major new theory for intelligence and cortical computation. We have several resources available for you to learn more.
 * Research paper introducing the theory: [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/)
 * Companion paper that describes the theory in non-scientific terms: [Companion to A Framework for Intelligence and Cortical Function](/neuroscience-research/research-publications/papers/thousand-brains-theory-of-intelligence-companion-paper/)
