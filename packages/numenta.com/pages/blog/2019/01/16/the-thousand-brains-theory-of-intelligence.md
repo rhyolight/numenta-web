@@ -7,8 +7,8 @@ dropcap: false
 org: Jeff Hawkins & Christy Maver
 image: ../images/classic-view-vs-thousand-brains.jpg
 keywords: "thousand brains theory of intelligence"
-title: The “Thousand Brains Theory of Intelligence”
-header: The “Thousand Brains Theory of Intelligence”
+title: The Thousand Brains Theory of Intelligence
+header: The Thousand Brains Theory of Intelligence
 type: post
 ---
 
