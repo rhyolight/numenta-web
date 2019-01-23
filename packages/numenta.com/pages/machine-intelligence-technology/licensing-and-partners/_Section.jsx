@@ -1,6 +1,6 @@
 // Numenta Web Platform and Sites source code
 // MIT License (see LICENSE.txt)
-// Copyright © 2005—2017 Numenta <http://numenta.com>
+// Copyright © 2005—2019 Numenta <http://numenta.com>
 
 import React from 'react'
 import ImageLink from 'numenta-web-shared-components/lib/ImageLink'
@@ -137,16 +137,17 @@ const SectionBusiness = (props, {config}) => {
                 <TableRow>
                   <TableCell>
                     <Strong><TextLink to="/assets/pdf/apps/licensing-guide.pdf">
-                      Commercial IP License</TextLink></Strong>
+                      Commercial IP License options</TextLink></Strong>
                   </TableCell>
                   <TableCell>
                     We agree not to assert our IP for non-commercial uses
                   </TableCell>
                   <TableCell>
-                    Includes intellectual property and use of the reference
-                    software
-                    <br />Commercial rights
-                    <br />Fee
+                    Includes commercial rights to intellectual property and
+                    use of the reference software
+                    <br />Validation License - no cost, 12 month term
+                    <br />Simple License - quarterly fee, perpetual
+                    <br />Custom License
                   </TableCell>
                 </TableRow>
               </TableBody>
