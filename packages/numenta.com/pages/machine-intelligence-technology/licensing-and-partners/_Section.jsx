@@ -136,8 +136,7 @@ const SectionBusiness = (props, {config}) => {
                 </TableRow>
                 <TableRow>
                   <TableCell>
-                    <Strong><TextLink to="/assets/pdf/apps/licensing-guide.pdf">
-                      Commercial IP License options</TextLink></Strong>
+                    <Strong>Commercial IP License options</Strong>
                   </TableCell>
                   <TableCell>
                     We agree not to assert our IP for non-commercial uses
@@ -145,17 +144,23 @@ const SectionBusiness = (props, {config}) => {
                   <TableCell>
                     Includes commercial rights to intellectual property and
                     use of the reference software
-                    <br />Validation License - no cost, 12 month term
-                    <br />Simple License - quarterly fee, perpetual
-                    <br />Custom License
+                    <br /><Textlink
+                      to="/assets/pdf/apps/Validation-License.pdf">Validation
+                      License</Textlink> - no cost, 12 month term
+                    <br /><Textlink
+                      to="/assets/pdf/apps/Simple-License.pdf">Simple
+                      License</Textlink> - quarterly fee, perpetual
+                    <br />Custom License - contact us
                   </TableCell>
                 </TableRow>
               </TableBody>
             </Table>
           </div>
-          <Paragraph>If you have any questions about our licenses, visit
-            our <TextLink to={links.in.licensingfaq}>FAQ page</TextLink> or
-            contact us at <TextLink to="mailto:licenses@numenta.com">
+          <Paragraph>If you have any questions about our licenses, review our
+          <Textlink to="/assets/pdf/apps/licensing-guide.pdf">license guide
+          </Textlink>, visit our <TextLink
+            to={links.in.licensingfaq}>FAQ page</TextLink> or contact us at
+            <TextLink to="mailto:licenses@numenta.com">
             licenses@numenta.com</TextLink>.</Paragraph>
         </div>
       </div>
