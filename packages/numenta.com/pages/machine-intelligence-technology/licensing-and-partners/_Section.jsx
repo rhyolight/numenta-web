@@ -147,9 +147,8 @@ const SectionBusiness = (props, {config}) => {
                     <br /><Textlink
                       to="/assets/pdf/apps/Validation-License.pdf">Validation
                       License</Textlink> - no cost, 12 month term
-                    <br /><Textlink
-                      to="/assets/pdf/apps/Simple-License.pdf">Simple
-                      License</Textlink> - quarterly fee, perpetual
+                    <br /><Textlink to="/assets/pdf/apps/Simple-License.pdf"
+                      >Simple License</Textlink> - quarterly fee, perpetual
                     <br />Custom License - contact us
                   </TableCell>
                 </TableRow>
@@ -158,8 +157,8 @@ const SectionBusiness = (props, {config}) => {
           </div>
           <Paragraph>If you have any questions about our licenses, review our
           <Textlink to="/assets/pdf/apps/licensing-guide.pdf">license guide
-          </Textlink>, visit our <TextLink
-            to={links.in.licensingfaq}>FAQ page</TextLink> or contact us at
+            </Textlink>, visit our <TextLink to={links.in.licensingfaq}>FAQ
+            page</TextLink> or contact us at
             <TextLink to="mailto:licenses@numenta.com">
             licenses@numenta.com</TextLink>.</Paragraph>
         </div>
