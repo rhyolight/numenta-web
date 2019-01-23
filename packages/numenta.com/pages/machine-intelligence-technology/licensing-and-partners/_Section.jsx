@@ -144,11 +144,11 @@ const SectionBusiness = (props, {config}) => {
                   <TableCell>
                     Includes commercial rights to intellectual property and
                     use of the reference software
-                    <br /></Strong>
+                    <br /><Strong>
                     <TextLink to="/assets/pdf/apps/Validation-License.pdf">
                       Validation License</TextLink></Strong> - no cost, 12
                       month term
-                    <br /></Strong>
+                    <br /><Strong>
                     <TextLink to="/assets/pdf/apps/Simple-License.pdf">
                       Simple License</TextLink></Strong> - quarterly fee,
                       perpetual
