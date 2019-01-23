@@ -136,7 +136,8 @@ const SectionBusiness = (props, {config}) => {
                 </TableRow>
                 <TableRow>
                   <TableCell>
-                    <Strong>Commercial IP License options</Strong>
+                    <Strong><TextLink to="/assets/pdf/apps/licensing-guide.pdf">
+                      Commercial IP License</TextLink></Strong>
                   </TableCell>
                   <TableCell>
                     We agree not to assert our IP for non-commercial uses
@@ -145,22 +146,15 @@ const SectionBusiness = (props, {config}) => {
                     Includes intellectual property and use of the reference
                     software
                     <br />Commercial rights
-                    <br />Must demonstrate viability under AGPL v3 or
-                    <Textlink to="/assets/pdf/apps/Validation-License.pdf">
-                     Validation License</Textlink> – no cost
-                    <br />Once approved, we offer
-                    <Textlink to="/assets/pdf/apps/Simple-License.pdf">Simple
-                    License</Textlink> or Custom License – fee
+                    <br />Fee
                   </TableCell>
                 </TableRow>
               </TableBody>
             </Table>
           </div>
-          <Paragraph>For more information about our licenses, review our
-          <Textlink to="/assets/pdf/apps/licensing-guide.pdf">license guide
-          </Textlink>, visit our <TextLink to={links.in.licensingfaq}>FAQ page
-          </TextLink>, or contact us at
-          <TextLink to="mailto:licenses@numenta.com">
+          <Paragraph>If you have any questions about our licenses, visit
+            our <TextLink to={links.in.licensingfaq}>FAQ page</TextLink> or
+            contact us at <TextLink to="mailto:licenses@numenta.com">
             licenses@numenta.com</TextLink>.</Paragraph>
         </div>
       </div>
