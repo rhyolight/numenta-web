@@ -68,7 +68,7 @@ const SectionBusiness = (props, {config}) => {
                 software in a commercial application, we offer an IP license
                 that enables commercial use. Before entering into a commercial
                 license, we require a validation checkpoint, which can be done
-                under an AGPL or Validation License. 
+                under an AGPL or Validation License.
             </ListItem>
           </ListOrder>
           <Paragraph>
@@ -189,14 +189,11 @@ const SectionBusiness = (props, {config}) => {
           <Paragraph>
             We are flexible in structuring these relationships in a way
             that works for both parties. If you are interested in becoming
-            a partner, please {' '}
-            <TextLink to={links.in.license}>
-              review our license guide
-            </TextLink>, {' '}
-            and email us at {' '}
-            <TextLink to={`mailto:${contact.email.licenses}`}>
-              {contact.email.licenses}
-            </TextLink>.
+            a partner, please review
+            our <TextLink to="/assets/pdf/license/licensing-guide.pdf">License
+            Guide</TextLink>, and email us
+            at <TextLink to="mailto:licenses@numenta.com">
+            licenses@numenta.com</TextLink>.
           </Paragraph>
         </div>
       </div>
