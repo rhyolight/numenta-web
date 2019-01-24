@@ -66,7 +66,9 @@ const SectionBusiness = (props, {config}) => {
                 license. If the AGPL license is not a good fit, or if you are
                 interested in using our intellectual property without our
                 software in a commercial application, we offer an IP license
-                that enables commercial use.
+                that enables commercial use. Before entering into a commercial
+                license, we require a validation checkpoint, which can be done
+                under an AGPL or Validation License. 
             </ListItem>
           </ListOrder>
           <Paragraph>
