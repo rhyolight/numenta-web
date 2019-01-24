@@ -158,11 +158,11 @@ const SectionBusiness = (props, {config}) => {
               </TableBody>
             </Table>
           </div>
-          <Paragraph>If you have any questions about our licenses, review our
-            <TextLink to="/assets/pdf/apps/licensing-guide.pdf">license guide
-            </TextLink>, visit our <TextLink to={links.in.licensingfaq}>FAQ
-            page</TextLink> or contact us at
-            <TextLink to="mailto:licenses@numenta.com">
+          <Paragraph>If you have any questions about our licenses, review
+            our <TextLink to="/assets/pdf/apps/licensing-guide.pdf">License
+            Guide</TextLink>, visit our <TextLink to={links.in.licensingfaq}>FAQ
+            page</TextLink>, or contact us
+            at <TextLink to="mailto:licenses@numenta.com">
             licenses@numenta.com</TextLink>.</Paragraph>
         </div>
       </div>
