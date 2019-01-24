@@ -191,9 +191,11 @@ const SectionBusiness = (props, {config}) => {
             that works for both parties. If you are interested in becoming
             a partner, please review
             our <TextLink to="/assets/pdf/license/licensing-guide.pdf">License
-            Guide</TextLink>, and email us
-            at <TextLink to="mailto:licenses@numenta.com">
-            licenses@numenta.com</TextLink>.
+            Guide</TextLink>,
+            and email us at {' '}
+            <TextLink to={`mailto:${contact.email.licenses}`}>
+              {contact.email.licenses}
+            </TextLink>.
           </Paragraph>
         </div>
       </div>
