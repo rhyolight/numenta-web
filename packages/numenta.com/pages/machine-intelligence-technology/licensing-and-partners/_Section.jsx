@@ -1,6 +1,6 @@
 // Numenta Web Platform and Sites source code
 // MIT License (see LICENSE.txt)
-// Copyright © 2005—2017 Numenta <http://numenta.com>
+// Copyright © 2005—2019 Numenta <http://numenta.com>
 
 import React from 'react'
 import ImageLink from 'numenta-web-shared-components/lib/ImageLink'
@@ -136,25 +136,33 @@ const SectionBusiness = (props, {config}) => {
                 </TableRow>
                 <TableRow>
                   <TableCell>
-                    <Strong><TextLink to="/assets/pdf/apps/licensing-guide.pdf">
-                      Commercial IP License</TextLink></Strong>
+                    <Strong>Commercial IP License options</Strong>
                   </TableCell>
                   <TableCell>
                     We agree not to assert our IP for non-commercial uses
                   </TableCell>
                   <TableCell>
-                    Includes intellectual property and use of the reference
-                    software
-                    <br />Commercial rights
-                    <br />Fee
+                    Includes commercial rights to intellectual property and
+                    use of the reference software
+                    <br /><Strong>
+                      <TextLink to="/assets/pdf/apps/Validation-License.pdf">
+                      Validation License</TextLink></Strong> - no cost, 12
+                      month term
+                    <br /><Strong>
+                      <TextLink to="/assets/pdf/apps/Simple-License.pdf">
+                      Simple License</TextLink></Strong> - quarterly fee,
+                      perpetual
+                    <br /><Strong>Custom License</Strong> - contact us
                   </TableCell>
                 </TableRow>
               </TableBody>
             </Table>
           </div>
-          <Paragraph>If you have any questions about our licenses, visit
-            our <TextLink to={links.in.licensingfaq}>FAQ page</TextLink> or
-            contact us at <TextLink to="mailto:licenses@numenta.com">
+          <Paragraph>If you have any questions about our licenses, review our
+            <TextLink to="/assets/pdf/apps/licensing-guide.pdf">license guide
+            </TextLink>, visit our <TextLink to={links.in.licensingfaq}>FAQ
+            page</TextLink> or contact us at
+            <TextLink to="mailto:licenses@numenta.com">
             licenses@numenta.com</TextLink>.</Paragraph>
         </div>
       </div>
