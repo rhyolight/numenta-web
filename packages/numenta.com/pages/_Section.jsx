@@ -61,7 +61,7 @@ const SectionHome = (props, {config}) => {
             Business
           </DefineTitle>
           <DefineItem>
-            <TextLink to="/assets/pdf/apps/licensing-guide.pdf">
+            <TextLink to="/assets/pdf/license/licensing-guide.pdf">
               Licensing
             </TextLink>
           </DefineItem>

@@ -145,11 +145,11 @@ const SectionBusiness = (props, {config}) => {
                     Includes commercial rights to intellectual property and
                     use of the reference software
                     <br /><Strong>
-                      <TextLink to="/assets/pdf/apps/Validation-License.pdf">
+                      <TextLink to="/assets/pdf/license/Validation-License.pdf">
                       Validation License</TextLink></Strong> - no cost, 12
                       month term
                     <br /><Strong>
-                      <TextLink to="/assets/pdf/apps/Simple-License.pdf">
+                      <TextLink to="/assets/pdf/license/Simple-License.pdf">
                       Simple License</TextLink></Strong> - quarterly fee,
                       perpetual
                     <br /><Strong>Custom License</Strong> - contact us
@@ -159,7 +159,7 @@ const SectionBusiness = (props, {config}) => {
             </Table>
           </div>
           <Paragraph>If you have any questions about our licenses, review
-            our <TextLink to="/assets/pdf/apps/licensing-guide.pdf">License
+            our <TextLink to="/assets/pdf/license/licensing-guide.pdf">License
             Guide</TextLink>, visit our <TextLink to={links.in.licensingfaq}>FAQ
             page</TextLink>, or contact us
             at <TextLink to="mailto:licenses@numenta.com">
