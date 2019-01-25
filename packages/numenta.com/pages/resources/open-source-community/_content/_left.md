@@ -5,7 +5,7 @@ description: "Numenta has a strong, active open source community interested in b
 ---
 
 [business]: /machine-intelligence-technology/licensing-and-partners/
-[license]:  /assets/pdf/apps/licensing-guide.pdf
+[license]:  https://www.gnu.org/licenses/agpl-3.0.en.html
 [trial]:    http://numenta.org/licenses/trial/
 
 Because we want our technology to be broadly adopted, we make it widely
