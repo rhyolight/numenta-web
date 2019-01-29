@@ -22,4 +22,10 @@ type: post
 
 In this episode, Matt Taylor interviews Dr. Kording over Skype to discuss illusions of perception, how uncertainty might be represented in the brain, and more. A [video](https://youtu.be/RhZ7b_UBT4U) of their conversation is available on the HTM School YouTube channel.
 
+<center>
+
+**[Download the full transcript of the podcast here.](/assets/pdf/numenta-on-intelligence-podcast/NOI-Episode-8-Interview-with-a-Neuroscientist-Konrad-Kording-Part-1.pdf)**
+
+</center>
+
 <br>**Subscribe to Numenta On Intelligence:**  [iTunes](https://itunes.apple.com/us/podcast/numenta-on-intelligence/id1406940219), [Stitcher](https://www.stitcher.com/podcast/numenta-on-intelligence), [Google Play](https://play.google.com/music/listen?u=1#/ps/Iso5mnblc5aksx4k6etlz5243se), [Spotify](https://open.spotify.com/show/1vH1TuF6HR51D4rYAfF7aT?si=zqpeFHAKRc6H7s9fsabukg), [RSS](https://feeds.buzzsprout.com/188368.rss)
