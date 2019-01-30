@@ -28,7 +28,7 @@ Now imagine the same mug, but this time you grasp it with multiple fingers at th
 
 So, an individual column can recognize objects through movement (one finger touching the mug multiple times) or through long-range connections between columns that share information to agree on what the object is (grasping and looking at a mug). Here is a cartoon illustration showing the classic hierarchy and our proposed alternate model. Notice that we are not suggesting that the cortex is not organized as a hierarchy of regions; it is, and the hierarchy is important. But complete models of objects exist at each level of the hierarchy.
 
-![Classic Hierarchy View vs. Thousand Brains](../images/classic-view-vs-thousand-brains.jpg)
+![Classic Hierarchy View vs. Thousand Brains](../images/classic-vs-thousand-brains.png)
 
 #### Implications for AI
 
