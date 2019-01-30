@@ -5,7 +5,7 @@ date: 2019/01/16
 hideImage: true
 dropcap: false
 org: Jeff Hawkins & Christy Maver
-image: ../images/classic-view-vs-thousand-brains.jpg
+image: ../images/classic-vs-thousand-brains.png
 keywords: "thousand brains theory of intelligence"
 title: The Thousand Brains Theory of Intelligence
 header: The Thousand Brains Theory of Intelligence
