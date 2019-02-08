@@ -13,7 +13,7 @@ type: post
 
 Today’s machine learning technologies are limited compared to human intelligence.  At Numenta, we are one of the few teams developing large scale theories of the brain that are biologically constrained, testable, and implemented in software. The Research Group at Numenta is looking for an outstanding Machine Learning engineer or scientist to apply our neuroscience-based theories towards extending Machine Learning algorithms. As a successful candidate, you will have a deep understanding of traditional machine learning algorithms, and a belief that the best way to build truly intelligent machines is to leverage neuroscience-based principles.  
 
-You will work with a small collaborative team of researchers and engineers who are passionate a¬bout applying innovative new technologies to move machine intelligence to the next stage. We openly publish all our research, and our research code is available as open source on Github. Numenta is located on the San Francisco Peninsula in downtown Redwood City, a short walk from the Caltrain station. Onsite work is a requirement for this position.
+You will work with a small collaborative team of researchers and engineers who are passionate about applying innovative new technologies to move machine intelligence to the next stage. We openly publish all our research, and our research code is available as open source on Github. Numenta is located on the San Francisco Peninsula in downtown Redwood City, a short walk from the Caltrain station. Onsite work is a requirement for this position.
 
 ### Required Qualifications
 
