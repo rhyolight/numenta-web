@@ -96,8 +96,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="/press/2019/01/14/numenta-publishes-breakthrough-theory-for-intelligence-and-cortical-computation/">
-            New Paper Published in Frontiers in Neural Circuits
+            <TextLink to="/company/careers-and-team/careers/machine-learning-engineer/">
+            New Opening for a Machine Learning Engineer/Scientist
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
