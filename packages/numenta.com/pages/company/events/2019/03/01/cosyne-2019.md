@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: 'VP of Research Subutai Ahmad and Dr. Carmen Varela from MIT will be presenting a poster, "A Dendritic Mechanism for Dynamic Routing and Control in the Thalamus" at Cosyne 2019 in Lisbon, Portugal.'
+description: 'Numenta VP of Research Subutai Ahmad and Dr. Carmen Varela from MIT will be presenting a poster, "A Dendritic Mechanism for Dynamic Routing and Control in the Thalamus" at Cosyne 2019 in Lisbon, Portugal.'
 date: 2019/03/01
 event:
   what: "A Dendritic Mechanism for Dynamic Routing and Control in the Thalamus"
@@ -26,8 +26,6 @@ type: post
 The annual Cosyne meeting provides an inclusive forum for the exchange of experimental and theoretical/computational approaches to problems in systems neuroscience.
 
 ## Poster:
-
-<hr>
 
 **Title:** A Dendritic Mechanism for Dynamic Routing and Control in the Thalamus
 
