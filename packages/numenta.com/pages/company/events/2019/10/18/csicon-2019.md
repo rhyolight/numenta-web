@@ -27,5 +27,3 @@ dropcap: false
 ## Abstract:
 
 I lead a team of scientists focused on brain theory, specifically, how the neocortex works. In the past few years, we have made dramatic progress on this problem. In this talk, I will give an overview of what we have learned and propose how brain theory might impact the future of AI and robotics. I will end with a discussion of what can go wrong, how the brain can form false beliefs, and why it doesn’t always behave rationally.
-
-All of our work is published in open access peer-reviewed journals. You can find links to these and other resources at www.numenta.com.
