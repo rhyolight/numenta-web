@@ -1,6 +1,6 @@
 ---
-author: Numenta
-description: 'Numenta Co-founder Jeff Hawkins will be at CSICon 2019 '
+author: Jeff Hawkins
+description: 'Numenta Co-founder Jeff Hawkins will be at CSICon 2019 to give a talk, titled "How the Brain Learns a Model of the World and Why It Sometimes Gets It Wrong." CSICon is an annual skeptical conference hosted by the Committee for Skeptical Inquiry'
 date: 2019/10/18
 event:
   what: "How the Brain Learns a Model of the World and Why It Sometimes Gets It Wrong"
