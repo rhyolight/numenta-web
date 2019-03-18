@@ -7,7 +7,7 @@ link: https://doi.org/10.1101/578641
 hideImage: true
 image: ../images/flexible-representation-and-memory.jpg
 org: Preprint of journal submission
-sort: g
+sort: f
 title: "Flexible Representation and Memory of Higher-Dimensional Cognitive Variables with Grid Cells"
 type: link
 ---
