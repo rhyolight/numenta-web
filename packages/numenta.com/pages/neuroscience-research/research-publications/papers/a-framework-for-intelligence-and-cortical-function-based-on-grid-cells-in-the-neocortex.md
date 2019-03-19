@@ -16,7 +16,7 @@ type: post
 
 | | |
 |-|-|
-| **Authors** | Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, and Subutai Ahmad |
+| **Authors** | Jeff Hawkins, Marcus Lewis, Scott Purdy, Mirko Klukas, & Subutai Ahmad |
 | **Journal** | Frontiers in Neural Circuits 12, 121. `doi:10.3389/FNCIR.2018.00121` |
 | **Online** | [Read or Download this Paper][1] |
 | **Published** | January 11, 2019 |

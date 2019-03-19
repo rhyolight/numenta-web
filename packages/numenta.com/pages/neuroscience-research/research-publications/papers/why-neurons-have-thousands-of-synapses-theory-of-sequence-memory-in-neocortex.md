@@ -15,7 +15,7 @@ type: post
 
 | | |
 |-|-|
-| **Authors** | J. Hawkins and S. Ahmad |
+| **Authors** | J. Hawkins & S. Ahmad |
 | **Journal** | Frontiers in Neural Circuits, 10 (2016) 1–13, `doi:10.3389/fncir.2016.00023` |
 | **Online** | [Read or Download this Paper][1] |
 | **Published** | March 30, 2016 |
