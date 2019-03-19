@@ -2,7 +2,7 @@
 author: "Marcus Lewis, Scott Purdy, Subutai Ahmad, and Jeff Hawkins"
 description: "This paper explains how location signals can be generated with a location layer that utilizes grid-cell-like neurons. It builds on our previous paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 keywords: location signals in the neocortex
-category: neuroscience, sensorimotor
+category: neuroscience, sensorimotor, grid cells
 date: 2018/10/05
 hideImage: true
 image: ../images/network-diagram.svg
