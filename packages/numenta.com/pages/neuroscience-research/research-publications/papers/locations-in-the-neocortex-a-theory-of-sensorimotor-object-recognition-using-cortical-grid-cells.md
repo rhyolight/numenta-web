@@ -8,7 +8,7 @@ hideImage: true
 image: ../images/network-diagram.svg
 link: https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/abstract
 org: "Published in Frontiers in Neural Circuits Journal (Peer-reviewed)"
-sort: a
+sort: c
 title: "Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells"
 type: post
 
