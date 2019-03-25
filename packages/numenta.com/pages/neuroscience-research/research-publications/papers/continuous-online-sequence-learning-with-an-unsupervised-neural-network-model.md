@@ -16,7 +16,7 @@ type: post
 
 | | |
 |-|-|
-| **Authors** | Y. Cui, S. Ahmad, and J. Hawkins |
+| **Authors** | Y. Cui, S. Ahmad, & J. Hawkins |
 | **Journal** | Neural Computation 28, `2474–2504` (2016) |
 | **Online** | [Read or Download this Paper][1] |
 | **Published** | November 1, 2016 |

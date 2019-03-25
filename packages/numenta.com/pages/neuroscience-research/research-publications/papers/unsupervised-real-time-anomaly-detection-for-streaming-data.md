@@ -1,5 +1,5 @@
 ---
-author: "Subutai Ahmad, Alexander Lavin, Scott Purdy, Zuha Agha"
+author: "Subutai Ahmad, Alexander Lavin, Scott Purdy, & Zuha Agha"
 description: "This paper demonstrates how Numenta's online sequence memory algorithm, HTM, meets the requirements necessary for real-time anomaly detection in streaming data. It presents results using the Numenta Anomaly Benchmark (NAB), the first open-source benchmark designed for testing real-time anomaly detection algorithms."
 keywords: real-time anomaly detection
 category: machine-learning, anomaly-detection
@@ -15,7 +15,7 @@ type: post
 
 | | |
 |-|-|
-| **Authors** | S. Ahmad, A. Lavin, S. Purdy, and Z. Agha |
+| **Authors** | S. Ahmad, A. Lavin, S. Purdy, & Z. Agha |
 | **Journal** | Neurocomputing (2017) |
 | **Online** | [Read or Download this Paper][1] |
 | **Published** | June 2, 2017 |
