@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: "In March 2019, Jeff Hawkins and Subutai Ahmad gave a presentation at Microsoft Research about The Thousand Brains Theory of Intelligence and how it can be applied to AI to improve current techniques and move toward truly intelligent systems."
+description: "In February 2019, Jeff Hawkins and Subutai Ahmad gave a presentation at Microsoft Research about The Thousand Brains Theory of Intelligence and how it can be applied to AI to improve current techniques and move toward truly intelligent systems."
 date: 2019/02/21
 image: https://img.youtube.com/vi/5LFo36g4Lug/sddefault.jpg
 hideImage: true
@@ -15,7 +15,9 @@ title: "The Thousand Brains Theory: A Framework for Understanding the Neocortex 
 keywords: "Numenta Microsoft talk"
 type: post
 ---
-Recent advances in reverse engineering the neocortex reveal that it is a highly-distributed sensory-motor modeling system. Each cortical column learns complete models of observed objects through movement and sensation. The columns use long-range connections to vote on what objects are currently being observed. In this talk, we introduce the key elements of this theory and describe how these elements can be introduced into current machine learning techniques to improve their capabilities, robustness, and power requirements.
+On February 21, 2019, Jeff Hawkins and Subutai Ahmad gave a talk at Microsoft Research in Redmond, Washington about The Thousand Brains Theory of Intelligence and how it can be applied to AI to improve current techniques and move toward truly intelligent systems.
+
+Recent advances in reverse engineering the neocortex reveal that it is a highly-distributed sensory-motor modeling system. Each cortical column learns complete models of observed objects through movement and sensation. The columns use long-range connections to vote on what objects are currently being observed. In this talk, Jeff and Subutai introduce the key elements of this theory and describe how these elements can be introduced into current machine learning techniques to improve their capabilities, robustness, and power requirements.
 
 ## Video
 <iframe width="504" height="284" src="https://www.youtube.com/embed/5LFo36g4Lug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
