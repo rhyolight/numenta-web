@@ -1,13 +1,13 @@
 ---
-author: "Subutai Ahmad & Luiz Scheinkman"
-description: "The paper walks through our implementation of brain-like SDRs in practical systems as a proof of concept. We implemented a sparse layer that can be dropped into existing deep learning and convolutional networks. We then trained sparse networks with back propagation, validated them with popular datasets and tested their accuracy with noisy images and sounds."
+author: "Subutai Ahmad & Jeff Hawkins"
+description: "This paper describes a mathematical model for quantifying the benefits and limitations of sparse representations in neurons and cortical networks."
 category: neuroscience, sparse-distributed-representations
-date: 2019/03/27
-link: https://arxiv.org/abs/1903.11257
+date: 2016/01/05
+link: http://arxiv.org/abs/1601.00720
 hideImage: true
-image: ../images/sparsenet-layer.png
-org: Research Paper
+image: ../images/how-do-neurons-operate-on-sparse-distributed-representations.png
+org: Preprint of journal submission
 sort: g
-title: "How Can We Be So Dense? The Benefits of Using Highly Sparse Representations"
+title: "How Do Neurons Operate on Sparse Distributed Representations? A Mathematical Theory of Sparsity, Neurons and Active Dendrites"
 type: link
 ---
