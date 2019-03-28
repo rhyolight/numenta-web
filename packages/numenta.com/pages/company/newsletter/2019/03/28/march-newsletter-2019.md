@@ -1,13 +1,13 @@
 ---
 author: Christy Maver
-description: "We recently released a preprint of a new paper about the benefits of using highly sparse representations. Our co-founder Jeff Hawkins and VP of Research Subutai Ahmad gave a talk at Microsoft Research about the Thousand Brains Theory of Intelligence. This month, Subutai also presented a poster at Cosyne 2019 with MIT professor Carmen Varela. Two of our researchers, Mirko Klukas and Marcus Lewis, released a new paper on grid cells in collaboration with Ila Fiete of the Department of Brain and Cognitive Sciences at MIT."
+description: "We recently released a preprint of a new paper about the benefits of using highly sparse representations. Our co-founder Jeff Hawkins and VP of Research Subutai Ahmad gave a talk at Microsoft Research about applying the Thousand Brains Theory of Intelligence to practical machine learning systems. This month, Subutai also presented a poster at COSYNE 2019 with MIT professor Carmen Varela. Two of our researchers, Mirko Klukas and Marcus Lewis, released a new paper on grid cells in collaboration with Ila Fiete of the Department of Brain and Cognitive Sciences at MIT."
 date: 2019/03/28
 hideImage: false
 image: ../images/march2019.png
 org: VP of Marketing
 tags: numenta newsletter march 2019
-title: "New Sparsity Paper | Numenta News – January 2019"
-header: "New Sparsity Paper, Thousand Brains Theory Presentation at Microsoft & More"
+title: "New Paper on Sparsity | Numenta News – March 2019"
+header: "New Paper on Sparsity, Thousand Brains Theory Presentation at Microsoft & More"
 keywords: "Thousand Brains Theory Microsoft Research"
 type: post
 sound: https://soundcloud.com/numenta/march-2019-numenta-news
