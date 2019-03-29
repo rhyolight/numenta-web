@@ -13,7 +13,7 @@ header: "The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Dist
 keywords: "HTM Spatial Pooler"
 type: post
 ---
-
+ 
 | | |
 |-|-|
 | **Authors** | Y. Cui, S. Ahmad & J. Hawkins |

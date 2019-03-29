@@ -7,7 +7,7 @@ link: https://arxiv.org/abs/1903.11257
 hideImage: true
 image: ../images/sparsenet-layer.png
 org: Research Paper
-sort: g
+sort: f
 title: "How Can We Be So Dense? The Benefits of Using Highly Sparse Representations"
 type: link
 ---
