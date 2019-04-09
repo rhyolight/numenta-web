@@ -1,6 +1,6 @@
 ---
 author: Numenta
-description: In this episode, Matt Taylor chats with Numenta co-founder Jeff Hawkins, who shares his speculative thoughts about the thalamus and the role it plays in intelligence.
+description: In this episode, Matt Taylor chats with Numenta co-founder Jeff Hawkins, who shares his speculative thoughts about the thalamus and the role it plays in intelligence. This episode is the first of several where we'll be sharing casual conversations on a variety of topics with Jeff and our VP of Research, Subutai Ahmad.
 date: 2019/04/10
 image: ../images/episode-10-thalamus.png
 link: https://www.buzzsprout.com/188368/1027150-episode-10-conversation-with-jeff-hawkins-on-the-thalamus
