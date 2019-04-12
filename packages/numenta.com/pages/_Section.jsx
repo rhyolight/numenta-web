@@ -96,7 +96,7 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="https://www.washingtonpost.com/video/national/health-science/is-artificial-intelligence-intelligent-how-machine-learning-has-developed/2019/04/10/de018b2a-4c8a-44ee-ae42-c352a8097229_video.html?utm_term=.587ed9dd91ab">
+            <TextLink to="https://www.washingtonpost.com/science/2019/04/12/is-artificial-intelligence-intelligent-how-machine-learning-has-developed/?noredirect=on&utm_term=.e8d4c07fe99b">
             Is Artificial Intelligence, Intelligent? (Video)
               {' '} <Tag>New</Tag>
             </TextLink>
