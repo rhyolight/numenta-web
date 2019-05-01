@@ -3,7 +3,7 @@ author: "Marcus Lewis, Scott Purdy, Subutai Ahmad, & Jeff Hawkins"
 description: "This paper explains how location signals can be generated with a location layer that utilizes grid-cell-like neurons. It builds on our previous paper, A Theory of How Columns in the Neocortex Enable Learning the Structure of the World."
 keywords: location signals in the neocortex
 category: neuroscience, sensorimotor, grid cells
-date: 2019/03/19
+date: 2019/04/24
 hideImage: true
 image: ../images/network-diagram.svg
 link: https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/abstract
@@ -19,7 +19,7 @@ type: post
 | **Authors** | Marcus Lewis, Scott Purdy, Subutai Ahmad, & Jeff Hawkins|
 | **Journal** | Submitted |
 | **Online** | [Read or Download the Paper][1] |
-| **Published** | March 19, 2019 |
+| **Published** | April 24, 2019 |
 
 The neocortex aggregates information obtained via sensation and movement, but the underlying neural mechanisms are poorly understood. Our October 2017 paper, “[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/),” proposed that the cortex processes a sensorimotor sequence by converting it into a sequence of sensory features at object-centric locations. It then learns objects by learning sets of sensory features at locations. However that paper did not provide a neural mechanism for computing object-centric locations. This new paper provides such a neural mechanism. With this missing piece filled in, we present a neural network model that learns to recognize static objects, receiving only a sensorimotor sequence as input.
 
