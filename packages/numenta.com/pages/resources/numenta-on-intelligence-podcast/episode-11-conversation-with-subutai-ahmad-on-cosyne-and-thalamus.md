@@ -14,7 +14,7 @@ keywords: numenta, thalamus, Cosyne
 type: post
 ---
 
-<audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/1027150-episode-10-conversation-with-jeff-hawkins-on-the-thalamus.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
+<audio controls preload="metadata" style=" width:500px;"> <source src="https://www.buzzsprout.com/188368/1103237-episode-11-conversation-with-subutai-ahmad-on-cosyne.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>
 
 ## Show Notes
 
