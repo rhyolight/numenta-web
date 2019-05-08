@@ -24,7 +24,7 @@ Host Matt Taylor interviews Numenta VP Research Subutai Ahmad about his experien
 * Why Numenta attends
 * What Numenta presented
 
-Then Matt dives into the content Subutai presented at Cosyne and asks about
+Then Matt dives into the content Subutai presented at COSYNE and asks about
 
 * the difference between tonic and burst modes
 * how cells in the cortex control modes in the thalamus
