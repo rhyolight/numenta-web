@@ -1,5 +1,5 @@
 ---
-author: Matt Taylor
+author: Matthew Taylor
 description: 'Numenta Open Source Community Manager Matt Taylor will attend the 2019 Rework Applied AI Summit in San Francisco, CA.'
 date: 2019/06/20
 event:
