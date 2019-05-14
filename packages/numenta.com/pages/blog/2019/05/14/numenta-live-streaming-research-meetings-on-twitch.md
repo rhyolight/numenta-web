@@ -30,7 +30,7 @@ In software engineering, there is a concept called “pair programming”. It’
 ## The Value of Public Failure
 When you are watching a recording of someone online, unless it’s a blooper reel, you’re likely not going to see that person fail at the task they’re attempting. They will have recorded many takes of the scene and edited out anything embarrassing. But with a live-stream, you just can’t do this, ever, at all. The worst thing -- the scariest thing -- and the thing that will keep most people from live-streaming their work is the **fear of public failure**. This was hard for me to accept… that I **was** going to fail, without a safety net, live on the *internet*. It could happen at any time, in any project. It might be as simple as my ISP cutting my internet connection, or that I just cannot remember what I was just talking about and can you please excuse me while I mute the mic and have a nervous breakdown stage left?!
 
-![Does this guy even know](../images/bug-in-the-code.jpeg)
+![Does this guy even know](../images/bug-in-the-code.png)
 
 > *Figure 2: [Does this guy even know what he’s talking about?](https://www.google.com/url?q=https://www.twitch.tv/rhyolight_/clip/PlacidUnsightlyWalletPraiseIt&sa=D&ust=1557784247038000&usg=AFQjCNHfJ2PzAfFxBZiaQ-wGeVlBjJONtg)*
 
