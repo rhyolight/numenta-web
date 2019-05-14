@@ -61,9 +61,10 @@ Here is an example of my show schedule:
 ## A Window into Research at Numenta
 The last type of “show” I live-stream is the Numenta Research Meeting. These meetings have happened at Numenta for as long as I can remember, but I’ve never been in a position to make them public. I have been attending these meetings for a long time, and since I started streaming my work days on Twitch, I wondered what Jeff would think if I just started streaming my view of the research meetings. I knew that the HTM Forum audience would really appreciate having a way to keep up with the most recent theories, but I was wary of distracting the research team. So I talked to Jeff about acting like a buffer between the community and the research team. I would stream my view like I usually do on Twitch during these meetings. My audience could discuss the meetings in chat, but I would not generally interrupt the meetings with comments from viewers. After the meetings, we could [take the conversation to the forums](https://discourse.numenta.org/t/numenta-research-meeting-april-26-2019/5910).
 
-![Marcus(../images/numenta-research-meeting-on-twitch.png)
+![Marcus](../images/numenta-research-meeting-on-twitch.png)
 
 > *Figure 4: Marcus hopes no one notices he forgot to carry the 1.*
+
 We’ve been doing this [weekly since April](https://www.youtube.com/playlist?list=PL3yXMgtrZmDrFfx0llotN0P9ArB5VHUWB), and so far it has turned out great. I have noticed that some community members follow our work very closely, and this is a way for them to stay abreast of relevant topics and avenues forward. We at Numenta cannot see all the puzzle pieces at one time, so if others can help by researching other areas, we’ll be all the wiser.
 
 Making our research meetings open for public discussion is another way we strive for transparency in our work. We believe that understanding how intelligence works in the brain is important work, and making this research open to anyone is a way to preserve knowledge for the future of humanity.
