@@ -5,7 +5,7 @@ date: 2019/06/20
 event:
   what: "Rework Applied AI Summit 2019"
   when:
-    begin: 2019/06/20 18:!5 AM
+    begin: 2019/06/20 8:15 AM
     end: 2019/06/21 3:00 PM
   where:
     desc: "Hotel Nikko SF"
