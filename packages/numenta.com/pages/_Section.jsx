@@ -96,8 +96,8 @@ const SectionHome = (props, {config}) => {
           </DefineTitle>
           <DefineItem>
             {/* eslint-disable max-len */}
-            <TextLink to="/company/newsletter/2019/05/02/may-newsletter-2019/">
-            May Newsletter
+            <TextLink to=" https://www.reddit.com/r/askscience/comments/bowie2/askscience_ama_series_were_jeff_hawkins_and/">
+            Our AskScience AMA Series
               {' '} <Tag>New</Tag>
             </TextLink>
             {/* eslint-enable max-len */}
