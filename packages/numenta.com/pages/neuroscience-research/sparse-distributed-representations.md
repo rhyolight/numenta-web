@@ -49,6 +49,13 @@ Through active dendrites, a neural property that is a key underpinning of HTM th
 *	[SDR Capacity & Comparison (HTM School, Episode 2)](https://www.youtube.com/watch?v=ZDgCdWTuIzc)
 *	[SDR Overlap Sets and Subsampling (HTM School, Episode 3)](https://www.youtube.com/watch?v=vU2OZdgBXAQ)
 *	[SDR Sets & Unions (HTM School, Episode 4)](https://www.youtube.com/watch?v=8WIzIBaLXIs)
+* [Spatial Pooling: Input Space & Connections (HTM School, Episode 7)](https://www.youtube.com/watch?v=R5UoFNtv5AU)
+* [Spatial Pooling: Learning (HTM School Episode 8)](https://www.youtube.com/watch?v=rHvjykCIrZM)
+* [Boosting (HTM School, Episode 9)](https://www.youtube.com/watch?v=MSwoNAODrgk)
 
 ### Posters
 *	[Cosyne 2018: Sparse Distributed Representations](/neuroscience-research/research-publications/posters/cosyne-2018-sparse-distributed-representations/)
+
+### Representations
+* [HTM Spatial Pooler Presentation](https://www.youtube.com/watch?v=1r6GxDsEdd0)
+* [HTM Spatial Pooler Slide Deck](https://numenta.github.io/numenta-web/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf)
