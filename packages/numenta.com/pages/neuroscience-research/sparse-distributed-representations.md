@@ -56,6 +56,6 @@ Through active dendrites, a neural property that is a key underpinning of HTM th
 ### Posters
 *	[Cosyne 2018: Sparse Distributed Representations](/neuroscience-research/research-publications/posters/cosyne-2018-sparse-distributed-representations/)
 
-### Representations
+### Presentations
 * [HTM Spatial Pooler Presentation](https://www.youtube.com/watch?v=1r6GxDsEdd0)
 * [HTM Spatial Pooler Slide Deck](https://numenta.github.io/numenta-web/assets/pdf/spatial-pooling-algorithm/HTM-Spatial-Pooler-Overview.pdf)
