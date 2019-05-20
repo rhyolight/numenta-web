@@ -23,7 +23,7 @@ In this episode, Matt Taylor sits down with Jeff Hawkins to talk about intellige
 * [1:33] Evolution - a very good place to start
 * [9:30] Defining Intelligence - "The bottom line is that Intelligence is only as good as the model that you build."  
 * [13.30] Reference frames - "If you don’t have a general purpose reference frame, you cannot be smart."
-* [29:30] Reference frames applied to abstract things -
+* [29:30] Reference frames applied to abstract things
 * [41:00] Summary of the 3 components of intelligence
 
 
