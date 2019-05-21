@@ -1,7 +1,7 @@
 ---
 author: Numenta
 description: In this episode, Matt Taylor sits down once again with Numenta co-founder Jeff Hawkins to talk about how we define intelligence. This episode is also available in video format.  
-date: 2019/05/30
+date: 2019/05/22
 image: ../images/episode-12-defining-intelligence.jpg
 link: https://www.buzzsprout.com/188368/1131002-episode-12-conversation-with-jeff-hawkins-on-defining-intelligence
 media: podcast
