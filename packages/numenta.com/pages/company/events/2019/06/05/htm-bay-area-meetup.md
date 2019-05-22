@@ -15,7 +15,7 @@ event:
     web: https://www.meetup.com/numenta/events/261028169/
   who: Matt Taylor, Jeff Hawkins
   why: Speaking
-image: ../images/htm-bay-area-meetup.jpeg
+image: ../images/htm-bay-area-meetup.png
 org: Numenta
 keywords: "HTM Meetup"
 title: "Bay Area HTM Meetup"
