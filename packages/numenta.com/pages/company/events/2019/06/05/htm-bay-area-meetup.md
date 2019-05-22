@@ -5,8 +5,8 @@ date: 2019/06/05
 event:
   what: "Bay Area HTM Meetup"
   when:
-    begin: 2019/06/05 19:00 PM
-    end: 2019/06/05 20:30 PM
+    begin: 2019/06/05 7:00 PM
+    end: 2019/06/05 8:30 PM
   where:
     desc: "Numenta"
     city: Redwood City
