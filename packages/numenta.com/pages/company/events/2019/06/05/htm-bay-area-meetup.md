@@ -1,12 +1,12 @@
 ---
-author: Matt Taylor
+author: Matthew Taylor
 description: 'Numenta Community Manager Matt Taylor is hosting a meetup at Numenta HQ in Redwood City, CA.  RSVP to reserve your spot; meet the community, Numenta engineers and Numenta co-founders Jeff Hawkins and Donna Dubinsky. Matt and Jeff will speak and we will stream the event live on Twitch.'
 date: 2019/06/05
 event:
   what: "Bay Area HTM Meetup"
   when:
     begin: 2019/06/05 7:00 PM
-    end: 2019/06/05 8:30 PM
+    end: 2019/06/05 9:00 PM
   where:
     desc: "Numenta"
     city: Redwood City
