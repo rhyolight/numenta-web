@@ -246,6 +246,10 @@ class HtmStudioPage extends React.Component {
                     versions).
                   </ListItem>
                   <ListItem>
+                    Windows users may see a dialog pop up prior to
+                    installation. 
+                  </ListItem>
+                  <ListItem>
                     Installation on Windows will take several minutes.
                   </ListItem>
                   <ListItem>
