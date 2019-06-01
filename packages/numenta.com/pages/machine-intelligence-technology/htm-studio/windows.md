@@ -1,6 +1,12 @@
 ---
 title: HTM Studio - Troubleshooting Tips on Windows
+dropcap: false
 ---
+
+#### Dialog Popup Prior to Installation
+
+Depending on your security settings, you may see a dialog box prior to
+installation asking if you trust the developer.
 
 #### Installation Failure
 
