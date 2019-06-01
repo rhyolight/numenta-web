@@ -1,5 +1,6 @@
 ---
 title: HTM Studio - Troubleshooting Tips on Windows
+dropcap: false
 ---
 
 #### Dialog Popup Prior to Installation
