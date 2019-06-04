@@ -9,7 +9,7 @@ import Paragraph from 'numenta-web-shared-components/lib/Paragraph'
 import TextLink from 'numenta-web-shared-components/lib/TextLink'
 import Video from 'numenta-web-shared-components/lib/Video'
 
-import ImageTimeline from './images/timeline.png'
+import ImageTimeline from './images/timeline2.png'
 import ImageVideoStory from './images/video-ourstory.png'
 import styles from './index.css'
 
