@@ -1,6 +1,6 @@
 ---
 author: Lucas Souza
-description: "Numenta Research Staff Member Lucas Souza attended ICML 2019 with VP Research Subutai Ahmad.  In this blog post, he shares the highlights and key takeaways of this year's conference and relects on the major themes related to our current machine learning research."
+description: "Numenta Research Staff Member Lucas Souza attended ICML 2019 with VP Research Subutai Ahmad.  In this blog post, he shares the highlights and key takeaways of this year's conference and reflects on the major themes related to our current machine learning research."
 date: 2019/06/20
 hideImage: true
 dropcap: false
