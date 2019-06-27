@@ -6,7 +6,7 @@ hideImage: false
 image: ../images/june2019.png
 org: VP of Marketing
 tags: numenta newsletter june 2019
-title: "Highlights from Recent AI and ML Events, Live-streaming Research Meetings, and More | Numenta News – May 2019"
+title: "Highlights from Recent AI and ML Events, Live-streaming Research Meetings, and More | Numenta News – June 2019"
 header: "Highlights from Recent AI and ML Events, Live-streaming Research Meetings, and More "
 keywords: "machine learning algorithms"
 type: post
