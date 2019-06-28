@@ -32,7 +32,7 @@ Subutai gave a talk based on a [paper we released earlier this year](https://arx
 An interesting dataset, called [ImageNet-P](https://arxiv.org/abs/1903.12261), was recently released by Hendrycks and Dietterich at ICLR. It features images augmented with 15 types of algorithmically generated corruptions, aimed at mimicking noisy data often found in real-world scenarios. An MNIST version of this dataset, called [MNIST-C](https://arxiv.org/abs/1906.02337), was presented in ICML uncertainty and robustness workshop.
 
 ## Continuous Learning
-Natalia Dias-Rodriguez, representing [ContinualAI](https://www.continualai.org/), gave an interesting talk of the challenges in continuous learning. I’m glad to hear they are working on a survey of continuous learning, to be released in about 2 weeks on arXiv. I’m excited to read it! Marta White, from the University of Alberta, also presented some fascinating research on continuous learning and [sparse representations](https://arxiv.org/abs/1811.06626).
+Natalia Dias-Rodriguez, representing [ContinualAI](https://www.continualai.org/), gave an interesting talk of the [challenges in continuous learning](https://slideslive.com/38917211/continual-learning-and-robotics-an-overview). I’m glad to hear they are working on a survey of continuous learning, to be released in about 2 weeks on arXiv. I’m excited to read it! Marta White, from the University of Alberta, also presented some fascinating research on continuous learning and [sparse representations](https://arxiv.org/abs/1811.06626).
 
 There were many other promising talks and posters on continuous learning, including a full-day workshop on lifelong learning and another on multitask learning. It was great to see the latest papers by the Berkeley group on [unsupervised meta-learning](https://arxiv.org/abs/1810.02334) and [reinforcement learning without explicit reward functions](https://arxiv.org/abs/1904.07854).
 
@@ -56,7 +56,7 @@ Zeroing out weights or activations is a common strategy during training (dropout
 
 A recent paper that captured my interest is [Sparse Evolutionary Training (SET)](https://arxiv.org/abs/1707.04780). In the SET model, the initial weights are sparsely distributed at around a 4% sparsity level. Connections are pruned during training, based on magnitude, and an equal number of random connections are reinitialized, promoting a structure search during training.
 
-Two follow-up papers on SET were presented at ICML. The idea of dynamic sparse reparametrization is further explored in [Mostafa and Wang](https://arxiv.org/abs/1902.05967), with an improved heuristic that reallocates more connections to layers with higher training loss as opposed to random reallocation. The SET authors also present a follow-up work that proposes pruning all incoming and outgoing connections of a neuron, showing improved results (to be published).
+Two follow-up papers on SET were presented at ICML. The idea of dynamic sparse reparametrization is further explored in [Mostafa and Wang](https://arxiv.org/abs/1902.05967), with an improved heuristic that reallocates more connections to layers with higher training loss as opposed to random reallocation. The SET authors also present a [follow-up work](https://arxiv.org/abs/1906.11626) that proposes pruning all incoming and outgoing connections of a neuron, showing improved results (to be published).
 
 ![posters-ICML](../images/posters-icml.png)
 
