@@ -545,6 +545,7 @@ const SchoolPage = (props, {config}) => {
         <SubTitle level={3}>
           More Spatial Pooling Resources
         </SubTitle>
+        {/* eslint-disable max-len */}
         <List marker="disc">
 					<ListItem>
 						<TextLink
@@ -575,7 +576,7 @@ const SchoolPage = (props, {config}) => {
             </TextLink>
           </ListItem>
         </List>
-
+        {/* eslint-enable max-len */}
 
         <Anchor name="temporal-memory" />
         <SubTitle>
@@ -654,6 +655,7 @@ const SchoolPage = (props, {config}) => {
         <SubTitle level={3}>
           More Temporal Memory Resources
         </SubTitle>
+        {/* eslint-disable max-len */}
         <List marker="disc">
 					<ListItem>
 						<TextLink
@@ -677,6 +679,7 @@ const SchoolPage = (props, {config}) => {
             </TextLink>
           </ListItem>
         </List>
+        {/* eslint-enable max-len */}
 
         <Anchor name="cortical-circuitry" />
         <SubTitle>
@@ -714,6 +717,7 @@ const SchoolPage = (props, {config}) => {
         <SubTitle level={3}>
           More Cortical Column Resources
         </SubTitle>
+        {/* eslint-disable max-len */}
         <List marker="disc">
 					<ListItem>
 						<TextLink
@@ -730,6 +734,7 @@ const SchoolPage = (props, {config}) => {
             </TextLink>
           </ListItem>
         </List>
+        {/* eslint-enable max-len */}
 
         <Anchor name="grid-cells" />
         <SubTitle>
@@ -762,6 +767,7 @@ const SchoolPage = (props, {config}) => {
         <SubTitle level={3}>
           More Grid Cell Resources
         </SubTitle>
+        {/* eslint-disable max-len */}
         <List marker="disc">
           <ListItem>
             <TextLink
@@ -778,6 +784,7 @@ const SchoolPage = (props, {config}) => {
 						</TextLink>
 					</ListItem>
         </List>
+        {/* eslint-enable max-len */}
 
         <Anchor name="framework-intelligence" />
         <SubTitle>
@@ -810,6 +817,7 @@ const SchoolPage = (props, {config}) => {
         <SubTitle level={3}>
           More Framework Resources
         </SubTitle>
+        {/* eslint-disable max-len */}
         <List marker="disc">
 					<ListItem>
 						<TextLink
@@ -826,7 +834,7 @@ const SchoolPage = (props, {config}) => {
 						</TextLink>
 					</ListItem>
         </List>
-
+        {/* eslint-enable max-len */}
 
       </Section>
 
