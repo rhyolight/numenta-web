@@ -546,6 +546,20 @@ const SchoolPage = (props, {config}) => {
           More Spatial Pooling Resources
         </SubTitle>
         <List marker="disc">
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/"
+						>
+							The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Distributed Coding
+						</TextLink>
+					</ListItem>
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/"
+						>
+							Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex
+						</TextLink>
+					</ListItem>
           <ListItem>
             <TextLink
               to="https://discourse.numenta.org/search?q=spatial+pooling"
@@ -641,6 +655,13 @@ const SchoolPage = (props, {config}) => {
           More Temporal Memory Resources
         </SubTitle>
         <List marker="disc">
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/"
+						>
+							Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex
+						</TextLink>
+					</ListItem>
           <ListItem>
             <TextLink
               to="https://discourse.numenta.org/search?q=temporal+memory"
@@ -689,6 +710,27 @@ const SchoolPage = (props, {config}) => {
           </div>
         </div>
 
+				<Anchor name="more-cc-resources" />
+        <SubTitle level={3}>
+          More Cortical Column Resources
+        </SubTitle>
+        <List marker="disc">
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/"
+						>
+							A Theory of How Columns in the Neocortex Enable Learning the Structure of the World
+						</TextLink>
+					</ListItem>
+          <ListItem>
+            <TextLink
+              to="https://numenta.com/neuroscience-research/research-publications/papers/locations-in-the-neocortex-a-theory-of-sensorimotor-object-recognition-using-cortical-grid-cells/"
+            >
+              Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells
+            </TextLink>
+          </ListItem>
+        </List>
+
         <Anchor name="grid-cells" />
         <SubTitle>
           Grid Cells
@@ -716,6 +758,27 @@ const SchoolPage = (props, {config}) => {
           </div>
         </div>
 
+				<Anchor name="more-grid-cell-resources" />
+        <SubTitle level={3}>
+          More Grid Cell Resources
+        </SubTitle>
+        <List marker="disc">
+          <ListItem>
+            <TextLink
+              to="https://numenta.com/neuroscience-research/research-publications/papers/locations-in-the-neocortex-a-theory-of-sensorimotor-object-recognition-using-cortical-grid-cells/"
+            >
+              Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells
+            </TextLink>
+          </ListItem>
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/"
+						>
+							A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex
+						</TextLink>
+					</ListItem>
+        </List>
+
         <Anchor name="framework-intelligence" />
         <SubTitle>
           A Framework for Intelligence
@@ -742,6 +805,27 @@ const SchoolPage = (props, {config}) => {
             </Paragraph>
           </div>
         </div>
+
+				<Anchor name="more-framework-resources" />
+        <SubTitle level={3}>
+          More Framework Resources
+        </SubTitle>
+        <List marker="disc">
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/"
+						>
+							A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex
+						</TextLink>
+					</ListItem>
+					<ListItem>
+						<TextLink
+							to="https://numenta.com/neuroscience-research/research-publications/papers/thousand-brains-theory-of-intelligence-companion-paper/"
+						>
+							Companion paper to A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex
+						</TextLink>
+					</ListItem>
+        </List>
 
 
       </Section>
