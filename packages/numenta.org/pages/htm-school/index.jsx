@@ -563,6 +563,20 @@ const SchoolPage = (props, {config}) => {
           </ListItem>
           <ListItem>
             <TextLink
+              to="https://numenta.com/neuroscience-research/research-publications/papers/htm-spatial-pooler-neocortical-algorithm-for-online-sparse-distributed-coding/"
+            >
+              The HTM Spatial Pooler—A Neocortical Algorithm for Online Sparse Distributed Coding
+            </TextLink>
+          </ListItem>
+          <ListItem>
+            <TextLink
+              to="https://numenta.com/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/"
+            >
+              Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex
+            </TextLink>
+          </ListItem>
+          <ListItem>
+            <TextLink
               to="https://discourse.numenta.org/search?q=spatial+pooling"
             >
               Spatial Pooling Forum Discussions
@@ -657,6 +671,13 @@ const SchoolPage = (props, {config}) => {
         </SubTitle>
         {/* eslint-disable max-len */}
         <List marker="disc">
+          <ListItem>
+            <TextLink
+              to="https://numenta.com/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/"
+            >
+              Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex
+            </TextLink>
+          </ListItem>
           <ListItem>
             <TextLink
               to="https://numenta.com/neuroscience-research/research-publications/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/"
