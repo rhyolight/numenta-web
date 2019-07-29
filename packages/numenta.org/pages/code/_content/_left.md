@@ -4,7 +4,7 @@
 [community]:  https://github.com/htm-community
 [forum]:      https://discourse.numenta.org/categories
 [github]:     https://github.com/numenta
-[hack]:       https://discourse.numenta.org/c/htm-hackers
+[hack]:       https://discourse.numenta.org/c/engineering
 [implements]: /implementations/
 [research]:   https://github.com/numenta/nupic.research
 
@@ -18,5 +18,5 @@ Clojure, Go, and JavaScript.
 
 We are always looking for community members that can help others build out HTM
 applications and experiments. If you are interested in helping or providing
-consulting services, please leave us a note on the [HTM Hackers Forum][hack] and
+consulting services, please leave us a note on the [HTM Engineering Forum][hack] and
 introduce yourself.
